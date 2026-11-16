@@ -1,0 +1,19 @@
+id: cm-000014
+area: executive-and-client-communication
+kind: practice
+topic: Words of estimative probability
+topic_type: Technique
+true_statement: When you use a likelihood word in a client update, put its numeric range in brackets right after it, as in "likely (55-80%)", rather than in a key at the end.
+false_statement: When you use a likelihood word in a client update, put the numeric ranges in a key at the end, rather than in brackets right after the word.
+explanation: In the 2019 Wintle experiment, in-text brackets were the only format that substantially improved agreement; linked tables and tooltips helped little, partly because only about half of readers looked at them.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/words-of-estimative-probability.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: da6b59d435dcdd5f823e9d6626630a7377626993
+concepts:
+- cm:words-of-estimative-probability
+- cm:wintle-et-al-2019
+difficulty: 2
+created: '2026-11-16'
+status: active

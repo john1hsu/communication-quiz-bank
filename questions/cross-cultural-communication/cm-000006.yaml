@@ -1,0 +1,19 @@
+id: cm-000006
+area: cross-cultural-communication
+kind: evidence
+topic: Direct vs. indirect feedback
+topic_type: Concept
+true_statement: Sanchez-Burks and colleagues found Americans became less indirect at work than in social settings, while East Asian participants did not shift that way.
+false_statement: Sanchez-Burks and colleagues found East Asian participants became less indirect at work than in social settings, while Americans did not shift that way.
+explanation: The work-versus-social drop in indirectness appeared for Americans, not for Korean and Chinese participants, suggesting a cultural schema switched on by the workplace rather than a fixed national trait.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/direct-vs-indirect-feedback.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: f6cc710e46ad81111ed4bbd1d7e466d8a12e20e1
+concepts:
+- cm:direct-vs-indirect-feedback
+- cm:sanchez-burks-et-al-2003
+difficulty: 3
+created: '2026-11-16'
+status: active

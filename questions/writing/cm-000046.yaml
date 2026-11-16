@@ -1,0 +1,19 @@
+id: cm-000046
+area: writing
+kind: scenario
+topic: Active voice
+topic_type: Technique
+true_statement: A release note reads, "The team shipped the fix last night." An editor flags it as passive because it describes the past, but the sentence is already in active voice.
+false_statement: A release note reads, "The team shipped the fix last night." An editor flags it as passive because it describes the past, and the sentence should be rewritten into active voice.
+explanation: The doer, the team, is the subject, so the sentence is active; past tense is a separate question from voice. A passive would look like "The fix was shipped", a form of "to be" plus a past participle.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/active-voice.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: eee9f2e7d62a38ae20071b1e0aa1b7a65fa70280
+concepts:
+- cm:active-voice
+- cm:passive-voice
+difficulty: 2
+created: '2026-11-16'
+status: active

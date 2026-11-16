@@ -1,0 +1,19 @@
+id: cm-000037
+area: presenting-and-public-speaking
+kind: scenario
+topic: Anxiety reappraisal
+topic_type: Technique
+true_statement: Hands shaking before her first leadership briefing, an analyst tells herself, "My heart's racing because this matters; I'm excited to get the forecast approved." That is anxiety reappraisal.
+false_statement: Hands shaking before her first leadership briefing, an analyst tells herself, "My heart's racing because this matters; I'm excited to get the forecast approved." That is a relaxation technique for lowering her arousal.
+explanation: She accepts the arousal and relabels it as excitement aimed at an opportunity, rather than trying to calm down. Reappraisal changes what the jitters mean; it doesn't try to switch them off.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/anxiety-reappraisal.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: a69ee6ee855561cbe4055f42c960635e9caf4c2e
+concepts:
+- cm:anxiety-reappraisal
+- cm:speaking-anxiety
+difficulty: 1
+created: '2026-11-16'
+status: active

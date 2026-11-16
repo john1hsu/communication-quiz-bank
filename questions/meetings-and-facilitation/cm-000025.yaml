@@ -1,0 +1,18 @@
+id: cm-000025
+area: meetings-and-facilitation
+kind: scenario
+topic: Psychological safety
+topic_type: Phenomenon
+true_statement: A project lead opens a status meeting with "We're on track, right?", gets nods, and hears about an integration slip afterwards in the corridor. That points to low psychological safety in the meeting.
+false_statement: A project lead opens a status meeting with "We're on track, right?", gets nods, and hears about an integration slip afterwards in the corridor. That points to high psychological safety, since no one disagreed.
+explanation: 'Real discussion happening in the hallway rather than the room is a classic low-safety sign: people judged that raising bad news in front of the group was risky. Silence in the meeting isn''t agreement.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/psychological-safety.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 2588a4ea58c248c9e020f9ccf4c6e3d61ad1af27
+concepts:
+- cm:psychological-safety
+difficulty: 2
+created: '2026-11-16'
+status: active

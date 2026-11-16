@@ -1,0 +1,18 @@
+id: cm-000027
+area: meetings-and-facilitation
+kind: definition
+topic: Psychological safety
+topic_type: Phenomenon
+true_statement: Psychological safety means people can admit mistakes and challenge each other without being punished; it doesn't mean being comfortable or free of accountability.
+false_statement: Psychological safety means keeping meetings comfortable and shielding people from accountability for poor work.
+explanation: It is about candour, and productive disagreement can feel uncomfortable even in a safe team. Leaders can still decline proposals and address poor work while keeping it safe to speak up.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/psychological-safety.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 2588a4ea58c248c9e020f9ccf4c6e3d61ad1af27
+concepts:
+- cm:psychological-safety
+difficulty: 1
+created: '2026-11-16'
+status: active

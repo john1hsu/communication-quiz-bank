@@ -1,0 +1,19 @@
+id: cm-000017
+area: feedback-and-coaching
+kind: practice
+topic: Situation-Behavior-Impact
+topic_type: Technique
+true_statement: When SBI feedback is meant to change a behaviour, ask what the person was aiming for and listen before suggesting any fix.
+false_statement: When SBI feedback is meant to change a behaviour, give your fix straight after the impact and ask about intent only if they push back.
+explanation: The intent question turns feedback into a two-way coaching conversation and guards against treating a bad impact as a bad motive. Leading with the fix skips the listening the technique depends on.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/situation-behavior-impact.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 0871c39848bac6ff06f6c17b0b3fc572e269e6f4
+concepts:
+- cm:situation-behavior-impact
+- cm:active-listening
+difficulty: 2
+created: '2026-11-16'
+status: active

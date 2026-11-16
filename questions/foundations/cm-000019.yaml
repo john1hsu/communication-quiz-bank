@@ -1,0 +1,18 @@
+id: cm-000019
+area: foundations
+kind: scenario
+topic: Audience analysis
+topic_type: Technique
+true_statement: An analyst emails a VP who must approve a forecast, copying finance, and opens with the formula changes in tab 3. The email was written for the secondary technical readers, not the primary reader who must act.
+false_statement: An analyst emails a VP who must approve a forecast, copying finance, and opens with the formula changes in tab 3. The email was written for the primary reader who must act, as audience analysis advises.
+explanation: Audience analysis starts with the person who must decide and leads with what matters to them, here the approval and its impact. Formula detail belongs in a separate section for the technical readers.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/audience-analysis.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: ef32c88f93eb44bebefda413eb1d4f575711286f
+concepts:
+- cm:audience-analysis
+difficulty: 2
+created: '2026-11-16'
+status: active

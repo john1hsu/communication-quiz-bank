@@ -1,0 +1,18 @@
+id: cm-000013
+area: executive-and-client-communication
+kind: scenario
+topic: Words of estimative probability
+topic_type: Technique
+true_statement: 'A risk update reads: "We judge it very likely (80-95%) the launch slips, and we have moderate confidence in that." Under ICD 203 practice, that sentence should be split, because it mixes likelihood and confidence.'
+false_statement: 'A risk update reads: "We judge it very likely (80-95%) the launch slips, and we have moderate confidence in that." Under ICD 203 practice, that sentence is ideal, because it pairs likelihood and confidence.'
+explanation: Likelihood is how probable the event is; confidence is how solid the evidence is. ICD 203 requires that confidence never share a sentence with a likelihood term, so readers don't blur the two.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/words-of-estimative-probability.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: da6b59d435dcdd5f823e9d6626630a7377626993
+concepts:
+- cm:words-of-estimative-probability
+difficulty: 3
+created: '2026-11-16'
+status: active

@@ -1,0 +1,20 @@
+id: cm-000030
+area: negotiation
+kind: evidence
+topic: BATNA
+topic_type: Technique
+true_statement: Schaerer, Swaab and Galinsky found that sellers with a weak alternative felt more powerful than sellers with none, yet made lower first offers and reached less profitable deals.
+false_statement: Schaerer, Swaab and Galinsky found that sellers with a weak alternative felt more powerful than sellers with none, and made higher first offers and reached more profitable deals.
+explanation: The weak alternative acted as a low anchor on the opening ask. That's why a weak BATNA should set your walk-away point, while your first offer is anchored on your goal.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/batna.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 31d54ec4e42cf11c898bed42634e165aa2cec7b3
+concepts:
+- cm:batna
+- cm:schaerer-swaab-galinsky-2015
+- cm:first-offer
+difficulty: 3
+created: '2026-11-16'
+status: active

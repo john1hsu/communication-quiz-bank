@@ -1,0 +1,19 @@
+id: cm-000031
+area: nonverbal-and-voice
+kind: scenario
+topic: Mehrabian's 7-38-55 rule
+topic_type: Concept
+true_statement: A presentation coach tells a team their slide content barely matters because 93% of communication is nonverbal. That stretches Mehrabian's studies, which measured judgments of liking from conflicting cues in single-word tasks.
+false_statement: A presentation coach tells a team their slide content barely matters because 93% of communication is nonverbal. That follows Mehrabian's studies, which measured how much meaning words carry in work briefings.
+explanation: The 7-38-55 split came from two narrow 1967 lab studies of liking, with the verbal channel nearly empty by design. Mehrabian says it doesn't apply to communication in general; in briefings, words carry most of the information.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/mehrabian-myth.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 39d0ecd3778f9796bbe0358b9832ea877219f46e
+concepts:
+- cm:mehrabian-myth
+- cm:albert-mehrabian
+difficulty: 2
+created: '2026-11-16'
+status: active

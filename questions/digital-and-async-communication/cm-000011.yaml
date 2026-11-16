@@ -1,0 +1,18 @@
+id: cm-000011
+area: digital-and-async-communication
+kind: practice
+topic: Channel selection
+topic_type: Technique
+true_statement: After settling a contested decision on a call, send a same-day written recap of the decision, owners and dates.
+false_statement: After settling a contested decision on a call, book a second call to confirm the decision, owners and dates instead of writing them down.
+explanation: Live talk is good for reaching agreement but leaves nothing to reread. Mixing channels (facts in writing, discussion live, recap in writing) locks in the shared understanding; another call still leaves no record.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/channel-selection.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: f5c1a7552f22cb53b63bacaa89f6736cf87dbc25
+concepts:
+- cm:channel-selection
+difficulty: 1
+created: '2026-11-16'
+status: active

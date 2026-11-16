@@ -1,0 +1,18 @@
+id: cm-000004
+area: cross-cultural-communication
+kind: scenario
+topic: Direct vs. indirect feedback
+topic_type: Concept
+true_statement: A manager tells a colleague from a blunter culture that a report is "perhaps not quite there yet", and the colleague sends it unchanged. The manager's phrase was a downgrader, softening a serious problem into what sounded like a suggestion.
+false_statement: A manager tells a colleague from a blunter culture that a report is "perhaps not quite there yet", and the colleague sends it unchanged. The manager's phrase was an upgrader, sharpening the criticism so it sounded harsher than meant.
+explanation: Words like "perhaps" and understatement such as "not quite there" are downgraders that cushion criticism. Decoded in a direct style, the warning was heard as optional; upgraders are intensifiers like "totally" or "absolutely".
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/direct-vs-indirect-feedback.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: f6cc710e46ad81111ed4bbd1d7e466d8a12e20e1
+concepts:
+- cm:direct-vs-indirect-feedback
+difficulty: 2
+created: '2026-11-16'
+status: active

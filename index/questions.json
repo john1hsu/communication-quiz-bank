@@ -1,0 +1,764 @@
+{
+ "version": 1,
+ "count": 48,
+ "active": 48,
+ "questions": [
+  {
+   "id": "cm-000001",
+   "area": "barriers-and-psychology",
+   "kind": "scenario",
+   "topic": "Curse of knowledge",
+   "t": "An engineer rereads her handover note, judges it perfectly clear and sends it; the new hire replies asking what \"the Q-pipeline\" is and where to start. Her self-check failed because of the curse of knowledge.",
+   "f": "An engineer rereads her handover note, judges it perfectly clear and sends it; the new hire replies asking what \"the Q-pipeline\" is and where to start. Her self-check failed because of information overload.",
+   "x": "The tell is internal shorthand plus a clarity check done by rereading it herself, the very judgment the curse of knowledge distorts. The note isn't too long; it is missing background she can no longer imagine lacking.",
+   "concepts": [
+    "cm:curse-of-knowledge",
+    "cm:clarity"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/curse-of-knowledge.html"
+  },
+  {
+   "id": "cm-000002",
+   "area": "barriers-and-psychology",
+   "kind": "practice",
+   "topic": "Curse of knowledge",
+   "t": "To catch the curse of knowledge in a draft, ask a few people from the target audience to explain a section in their own words, and revise wherever they misread it.",
+   "f": "To catch the curse of knowledge in a draft, ask a few people from the target audience \"Is this clear?\", and revise wherever they say no.",
+   "x": "Readers can say a text is clear and still misread it, so a yes/no question gives you no real signal. A paraphrase test, recorded without correcting them, shows exactly where your missing context trips them up.",
+   "concepts": [
+    "cm:curse-of-knowledge"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/curse-of-knowledge.html"
+  },
+  {
+   "id": "cm-000003",
+   "area": "barriers-and-psychology",
+   "kind": "evidence",
+   "topic": "Curse of knowledge",
+   "t": "In seven large-sample experiments, Ryskin and Brown-Schmidt estimated the adult false-belief curse-of-knowledge effect at less than half its originally reported size.",
+   "f": "In seven large-sample experiments, Ryskin and Brown-Schmidt estimated the adult false-belief curse-of-knowledge effect at more than twice its originally reported size.",
+   "x": "Their high-powered re-estimate shrank the effect, which is why the evidence is rated mixed: the direction is consistent, but early estimates were inflated and real-world size is uncertain.",
+   "concepts": [
+    "cm:curse-of-knowledge",
+    "cm:ryskin-brown-schmidt-2014"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/curse-of-knowledge.html"
+  },
+  {
+   "id": "cm-000004",
+   "area": "cross-cultural-communication",
+   "kind": "scenario",
+   "topic": "Direct vs. indirect feedback",
+   "t": "A manager tells a colleague from a blunter culture that a report is \"perhaps not quite there yet\", and the colleague sends it unchanged. The manager's phrase was a downgrader, softening a serious problem into what sounded like a suggestion.",
+   "f": "A manager tells a colleague from a blunter culture that a report is \"perhaps not quite there yet\", and the colleague sends it unchanged. The manager's phrase was an upgrader, sharpening the criticism so it sounded harsher than meant.",
+   "x": "Words like \"perhaps\" and understatement such as \"not quite there\" are downgraders that cushion criticism. Decoded in a direct style, the warning was heard as optional; upgraders are intensifiers like \"totally\" or \"absolutely\".",
+   "concepts": [
+    "cm:direct-vs-indirect-feedback"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/direct-vs-indirect-feedback.html"
+  },
+  {
+   "id": "cm-000005",
+   "area": "cross-cultural-communication",
+   "kind": "practice",
+   "topic": "Direct vs. indirect feedback",
+   "t": "After giving criticism across a directness gap, ask the person what they will do differently; an answer smaller or bigger than the problem shows your message was decoded in the other style.",
+   "f": "After giving criticism across a directness gap, ask the person whether you came across as polite; a yes shows your message was decoded the way you meant it.",
+   "x": "Politeness tells you how the delivery felt, not what was understood. Asking about their next step tests whether the size of the problem landed, which is where style mismatches go wrong.",
+   "concepts": [
+    "cm:direct-vs-indirect-feedback"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/direct-vs-indirect-feedback.html"
+  },
+  {
+   "id": "cm-000006",
+   "area": "cross-cultural-communication",
+   "kind": "evidence",
+   "topic": "Direct vs. indirect feedback",
+   "t": "Sanchez-Burks and colleagues found Americans became less indirect at work than in social settings, while East Asian participants did not shift that way.",
+   "f": "Sanchez-Burks and colleagues found East Asian participants became less indirect at work than in social settings, while Americans did not shift that way.",
+   "x": "The work-versus-social drop in indirectness appeared for Americans, not for Korean and Chinese participants, suggesting a cultural schema switched on by the workplace rather than a fixed national trait.",
+   "concepts": [
+    "cm:direct-vs-indirect-feedback",
+    "cm:sanchez-burks-et-al-2003"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/direct-vs-indirect-feedback.html"
+  },
+  {
+   "id": "cm-000007",
+   "area": "difficult-conversations-and-conflict",
+   "kind": "scenario",
+   "topic": "I-statements",
+   "t": "Upset about a missed deadline, a project lead tells a colleague, \"I feel that you don't respect my time.\" That is a disguised accusation, not a real I-statement.",
+   "f": "Upset about a missed deadline, a project lead tells a colleague, \"I feel that you don't respect my time.\" That is a well-formed I-statement, because it opens with \"I feel\".",
+   "x": "\"I feel that you...\" puts a verdict about the other person's motives behind an I. A real I-statement names an observable behaviour, its concrete effect and an actual emotion such as worry or frustration.",
+   "concepts": [
+    "cm:i-statements",
+    "cm:accusatory-you-statements"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/i-statements.html"
+  },
+  {
+   "id": "cm-000008",
+   "area": "difficult-conversations-and-conflict",
+   "kind": "practice",
+   "topic": "I-statements",
+   "t": "After delivering an I-statement, stop and listen, reflect back the other person's reaction, and send a clearer second I-statement only if the first was misunderstood.",
+   "f": "After delivering an I-statement, repeat it more firmly each time the other person pushes back, until they agree to change the behaviour.",
+   "x": "Some defensiveness is expected, and Gordon paired I-messages with active listening so the speaker shifts to listening once the other person reacts. Restating louder turns the exchange back into a contest.",
+   "concepts": [
+    "cm:i-statements",
+    "cm:active-listening"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/i-statements.html"
+  },
+  {
+   "id": "cm-000009",
+   "area": "difficult-conversations-and-conflict",
+   "kind": "evidence",
+   "topic": "I-statements",
+   "t": "Korobov's analysis of couples' everyday arguments found I-language on its own rarely de-escalated them; showing awareness of the partner's feelings helped more.",
+   "f": "Korobov's analysis of couples' everyday arguments found I-language on its own reliably de-escalated them, whatever else the speaker said.",
+   "x": "In naturally occurring arguments the pronoun alone did little; what helped was visible awareness of the other person's feelings or the relationship. That's why the technique's evidence is rated mixed.",
+   "concepts": [
+    "cm:i-statements",
+    "cm:korobov-2020"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/i-statements.html"
+  },
+  {
+   "id": "cm-000010",
+   "area": "digital-and-async-communication",
+   "kind": "scenario",
+   "topic": "Channel selection",
+   "t": "A team lead starts a long email thread to get four managers to agree how to split a disputed budget. Media synchronicity theory would call this a convergence job, better served by a live discussion.",
+   "f": "A team lead starts a long email thread to get four managers to agree how to split a disputed budget. Media synchronicity theory would call this a conveyance job, well served by email.",
+   "x": "Reaching agreement on a contested question is convergence, which fast-feedback live channels support. Conveyance is passing on information people can absorb alone, such as updates or data, where email works well.",
+   "concepts": [
+    "cm:channel-selection",
+    "cm:media-synchronicity-theory"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/channel-selection.html"
+  },
+  {
+   "id": "cm-000011",
+   "area": "digital-and-async-communication",
+   "kind": "practice",
+   "topic": "Channel selection",
+   "t": "After settling a contested decision on a call, send a same-day written recap of the decision, owners and dates.",
+   "f": "After settling a contested decision on a call, book a second call to confirm the decision, owners and dates instead of writing them down.",
+   "x": "Live talk is good for reaching agreement but leaves nothing to reread. Mixing channels (facts in writing, discussion live, recap in writing) locks in the shared understanding; another call still leaves no record.",
+   "concepts": [
+    "cm:channel-selection"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/channel-selection.html"
+  },
+  {
+   "id": "cm-000012",
+   "area": "digital-and-async-communication",
+   "kind": "figure",
+   "topic": "Channel selection",
+   "t": "In experiments reported in 2005, email readers identified whether statements were sarcastic or serious only about 56% of the time, though senders expected about 78%.",
+   "f": "In experiments reported in 2005, email readers identified whether statements were sarcastic or serious about 78% of the time, slightly beating the 56% senders expected.",
+   "x": "Kruger, Epley and colleagues found email readers barely beat chance while senders were confident their tone would land; voice listeners did much better. Text strips out tone, and senders rarely notice.",
+   "concepts": [
+    "cm:channel-selection",
+    "cm:egocentrism-over-email-study"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/channel-selection.html",
+   "asOf": "2005"
+  },
+  {
+   "id": "cm-000013",
+   "area": "executive-and-client-communication",
+   "kind": "scenario",
+   "topic": "Words of estimative probability",
+   "t": "A risk update reads: \"We judge it very likely (80-95%) the launch slips, and we have moderate confidence in that.\" Under ICD 203 practice, that sentence should be split, because it mixes likelihood and confidence.",
+   "f": "A risk update reads: \"We judge it very likely (80-95%) the launch slips, and we have moderate confidence in that.\" Under ICD 203 practice, that sentence is ideal, because it pairs likelihood and confidence.",
+   "x": "Likelihood is how probable the event is; confidence is how solid the evidence is. ICD 203 requires that confidence never share a sentence with a likelihood term, so readers don't blur the two.",
+   "concepts": [
+    "cm:words-of-estimative-probability"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/words-of-estimative-probability.html"
+  },
+  {
+   "id": "cm-000014",
+   "area": "executive-and-client-communication",
+   "kind": "practice",
+   "topic": "Words of estimative probability",
+   "t": "When you use a likelihood word in a client update, put its numeric range in brackets right after it, as in \"likely (55-80%)\", rather than in a key at the end.",
+   "f": "When you use a likelihood word in a client update, put the numeric ranges in a key at the end, rather than in brackets right after the word.",
+   "x": "In the 2019 Wintle experiment, in-text brackets were the only format that substantially improved agreement; linked tables and tooltips helped little, partly because only about half of readers looked at them.",
+   "concepts": [
+    "cm:words-of-estimative-probability",
+    "cm:wintle-et-al-2019"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/words-of-estimative-probability.html"
+  },
+  {
+   "id": "cm-000015",
+   "area": "executive-and-client-communication",
+   "kind": "origin",
+   "topic": "Words of estimative probability",
+   "t": "CIA estimator Sherman Kent argued in a 1964 essay that likelihood words need agreed numeric meanings, after colleagues read \"serious possibility\" as anything from unlikely to likely.",
+   "f": "CIA estimator Sherman Kent argued in a 1951 essay that likelihood words need agreed numeric meanings, after colleagues read \"serious possibility\" as anything from unlikely to likely.",
+   "x": "The 1964 Studies in Intelligence essay looked back at a 1951 estimate that called an attack a \"serious possibility\"; 1951 is when the vague estimate was written, not when Kent proposed the fix.",
+   "concepts": [
+    "cm:words-of-estimative-probability",
+    "cm:sherman-kent"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/words-of-estimative-probability.html"
+  },
+  {
+   "id": "cm-000016",
+   "area": "feedback-and-coaching",
+   "kind": "scenario",
+   "topic": "Situation-Behavior-Impact",
+   "t": "A lead tells an analyst, \"When Priya asked where the churn figure came from, you said 'I'd have to check' and moved on.\" In SBI, that line is the behaviour step.",
+   "f": "A lead tells an analyst, \"When Priya asked where the churn figure came from, you said 'I'd have to check' and moved on.\" In SBI, that line is the impact step.",
+   "x": "It describes what a camera could have recorded: words said and an action taken. The impact step would name the consequence, such as lost agenda time or VPs doubting the forecast, and the lead's reaction.",
+   "concepts": [
+    "cm:situation-behavior-impact"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/situation-behavior-impact.html"
+  },
+  {
+   "id": "cm-000017",
+   "area": "feedback-and-coaching",
+   "kind": "practice",
+   "topic": "Situation-Behavior-Impact",
+   "t": "When SBI feedback is meant to change a behaviour, ask what the person was aiming for and listen before suggesting any fix.",
+   "f": "When SBI feedback is meant to change a behaviour, give your fix straight after the impact and ask about intent only if they push back.",
+   "x": "The intent question turns feedback into a two-way coaching conversation and guards against treating a bad impact as a bad motive. Leading with the fix skips the listening the technique depends on.",
+   "concepts": [
+    "cm:situation-behavior-impact",
+    "cm:active-listening"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/situation-behavior-impact.html"
+  },
+  {
+   "id": "cm-000018",
+   "area": "feedback-and-coaching",
+   "kind": "figure",
+   "topic": "Situation-Behavior-Impact",
+   "t": "Kluger and DeNisi's 1996 meta-analysis found that feedback improved performance on average, yet more than a third of feedback interventions made performance worse.",
+   "f": "Kluger and DeNisi's 1996 meta-analysis found that feedback improved performance on average, and fewer than one in twenty feedback interventions made performance worse.",
+   "x": "Over a third of interventions backfired, which the authors linked to feedback pulling attention from the task toward the self. SBI's task-focused, specific structure is meant to stay on the helpful side.",
+   "concepts": [
+    "cm:situation-behavior-impact",
+    "cm:kluger-denisi-1996"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/situation-behavior-impact.html",
+   "asOf": "1996"
+  },
+  {
+   "id": "cm-000019",
+   "area": "foundations",
+   "kind": "scenario",
+   "topic": "Audience analysis",
+   "t": "An analyst emails a VP who must approve a forecast, copying finance, and opens with the formula changes in tab 3. The email was written for the secondary technical readers, not the primary reader who must act.",
+   "f": "An analyst emails a VP who must approve a forecast, copying finance, and opens with the formula changes in tab 3. The email was written for the primary reader who must act, as audience analysis advises.",
+   "x": "Audience analysis starts with the person who must decide and leads with what matters to them, here the approval and its impact. Formula detail belongs in a separate section for the technical readers.",
+   "concepts": [
+    "cm:audience-analysis"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/audience-analysis.html"
+  },
+  {
+   "id": "cm-000020",
+   "area": "foundations",
+   "kind": "practice",
+   "topic": "Audience analysis",
+   "t": "When one document must serve both executives and technical reviewers, give each group its own clearly labelled section.",
+   "f": "When one document must serve both executives and technical reviewers, blend both groups' material into every paragraph so neither feels left out.",
+   "x": "Mixing material for different readers confuses everyone. Separate, labelled sections let the primary reader get what they need up front while technical readers find the detail they want.",
+   "concepts": [
+    "cm:audience-analysis"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/audience-analysis.html"
+  },
+  {
+   "id": "cm-000021",
+   "area": "foundations",
+   "kind": "evidence",
+   "topic": "Audience analysis",
+   "t": "In Lane and Ferreira's 2008 experiments, drawing speakers' attention to information their partner couldn't see made them mention it to the partner more often.",
+   "f": "In Lane and Ferreira's 2008 experiments, drawing speakers' attention to information their partner couldn't see made them mention it to the partner less often.",
+   "x": "Salient private information leaked into descriptions more, and partners then erred on about a third of them. Adapting to an audience is fragile under load, which is why a written profile and a real-reader check help.",
+   "concepts": [
+    "cm:audience-analysis"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/audience-analysis.html"
+  },
+  {
+   "id": "cm-000022",
+   "area": "listening",
+   "kind": "scenario",
+   "topic": "Open-ended questions",
+   "t": "In a planning meeting a manager asks, \"Don't you think we should launch Monday?\" That is a leading question that signals the answer she wants.",
+   "f": "In a planning meeting a manager asks, \"Don't you think we should launch Monday?\" That is an open-ended question that lets the team explain in their own words.",
+   "x": "It can be settled with yes or no and builds the manager's preferred answer into the question. An open version would be something like \"What would need to be true for a Monday launch?\"",
+   "concepts": [
+    "cm:open-ended-questions",
+    "cm:closed-questions"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/open-ended-questions.html"
+  },
+  {
+   "id": "cm-000023",
+   "area": "listening",
+   "kind": "practice",
+   "topic": "Open-ended questions",
+   "t": "When you need a firm answer on a known risk, such as whether a release will slip past the 30th, ask a direct, specific question rather than an open one.",
+   "f": "When you need a firm answer on a known risk, such as whether a release will slip past the 30th, ask a broad open question like \"How's it going?\"",
+   "x": "Open questions are for exploring; commitments and specific facts call for closed, pointed questions. Very general questions invite \"fine\" and leave room to dodge.",
+   "concepts": [
+    "cm:open-ended-questions",
+    "cm:closed-questions"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/open-ended-questions.html"
+  },
+  {
+   "id": "cm-000024",
+   "area": "listening",
+   "kind": "evidence",
+   "topic": "Open-ended questions",
+   "t": "Minson and colleagues found that questions presuming a problem exists, such as \"What problems have you had with it?\", drew more honest disclosure of bad news than general ones.",
+   "f": "Minson and colleagues found that general questions, such as \"What do you think of it?\", drew more honest disclosure of bad news than ones presuming a problem exists.",
+   "x": "In written tasks and face-to-face meetings, problem-presuming questions surfaced concealed issues best, and general questions did worst. It challenges the idea that a neutral open question is always most revealing.",
+   "concepts": [
+    "cm:open-ended-questions",
+    "cm:minson-et-al-2018"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/open-ended-questions.html"
+  },
+  {
+   "id": "cm-000025",
+   "area": "meetings-and-facilitation",
+   "kind": "scenario",
+   "topic": "Psychological safety",
+   "t": "A project lead opens a status meeting with \"We're on track, right?\", gets nods, and hears about an integration slip afterwards in the corridor. That points to low psychological safety in the meeting.",
+   "f": "A project lead opens a status meeting with \"We're on track, right?\", gets nods, and hears about an integration slip afterwards in the corridor. That points to high psychological safety, since no one disagreed.",
+   "x": "Real discussion happening in the hallway rather than the room is a classic low-safety sign: people judged that raising bad news in front of the group was risky. Silence in the meeting isn't agreement.",
+   "concepts": [
+    "cm:psychological-safety"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/psychological-safety.html"
+  },
+  {
+   "id": "cm-000026",
+   "area": "meetings-and-facilitation",
+   "kind": "practice",
+   "topic": "Psychological safety",
+   "t": "To make it safer to raise problems in a status meeting, a leader can go first by naming something she got wrong or doesn't know.",
+   "f": "To make it safer to raise problems in a status meeting, a leader should first present the plan as settled, so the team sees confidence before voicing doubts.",
+   "x": "Modelling fallibility lowers the price of the next admission, and framing the work as a learning problem invites every view. Presenting the plan as settled tells people the answer is already decided.",
+   "concepts": [
+    "cm:psychological-safety"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/psychological-safety.html"
+  },
+  {
+   "id": "cm-000027",
+   "area": "meetings-and-facilitation",
+   "kind": "definition",
+   "topic": "Psychological safety",
+   "t": "Psychological safety means people can admit mistakes and challenge each other without being punished; it doesn't mean being comfortable or free of accountability.",
+   "f": "Psychological safety means keeping meetings comfortable and shielding people from accountability for poor work.",
+   "x": "It is about candour, and productive disagreement can feel uncomfortable even in a safe team. Leaders can still decline proposals and address poor work while keeping it safe to speak up.",
+   "concepts": [
+    "cm:psychological-safety"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/psychological-safety.html"
+  },
+  {
+   "id": "cm-000028",
+   "area": "negotiation",
+   "kind": "scenario",
+   "topic": "BATNA",
+   "t": "Opening a contract renewal, an operations manager tells the vendor, \"We really can't move away from you, so do what you can on price.\" He has revealed a weak BATNA, which negotiation guidance says to keep private.",
+   "f": "Opening a contract renewal, an operations manager tells the vendor, \"We really can't move away from you, so do what you can on price.\" He has revealed a strong BATNA, which negotiation guidance says to mention early.",
+   "x": "Saying you can't leave tells the vendor your alternative to a deal is poor, handing them leverage. Guidance is to keep a weak BATNA to yourself and, if strong, mention it later rather than as an opening threat.",
+   "concepts": [
+    "cm:batna"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/batna.html"
+  },
+  {
+   "id": "cm-000029",
+   "area": "negotiation",
+   "kind": "practice",
+   "topic": "BATNA",
+   "t": "Before treating a competing quote as your BATNA, translate it into the same terms as the deal on the table: total cost, coverage, timing and switching effort.",
+   "f": "Before treating a competing quote as your BATNA, compare its headline price with the deal on the table; coverage, timing and switching effort can be sorted out later.",
+   "x": "An alternative judged on its headline number can look better than it is, as in the homeowner whose 30%-cheaper policy turned out worse on limits and exclusions. Only a like-for-like comparison tells you which option truly wins.",
+   "concepts": [
+    "cm:batna"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/batna.html"
+  },
+  {
+   "id": "cm-000030",
+   "area": "negotiation",
+   "kind": "evidence",
+   "topic": "BATNA",
+   "t": "Schaerer, Swaab and Galinsky found that sellers with a weak alternative felt more powerful than sellers with none, yet made lower first offers and reached less profitable deals.",
+   "f": "Schaerer, Swaab and Galinsky found that sellers with a weak alternative felt more powerful than sellers with none, and made higher first offers and reached more profitable deals.",
+   "x": "The weak alternative acted as a low anchor on the opening ask. That's why a weak BATNA should set your walk-away point, while your first offer is anchored on your goal.",
+   "concepts": [
+    "cm:batna",
+    "cm:schaerer-swaab-galinsky-2015",
+    "cm:first-offer"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/batna.html"
+  },
+  {
+   "id": "cm-000031",
+   "area": "nonverbal-and-voice",
+   "kind": "scenario",
+   "topic": "Mehrabian's 7-38-55 rule",
+   "t": "A presentation coach tells a team their slide content barely matters because 93% of communication is nonverbal. That stretches Mehrabian's studies, which measured judgments of liking from conflicting cues in single-word tasks.",
+   "f": "A presentation coach tells a team their slide content barely matters because 93% of communication is nonverbal. That follows Mehrabian's studies, which measured how much meaning words carry in work briefings.",
+   "x": "The 7-38-55 split came from two narrow 1967 lab studies of liking, with the verbal channel nearly empty by design. Mehrabian says it doesn't apply to communication in general; in briefings, words carry most of the information.",
+   "concepts": [
+    "cm:mehrabian-myth",
+    "cm:albert-mehrabian"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/mehrabian-myth.html"
+  },
+  {
+   "id": "cm-000032",
+   "area": "nonverbal-and-voice",
+   "kind": "practice",
+   "topic": "Mehrabian's 7-38-55 rule",
+   "t": "When praising a colleague, put your phone away and let your tone match your words, because when cues about feelings conflict, listeners tend to trust the tone and face.",
+   "f": "When praising a colleague, the exact words matter more than tone or attention, because when cues about feelings conflict, listeners tend to trust the words.",
+   "x": "The part of Mehrabian's finding that survives is narrow: with mixed emotional signals, people believe the nonverbal cue. Flat praise while checking a phone reads as insincere, however well worded.",
+   "concepts": [
+    "cm:mehrabian-myth"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/mehrabian-myth.html"
+  },
+  {
+   "id": "cm-000033",
+   "area": "nonverbal-and-voice",
+   "kind": "evidence",
+   "topic": "Mehrabian's 7-38-55 rule",
+   "t": "In Zuckerman and colleagues' 1982 honesty-judging study, once full speech was present, adding verbal content improved judges' accuracy far more than adding the face did.",
+   "f": "In Zuckerman and colleagues' 1982 honesty-judging study, once full speech was present, adding the face improved judges' accuracy far more than adding verbal content did.",
+   "x": "The face looked dominant in earlier work only when speech was filtered out or cut to one word. With real speech, words mattered, and no single channel always won.",
+   "concepts": [
+    "cm:mehrabian-myth",
+    "cm:zuckerman-et-al-1982"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/mehrabian-myth.html"
+  },
+  {
+   "id": "cm-000034",
+   "area": "persuasion-and-influence",
+   "kind": "scenario",
+   "topic": "Influence without authority",
+   "t": "A program manager needs time from a security reviewer she can't direct, and offers to present the reviewer's findings by name at the quarterly leadership review. In Cohen and Bradford's model, that is a position-related currency.",
+   "f": "A program manager needs time from a security reviewer she can't direct, and offers to present the reviewer's findings by name at the quarterly leadership review. In Cohen and Bradford's model, that is a task-related currency.",
+   "x": "Recognition and visibility with leadership are position-related currencies. Task-related ones are resources, assistance, information or fast response, which this offer doesn't provide.",
+   "concepts": [
+    "cm:influence-without-authority",
+    "cm:allan-r-cohen",
+    "cm:david-l-bradford"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/influence-without-authority.html"
+  },
+  {
+   "id": "cm-000035",
+   "area": "persuasion-and-influence",
+   "kind": "practice",
+   "topic": "Influence without authority",
+   "t": "When a peer in another team keeps declining to help, find out how they're measured and what pressures they face this quarter before asking again.",
+   "f": "When a peer in another team keeps declining to help, escalate early to your shared boss, since a manager's request carries more weight than yours.",
+   "x": "The model starts by treating the person as a potential ally and diagnosing their world. Escalating is a negative currency that can spiral into mutual retaliation and damages the relationship you'll need again.",
+   "concepts": [
+    "cm:influence-without-authority"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/influence-without-authority.html"
+  },
+  {
+   "id": "cm-000036",
+   "area": "persuasion-and-influence",
+   "kind": "evidence",
+   "topic": "Influence without authority",
+   "t": "Yukl and Tracey's 1992 study found exchange and ingratiation helped moderately when influencing peers and subordinates, but not when influencing bosses.",
+   "f": "Yukl and Tracey's 1992 study found exchange and ingratiation helped most when influencing bosses, but not when influencing peers and subordinates.",
+   "x": "Rational persuasion, inspirational appeals and consultation won commitment in every direction; trade-based tactics only helped sideways and downward. Overt quid-pro-quo is the weakest part of the influence model's evidence.",
+   "concepts": [
+    "cm:influence-without-authority",
+    "cm:yukl-tracey-1992"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/influence-without-authority.html"
+  },
+  {
+   "id": "cm-000037",
+   "area": "presenting-and-public-speaking",
+   "kind": "scenario",
+   "topic": "Anxiety reappraisal",
+   "t": "Hands shaking before her first leadership briefing, an analyst tells herself, \"My heart's racing because this matters; I'm excited to get the forecast approved.\" That is anxiety reappraisal.",
+   "f": "Hands shaking before her first leadership briefing, an analyst tells herself, \"My heart's racing because this matters; I'm excited to get the forecast approved.\" That is a relaxation technique for lowering her arousal.",
+   "x": "She accepts the arousal and relabels it as excitement aimed at an opportunity, rather than trying to calm down. Reappraisal changes what the jitters mean; it doesn't try to switch them off.",
+   "concepts": [
+    "cm:anxiety-reappraisal",
+    "cm:speaking-anxiety"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/anxiety-reappraisal.html"
+  },
+  {
+   "id": "cm-000038",
+   "area": "presenting-and-public-speaking",
+   "kind": "practice",
+   "topic": "Anxiety reappraisal",
+   "t": "Use anxiety reappraisal in the final minutes before a talk as an add-on to rehearsal, not as a substitute for knowing your material.",
+   "f": "Use anxiety reappraisal in place of rehearsal when time is short, since relabelling nerves as excitement makes up for thin preparation.",
+   "x": "No study tested reappraisal instead of preparation; it changes how the nerves feel, not whether you know the content. Rehearse first, then use the reframe just before you start.",
+   "concepts": [
+    "cm:anxiety-reappraisal",
+    "cm:presentation-rehearsal"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/anxiety-reappraisal.html"
+  },
+  {
+   "id": "cm-000039",
+   "area": "presenting-and-public-speaking",
+   "kind": "evidence",
+   "topic": "Anxiety reappraisal",
+   "t": "A 2025 direct replication of Brooks's public-speaking study found that saying \"I am excited\" made people feel more excited, but observers rated their speeches no better.",
+   "f": "A 2025 direct replication of Brooks's public-speaking study found that saying \"I am excited\" left people feeling no more excited, yet observers rated their speeches better.",
+   "x": "The replication kept the feeling shift but lost the performance gain on every observer rating, which is why the technique's evidence is contested. It is cheap to try, but don't count on it to impress the audience.",
+   "concepts": [
+    "cm:anxiety-reappraisal",
+    "cm:poynter-smith-pasqualini-2025",
+    "cm:brooks-2014"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/anxiety-reappraisal.html"
+  },
+  {
+   "id": "cm-000040",
+   "area": "questioning-and-conversation",
+   "kind": "scenario",
+   "topic": "Teach-back",
+   "t": "Before going on leave, a lead hands over a client escalation and asks, \"If the patch fails Thursday, what are your next two moves, and who hears from you first?\" That is teach-back.",
+   "f": "Before going on leave, a lead hands over a client escalation and asks, \"If the patch fails Thursday, what are your next two moves, and who hears from you first?\" That is paraphrasing.",
+   "x": "The explainer is asking the listener to restate the plan in their own words to check the explanation landed. Paraphrasing is the mirror image: the listener restates on their own initiative.",
+   "concepts": [
+    "cm:teach-back",
+    "cm:paraphrasing"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/teach-back.html"
+  },
+  {
+   "id": "cm-000041",
+   "area": "questioning-and-conversation",
+   "kind": "practice",
+   "topic": "Teach-back",
+   "t": "When asking for a teach-back, frame it as a check on your own explanation, as in \"I want to make sure I explained that clearly.\"",
+   "f": "When asking for a teach-back, frame it as a check on their attention, as in \"Let's see whether you were listening.\"",
+   "x": "Owning the check keeps the other person's dignity intact and makes it easy to admit a gap. A check that sounds like an exam feels patronising and invites a defensive \"yes, got it\".",
+   "concepts": [
+    "cm:teach-back"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/teach-back.html"
+  },
+  {
+   "id": "cm-000042",
+   "area": "questioning-and-conversation",
+   "kind": "figure",
+   "topic": "Teach-back",
+   "t": "In Schillinger and colleagues' 2003 study of diabetes visits, physicians checked patients' recall or comprehension in only 20% of visits.",
+   "f": "In Schillinger and colleagues' 2003 study of diabetes visits, physicians checked patients' recall or comprehension in about 80% of visits.",
+   "x": "Checking was rare: 20% of visits and 12% of new concepts. Where it happened, patients had better blood-sugar control, and visits weren't longer. The study was small and observational, so it shows association, not cause.",
+   "concepts": [
+    "cm:teach-back",
+    "cm:schillinger-et-al-2003"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/teach-back.html",
+   "asOf": "2003"
+  },
+  {
+   "id": "cm-000043",
+   "area": "thinkers-and-works",
+   "kind": "scenario",
+   "topic": "Aristotle's Rhetoric",
+   "t": "A team lead asking a steering committee to fund a test environment frames her case around future benefits and risks. In Aristotle's terms, that fits an audience judging what is advantageous for the future.",
+   "f": "A team lead asking a steering committee to fund a test environment frames her case around who caused past outages. In Aristotle's terms, that fits an audience judging what is advantageous for the future.",
+   "x": "Aristotle defines each kind of speech by what its audience must judge: an assembly decides future advantage, a court judges past acts. A funding decision is forward-looking, so blame for past failures is the wrong frame.",
+   "concepts": [
+    "cm:aristotles-rhetoric",
+    "cm:audience-analysis"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/aristotles-rhetoric.html"
+  },
+  {
+   "id": "cm-000044",
+   "area": "thinkers-and-works",
+   "kind": "definition",
+   "topic": "Aristotle's Rhetoric",
+   "t": "Aristotle defines rhetoric as the capacity to see the available means of persuasion in a given case, not as actually winning the audience over.",
+   "f": "Aristotle defines rhetoric as actually winning the audience over, so a speaker who fails to persuade has not mastered the art.",
+   "x": "Like a doctor who does everything possible without curing every patient, a speaker has mastered rhetoric by seeing every available means, even if a stubborn audience isn't persuaded.",
+   "concepts": [
+    "cm:aristotles-rhetoric",
+    "cm:aristotle"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/aristotles-rhetoric.html"
+  },
+  {
+   "id": "cm-000045",
+   "area": "thinkers-and-works",
+   "kind": "origin",
+   "topic": "Aristotle's Rhetoric",
+   "t": "Aristotle's Rhetoric answers Plato, whose Gorgias had dismissed rhetoric as a knack without knowledge.",
+   "f": "Aristotle's Rhetoric answers Cicero, whose writings had dismissed rhetoric as a knack without knowledge.",
+   "x": "Plato's Gorgias set the challenge, and Aristotle replied by calling rhetoric a counterpart of dialectic. Cicero came centuries later and borrowed from the Rhetoric rather than prompting it.",
+   "concepts": [
+    "cm:aristotles-rhetoric",
+    "cm:plato"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/aristotles-rhetoric.html"
+  },
+  {
+   "id": "cm-000046",
+   "area": "writing",
+   "kind": "scenario",
+   "topic": "Active voice",
+   "t": "A release note reads, \"The team shipped the fix last night.\" An editor flags it as passive because it describes the past, but the sentence is already in active voice.",
+   "f": "A release note reads, \"The team shipped the fix last night.\" An editor flags it as passive because it describes the past, and the sentence should be rewritten into active voice.",
+   "x": "The doer, the team, is the subject, so the sentence is active; past tense is a separate question from voice. A passive would look like \"The fix was shipped\", a form of \"to be\" plus a past participle.",
+   "concepts": [
+    "cm:active-voice",
+    "cm:passive-voice"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/active-voice.html"
+  },
+  {
+   "id": "cm-000047",
+   "area": "writing",
+   "kind": "practice",
+   "topic": "Active voice",
+   "t": "To fix \"Open issues must be resolved before the release is approved\" in a client email, name who acts: \"Your team needs to fix open issues by Thursday, then I'll approve the release.\"",
+   "f": "To fix \"Open issues must be resolved before the release is approved\" in a client email, just add a date: \"Open issues must be resolved by Thursday before approval.\"",
+   "x": "The original's real flaw is that no one owns the work, so each side can assume the other will do it. A deadline alone keeps that gap; putting the actor first assigns each task.",
+   "concepts": [
+    "cm:active-voice",
+    "cm:unclear-ownership"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/active-voice.html"
+  },
+  {
+   "id": "cm-000048",
+   "area": "writing",
+   "kind": "evidence",
+   "topic": "Active voice",
+   "t": "In Paolazzi and colleagues' 2019 experiments, passives were read faster than matched active sentences, but readers answered who-did-what questions less accurately after them.",
+   "f": "In Paolazzi and colleagues' 2019 experiments, passives were read more slowly than matched active sentences, but readers answered who-did-what questions just as accurately after them.",
+   "x": "Speed favoured passives, yet accuracy about who did what dropped, a difficulty the authors place in remembering the sentence, not parsing it. That supports naming the actor when responsibility matters.",
+   "concepts": [
+    "cm:active-voice",
+    "cm:paolazzi-et-al-2019"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/active-voice.html"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+id: cm-000034
+area: persuasion-and-influence
+kind: scenario
+topic: Influence without authority
+topic_type: Technique
+true_statement: A program manager needs time from a security reviewer she can't direct, and offers to present the reviewer's findings by name at the quarterly leadership review. In Cohen and Bradford's model, that is a position-related currency.
+false_statement: A program manager needs time from a security reviewer she can't direct, and offers to present the reviewer's findings by name at the quarterly leadership review. In Cohen and Bradford's model, that is a task-related currency.
+explanation: Recognition and visibility with leadership are position-related currencies. Task-related ones are resources, assistance, information or fast response, which this offer doesn't provide.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/influence-without-authority.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 9b57ef3672feac46302bfec94edcc8ccb448ea9f
+concepts:
+- cm:influence-without-authority
+- cm:allan-r-cohen
+- cm:david-l-bradford
+difficulty: 2
+created: '2026-11-16'
+status: active

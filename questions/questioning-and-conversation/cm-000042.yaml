@@ -1,0 +1,20 @@
+id: cm-000042
+area: questioning-and-conversation
+kind: figure
+topic: Teach-back
+topic_type: Technique
+true_statement: In Schillinger and colleagues' 2003 study of diabetes visits, physicians checked patients' recall or comprehension in only 20% of visits.
+false_statement: In Schillinger and colleagues' 2003 study of diabetes visits, physicians checked patients' recall or comprehension in about 80% of visits.
+explanation: 'Checking was rare: 20% of visits and 12% of new concepts. Where it happened, patients had better blood-sugar control, and visits weren''t longer. The study was small and observational, so it shows association, not cause.'
+as_of: '2003'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/teach-back.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: da77422bc98a7cffd931987e8f0f84e8b38020dc
+concepts:
+- cm:teach-back
+- cm:schillinger-et-al-2003
+difficulty: 3
+created: '2026-11-16'
+status: active

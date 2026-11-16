@@ -1,0 +1,20 @@
+id: cm-000012
+area: digital-and-async-communication
+kind: figure
+topic: Channel selection
+topic_type: Technique
+true_statement: In experiments reported in 2005, email readers identified whether statements were sarcastic or serious only about 56% of the time, though senders expected about 78%.
+false_statement: In experiments reported in 2005, email readers identified whether statements were sarcastic or serious about 78% of the time, slightly beating the 56% senders expected.
+explanation: Kruger, Epley and colleagues found email readers barely beat chance while senders were confident their tone would land; voice listeners did much better. Text strips out tone, and senders rarely notice.
+as_of: '2005'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/channel-selection.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: f5c1a7552f22cb53b63bacaa89f6736cf87dbc25
+concepts:
+- cm:channel-selection
+- cm:egocentrism-over-email-study
+difficulty: 3
+created: '2026-11-16'
+status: active

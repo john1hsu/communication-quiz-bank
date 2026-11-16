@@ -1,0 +1,19 @@
+id: cm-000043
+area: thinkers-and-works
+kind: scenario
+topic: Aristotle's Rhetoric
+topic_type: Work
+true_statement: A team lead asking a steering committee to fund a test environment frames her case around future benefits and risks. In Aristotle's terms, that fits an audience judging what is advantageous for the future.
+false_statement: A team lead asking a steering committee to fund a test environment frames her case around who caused past outages. In Aristotle's terms, that fits an audience judging what is advantageous for the future.
+explanation: 'Aristotle defines each kind of speech by what its audience must judge: an assembly decides future advantage, a court judges past acts. A funding decision is forward-looking, so blame for past failures is the wrong frame.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/aristotles-rhetoric.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: caf21bc31089cfc3f936718d877ef2703972ab9a
+concepts:
+- cm:aristotles-rhetoric
+- cm:audience-analysis
+difficulty: 2
+created: '2026-11-16'
+status: active

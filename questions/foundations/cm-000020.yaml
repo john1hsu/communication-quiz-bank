@@ -1,0 +1,18 @@
+id: cm-000020
+area: foundations
+kind: practice
+topic: Audience analysis
+topic_type: Technique
+true_statement: When one document must serve both executives and technical reviewers, give each group its own clearly labelled section.
+false_statement: When one document must serve both executives and technical reviewers, blend both groups' material into every paragraph so neither feels left out.
+explanation: Mixing material for different readers confuses everyone. Separate, labelled sections let the primary reader get what they need up front while technical readers find the detail they want.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/audience-analysis.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: ef32c88f93eb44bebefda413eb1d4f575711286f
+concepts:
+- cm:audience-analysis
+difficulty: 1
+created: '2026-11-16'
+status: active

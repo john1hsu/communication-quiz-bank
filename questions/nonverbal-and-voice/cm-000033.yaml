@@ -1,0 +1,19 @@
+id: cm-000033
+area: nonverbal-and-voice
+kind: evidence
+topic: Mehrabian's 7-38-55 rule
+topic_type: Concept
+true_statement: In Zuckerman and colleagues' 1982 honesty-judging study, once full speech was present, adding verbal content improved judges' accuracy far more than adding the face did.
+false_statement: In Zuckerman and colleagues' 1982 honesty-judging study, once full speech was present, adding the face improved judges' accuracy far more than adding verbal content did.
+explanation: The face looked dominant in earlier work only when speech was filtered out or cut to one word. With real speech, words mattered, and no single channel always won.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/mehrabian-myth.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 39d0ecd3778f9796bbe0358b9832ea877219f46e
+concepts:
+- cm:mehrabian-myth
+- cm:zuckerman-et-al-1982
+difficulty: 3
+created: '2026-11-16'
+status: active

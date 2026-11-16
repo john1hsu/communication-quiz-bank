@@ -1,0 +1,19 @@
+id: cm-000047
+area: writing
+kind: practice
+topic: Active voice
+topic_type: Technique
+true_statement: 'To fix "Open issues must be resolved before the release is approved" in a client email, name who acts: "Your team needs to fix open issues by Thursday, then I''ll approve the release."'
+false_statement: 'To fix "Open issues must be resolved before the release is approved" in a client email, just add a date: "Open issues must be resolved by Thursday before approval."'
+explanation: The original's real flaw is that no one owns the work, so each side can assume the other will do it. A deadline alone keeps that gap; putting the actor first assigns each task.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/active-voice.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: eee9f2e7d62a38ae20071b1e0aa1b7a65fa70280
+concepts:
+- cm:active-voice
+- cm:unclear-ownership
+difficulty: 2
+created: '2026-11-16'
+status: active

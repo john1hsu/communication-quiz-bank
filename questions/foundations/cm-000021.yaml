@@ -1,0 +1,18 @@
+id: cm-000021
+area: foundations
+kind: evidence
+topic: Audience analysis
+topic_type: Technique
+true_statement: In Lane and Ferreira's 2008 experiments, drawing speakers' attention to information their partner couldn't see made them mention it to the partner more often.
+false_statement: In Lane and Ferreira's 2008 experiments, drawing speakers' attention to information their partner couldn't see made them mention it to the partner less often.
+explanation: Salient private information leaked into descriptions more, and partners then erred on about a third of them. Adapting to an audience is fragile under load, which is why a written profile and a real-reader check help.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/audience-analysis.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: ef32c88f93eb44bebefda413eb1d4f575711286f
+concepts:
+- cm:audience-analysis
+difficulty: 3
+created: '2026-11-16'
+status: active

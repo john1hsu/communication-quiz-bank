@@ -1,0 +1,20 @@
+id: cm-000039
+area: presenting-and-public-speaking
+kind: evidence
+topic: Anxiety reappraisal
+topic_type: Technique
+true_statement: A 2025 direct replication of Brooks's public-speaking study found that saying "I am excited" made people feel more excited, but observers rated their speeches no better.
+false_statement: A 2025 direct replication of Brooks's public-speaking study found that saying "I am excited" left people feeling no more excited, yet observers rated their speeches better.
+explanation: The replication kept the feeling shift but lost the performance gain on every observer rating, which is why the technique's evidence is contested. It is cheap to try, but don't count on it to impress the audience.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/anxiety-reappraisal.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: a69ee6ee855561cbe4055f42c960635e9caf4c2e
+concepts:
+- cm:anxiety-reappraisal
+- cm:poynter-smith-pasqualini-2025
+- cm:brooks-2014
+difficulty: 3
+created: '2026-11-16'
+status: active

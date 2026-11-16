@@ -1,0 +1,125 @@
+{
+ "totals": {
+  "active": 48
+ },
+ "areas": {
+  "barriers-and-psychology": {
+   "active": 3
+  },
+  "cross-cultural-communication": {
+   "active": 3
+  },
+  "difficult-conversations-and-conflict": {
+   "active": 3
+  },
+  "digital-and-async-communication": {
+   "active": 3
+  },
+  "executive-and-client-communication": {
+   "active": 3
+  },
+  "feedback-and-coaching": {
+   "active": 3
+  },
+  "foundations": {
+   "active": 3
+  },
+  "listening": {
+   "active": 3
+  },
+  "meetings-and-facilitation": {
+   "active": 3
+  },
+  "negotiation": {
+   "active": 3
+  },
+  "nonverbal-and-voice": {
+   "active": 3
+  },
+  "persuasion-and-influence": {
+   "active": 3
+  },
+  "presenting-and-public-speaking": {
+   "active": 3
+  },
+  "questioning-and-conversation": {
+   "active": 3
+  },
+  "thinkers-and-works": {
+   "active": 3
+  },
+  "writing": {
+   "active": 3
+  }
+ },
+ "kinds": {
+  "definition": {
+   "active": 2
+  },
+  "evidence": {
+   "active": 10
+  },
+  "figure": {
+   "active": 3
+  },
+  "origin": {
+   "active": 2
+  },
+  "practice": {
+   "active": 15
+  },
+  "scenario": {
+   "active": 16
+  }
+ },
+ "articles": {
+  "articles/barriers-and-psychology/curse-of-knowledge.md": {
+   "active": 3
+  },
+  "articles/cross-cultural-communication/direct-vs-indirect-feedback.md": {
+   "active": 3
+  },
+  "articles/difficult-conversations-and-conflict/i-statements.md": {
+   "active": 3
+  },
+  "articles/digital-and-async-communication/channel-selection.md": {
+   "active": 3
+  },
+  "articles/executive-and-client-communication/words-of-estimative-probability.md": {
+   "active": 3
+  },
+  "articles/feedback-and-coaching/situation-behavior-impact.md": {
+   "active": 3
+  },
+  "articles/foundations/audience-analysis.md": {
+   "active": 3
+  },
+  "articles/listening/open-ended-questions.md": {
+   "active": 3
+  },
+  "articles/meetings-and-facilitation/psychological-safety.md": {
+   "active": 3
+  },
+  "articles/negotiation/batna.md": {
+   "active": 3
+  },
+  "articles/nonverbal-and-voice/mehrabian-myth.md": {
+   "active": 3
+  },
+  "articles/persuasion-and-influence/influence-without-authority.md": {
+   "active": 3
+  },
+  "articles/presenting-and-public-speaking/anxiety-reappraisal.md": {
+   "active": 3
+  },
+  "articles/questioning-and-conversation/teach-back.md": {
+   "active": 3
+  },
+  "articles/thinkers-and-works/aristotles-rhetoric.md": {
+   "active": 3
+  },
+  "articles/writing/active-voice.md": {
+   "active": 3
+  }
+ }
+}

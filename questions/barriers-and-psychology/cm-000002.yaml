@@ -1,0 +1,18 @@
+id: cm-000002
+area: barriers-and-psychology
+kind: practice
+topic: Curse of knowledge
+topic_type: Barrier
+true_statement: To catch the curse of knowledge in a draft, ask a few people from the target audience to explain a section in their own words, and revise wherever they misread it.
+false_statement: To catch the curse of knowledge in a draft, ask a few people from the target audience "Is this clear?", and revise wherever they say no.
+explanation: Readers can say a text is clear and still misread it, so a yes/no question gives you no real signal. A paraphrase test, recorded without correcting them, shows exactly where your missing context trips them up.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/curse-of-knowledge.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 4c9ae0c8a31adff58858bafa20750d592a852228
+concepts:
+- cm:curse-of-knowledge
+difficulty: 2
+created: '2026-11-16'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000007
+area: difficult-conversations-and-conflict
+kind: scenario
+topic: I-statements
+topic_type: Technique
+true_statement: Upset about a missed deadline, a project lead tells a colleague, "I feel that you don't respect my time." That is a disguised accusation, not a real I-statement.
+false_statement: Upset about a missed deadline, a project lead tells a colleague, "I feel that you don't respect my time." That is a well-formed I-statement, because it opens with "I feel".
+explanation: '"I feel that you..." puts a verdict about the other person''s motives behind an I. A real I-statement names an observable behaviour, its concrete effect and an actual emotion such as worry or frustration.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/i-statements.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: a668fa9a9ea214788d8c299d216b425b9129563c
+concepts:
+- cm:i-statements
+- cm:accusatory-you-statements
+difficulty: 2
+created: '2026-11-16'
+status: active

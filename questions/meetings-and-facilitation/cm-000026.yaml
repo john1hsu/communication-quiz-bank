@@ -1,0 +1,18 @@
+id: cm-000026
+area: meetings-and-facilitation
+kind: practice
+topic: Psychological safety
+topic_type: Phenomenon
+true_statement: To make it safer to raise problems in a status meeting, a leader can go first by naming something she got wrong or doesn't know.
+false_statement: To make it safer to raise problems in a status meeting, a leader should first present the plan as settled, so the team sees confidence before voicing doubts.
+explanation: Modelling fallibility lowers the price of the next admission, and framing the work as a learning problem invites every view. Presenting the plan as settled tells people the answer is already decided.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/psychological-safety.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 2588a4ea58c248c9e020f9ccf4c6e3d61ad1af27
+concepts:
+- cm:psychological-safety
+difficulty: 2
+created: '2026-11-16'
+status: active

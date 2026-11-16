@@ -1,0 +1,19 @@
+id: cm-000045
+area: thinkers-and-works
+kind: origin
+topic: Aristotle's Rhetoric
+topic_type: Work
+true_statement: Aristotle's Rhetoric answers Plato, whose Gorgias had dismissed rhetoric as a knack without knowledge.
+false_statement: Aristotle's Rhetoric answers Cicero, whose writings had dismissed rhetoric as a knack without knowledge.
+explanation: Plato's Gorgias set the challenge, and Aristotle replied by calling rhetoric a counterpart of dialectic. Cicero came centuries later and borrowed from the Rhetoric rather than prompting it.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/aristotles-rhetoric.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: caf21bc31089cfc3f936718d877ef2703972ab9a
+concepts:
+- cm:aristotles-rhetoric
+- cm:plato
+difficulty: 2
+created: '2026-11-16'
+status: active

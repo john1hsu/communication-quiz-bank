@@ -1,0 +1,19 @@
+id: cm-000023
+area: listening
+kind: practice
+topic: Open-ended questions
+topic_type: Technique
+true_statement: When you need a firm answer on a known risk, such as whether a release will slip past the 30th, ask a direct, specific question rather than an open one.
+false_statement: When you need a firm answer on a known risk, such as whether a release will slip past the 30th, ask a broad open question like "How's it going?"
+explanation: Open questions are for exploring; commitments and specific facts call for closed, pointed questions. Very general questions invite "fine" and leave room to dodge.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/open-ended-questions.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 3ad446c6f7e65f69f3ae471421d194a7a36ef0d3
+concepts:
+- cm:open-ended-questions
+- cm:closed-questions
+difficulty: 2
+created: '2026-11-16'
+status: active

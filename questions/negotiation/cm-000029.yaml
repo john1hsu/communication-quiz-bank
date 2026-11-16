@@ -1,0 +1,18 @@
+id: cm-000029
+area: negotiation
+kind: practice
+topic: BATNA
+topic_type: Technique
+true_statement: 'Before treating a competing quote as your BATNA, translate it into the same terms as the deal on the table: total cost, coverage, timing and switching effort.'
+false_statement: Before treating a competing quote as your BATNA, compare its headline price with the deal on the table; coverage, timing and switching effort can be sorted out later.
+explanation: An alternative judged on its headline number can look better than it is, as in the homeowner whose 30%-cheaper policy turned out worse on limits and exclusions. Only a like-for-like comparison tells you which option truly wins.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/batna.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 31d54ec4e42cf11c898bed42634e165aa2cec7b3
+concepts:
+- cm:batna
+difficulty: 2
+created: '2026-11-16'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000044
+area: thinkers-and-works
+kind: definition
+topic: Aristotle's Rhetoric
+topic_type: Work
+true_statement: Aristotle defines rhetoric as the capacity to see the available means of persuasion in a given case, not as actually winning the audience over.
+false_statement: Aristotle defines rhetoric as actually winning the audience over, so a speaker who fails to persuade has not mastered the art.
+explanation: Like a doctor who does everything possible without curing every patient, a speaker has mastered rhetoric by seeing every available means, even if a stubborn audience isn't persuaded.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/aristotles-rhetoric.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: caf21bc31089cfc3f936718d877ef2703972ab9a
+concepts:
+- cm:aristotles-rhetoric
+- cm:aristotle
+difficulty: 1
+created: '2026-11-16'
+status: active

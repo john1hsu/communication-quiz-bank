@@ -1,0 +1,19 @@
+id: cm-000008
+area: difficult-conversations-and-conflict
+kind: practice
+topic: I-statements
+topic_type: Technique
+true_statement: After delivering an I-statement, stop and listen, reflect back the other person's reaction, and send a clearer second I-statement only if the first was misunderstood.
+false_statement: After delivering an I-statement, repeat it more firmly each time the other person pushes back, until they agree to change the behaviour.
+explanation: Some defensiveness is expected, and Gordon paired I-messages with active listening so the speaker shifts to listening once the other person reacts. Restating louder turns the exchange back into a contest.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/i-statements.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: a668fa9a9ea214788d8c299d216b425b9129563c
+concepts:
+- cm:i-statements
+- cm:active-listening
+difficulty: 2
+created: '2026-11-16'
+status: active

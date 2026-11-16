@@ -1,0 +1,19 @@
+id: cm-000036
+area: persuasion-and-influence
+kind: evidence
+topic: Influence without authority
+topic_type: Technique
+true_statement: Yukl and Tracey's 1992 study found exchange and ingratiation helped moderately when influencing peers and subordinates, but not when influencing bosses.
+false_statement: Yukl and Tracey's 1992 study found exchange and ingratiation helped most when influencing bosses, but not when influencing peers and subordinates.
+explanation: Rational persuasion, inspirational appeals and consultation won commitment in every direction; trade-based tactics only helped sideways and downward. Overt quid-pro-quo is the weakest part of the influence model's evidence.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/influence-without-authority.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 9b57ef3672feac46302bfec94edcc8ccb448ea9f
+concepts:
+- cm:influence-without-authority
+- cm:yukl-tracey-1992
+difficulty: 3
+created: '2026-11-16'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000040
+area: questioning-and-conversation
+kind: scenario
+topic: Teach-back
+topic_type: Technique
+true_statement: Before going on leave, a lead hands over a client escalation and asks, "If the patch fails Thursday, what are your next two moves, and who hears from you first?" That is teach-back.
+false_statement: Before going on leave, a lead hands over a client escalation and asks, "If the patch fails Thursday, what are your next two moves, and who hears from you first?" That is paraphrasing.
+explanation: 'The explainer is asking the listener to restate the plan in their own words to check the explanation landed. Paraphrasing is the mirror image: the listener restates on their own initiative.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/teach-back.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: da77422bc98a7cffd931987e8f0f84e8b38020dc
+concepts:
+- cm:teach-back
+- cm:paraphrasing
+difficulty: 2
+created: '2026-11-16'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000009
+area: difficult-conversations-and-conflict
+kind: evidence
+topic: I-statements
+topic_type: Technique
+true_statement: Korobov's analysis of couples' everyday arguments found I-language on its own rarely de-escalated them; showing awareness of the partner's feelings helped more.
+false_statement: Korobov's analysis of couples' everyday arguments found I-language on its own reliably de-escalated them, whatever else the speaker said.
+explanation: In naturally occurring arguments the pronoun alone did little; what helped was visible awareness of the other person's feelings or the relationship. That's why the technique's evidence is rated mixed.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/i-statements.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: a668fa9a9ea214788d8c299d216b425b9129563c
+concepts:
+- cm:i-statements
+- cm:korobov-2020
+difficulty: 3
+created: '2026-11-16'
+status: active

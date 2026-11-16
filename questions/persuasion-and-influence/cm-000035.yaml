@@ -1,0 +1,18 @@
+id: cm-000035
+area: persuasion-and-influence
+kind: practice
+topic: Influence without authority
+topic_type: Technique
+true_statement: When a peer in another team keeps declining to help, find out how they're measured and what pressures they face this quarter before asking again.
+false_statement: When a peer in another team keeps declining to help, escalate early to your shared boss, since a manager's request carries more weight than yours.
+explanation: The model starts by treating the person as a potential ally and diagnosing their world. Escalating is a negative currency that can spiral into mutual retaliation and damages the relationship you'll need again.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/influence-without-authority.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 9b57ef3672feac46302bfec94edcc8ccb448ea9f
+concepts:
+- cm:influence-without-authority
+difficulty: 2
+created: '2026-11-16'
+status: active

@@ -1,0 +1,18 @@
+id: cm-000041
+area: questioning-and-conversation
+kind: practice
+topic: Teach-back
+topic_type: Technique
+true_statement: When asking for a teach-back, frame it as a check on your own explanation, as in "I want to make sure I explained that clearly."
+false_statement: When asking for a teach-back, frame it as a check on their attention, as in "Let's see whether you were listening."
+explanation: Owning the check keeps the other person's dignity intact and makes it easy to admit a gap. A check that sounds like an exam feels patronising and invites a defensive "yes, got it".
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/teach-back.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: da77422bc98a7cffd931987e8f0f84e8b38020dc
+concepts:
+- cm:teach-back
+difficulty: 1
+created: '2026-11-16'
+status: active

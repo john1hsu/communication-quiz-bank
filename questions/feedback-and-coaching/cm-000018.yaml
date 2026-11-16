@@ -1,0 +1,20 @@
+id: cm-000018
+area: feedback-and-coaching
+kind: figure
+topic: Situation-Behavior-Impact
+topic_type: Technique
+true_statement: Kluger and DeNisi's 1996 meta-analysis found that feedback improved performance on average, yet more than a third of feedback interventions made performance worse.
+false_statement: Kluger and DeNisi's 1996 meta-analysis found that feedback improved performance on average, and fewer than one in twenty feedback interventions made performance worse.
+explanation: Over a third of interventions backfired, which the authors linked to feedback pulling attention from the task toward the self. SBI's task-focused, specific structure is meant to stay on the helpful side.
+as_of: '1996'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/situation-behavior-impact.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 0871c39848bac6ff06f6c17b0b3fc572e269e6f4
+concepts:
+- cm:situation-behavior-impact
+- cm:kluger-denisi-1996
+difficulty: 3
+created: '2026-11-16'
+status: active

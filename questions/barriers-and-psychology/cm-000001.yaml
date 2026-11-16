@@ -1,0 +1,19 @@
+id: cm-000001
+area: barriers-and-psychology
+kind: scenario
+topic: Curse of knowledge
+topic_type: Barrier
+true_statement: An engineer rereads her handover note, judges it perfectly clear and sends it; the new hire replies asking what "the Q-pipeline" is and where to start. Her self-check failed because of the curse of knowledge.
+false_statement: An engineer rereads her handover note, judges it perfectly clear and sends it; the new hire replies asking what "the Q-pipeline" is and where to start. Her self-check failed because of information overload.
+explanation: The tell is internal shorthand plus a clarity check done by rereading it herself, the very judgment the curse of knowledge distorts. The note isn't too long; it is missing background she can no longer imagine lacking.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/curse-of-knowledge.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 4c9ae0c8a31adff58858bafa20750d592a852228
+concepts:
+- cm:curse-of-knowledge
+- cm:clarity
+difficulty: 2
+created: '2026-11-16'
+status: active

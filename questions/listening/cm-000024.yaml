@@ -1,0 +1,19 @@
+id: cm-000024
+area: listening
+kind: evidence
+topic: Open-ended questions
+topic_type: Technique
+true_statement: Minson and colleagues found that questions presuming a problem exists, such as "What problems have you had with it?", drew more honest disclosure of bad news than general ones.
+false_statement: Minson and colleagues found that general questions, such as "What do you think of it?", drew more honest disclosure of bad news than ones presuming a problem exists.
+explanation: In written tasks and face-to-face meetings, problem-presuming questions surfaced concealed issues best, and general questions did worst. It challenges the idea that a neutral open question is always most revealing.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/open-ended-questions.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 3ad446c6f7e65f69f3ae471421d194a7a36ef0d3
+concepts:
+- cm:open-ended-questions
+- cm:minson-et-al-2018
+difficulty: 3
+created: '2026-11-16'
+status: active

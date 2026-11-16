@@ -1,0 +1,19 @@
+id: cm-000003
+area: barriers-and-psychology
+kind: evidence
+topic: Curse of knowledge
+topic_type: Barrier
+true_statement: In seven large-sample experiments, Ryskin and Brown-Schmidt estimated the adult false-belief curse-of-knowledge effect at less than half its originally reported size.
+false_statement: In seven large-sample experiments, Ryskin and Brown-Schmidt estimated the adult false-belief curse-of-knowledge effect at more than twice its originally reported size.
+explanation: 'Their high-powered re-estimate shrank the effect, which is why the evidence is rated mixed: the direction is consistent, but early estimates were inflated and real-world size is uncertain.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/curse-of-knowledge.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 4c9ae0c8a31adff58858bafa20750d592a852228
+concepts:
+- cm:curse-of-knowledge
+- cm:ryskin-brown-schmidt-2014
+difficulty: 3
+created: '2026-11-16'
+status: active

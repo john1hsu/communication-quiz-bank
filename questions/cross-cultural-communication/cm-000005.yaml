@@ -1,0 +1,18 @@
+id: cm-000005
+area: cross-cultural-communication
+kind: practice
+topic: Direct vs. indirect feedback
+topic_type: Concept
+true_statement: After giving criticism across a directness gap, ask the person what they will do differently; an answer smaller or bigger than the problem shows your message was decoded in the other style.
+false_statement: After giving criticism across a directness gap, ask the person whether you came across as polite; a yes shows your message was decoded the way you meant it.
+explanation: Politeness tells you how the delivery felt, not what was understood. Asking about their next step tests whether the size of the problem landed, which is where style mismatches go wrong.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/direct-vs-indirect-feedback.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: f6cc710e46ad81111ed4bbd1d7e466d8a12e20e1
+concepts:
+- cm:direct-vs-indirect-feedback
+difficulty: 2
+created: '2026-11-16'
+status: active

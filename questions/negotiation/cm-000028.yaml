@@ -1,0 +1,18 @@
+id: cm-000028
+area: negotiation
+kind: scenario
+topic: BATNA
+topic_type: Technique
+true_statement: Opening a contract renewal, an operations manager tells the vendor, "We really can't move away from you, so do what you can on price." He has revealed a weak BATNA, which negotiation guidance says to keep private.
+false_statement: Opening a contract renewal, an operations manager tells the vendor, "We really can't move away from you, so do what you can on price." He has revealed a strong BATNA, which negotiation guidance says to mention early.
+explanation: Saying you can't leave tells the vendor your alternative to a deal is poor, handing them leverage. Guidance is to keep a weak BATNA to yourself and, if strong, mention it later rather than as an opening threat.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/batna.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: 31d54ec4e42cf11c898bed42634e165aa2cec7b3
+concepts:
+- cm:batna
+difficulty: 2
+created: '2026-11-16'
+status: active

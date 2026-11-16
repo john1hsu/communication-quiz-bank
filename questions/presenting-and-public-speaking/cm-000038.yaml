@@ -1,0 +1,19 @@
+id: cm-000038
+area: presenting-and-public-speaking
+kind: practice
+topic: Anxiety reappraisal
+topic_type: Technique
+true_statement: Use anxiety reappraisal in the final minutes before a talk as an add-on to rehearsal, not as a substitute for knowing your material.
+false_statement: Use anxiety reappraisal in place of rehearsal when time is short, since relabelling nerves as excitement makes up for thin preparation.
+explanation: No study tested reappraisal instead of preparation; it changes how the nerves feel, not whether you know the content. Rehearse first, then use the reframe just before you start.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/anxiety-reappraisal.md
+  commit: b82bff10f54896d7d5955bd7697f6a4f41cb3dd0
+  blob: a69ee6ee855561cbe4055f42c960635e9caf4c2e
+concepts:
+- cm:anxiety-reappraisal
+- cm:presentation-rehearsal
+difficulty: 1
+created: '2026-11-16'
+status: active
