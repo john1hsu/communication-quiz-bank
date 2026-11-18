@@ -1,0 +1,19 @@
+id: cm-000118
+area: persuasion-and-influence
+kind: scenario
+topic: Stakeholder mapping
+topic_type: Technique
+true_statement: Mapping an expense-tool rollout, an ops manager notes the payroll lead must sign off the export file but has little interest in the project. On the power-interest grid, that stakeholder should be kept satisfied.
+false_statement: Mapping an expense-tool rollout, an ops manager notes the payroll lead must sign off the export file but has little interest in the project. On the power-interest grid, that stakeholder needs only to be kept informed.
+explanation: 'Sign-off is power, so this is the high-power, lower-interest quadrant: a targeted briefing and timely sign-off, not just the go-live email. Keep informed is for those low on both power and interest.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/stakeholder-mapping.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: b54e6275eee565ed0646d97fe1de4035493fe111
+concepts:
+- cm:stakeholder-mapping
+- cm:communication-plan
+difficulty: 2
+created: '2026-11-18'
+status: active

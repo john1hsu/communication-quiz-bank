@@ -1,0 +1,20 @@
+id: cm-000060
+area: listening
+kind: evidence
+topic: Paraphrasing
+topic_type: Technique
+true_statement: In Weger's experiments, a paraphrase on its own did not make speakers feel more understood, but paraphrasing combined with follow-up questions did.
+false_statement: In Weger's experiments, a paraphrase on its own made speakers feel more understood, but adding follow-up questions to the paraphrase gave no further benefit.
+explanation: The 2010 study found a bare paraphrase mainly made the listener seem more likable; the 2014 follow-up, which paired paraphrasing with requests for more detail, raised feeling understood. So follow a restatement with a genuine question.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/paraphrasing.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: cb0f7cf7d8400b1297c469b838bcd384b640c5b5
+concepts:
+- cm:paraphrasing
+- cm:weger-castle-emmett-2010
+- cm:weger-et-al-2014
+difficulty: 3
+created: '2026-11-18'
+status: active

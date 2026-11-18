@@ -1,0 +1,19 @@
+id: cm-000103
+area: barriers-and-psychology
+kind: scenario
+topic: Self-distancing strategies
+topic_type: Technique
+true_statement: The most junior person in a cross-team review tells herself, "Priya, you spotted a real gap. Ask one short question about the churn assumption, then let the lead answer." That is distanced self-talk.
+false_statement: The most junior person in a cross-team review tells herself, "Priya, you spotted a real gap. Ask one short question about the churn assumption, then let the lead answer." That is anxiety reappraisal.
+explanation: The tell is coaching herself by name, as "you", which shifts her vantage point rather than relabelling her racing heart as excitement. Reappraisal changes what the arousal means; distancing changes who is looking.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/self-distancing.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 5e93d581ea777145db9da947e85d2b70c9a7420c
+concepts:
+- cm:self-distancing
+- cm:anxiety-reappraisal
+difficulty: 2
+created: '2026-11-18'
+status: active

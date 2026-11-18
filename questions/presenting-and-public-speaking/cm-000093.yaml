@@ -1,0 +1,20 @@
+id: cm-000093
+area: presenting-and-public-speaking
+kind: figure
+topic: Public speaking anxiety
+topic_type: Barrier
+true_statement: A 2019 meta-analysis of 30 randomized trials found psychological treatments reduced fear of public speaking with a moderate-to-large effect (g = 0.74) that grew larger at follow-up.
+false_statement: A 2019 meta-analysis of 30 randomized trials found psychological treatments reduced fear of public speaking with a moderate-to-large effect (g = 0.74) that had faded by follow-up.
+explanation: The effect rose to g = 1.11 at follow-up, suggesting people kept improving after treatment. Self-reported gains were larger than physiological or behavioural ones, and small trial arms are a limit.
+as_of: '2019'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/speaking-anxiety.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: e3d860b17169d5019553e0a9820ad6e2b068cfd2
+concepts:
+- cm:speaking-anxiety
+- cm:ebrahimi-et-al-2019
+difficulty: 3
+created: '2026-11-18'
+status: active

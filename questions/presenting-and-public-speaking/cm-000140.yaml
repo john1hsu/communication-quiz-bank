@@ -1,0 +1,19 @@
+id: cm-000140
+area: presenting-and-public-speaking
+kind: practice
+topic: Assertion-evidence slides
+topic_type: Technique
+true_statement: Replace a slide titled "Q3 delivery performance" with five bullets by one headed "Late deliveries doubled after July because Warehouse B lost its night shift," above the chart that shows it.
+false_statement: Improve a slide titled "Q3 delivery performance" with five bullets by keeping the title and adding the night-shift cause as a sixth, bolded bullet at the bottom.
+explanation: The sentence headline carries the conclusion, so leaders who only glance still get the cause, and the chart proves it. Another bullet keeps the topic title and still makes the audience find the point.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/assertion-evidence-slides.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 3fec030ab82f57f72b44d50d0f4cf2d02a0b7bc2
+concepts:
+- cm:assertion-evidence-slides
+- cm:death-by-powerpoint
+difficulty: 2
+created: '2026-11-18'
+status: active

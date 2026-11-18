@@ -1,0 +1,20 @@
+id: cm-000095
+area: questioning-and-conversation
+kind: practice
+topic: Humble inquiry
+topic_type: Technique
+true_statement: When a report hands in a client analysis in an unexpected format the day before the review, ask them to walk you through what they were going for before asking for any changes.
+false_statement: When a report hands in a client analysis in an unexpected format the day before the review, tell them to redo it in the standard template tonight and discuss their reasoning after the review.
+explanation: Asking first surfaces reasons the lead may not know, such as a client request, and still leaves time to agree a format. Telling first assumes the lead already has all the information and shuts the report down.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/humble-inquiry.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: e27387075d4a56350d37696ec37c1fb618acc26c
+concepts:
+- cm:humble-inquiry
+- cm:one-on-one-meetings
+- cm:telling-instead-of-asking
+difficulty: 2
+created: '2026-11-18'
+status: active

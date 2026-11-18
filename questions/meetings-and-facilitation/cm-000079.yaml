@@ -1,0 +1,19 @@
+id: cm-000079
+area: meetings-and-facilitation
+kind: scenario
+topic: Nominal group technique
+topic_type: Technique
+true_statement: During the round robin of a nominal group session, a junior analyst reads out her idea and a senior lead cuts in, "We tried that, it won't work." That is debate leaking into the round robin, which the facilitator should stop.
+false_statement: During the round robin of a nominal group session, a junior analyst reads out her idea and a senior lead cuts in, "We tried that, it won't work." That is the clarification stage working as intended.
+explanation: The round robin only records ideas, with no evaluation; even clarification is limited to explaining items, not judging them. Early critique from a senior voice brings back the blocking and status effects NGT exists to remove.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/nominal-group-technique.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: daf8239f5c06856b53fd45458d0a2b8bae240fa7
+concepts:
+- cm:nominal-group-technique
+- cm:unequal-participation
+difficulty: 2
+created: '2026-11-18'
+status: active

@@ -1,0 +1,20 @@
+id: cm-000143
+area: questioning-and-conversation
+kind: practice
+topic: Small talk at work
+topic_type: Skill
+true_statement: Joining a video call early, recall something the colleague mentioned last time, ask one follow-up about it, share a small detail of your own, then bridge cleanly to the agenda.
+false_statement: Joining a video call early, keep to a quick "Busy week?" and let the silence sit until the agenda starts, so you don't seem to be prying.
+explanation: A specific opener and a follow-up show you were listening, a bit of self-disclosure keeps it balanced, and the bridge ends it gracefully. The generic opener and silence miss the rapport the minutes could build.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/small-talk.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 6be90036288cad8c867947e69ed8fd1ccf79d76b
+concepts:
+- cm:small-talk
+- cm:follow-up-questions
+- cm:rapport
+difficulty: 2
+created: '2026-11-18'
+status: active

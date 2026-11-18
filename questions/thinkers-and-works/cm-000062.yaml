@@ -1,0 +1,19 @@
+id: cm-000062
+area: thinkers-and-works
+kind: origin
+topic: Effective Writing for Army Leaders
+topic_type: Work
+true_statement: The 1986 Army pamphlet Effective Writing for Army Leaders told leaders to insist on the bottom line first, crediting the habit to business writers.
+false_statement: The 1986 Army pamphlet Effective Writing for Army Leaders told leaders to insist on the bottom line first, presenting the habit as a new Army invention.
+explanation: DA Pam 600-67 is the earliest official BLUF instruction found, but it explicitly says business writers already did this. Later Army texts gave the habit the BLUF name.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/effective-writing-for-army-leaders.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: d59768be8a6ae348df95142328847d6be8fd55d2
+concepts:
+- cm:effective-writing-for-army-leaders
+- cm:bottom-line-up-front
+difficulty: 2
+created: '2026-11-18'
+status: active

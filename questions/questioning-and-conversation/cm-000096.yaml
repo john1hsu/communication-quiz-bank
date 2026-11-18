@@ -1,0 +1,19 @@
+id: cm-000096
+area: questioning-and-conversation
+kind: mechanism
+topic: Humble inquiry
+topic_type: Technique
+true_statement: In Huang and colleagues' experiments, asking more questions made people better liked largely because their partners said more about themselves in response.
+false_statement: In Huang and colleagues' experiments, asking more questions made people better liked largely because the askers came across as more competent and better informed.
+explanation: Extra disclosure by the partner accounted for much of the rise in liking. The effects were small to moderate and come from a nearby behaviour, since humble inquiry itself is untested practitioner advice.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/humble-inquiry.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: e27387075d4a56350d37696ec37c1fb618acc26c
+concepts:
+- cm:humble-inquiry
+- cm:huang-et-al-2017
+difficulty: 3
+created: '2026-11-18'
+status: active

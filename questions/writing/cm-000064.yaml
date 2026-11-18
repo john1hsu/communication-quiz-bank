@@ -1,0 +1,19 @@
+id: cm-000064
+area: writing
+kind: practice
+topic: Bottom line up front
+topic_type: Technique
+true_statement: Before sending a decision email, reread only the subject line and first two sentences and ask whether a busy reader could act correctly on those alone.
+false_statement: Before sending a decision email, reread it top to bottom and check that the background builds logically toward the request in the closing paragraph.
+explanation: The BLUF self-check tests the opening, because many readers stop there. A message that builds to the ask at the end is the buried structure BLUF is meant to fix.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/bottom-line-up-front.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 8022350660bd3defaae3dfbaf0dcf48a78553447
+concepts:
+- cm:bottom-line-up-front
+- cm:email
+difficulty: 1
+created: '2026-11-18'
+status: active

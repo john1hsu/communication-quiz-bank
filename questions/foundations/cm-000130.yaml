@@ -1,0 +1,19 @@
+id: cm-000130
+area: foundations
+kind: scenario
+topic: Grice's cooperative principle
+topic_type: Principle
+true_statement: Asked if the vendor migration is on track, a lead replies, "Most of the cutover tasks are done," though all of them are. Via the Quantity maxim, the manager will infer that some tasks are late.
+false_statement: Asked if the vendor migration is on track, a lead replies, "Most of the cutover tasks are done," though all of them are. Via the Quality maxim, the manager will infer that some tasks are late.
+explanation: Listeners assume you are as informative as needed, so a weaker word like "most" implies the stronger "all" isn't true. Quality is about saying only what you believe and can back up, which the lead did.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/grices-maxims.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: caeee91b2f7c898a93e0bf42cfb85f2c5ffd0af8
+concepts:
+- cm:grices-maxims
+- cm:pragmatics
+difficulty: 2
+created: '2026-11-18'
+status: active

@@ -1,0 +1,20 @@
+id: cm-000084
+area: negotiation
+kind: figure
+topic: First offer
+topic_type: Technique
+true_statement: A 2025 meta-analysis of 90 negotiation studies found the size of the first offer correlated strongly with the final agreement value (r = .62).
+false_statement: A 2025 meta-analysis of 90 negotiation studies found the size of the first offer correlated only weakly with the final agreement value (r = .16).
+explanation: The pull of the opening number on the final deal was strong, which is why the effect is rated robust. The same analysis also found that very ambitious openings led to more impasses.
+as_of: '2025'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/first-offer.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 59faacd1bedcbfafe7169e1ddf11be2e7a885926
+concepts:
+- cm:first-offer
+- cm:petrowsky-et-al-2025
+difficulty: 3
+created: '2026-11-18'
+status: active

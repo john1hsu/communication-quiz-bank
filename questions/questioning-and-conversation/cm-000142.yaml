@@ -1,0 +1,20 @@
+id: cm-000142
+area: questioning-and-conversation
+kind: scenario
+topic: Small talk at work
+topic_type: Skill
+true_statement: Waiting for a client call to start, a consultant asks five quick questions in a row about the client's weekend, team and commute, sharing nothing about herself. That one-way questioning can feel guarded or intrusive.
+false_statement: Waiting for a client call to start, a consultant asks five quick questions in a row about the client's weekend, team and commute, sharing nothing about herself. That is skilled small talk, since more questions always make people like you more.
+explanation: Questions help, especially follow-ups, but small talk should be reciprocal. After a question or two she should add a short, relevant fact about herself so it feels like a conversation, not an interview.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/small-talk.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 6be90036288cad8c867947e69ed8fd1ccf79d76b
+concepts:
+- cm:small-talk
+- cm:reciprocal-self-disclosure
+- cm:follow-up-questions
+difficulty: 3
+created: '2026-11-18'
+status: active

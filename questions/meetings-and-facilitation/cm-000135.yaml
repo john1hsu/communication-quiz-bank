@@ -1,0 +1,19 @@
+id: cm-000135
+area: meetings-and-facilitation
+kind: evidence
+topic: Meeting agendas
+topic_type: Technique
+true_statement: In Leach and colleagues' 2009 surveys, circulating a written agenda before the meeting was linked to higher perceived effectiveness, while one handed out only at the meeting showed no significant link.
+false_statement: In Leach and colleagues' 2009 surveys, handing out a written agenda at the start of the meeting was linked to higher perceived effectiveness, while one circulated beforehand showed no significant link.
+explanation: The benefit is tied to sending it ahead, partly because attendees then feel more involved. The links were small and correlational, so the agenda's design and use matter more than its existence.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/meeting-agendas.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 764a35a21bf30eb6bea3de7221008d77a0a062c2
+concepts:
+- cm:meeting-agendas
+- cm:leach-et-al-2009
+difficulty: 3
+created: '2026-11-18'
+status: active

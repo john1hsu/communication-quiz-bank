@@ -1,0 +1,19 @@
+id: cm-000112
+area: listening
+kind: scenario
+topic: Active listening
+topic_type: Skill
+true_statement: A teammate says she's worried her client demo will flop, and her lead replies at once, "Don't worry, you'll be great!" Rogers and Farson would count that quick reassurance as a response that can shut down honest talk.
+false_statement: A teammate says she's worried her client demo will flop, and her lead replies at once, "Don't worry, you'll be great!" Rogers and Farson would count that as active listening, since it answers the feeling behind her words.
+explanation: 'Reassurance skips understanding: it tells her how to feel instead of showing he grasped what worries her. Reflecting the worry and asking what concerns her most would keep her talking.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/active-listening.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 9bbd0ac7d4c753e702757a092667d1244f6713c2
+concepts:
+- cm:active-listening
+- cm:carl-rogers
+difficulty: 2
+created: '2026-11-18'
+status: active

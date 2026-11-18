@@ -1,0 +1,20 @@
+id: cm-000141
+area: presenting-and-public-speaking
+kind: evidence
+topic: Assertion-evidence slides
+topic_type: Technique
+true_statement: An independent 2023 study of engineering students found assertion-evidence slides lowered perceived cognitive load but did not improve understanding.
+false_statement: An independent 2023 study of engineering students found assertion-evidence slides improved understanding but did not lower perceived cognitive load.
+explanation: It replicated the lighter-load result from the developers' own studies but not the comprehension gain. That is why the method is a promising default rather than a proven rule.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/assertion-evidence-slides.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 3fec030ab82f57f72b44d50d0f4cf2d02a0b7bc2
+concepts:
+- cm:assertion-evidence-slides
+- cm:alzayed-alzamel-2023
+- cm:cognitive-load
+difficulty: 3
+created: '2026-11-18'
+status: active

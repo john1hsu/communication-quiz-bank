@@ -1,0 +1,20 @@
+id: cm-000123
+area: cross-cultural-communication
+kind: origin
+topic: Describe-analyze-evaluate
+topic_type: Technique
+true_statement: In 2008 Kyoung-Ah Nam and John Condon proposed renaming the D.I.E. exercise D.A.E., partly because "interpret" and "evaluate" are near-synonyms in everyday speech.
+false_statement: In 2008 Janet and Milton Bennett proposed renaming the D.I.E. exercise D.A.E., partly because "interpret" and "evaluate" are near-synonyms in everyday speech.
+explanation: The Bennetts adapted the exercise for intercultural workshops in 1975; the D.A.E. renaming came from Nam and Condon decades later. They also noted trainers kept apologising for the D.I.E. acronym.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/describe-analyze-evaluate.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: a6e71d6d4b2ae33c42e06cd255c354e806b455d1
+concepts:
+- cm:describe-analyze-evaluate
+- cm:janet-bennett
+- cm:milton-bennett
+difficulty: 2
+created: '2026-11-18'
+status: active

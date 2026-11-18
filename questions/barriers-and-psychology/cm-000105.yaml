@@ -1,0 +1,20 @@
+id: cm-000105
+area: barriers-and-psychology
+kind: figure
+topic: Self-distancing strategies
+topic_type: Technique
+true_statement: In 2016 spotlight-effect experiments, people imagining an embarrassing entrance in the first person guessed about 47-48% of the room would notice, versus about 27-30% with a third-person view.
+false_statement: In 2016 spotlight-effect experiments, people imagining an embarrassing entrance in the first person guessed about 27-30% of the room would notice, versus about 47-48% with a third-person view.
+explanation: The observer's vantage point brought estimates closer to the real noticing rate and cut embarrassment. The samples were small and from one university, so treat it as suggestive.
+as_of: '2016'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/self-distancing.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 5e93d581ea777145db9da947e85d2b70c9a7420c
+concepts:
+- cm:self-distancing
+- cm:spotlight-effect
+difficulty: 3
+created: '2026-11-18'
+status: active

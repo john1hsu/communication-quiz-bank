@@ -1,0 +1,19 @@
+id: cm-000097
+area: thinkers-and-works
+kind: definition
+topic: Message Equivocality, Media Selection, and Manager Performance
+topic_type: Work
+true_statement: In Daft and Lengel's theory, equivocality means competing interpretations of a situation, reduced only by exchanging views, while uncertainty means missing data, reduced by more information.
+false_statement: In Daft and Lengel's theory, uncertainty means competing interpretations of a situation, reduced only by exchanging views, while equivocality means missing data, reduced by more information.
+explanation: 'The distinction drives channel choice: a lean report can fill a data gap, but differing readings of a situation need a rich, two-way channel. A schedule update is uncertainty; a disputed reorganisation is equivocality.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/message-equivocality-media-selection-and-manager-performance.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: d9c0a2a98e8a5d88afa5cbd0d1b6940bcb32ae90
+concepts:
+- cm:message-equivocality-media-selection-and-manager-performance
+- cm:media-richness-theory
+difficulty: 2
+created: '2026-11-18'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000054
+area: cross-cultural-communication
+kind: evidence
+topic: High- and low-context cultures
+topic_type: Phenomenon
+true_statement: Cardon's review of contexting studies found communication channel was the best-supported part of the high/low-context model, while most studies of directness did not support it.
+false_statement: Cardon's review of contexting studies found directness was the best-supported part of the high/low-context model, while most studies of communication channel did not support it.
+explanation: Directness is the part most often discussed, yet it fared worst in the empirical tests; channel preferences held up best. That is one reason the model is treated as contested.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/high-and-low-context-cultures.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 76c05b5a4e658211cedb2987459150f1c144a934
+concepts:
+- cm:high-and-low-context-cultures
+- cm:cardon-2008
+difficulty: 3
+created: '2026-11-18'
+status: active

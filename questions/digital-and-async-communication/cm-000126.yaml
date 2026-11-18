@@ -1,0 +1,20 @@
+id: cm-000126
+area: digital-and-async-communication
+kind: evidence
+topic: Camera-optional norm
+topic_type: Technique
+true_statement: Bennett and colleagues' hourly surveys of employees found no significant link between camera use and post-meeting fatigue, while group belonging was the strongest buffer.
+false_statement: Bennett and colleagues' hourly surveys of employees found camera use was the strongest predictor of post-meeting fatigue, while group belonging made no difference.
+explanation: Their study challenges the camera effect that Shockley's experiment found, which is why the evidence is mixed. Both point toward giving choice while keeping connection, for example with a short cameras-on check-in.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/camera-optional-norm.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 2f5d9dbc88a48fb762b050a6c69a2ee7ba6f46eb
+concepts:
+- cm:camera-optional-norm
+- cm:bennett-et-al-2021
+- cm:zoom-fatigue
+difficulty: 3
+created: '2026-11-18'
+status: active

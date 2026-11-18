@@ -1,0 +1,19 @@
+id: cm-000050
+area: barriers-and-psychology
+kind: practice
+topic: Illusion of transparency
+topic_type: Barrier
+true_statement: When a chat message depends on tone, such as a deadpan joke or mild annoyance, state the intent in words ("this is a joke", "I'm concerned about this date") rather than trusting tone to carry it.
+false_statement: When a chat message depends on tone, such as a deadpan joke or mild annoyance, keep it short and trust a colleague who knows you well to read the tone correctly.
+explanation: Email senders overestimate how well sarcasm, anger or humour come through, even with people who know them. Naming the intent removes the guesswork that text can't carry.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/illusion-of-transparency.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 7c8850bdee08cbeefdfb9bf39b7c27d549a1b280
+concepts:
+- cm:illusion-of-transparency
+- cm:email
+difficulty: 2
+created: '2026-11-18'
+status: active

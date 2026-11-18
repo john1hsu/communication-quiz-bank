@@ -1,0 +1,19 @@
+id: cm-000066
+area: writing
+kind: mechanism
+topic: Bottom line up front
+topic_type: Technique
+true_statement: 'Leading with the bottom line fits how people read: in Kieras''s 1979 experiments, readers usually built a passage''s main idea from its opening sentences.'
+false_statement: 'Leading with the bottom line fits how people read: in Kieras''s 1979 experiments, readers usually built a passage''s main idea from its closing sentences.'
+explanation: A theme sentence placed first shaped readers' summaries more than the same sentence mid-passage. BLUF itself remains practitioner advice, since no controlled study has compared message orders directly.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/bottom-line-up-front.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 8022350660bd3defaae3dfbaf0dcf48a78553447
+concepts:
+- cm:bottom-line-up-front
+- cm:kieras-1979-initial-mention
+difficulty: 3
+created: '2026-11-18'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000083
+area: negotiation
+kind: practice
+topic: First offer
+topic_type: Technique
+true_statement: Having found that similar analytics retainers cost $8K-11K a month, a buyer should open with a precise figure near the low end, give a one-sentence reason, then stop and listen.
+false_statement: Having found that similar analytics retainers cost $8K-11K a month, a buyer should say there is no fixed budget yet and ask what the agency would normally charge.
+explanation: Knowing the market as well as the agency, she can set the reference point herself with a stated rationale. Asking them to name a price invites an anchor at the top of the range.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/first-offer.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 59faacd1bedcbfafe7169e1ddf11be2e7a885926
+concepts:
+- cm:first-offer
+- cm:zone-of-possible-agreement
+difficulty: 2
+created: '2026-11-18'
+status: active

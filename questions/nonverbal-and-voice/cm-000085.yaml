@@ -1,0 +1,19 @@
+id: cm-000085
+area: nonverbal-and-voice
+kind: scenario
+topic: Proxemics
+topic_type: Concept
+true_statement: At a trade-show demo, a visiting client keeps stepping closer as a sales engineer talks, and the engineer silently labels him pushy. That reads a likely difference in distance norms as a flaw of character.
+false_statement: At a trade-show demo, a visiting client keeps stepping closer as a sales engineer talks, and the engineer silently labels him pushy. That is an accurate read, since closing distance reliably signals pushiness.
+explanation: People tend to blame closeness on the person rather than on a cultural norm. The better move is to assume a norm difference first and adjust, since comfortable distances vary by culture, gender and age.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/proxemics.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: df6f118b088752f71ee4be0cfad56167f93d9278
+concepts:
+- cm:proxemics
+- cm:intercultural-communication
+difficulty: 2
+created: '2026-11-18'
+status: active

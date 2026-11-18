@@ -1,0 +1,19 @@
+id: cm-000073
+area: feedback-and-coaching
+kind: scenario
+topic: Feedback
+topic_type: Concept
+true_statement: After a client workshop, a lead tells the presenter, "You're a natural presenter!" In Hattie and Timperley's terms that is self-level feedback, the kind that carries the least usable information.
+false_statement: After a client workshop, a lead tells the presenter, "You're a natural presenter!" In Hattie and Timperley's terms that is process-level feedback, the kind with the most powerful effect.
+explanation: It praises the person, not the work, so there is nothing to repeat. Process feedback would name what worked, such as opening with the client's own churn numbers before the recommendations.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/feedback.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: e8cfdb5881e7ff75a7f39c5a9b64a2b50d006dea
+concepts:
+- cm:feedback
+- cm:hattie-timperley-feedback-model
+difficulty: 2
+created: '2026-11-18'
+status: active

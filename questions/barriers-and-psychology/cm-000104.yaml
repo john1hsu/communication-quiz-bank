@@ -1,0 +1,18 @@
+id: cm-000104
+area: barriers-and-psychology
+kind: practice
+topic: Self-distancing strategies
+topic_type: Technique
+true_statement: Use distanced self-talk to steady yourself before a tense meeting, but switch back to "I" when you make a personal commitment, such as "I will raise the risk at Thursday's review."
+false_statement: Use distanced self-talk to steady yourself before a tense meeting, and keep using your own name even when you make a personal commitment, such as "Sam will raise the risk at Thursday's review."
+explanation: Seeing yourself from outside may weaken identification with your future self, so researchers suggest the first person for commitments. Distancing is for appraising the moment, not for owning the promise.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/self-distancing.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 5e93d581ea777145db9da947e85d2b70c9a7420c
+concepts:
+- cm:self-distancing
+difficulty: 3
+created: '2026-11-18'
+status: active

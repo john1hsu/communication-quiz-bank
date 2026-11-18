@@ -1,0 +1,19 @@
+id: cm-000049
+area: barriers-and-psychology
+kind: scenario
+topic: Illusion of transparency
+topic_type: Barrier
+true_statement: A manager leaves a project review sure her disappointment over the slipped milestone was plain on her face, then is surprised when the lead calls the review "positive." She was caught by the illusion of transparency.
+false_statement: A manager leaves a project review sure her disappointment over the slipped milestone was plain on her face, then is surprised when the lead calls the review "positive." She was caught by the curse of knowledge.
+explanation: She overestimated how visible her own feeling was, which is the illusion of transparency. The curse of knowledge is about overestimating what others know; the fix here is to say the concern in words.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/illusion-of-transparency.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 7c8850bdee08cbeefdfb9bf39b7c27d549a1b280
+concepts:
+- cm:illusion-of-transparency
+- cm:curse-of-knowledge
+difficulty: 2
+created: '2026-11-18'
+status: active

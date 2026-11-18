@@ -1,0 +1,19 @@
+id: cm-000074
+area: feedback-and-coaching
+kind: practice
+topic: Feedback
+topic_type: Concept
+true_statement: When asking a colleague for input on your work, say which kind you need (appreciation, coaching or evaluation) and ask a narrow question such as "What's one thing I could do differently?"
+false_statement: When asking a colleague for input on your work, ask a broad "Any feedback for me?" and leave it to them to decide which kind of feedback to give.
+explanation: Heen notes people want different kinds of feedback at different times, and evaluation can drown out the coaching inside it. Naming the kind and narrowing the question makes the answer usable.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/feedback.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: e8cfdb5881e7ff75a7f39c5a9b64a2b50d006dea
+concepts:
+- cm:feedback
+- cm:receiving-feedback
+difficulty: 2
+created: '2026-11-18'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000110
+area: feedback-and-coaching
+kind: practice
+topic: Feedforward
+topic_type: Technique
+true_statement: Rather than asking for feedback on last week's overrun kick-off, say "I'm working on running kick-offs that finish on time. Could you give me two ideas to try at the next one?"
+false_statement: Rather than asking for ideas for the next kick-off, ask "Could you give me feedback on last week's kick-off? It ran over, but the client kept raising scope questions."
+explanation: The forward version names a goal, bounds the request to two ideas and avoids reopening the past. Asking about last week while explaining the overrun opens with a defence, so the colleague has to argue to be useful.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/feedforward.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: a4b9c9ee52b3955f35737a272baa741703be0c72
+concepts:
+- cm:feedforward
+- cm:defensiveness
+difficulty: 2
+created: '2026-11-18'
+status: active

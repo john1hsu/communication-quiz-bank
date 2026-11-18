@@ -1,0 +1,18 @@
+id: cm-000080
+area: meetings-and-facilitation
+kind: practice
+topic: Nominal group technique
+topic_type: Technique
+true_statement: Once the numbered list of ideas has been clarified, have each person privately rank their top five items and tally the scores in front of the group before discussing priorities.
+false_statement: Once the numbered list of ideas has been clarified, open a group discussion of which items matter most and finish with a show of hands on the favourites.
+explanation: Private ranking lets everyone weigh in before seniors' preferences are visible. An open debate and a public vote let the first strong voice anchor the room, the problem the method is built to avoid.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/nominal-group-technique.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: daf8239f5c06856b53fd45458d0a2b8bae240fa7
+concepts:
+- cm:nominal-group-technique
+difficulty: 2
+created: '2026-11-18'
+status: active

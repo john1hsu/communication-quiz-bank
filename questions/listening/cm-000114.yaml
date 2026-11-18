@@ -1,0 +1,20 @@
+id: cm-000114
+area: listening
+kind: figure
+topic: Active listening
+topic_type: Skill
+true_statement: In a 2024 meta-analysis of feeling listened to at work, the link with job performance fell to about r = .21 when only other-rated data were used.
+false_statement: In a 2024 meta-analysis of feeling listened to at work, the link with job performance rose to about r = .61 when only other-rated data were used.
+explanation: About three-quarters of the pooled data were self-reports, which inflate associations. Removing that bias shrank the performance link, though it remained positive.
+as_of: '2024'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/active-listening.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 9bbd0ac7d4c753e702757a092667d1244f6713c2
+concepts:
+- cm:active-listening
+- cm:kluger-et-al-2024
+difficulty: 3
+created: '2026-11-18'
+status: active

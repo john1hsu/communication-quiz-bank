@@ -1,0 +1,19 @@
+id: cm-000055
+area: digital-and-async-communication
+kind: scenario
+topic: Email
+topic_type: Channel
+true_statement: A designer emails a director with the subject "Quick question" and three paragraphs of project history before finally asking for sign-off on the mockups by Friday. The email buries its request.
+false_statement: A designer emails a director with the subject "Quick question" and three paragraphs of project history before finally asking for sign-off on the mockups by Friday. The email is well built, giving context before the ask.
+explanation: A vague subject and an ask hidden under background are two classic email pitfalls. A better version names the action in the subject and opens with the sign-off request and its Friday deadline.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/email.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 551a81b691a85021b0acb40d4a00ea075bc96ae0
+concepts:
+- cm:email
+- cm:bottom-line-up-front
+difficulty: 1
+created: '2026-11-18'
+status: active

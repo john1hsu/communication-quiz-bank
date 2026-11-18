@@ -1,0 +1,19 @@
+id: cm-000076
+area: foundations
+kind: scenario
+topic: Rapport
+topic_type: Concept
+true_statement: Before a pricing call, a sales lead plans to build rapport by copying the client's posture and gestures. That treats a sign of being in sync as a lever, which the original account of rapport does not support.
+false_statement: Before a pricing call, a sales lead plans to build rapport by copying the client's posture and gestures. That is the core rapport-building move the research recommends most often.
+explanation: Mirroring emerges once people are coordinated; it is not a technique to perform. The research most often builds rapport through active listening, personal interest and self-disclosure, with body cues in only about a tenth of studies.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/rapport.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 42ef8d8dd002612dcb716a7f60057e1abf5c1459
+concepts:
+- cm:rapport
+- cm:nonverbal-communication
+difficulty: 2
+created: '2026-11-18'
+status: active

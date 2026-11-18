@@ -1,0 +1,20 @@
+id: cm-000082
+area: negotiation
+kind: scenario
+topic: First offer
+topic_type: Technique
+true_statement: A candidate with no data on a role's pay band asks the hiring manager what range the company had in mind before naming any number. Holding back fits first-offer guidance, because the other side knows the range better.
+false_statement: A candidate with no data on a role's pay band asks the hiring manager what range the company had in mind before naming any number. That throws away the first-mover advantage, since opening first always pays.
+explanation: 'The advantage depends on information: move first when you know the zone of agreement at least as well as the other side. Uninformed openers in Maaravi and Levy''s studies landed far off the market in both directions.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/first-offer.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 59faacd1bedcbfafe7169e1ddf11be2e7a885926
+concepts:
+- cm:first-offer
+- cm:salary-negotiation
+- cm:maaravi-levy-2017
+difficulty: 3
+created: '2026-11-18'
+status: active

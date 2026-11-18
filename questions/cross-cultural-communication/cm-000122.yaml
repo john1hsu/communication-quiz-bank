@@ -1,0 +1,19 @@
+id: cm-000122
+area: cross-cultural-communication
+kind: practice
+topic: Describe-analyze-evaluate
+topic_type: Technique
+true_statement: If a newly transferred engineer stays silent in design reviews and emails good concerns afterwards, name that pattern and ask how disagreements were raised on teams they've worked on.
+false_statement: If a newly transferred engineer stays silent in design reviews and emails good concerns afterwards, tell them to say it in the room, since emailing later looks like going around the team.
+explanation: The better reply leads with the observable pattern, allows several explanations and checks before judging. The worse one presents an evaluation, going around the team, as fact, when the engineer may follow a different norm.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/describe-analyze-evaluate.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: a6e71d6d4b2ae33c42e06cd255c354e806b455d1
+concepts:
+- cm:describe-analyze-evaluate
+- cm:humble-inquiry
+difficulty: 2
+created: '2026-11-18'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000092
+area: presenting-and-public-speaking
+kind: practice
+topic: Public speaking anxiety
+topic_type: Barrier
+true_statement: To build tolerance for speaking, volunteer for short, low-stakes slots such as a two-minute stand-up update before taking on a long, high-stakes briefing.
+false_statement: To build tolerance for speaking, take on the longest, highest-stakes briefing you can get first, so that every smaller talk afterwards feels easy.
+explanation: The evidence comes mostly from cognitive and behavioural programmes that use graded exposure. Repeated small steps closer to the real setting build tolerance; jumping straight to the hardest case is not what those programmes do.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/speaking-anxiety.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: e3d860b17169d5019553e0a9820ad6e2b068cfd2
+concepts:
+- cm:speaking-anxiety
+- cm:presentation-rehearsal
+difficulty: 1
+created: '2026-11-18'
+status: active

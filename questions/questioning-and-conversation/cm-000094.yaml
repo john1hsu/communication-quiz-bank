@@ -1,0 +1,19 @@
+id: cm-000094
+area: questioning-and-conversation
+kind: scenario
+topic: Humble inquiry
+topic_type: Technique
+true_statement: A director asks her team, "What should we do about the vendor?", listens to twenty minutes of ideas, then announces the plan she had drafted beforehand, unchanged. That is asking then ignoring, which teaches people the door isn't really open.
+false_statement: A director asks her team, "What should we do about the vendor?", listens to twenty minutes of ideas, then announces the plan she had drafted beforehand, unchanged. That is humble inquiry, since she asked before deciding.
+explanation: Humble inquiry needs real curiosity and a willingness to learn something that changes your view. Asking for input and deciding exactly as planned shows the question was a formality.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/humble-inquiry.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: e27387075d4a56350d37696ec37c1fb618acc26c
+concepts:
+- cm:humble-inquiry
+- cm:detert-burris-2007
+difficulty: 2
+created: '2026-11-18'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000124
+area: digital-and-async-communication
+kind: scenario
+topic: Camera-optional norm
+topic_type: Technique
+true_statement: A team charter says cameras are optional at stand-up, but the lead keeps her own camera on every call and remarks whenever a tile goes dark. Her behaviour sets an unspoken cameras-on rule despite the written norm.
+false_statement: A team charter says cameras are optional at stand-up, but the lead keeps her own camera on every call and remarks whenever a tile goes dark. The team has a working camera-optional norm, since it is written down.
+explanation: 'People read the real rule from what leaders do and reward, and the share of visible webcams strongly predicts whether others switch theirs on. The fix is to model it: switch off yourself and stop commenting on dark tiles.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/camera-optional-norm.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 2f5d9dbc88a48fb762b050a6c69a2ee7ba6f46eb
+concepts:
+- cm:camera-optional-norm
+- cm:meeting-norms
+difficulty: 2
+created: '2026-11-18'
+status: active

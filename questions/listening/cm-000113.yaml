@@ -1,0 +1,19 @@
+id: cm-000113
+area: listening
+kind: practice
+topic: Active listening
+topic_type: Skill
+true_statement: In a heated disagreement over priorities, restate the other person's point to their satisfaction before you state your own view.
+false_statement: In a heated disagreement over priorities, state your own view briefly first so they know where you stand, then restate their point.
+explanation: Rogers and Farson proposed this discipline because being understood lowers the threat that makes people defend their position. Leading with your view invites a counter-argument before they feel heard.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/active-listening.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 9bbd0ac7d4c753e702757a092667d1244f6713c2
+concepts:
+- cm:active-listening
+- cm:defensiveness
+difficulty: 1
+created: '2026-11-18'
+status: active

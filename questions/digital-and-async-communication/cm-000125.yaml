@@ -1,0 +1,19 @@
+id: cm-000125
+area: digital-and-async-communication
+kind: practice
+topic: Camera-optional norm
+topic_type: Technique
+true_statement: When setting a camera-optional norm, tell newer colleagues directly, one-to-one, that turning the camera off will not count against them.
+false_statement: When setting a camera-optional norm, let newer colleagues pick it up by watching what the rest of the team does, so it doesn't feel like special treatment.
+explanation: In Shockley's experiment the fatigue cost of cameras-on was larger for newer employees, who feel most pressure to look attentive. Saying it to them directly removes the guesswork that watching others leaves.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/camera-optional-norm.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 2f5d9dbc88a48fb762b050a6c69a2ee7ba6f46eb
+concepts:
+- cm:camera-optional-norm
+- cm:shockley-et-al-2021
+difficulty: 2
+created: '2026-11-18'
+status: active

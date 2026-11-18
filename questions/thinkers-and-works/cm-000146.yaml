@@ -1,0 +1,19 @@
+id: cm-000146
+area: thinkers-and-works
+kind: origin
+topic: William Strunk Jr.
+topic_type: Person
+true_statement: William Strunk Jr. first printed The Elements of Style privately in 1918, as a short text for his own English classes at Cornell.
+false_statement: William Strunk Jr. first printed The Elements of Style in 1918 as a commercial handbook for office and business writers.
+explanation: It began as a 43-page classroom text with numbered rules instructors could cite when marking work; a commercial edition followed in 1920, and E. B. White's revision in 1959.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/william-strunk-jr.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: d9f86be5196a68433597e3141f7182f6874f3a4a
+concepts:
+- cm:william-strunk-jr
+- cm:the-elements-of-style
+difficulty: 2
+created: '2026-11-18'
+status: active

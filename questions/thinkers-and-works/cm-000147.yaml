@@ -1,0 +1,20 @@
+id: cm-000147
+area: thinkers-and-works
+kind: evidence
+topic: William Strunk Jr.
+topic_type: Person
+true_statement: Linguist Geoffrey Pullum granted that The Elements of Style counsels moderation on the passive, but argued most of the sentences it offers as passives are not passives at all.
+false_statement: Linguist Geoffrey Pullum argued that The Elements of Style bans the passive outright, though he granted that its example passive sentences are correctly identified.
+explanation: 'Pullum''s complaint was about grammatical analysis: in the Strunk and White edition, three of the four example passives aren''t passives. The rule itself allows the passive when it''s convenient or necessary.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/william-strunk-jr.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: d9f86be5196a68433597e3141f7182f6874f3a4a
+concepts:
+- cm:william-strunk-jr
+- cm:fifty-years-of-stupid-grammar-advice
+- cm:active-voice
+difficulty: 3
+created: '2026-11-18'
+status: active

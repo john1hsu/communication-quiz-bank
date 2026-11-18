@@ -1,0 +1,19 @@
+id: cm-000090
+area: persuasion-and-influence
+kind: evidence
+topic: Selling issues to leadership
+topic_type: Technique
+true_statement: The main evidence for issue-selling moves comes from retrospective accounts by managers at a single hospital, so the moves are linked to success but have not been tested in controlled trials.
+false_statement: The main evidence for issue-selling moves comes from large controlled trials across many companies, so the moves are known to cause leaders to act on raised issues.
+explanation: The 2001 study gathered 82 recalled accounts from one nonprofit hospital, and its authors note it mostly confirms standard change advice. That is why the technique is rated mixed rather than robust.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/issue-selling.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: dedd27f9e7b0cbce0ac61fe37624892ab7416aee
+concepts:
+- cm:issue-selling
+- cm:dutton-et-al-2001
+difficulty: 3
+created: '2026-11-18'
+status: active

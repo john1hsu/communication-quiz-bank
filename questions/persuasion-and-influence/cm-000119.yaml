@@ -1,0 +1,20 @@
+id: cm-000119
+area: persuasion-and-influence
+kind: practice
+topic: Stakeholder mapping
+topic_type: Technique
+true_statement: Before replacing a tool your whole department uses, give each stakeholder group its own message, messenger, channel and timing based on its power and concerns, rather than one all-staff announcement.
+false_statement: Before replacing a tool your whole department uses, send one clear all-staff announcement two weeks before go-live, so that everyone gets the same message at the same time.
+explanation: A single email treats everyone as one audience and surprises the people who could block the launch or will feel it most. Not everyone needs everything, but everyone needs something.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/stakeholder-mapping.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: b54e6275eee565ed0646d97fe1de4035493fe111
+concepts:
+- cm:stakeholder-mapping
+- cm:ignoring-stakeholders
+- cm:communication-plan
+difficulty: 1
+created: '2026-11-18'
+status: active

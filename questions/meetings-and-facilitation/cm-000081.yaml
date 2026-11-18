@@ -1,0 +1,20 @@
+id: cm-000081
+area: meetings-and-facilitation
+kind: mechanism
+topic: Nominal group technique
+topic_type: Technique
+true_statement: 'Diehl and Stroebe traced most of the idea shortfall in interacting brainstorming groups to production blocking: only one person can speak at a time, so others forget or hold back ideas while waiting.'
+false_statement: 'Diehl and Stroebe traced most of the idea shortfall in interacting brainstorming groups to social loafing: members coast on others'' effort because their own contribution can''t be identified.'
+explanation: Their experiments pinned the loss on waiting for a turn to talk, which is why NGT starts with silent, individual writing. Loafing is a different explanation from the one their work identified.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/nominal-group-technique.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: daf8239f5c06856b53fd45458d0a2b8bae240fa7
+concepts:
+- cm:nominal-group-technique
+- cm:production-blocking
+- cm:brainstorming
+difficulty: 3
+created: '2026-11-18'
+status: active

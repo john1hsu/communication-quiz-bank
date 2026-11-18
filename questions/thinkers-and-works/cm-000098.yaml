@@ -1,0 +1,19 @@
+id: cm-000098
+area: thinkers-and-works
+kind: scenario
+topic: Message Equivocality, Media Selection, and Manager Performance
+topic_type: Work
+true_statement: A director walks over to tell a long-serving engineer about a reorganisation in person, partly to show that she cares. Daft and colleagues' companion study would class that as a symbolic reason for the channel choice.
+false_statement: A director walks over to tell a long-serving engineer about a reorganisation in person, partly to show that she cares. Daft and colleagues' companion study would class that as a situational reason for the channel choice.
+explanation: Symbolic reasons concern what the medium itself signals, such as importance or care. Situational reasons are practical limits like time and distance, which are not what drove this choice.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/message-equivocality-media-selection-and-manager-performance.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: d9c0a2a98e8a5d88afa5cbd0d1b6940bcb32ae90
+concepts:
+- cm:message-equivocality-media-selection-and-manager-performance
+- cm:channel-selection
+difficulty: 2
+created: '2026-11-18'
+status: active

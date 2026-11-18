@@ -1,0 +1,19 @@
+id: cm-000144
+area: questioning-and-conversation
+kind: evidence
+topic: Small talk at work
+topic_type: Skill
+true_statement: 'Methot and colleagues found daily small talk at work had a cost as well as benefits: it disrupted engagement with work, though people high in self-monitoring were less affected.'
+false_statement: 'Methot and colleagues found daily small talk at work had a cost as well as benefits: it disrupted engagement with work, though people low in self-monitoring were less affected.'
+explanation: Small-talk days brought more positive emotion and helping, but the distraction reduced helping too, least so for high self-monitors. Keep chat brief when a colleague is mid-task.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/small-talk.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 6be90036288cad8c867947e69ed8fd1ccf79d76b
+concepts:
+- cm:small-talk
+- cm:methot-et-al-2021
+difficulty: 3
+created: '2026-11-18'
+status: active

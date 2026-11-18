@@ -1,0 +1,19 @@
+id: cm-000088
+area: persuasion-and-influence
+kind: scenario
+topic: Selling issues to leadership
+topic_type: Technique
+true_statement: A support lead opens her ops-review proposal by tying a billing-page fix to leadership's customer-retention goal for the year. In Dutton and colleagues' terms, that is a packaging move.
+false_statement: A support lead opens her ops-review proposal by tying a billing-page fix to leadership's customer-retention goal for the year. In Dutton and colleagues' terms, that is a process move.
+explanation: Packaging means presenting the issue as a business case bundled with goals leaders already own. Process moves concern homework, channels and timing, such as choosing the scheduled ops review as the forum.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/issue-selling.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: dedd27f9e7b0cbce0ac61fe37624892ab7416aee
+concepts:
+- cm:issue-selling
+- cm:dutton-et-al-2001
+difficulty: 2
+created: '2026-11-18'
+status: active

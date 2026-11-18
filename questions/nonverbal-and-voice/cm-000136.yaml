@@ -1,0 +1,20 @@
+id: cm-000136
+area: nonverbal-and-voice
+kind: scenario
+topic: Camera-level gaze on video calls
+topic_type: Technique
+true_statement: A candidate joins a video interview with her laptop flat on the desk, so the camera looks up at her face. That low angle is a common setup mistake; the camera belongs at eye level or slightly above.
+false_statement: A candidate joins a video interview with her laptop flat on the desk, so the camera looks up at her face. That low angle is the recommended setup, since cameras below eye level are judged most positively.
+explanation: Coaches warn a camera looking up at you can make you seem arrogant, and raters judged a slightly high angle more positively. Propping the laptop on books fixes it.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/camera-level-gaze.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 7058d8d51c78c80ce7a6f4b4da7bb17341024701
+concepts:
+- cm:camera-level-gaze
+- cm:job-interview
+- cm:fauville-et-al-2022
+difficulty: 1
+created: '2026-11-18'
+status: active

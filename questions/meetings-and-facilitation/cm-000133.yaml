@@ -1,0 +1,19 @@
+id: cm-000133
+area: meetings-and-facilitation
+kind: scenario
+topic: Meeting agendas
+topic_type: Technique
+true_statement: 'A team lead''s invite for a 45-minute meeting reads: "Agenda: 1. Office move update 2. Desk allocation 3. AOB." Those topic labels give the group no finish line for any item.'
+false_statement: 'A team lead''s invite for a 45-minute meeting reads: "Agenda: 1. Office move update 2. Desk allocation 3. AOB." That is a well-designed agenda, since every item names an area to cover.'
+explanation: A bare noun doesn't say what counts as done or whether people are deciding or listening. "(Decide, 15 min) Which two weeks in March should we move?" gives a question, a purpose and a time box.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/meeting-agendas.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 764a35a21bf30eb6bea3de7221008d77a0a062c2
+concepts:
+- cm:meeting-agendas
+- cm:meeting-design
+difficulty: 1
+created: '2026-11-18'
+status: active

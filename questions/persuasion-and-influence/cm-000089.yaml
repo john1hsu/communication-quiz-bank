@@ -1,0 +1,19 @@
+id: cm-000089
+area: persuasion-and-influence
+kind: practice
+topic: Selling issues to leadership
+topic_type: Technique
+true_statement: When raising a long-ignored problem with leadership, bring the data, a scoped fix and the one decision you want, rather than writing that nobody seems to care.
+false_statement: When raising a long-ignored problem with leadership, make your frustration plain, since showing how strongly the team feels is what gets an issue onto the agenda.
+explanation: Pitching from frustration is the most common mistake; passion can tip into anger on both sides. A calm business case with a proposed solution and a specific ask gives leaders something to decide.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/issue-selling.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: dedd27f9e7b0cbce0ac61fe37624892ab7416aee
+concepts:
+- cm:issue-selling
+- cm:managing-up
+difficulty: 2
+created: '2026-11-18'
+status: active

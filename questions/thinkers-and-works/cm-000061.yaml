@@ -1,0 +1,19 @@
+id: cm-000061
+area: thinkers-and-works
+kind: practice
+topic: Effective Writing for Army Leaders
+topic_type: Work
+true_statement: To coach a junior analyst's status memo with a quick-screen edit, highlight the bottom-line sentence, mark passive verbs and jargon, and hand it back asking them to move the highlight to the top and fix only what is marked.
+false_statement: To coach a junior analyst's status memo with a quick-screen edit, rewrite the whole memo yourself in clean style and hand it back as the model to copy next time.
+explanation: The quick-screen edit is one fast read that marks problems and leaves the fixing to the writer, so the analyst learns the pattern. A full rewrite is slower and teaches less.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/effective-writing-for-army-leaders.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: d59768be8a6ae348df95142328847d6be8fd55d2
+concepts:
+- cm:effective-writing-for-army-leaders
+- cm:quick-screen-edit
+difficulty: 2
+created: '2026-11-18'
+status: active

@@ -1,0 +1,20 @@
+id: cm-000100
+area: writing
+kind: scenario
+topic: Plain language
+topic_type: Principle
+true_statement: A database engineer writes a design note for fellow database specialists and keeps the technical terms they all use. That can still be plain language, because the right level depends on who is reading.
+false_statement: A database engineer writes a design note for fellow database specialists and keeps the technical terms they all use. That breaks plain language, which means avoiding technical terms whatever the audience.
+explanation: Plain language is defined by whether the intended readers can find, understand and use the text; treating it as dumbing down is a common myth. Specialists' shared terms help them, though the same note for clients would need everyday words.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/plain-language.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: e6680e8c15e56cf71028abea4756f363b26a0441
+concepts:
+- cm:plain-language
+- cm:audience-analysis
+- cm:jargon
+difficulty: 2
+created: '2026-11-18'
+status: active

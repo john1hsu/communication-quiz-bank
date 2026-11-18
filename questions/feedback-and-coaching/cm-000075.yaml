@@ -1,0 +1,20 @@
+id: cm-000075
+area: feedback-and-coaching
+kind: mechanism
+topic: Feedback
+topic_type: Concept
+true_statement: Feedback intervention theory holds that feedback helps most when it keeps attention on the task and how to learn it, and loses power as it pulls attention toward the person's self-image.
+false_statement: Feedback intervention theory holds that feedback helps most when it draws attention to the person's standing and self-image, and loses power as it stays narrowly on the task.
+explanation: Kluger and DeNisi explained feedback's mixed results by where it sends attention. Comments about the self pull focus away from the work, which is why the same conversation can lift or sink performance.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/feedback.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: e8cfdb5881e7ff75a7f39c5a9b64a2b50d006dea
+concepts:
+- cm:feedback
+- cm:feedback-intervention-theory
+- cm:kluger-denisi-1996
+difficulty: 2
+created: '2026-11-18'
+status: active

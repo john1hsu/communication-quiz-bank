@@ -1,0 +1,19 @@
+id: cm-000132
+area: foundations
+kind: definition
+topic: Grice's cooperative principle
+topic_type: Principle
+true_statement: 'Grice''s cooperative principle does not require being polite or agreeable: a curt, even evasive reply can still be cooperative in his minimal, rational sense.'
+false_statement: Grice's cooperative principle requires being polite and agreeable, so a curt or evasive reply breaks it and stops listeners inferring meaning.
+explanation: Reading cooperation as niceness is the misreading Davies calls cooperation drift. Grice described the expectations listeners use to work out meaning, which is why even a terse reply carries implications.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/grices-maxims.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: caeee91b2f7c898a93e0bf42cfb85f2c5ffd0af8
+concepts:
+- cm:grices-maxims
+- cm:paul-grice
+difficulty: 3
+created: '2026-11-18'
+status: active

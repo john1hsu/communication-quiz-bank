@@ -1,0 +1,19 @@
+id: cm-000120
+area: persuasion-and-influence
+kind: definition
+topic: Stakeholder mapping
+topic_type: Technique
+true_statement: Stakeholder salience theory holds that the stakeholders who get most attention are those seen to hold power, legitimacy and urgency at the same time.
+false_statement: Stakeholder salience theory holds that the stakeholders who get most attention are those seen to hold power, interest and influence at the same time.
+explanation: Mitchell, Agle and Wood's three attributes are power, legitimacy and urgency, and all three are perceptions that shift over time. Power and interest are the axes of the separate grid.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/stakeholder-mapping.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: b54e6275eee565ed0646d97fe1de4035493fe111
+concepts:
+- cm:stakeholder-mapping
+- cm:stakeholder-salience-theory
+difficulty: 2
+created: '2026-11-18'
+status: active

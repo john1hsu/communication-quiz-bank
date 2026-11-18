@@ -1,0 +1,19 @@
+id: cm-000058
+area: listening
+kind: scenario
+topic: Paraphrasing
+topic_type: Technique
+true_statement: In a one-on-one a tester says the sprint scope keeps changing. Her lead replies, "So the mid-sprint changes leave you rushed and worried about quality, but the client already agreed, so we can't move it." The restatement was a lead-in to rebuttal.
+false_statement: In a one-on-one a tester says the sprint scope keeps changing. Her lead replies, "So the mid-sprint changes leave you rushed and worried about quality, but the client already agreed, so we can't move it." That is paraphrasing done well.
+explanation: 'The "but" straight after the restatement, with no check question, gives it away: the paraphrase set up an argument. Done well, it ends with "Have I got that right?" and holds the lead''s own view until she confirms.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/paraphrasing.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: cb0f7cf7d8400b1297c469b838bcd384b640c5b5
+concepts:
+- cm:paraphrasing
+- cm:active-listening
+difficulty: 2
+created: '2026-11-18'
+status: active

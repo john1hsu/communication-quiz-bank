@@ -1,0 +1,20 @@
+id: cm-000067
+area: difficult-conversations-and-conflict
+kind: scenario
+topic: Defensiveness
+topic_type: Barrier
+true_statement: After a missed release, a manager tells the team, "My read is the handoff broke down somewhere. What would help us hit the next date?" In Gibb's terms she is using provisionalism and problem orientation, cues that lower defensiveness.
+false_statement: After a missed release, a manager tells the team, "My read is the handoff broke down somewhere. What would help us hit the next date?" In Gibb's terms she is using strategy and neutrality, cues that raise defensiveness.
+explanation: '"My read is" offers a view open to correction (provisionalism) and the question frames a shared problem rather than dictating a fix. Strategy means a hidden agenda and neutrality means detachment; neither shows here.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/defensiveness.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 39031df72e94c7341e320929e435f0fca753eede
+concepts:
+- cm:defensiveness
+- cm:jack-gibb
+- cm:communication-climate
+difficulty: 2
+created: '2026-11-18'
+status: active

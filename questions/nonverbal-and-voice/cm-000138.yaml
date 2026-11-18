@@ -1,0 +1,19 @@
+id: cm-000138
+area: nonverbal-and-voice
+kind: mechanism
+topic: Camera-level gaze on video calls
+topic_type: Technique
+true_statement: Placing the other person's video right under your webcam works because people are far less sensitive to gaze slightly below their eyes than to gaze off to the side or above.
+false_statement: Placing the other person's video right under your webcam works because people are far less sensitive to gaze off to the side than to gaze slightly below their eyes.
+explanation: Chen found people about ten times less sensitive to downward gaze, and viewers assume eye contact unless sure it's missing. Sideways glances, like reading a side monitor, are the ones they notice.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/camera-level-gaze.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 7058d8d51c78c80ce7a6f4b4da7bb17341024701
+concepts:
+- cm:camera-level-gaze
+- cm:chen-2002
+difficulty: 2
+created: '2026-11-18'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000108
+area: difficult-conversations-and-conflict
+kind: evidence
+topic: Difficult conversation
+topic_type: Context
+true_statement: In Levine and Cohen's 2018 studies, people expected honest conversations to go worse than they did, mainly because they overestimated how negatively the other person would react.
+false_statement: In Levine and Cohen's 2018 studies, people expected honest conversations to go better than they did, mainly because they underestimated how negatively the other person would react.
+explanation: Those who actually had the conversations found them more enjoyable and connecting than forecasters predicted. The samples were mostly students or online, so it shows a general bias, not a promise about a given talk.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/difficult-conversation.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 63a4e7eff537dfc63eb6630e2c24e10c0a87df22
+concepts:
+- cm:difficult-conversation
+- cm:levine-cohen-2018
+difficulty: 3
+created: '2026-11-18'
+status: active

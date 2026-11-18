@@ -1,0 +1,20 @@
+id: cm-000117
+area: negotiation
+kind: mechanism
+topic: Multiple equivalent simultaneous offers
+topic_type: Technique
+true_statement: In Leonardelli and colleagues' experiments, MESOs anchored counteroffers more strongly than single offers because recipients saw them as a more sincere effort to reach agreement.
+false_statement: In Leonardelli and colleagues' experiments, MESOs anchored counteroffers more strongly than single offers because recipients felt overloaded by the options and settled for the first one.
+explanation: Perceived sincerity made the offers stronger reference points, especially when they were ambitious. Choice overload is a reason to cap MESOs at two or three packages, not the source of their pull.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/multiple-equivalent-simultaneous-offers.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: a0f570eba4332aacce624a5f1e3cf547f1992dd2
+concepts:
+- cm:multiple-equivalent-simultaneous-offers
+- cm:leonardelli-et-al-2019
+- cm:anchoring-and-adjustment
+difficulty: 3
+created: '2026-11-18'
+status: active

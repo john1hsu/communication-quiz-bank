@@ -1,0 +1,20 @@
+id: cm-000137
+area: nonverbal-and-voice
+kind: practice
+topic: Camera-level gaze on video calls
+topic_type: Technique
+true_statement: On a client video call, look into the lens when you make your main point or a request, and watch the client's face in the window under the lens while they respond.
+false_statement: On a client video call, look into the lens for the whole call, including while the client responds, so you never seem to break eye contact.
+explanation: Constant lens-staring adds to video-call fatigue and stops you reading reactions. Reserving lens gaze for key moments gives the effect where it counts while letting you see how the message landed.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/camera-level-gaze.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 7058d8d51c78c80ce7a6f4b4da7bb17341024701
+concepts:
+- cm:camera-level-gaze
+- cm:zoom-fatigue
+- cm:eye-contact
+difficulty: 2
+created: '2026-11-18'
+status: active

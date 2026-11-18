@@ -1,0 +1,19 @@
+id: cm-000053
+area: cross-cultural-communication
+kind: practice
+topic: High- and low-context cultures
+topic_type: Phenomenon
+true_statement: In a newly formed team whose members share little background, state each decision, owner and deadline explicitly, and confirm in writing what was agreed after the meeting.
+false_statement: In a newly formed team whose members share little background, leave decisions loosely stated at first and let a shared understanding build over the next few meetings.
+explanation: When context isn't shared, nothing fills the gaps that implicit messages leave, so explicit, written confirmation is the safe default. Waiting for understanding to build risks people leaving with different versions of the decision.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/high-and-low-context-cultures.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 76c05b5a4e658211cedb2987459150f1c144a934
+concepts:
+- cm:high-and-low-context-cultures
+- cm:audience-analysis
+difficulty: 2
+created: '2026-11-18'
+status: active

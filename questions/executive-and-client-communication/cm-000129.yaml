@@ -1,0 +1,19 @@
+id: cm-000129
+area: executive-and-client-communication
+kind: evidence
+topic: Communicating uncertainty to decision makers
+topic_type: Skill
+true_statement: Gustafson and Rice's 2020 review found that technical uncertainty, such as ranges and probabilities, had only positive or null effects, while highlighting expert disagreement produced most of the negative effects.
+false_statement: Gustafson and Rice's 2020 review found that highlighting expert disagreement had only positive or null effects, while technical uncertainty, such as ranges and probabilities, produced most of the negative effects.
+explanation: Ranges rarely backfired, so stating them is low-risk; it is consensus uncertainty that tends to cost belief and trust. The review pooled no effect sizes and mostly studied public audiences, not managers.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/communicating-uncertainty.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: d02987437f7b4818c2481ecf5453f8117699b208
+concepts:
+- cm:communicating-uncertainty
+- cm:gustafson-rice-2020
+difficulty: 3
+created: '2026-11-18'
+status: active

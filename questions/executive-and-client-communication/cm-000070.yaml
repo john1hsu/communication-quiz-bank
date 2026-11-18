@@ -1,0 +1,18 @@
+id: cm-000070
+area: executive-and-client-communication
+kind: scenario
+topic: Managing up
+topic_type: Skill
+true_statement: Asked if the new date is realistic, an engineer who privately thinks it is impossible tells her manager, "Sure, we'll make it work," as she always does with bosses. That is the over-compliant reflex that distorts a boss relationship.
+false_statement: Asked if the new date is realistic, an engineer who privately thinks it is impossible tells her manager, "Sure, we'll make it work," as she always does with bosses. That is managing up done well, adapting to the boss.
+explanation: Swallowing disagreement is one of the authority reflexes Gabarro and Kotter warn about. Managing up rests on dependable candour, so she should flag the risk now, ideally with a proposed fix.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/managing-up.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 8f11ec60fdb283dbbe85e6a5a455e95c59a66f7b
+concepts:
+- cm:managing-up
+difficulty: 2
+created: '2026-11-18'
+status: active

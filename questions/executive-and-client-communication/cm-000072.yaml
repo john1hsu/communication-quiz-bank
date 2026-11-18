@@ -1,0 +1,21 @@
+id: cm-000072
+area: executive-and-client-communication
+kind: origin
+topic: Managing up
+topic_type: Skill
+true_statement: Harvard professors John Gabarro and John Kotter set out the idea of managing up in their 1980 Harvard Business Review article "Managing Your Boss."
+false_statement: Harvard professors John Gabarro and John Kotter set out the idea of managing up in their 1993 Academy of Management Review article "Managing Your Boss."
+explanation: '"Managing Your Boss" appeared in HBR in 1980 and was reprinted as a classic in 2005. The 1993 Academy of Management Review paper was Dutton and Ashford''s work on issue selling.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/managing-up.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 8f11ec60fdb283dbbe85e6a5a455e95c59a66f7b
+concepts:
+- cm:managing-up
+- cm:john-j-gabarro
+- cm:john-p-kotter
+- cm:managing-your-boss
+difficulty: 1
+created: '2026-11-18'
+status: active

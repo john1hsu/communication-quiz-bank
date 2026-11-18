@@ -1,0 +1,19 @@
+id: cm-000145
+area: thinkers-and-works
+kind: practice
+topic: William Strunk Jr.
+topic_type: Person
+true_statement: Applying Strunk's "omit needless words" to a status update means striking stock phrases like "the fact that" while keeping the dates, owners and figures the reader needs.
+false_statement: Applying Strunk's "omit needless words" to a status update means cutting it to the fewest, shortest sentences possible, even if dates, owners and figures go.
+explanation: Strunk said the rule did not mean only short sentences or dropping detail; it means every word should do work, as in cutting "the question as to whether" to "whether."
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/william-strunk-jr.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: d9f86be5196a68433597e3141f7182f6874f3a4a
+concepts:
+- cm:william-strunk-jr
+- cm:concise-writing
+difficulty: 1
+created: '2026-11-18'
+status: active

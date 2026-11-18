@@ -1,0 +1,20 @@
+id: cm-000101
+area: writing
+kind: practice
+topic: Plain language
+topic_type: Principle
+true_statement: In a client update, replace "P1 defects have been remediated; cutover is contingent on CAB sign-off" with "We fixed the urgent bugs your team found, and we can switch over once our change board approves it, likely Thursday."
+false_statement: In a client update, keep "P1 defects have been remediated; cutover is contingent on CAB sign-off" and add a glossary at the end defining P1, cutover and CAB.
+explanation: The rewrite names who acts, swaps internal acronyms for the reader's words and says what happens next. A glossary at the end makes the reader hunt; terms that must stay should be defined where they first appear.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/plain-language.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: e6680e8c15e56cf71028abea4756f363b26a0441
+concepts:
+- cm:plain-language
+- cm:jargon
+- cm:active-voice
+difficulty: 1
+created: '2026-11-18'
+status: active

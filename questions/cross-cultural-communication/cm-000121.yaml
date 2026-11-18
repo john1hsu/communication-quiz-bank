@@ -1,0 +1,19 @@
+id: cm-000121
+area: cross-cultural-communication
+kind: scenario
+topic: Describe-analyze-evaluate
+topic_type: Technique
+true_statement: 'Working through D.A.E. after a tense call, a manager writes as step one: "She was rude to the client." That line is already an evaluation smuggled into the description.'
+false_statement: 'Working through D.A.E. after a tense call, a manager writes as step one: "She was rude to the client." That line is a sound description, since it reports what happened on the call.'
+explanation: '"Rude" is a judgement measured against the manager''s own norms. A description is what a camera would catch, such as "she ended the call without summarising next steps," which people who disagree could still accept.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/describe-analyze-evaluate.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: a6e71d6d4b2ae33c42e06cd255c354e806b455d1
+concepts:
+- cm:describe-analyze-evaluate
+- cm:ethnocentrism
+difficulty: 1
+created: '2026-11-18'
+status: active

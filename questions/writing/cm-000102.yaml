@@ -1,0 +1,19 @@
+id: cm-000102
+area: writing
+kind: evidence
+topic: Plain language
+topic_type: Principle
+true_statement: A 2022 systematic review of plain language summaries of research concluded that most criteria in plain-language writing guidelines did not yet have empirical support.
+false_statement: A 2022 systematic review of plain language summaries of research concluded that most criteria in plain-language writing guidelines were backed by consistent experimental evidence.
+explanation: Whole rewrites for an audience tend to help, but studies rarely isolate which rule did the work, so individual guidelines remain unproven. That gap is why plain language is rated mixed rather than robust.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/plain-language.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: e6680e8c15e56cf71028abea4756f363b26a0441
+concepts:
+- cm:plain-language
+- cm:plain-language-summary
+difficulty: 3
+created: '2026-11-18'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000063
+area: thinkers-and-works
+kind: definition
+topic: Effective Writing for Army Leaders
+topic_type: Work
+true_statement: The Army pamphlet's clarity index adds average sentence length to the percentage of words of three or more syllables, with a target of about 30.
+false_statement: The Army pamphlet's clarity index adds average sentence length to the percentage of words of three or more syllables, with a target of below 20.
+explanation: About 30 was the aim; scores under 20 were called abrupt and over 40 hard to read. It is a rule of thumb that counts length, not whether readers understand.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/effective-writing-for-army-leaders.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: d59768be8a6ae348df95142328847d6be8fd55d2
+concepts:
+- cm:effective-writing-for-army-leaders
+- cm:clarity-index
+difficulty: 2
+created: '2026-11-18'
+status: active

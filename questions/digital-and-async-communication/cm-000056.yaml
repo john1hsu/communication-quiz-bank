@@ -1,0 +1,19 @@
+id: cm-000056
+area: digital-and-async-communication
+kind: practice
+topic: Email
+topic_type: Channel
+true_statement: When you send a non-urgent work email late in the evening, add a line saying the reply can wait until working hours.
+false_statement: When you send a non-urgent work email late in the evening, send it without comment, since the reader can tell from the timestamp that it isn't urgent.
+explanation: Receivers of off-hours email tend to assume senders want faster replies than they do. A one-line note about timing closed that gap in the urgency-bias studies; silence leaves the reader guessing.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/email.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 551a81b691a85021b0acb40d4a00ea075bc96ae0
+concepts:
+- cm:email
+- cm:email-urgency-bias-study
+difficulty: 2
+created: '2026-11-18'
+status: active

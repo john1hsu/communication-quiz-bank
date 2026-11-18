@@ -1,0 +1,20 @@
+id: cm-000057
+area: digital-and-async-communication
+kind: figure
+topic: Email
+topic_type: Channel
+true_statement: In Kushlev and Dunn's 2015 field experiment, people told to check email three times a day with notifications off reported lower daily stress than in a week of unlimited checking.
+false_statement: In Kushlev and Dunn's 2015 field experiment, people told to check email three times a day with notifications off reported higher daily stress than in a week of unlimited checking.
+explanation: Batching email checks lowered daily stress in this exploratory study, though it did not change overall weekly stress. The finding supports checking on purpose rather than reacting to every notification.
+as_of: '2015'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/email.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 551a81b691a85021b0acb40d4a00ea075bc96ae0
+concepts:
+- cm:email
+- cm:kushlev-dunn-2015
+difficulty: 3
+created: '2026-11-18'
+status: active

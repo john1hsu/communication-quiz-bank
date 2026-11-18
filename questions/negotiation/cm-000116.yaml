@@ -1,0 +1,19 @@
+id: cm-000116
+area: negotiation
+kind: practice
+topic: Multiple equivalent simultaneous offers
+topic_type: Technique
+true_statement: When a client answers your three packages by combining the best term from each, reply with a fresh set of equivalent packages built from your scoring, rather than conceding term by term.
+false_statement: When a client answers your three packages by combining the best term from each, accept the combination if it is close to your target, to keep goodwill and close quickly.
+explanation: Cherry-picking takes each package's best concession and leaves you worse off than any of the options you offered. New equivalent packages keep the trade-offs intact and still use what their choice revealed.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/multiple-equivalent-simultaneous-offers.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: a0f570eba4332aacce624a5f1e3cf547f1992dd2
+concepts:
+- cm:multiple-equivalent-simultaneous-offers
+- cm:batna
+difficulty: 2
+created: '2026-11-18'
+status: active

@@ -1,0 +1,20 @@
+id: cm-000065
+area: writing
+kind: practice
+topic: Bottom line up front
+topic_type: Technique
+true_statement: When writing serious bad news to a reader likely to react with anger, you can explain the reasons before the news, but you must still state the news clearly rather than hide it.
+false_statement: When writing serious bad news to a reader likely to react with anger, open with the decision in the first line anyway, because bottom line up front suits every work message.
+explanation: Textbooks keep the direct order for routine news and readers who want it, and allow an explain-first order when bluntness could cause anger. BLUF is a choice made by audience analysis, not a universal rule.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/bottom-line-up-front.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 8022350660bd3defaae3dfbaf0dcf48a78553447
+concepts:
+- cm:bottom-line-up-front
+- cm:indirect-approach
+- cm:audience-analysis
+difficulty: 3
+created: '2026-11-18'
+status: active

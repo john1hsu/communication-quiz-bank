@@ -1,0 +1,18 @@
+id: cm-000115
+area: negotiation
+kind: scenario
+topic: Multiple equivalent simultaneous offers
+topic_type: Technique
+true_statement: A supplier sends a client three contract packages, but one is clearly better for the supplier and the other two are padded to look worse. That is not a MESO, because each package should be worth about the same to the offerer.
+false_statement: A supplier sends a client three contract packages, but one is clearly better for the supplier and the other two are padded to look worse. That is a MESO done well, steering the client toward the preferred option.
+explanation: 'Hiding a favourite among decoys defeats the point: you should be content with whichever option they pick, and claiming you would accept any of them must be true. Decoys cross from strategy into deception.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/multiple-equivalent-simultaneous-offers.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: a0f570eba4332aacce624a5f1e3cf547f1992dd2
+concepts:
+- cm:multiple-equivalent-simultaneous-offers
+difficulty: 2
+created: '2026-11-18'
+status: active

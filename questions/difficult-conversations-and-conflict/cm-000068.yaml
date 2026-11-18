@@ -1,0 +1,19 @@
+id: cm-000068
+area: difficult-conversations-and-conflict
+kind: practice
+topic: Defensiveness
+topic_type: Barrier
+true_statement: To raise a late delivery without putting the analyst on guard, say "The build shipped four days after the date in the plan" rather than "Your estimates were way off again."
+false_statement: To raise a late delivery without putting the analyst on guard, say "Your estimates were way off again" rather than "The build shipped four days after the date in the plan," so the cause is named up front.
+explanation: Describing an observable fact invites problem-solving, while a verdict on the person triggers a defence of the method. In the article's example, that defence crowded out the real cause, a late scope change.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/defensiveness.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 39031df72e94c7341e320929e435f0fca753eede
+concepts:
+- cm:defensiveness
+- cm:situation-behavior-impact
+difficulty: 1
+created: '2026-11-18'
+status: active

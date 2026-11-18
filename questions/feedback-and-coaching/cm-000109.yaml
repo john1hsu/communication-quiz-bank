@@ -1,0 +1,18 @@
+id: cm-000109
+area: feedback-and-coaching
+kind: scenario
+topic: Feedforward
+topic_type: Technique
+true_statement: A project manager asks a peer for two ideas to keep kick-offs on time. The peer suggests sending the agenda a day early, and he replies, "We tried that; clients don't read it." That breaks feedforward's no-debate rule.
+false_statement: A project manager asks a peer for two ideas to keep kick-offs on time. The peer suggests sending the agenda a day early, and he replies, "We tried that; clients don't read it." That is feedforward done well, testing each idea as it arrives.
+explanation: In feedforward the only reply is "thank you"; you write the idea down and decide later whether to try it. Rebutting on the spot turns the exchange back into a debate and discourages further suggestions.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/feedforward.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: a4b9c9ee52b3955f35737a272baa741703be0c72
+concepts:
+- cm:feedforward
+difficulty: 1
+created: '2026-11-18'
+status: active

@@ -1,0 +1,18 @@
+id: cm-000091
+area: presenting-and-public-speaking
+kind: scenario
+topic: Public speaking anxiety
+topic_type: Barrier
+true_statement: A data scientist who knows her model best keeps asking her lead to present it to executives, saying "presenting isn't really my thing." That handing-off is a common way speaking anxiety works against a career.
+false_statement: A data scientist who knows her model best keeps asking her lead to present it to executives, saying "presenting isn't really my thing." That is sensible delegation that keeps her work visible.
+explanation: 'Speaking anxiety often operates through avoidance: others brief the executives, so the person''s work is seen less than it should be. The self-check is whether she is declining because it isn''t her job or because she fears it.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/speaking-anxiety.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: e3d860b17169d5019553e0a9820ad6e2b068cfd2
+concepts:
+- cm:speaking-anxiety
+difficulty: 2
+created: '2026-11-18'
+status: active

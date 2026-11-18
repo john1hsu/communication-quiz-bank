@@ -1,0 +1,19 @@
+id: cm-000131
+area: foundations
+kind: practice
+topic: Grice's cooperative principle
+topic_type: Principle
+true_statement: When a manager asks whether a project is on track, answer that question first and add background after, since opening with background suggests you're avoiding the answer.
+false_statement: When a manager asks whether a project is on track, give the background first so the answer makes sense, and save the yes or no for the end of your reply.
+explanation: Listeners assume each contribution is relevant to the question, so a reply that starts elsewhere gets read as evasion. Answer, then add the context the reader needs.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/grices-maxims.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: caeee91b2f7c898a93e0bf42cfb85f2c5ffd0af8
+concepts:
+- cm:grices-maxims
+- cm:bottom-line-up-front
+difficulty: 2
+created: '2026-11-18'
+status: active

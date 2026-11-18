@@ -1,0 +1,20 @@
+id: cm-000099
+area: thinkers-and-works
+kind: figure
+topic: Message Equivocality, Media Selection, and Manager Performance
+topic_type: Work
+true_statement: In Lengel and Daft's 1984 study of 95 managers, the share choosing face-to-face rose from about 14% to 84% as an incident's interpretive load increased.
+false_statement: In Lengel and Daft's 1984 study of 95 managers, the share choosing face-to-face fell from about 84% to 14% as an incident's interpretive load increased.
+explanation: More ambiguous incidents pushed managers toward richer channels, while addressed written documents fell from about 62% to 11%. These were self-reported choices at one petrochemical company.
+as_of: '1984'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/message-equivocality-media-selection-and-manager-performance.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: d9c0a2a98e8a5d88afa5cbd0d1b6940bcb32ae90
+concepts:
+- cm:message-equivocality-media-selection-and-manager-performance
+- cm:media-richness-theory
+difficulty: 3
+created: '2026-11-18'
+status: active

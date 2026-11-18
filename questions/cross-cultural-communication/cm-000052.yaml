@@ -1,0 +1,19 @@
+id: cm-000052
+area: cross-cultural-communication
+kind: scenario
+topic: High- and low-context cultures
+topic_type: Phenomenon
+true_statement: Before a first call with a new supplier team in Japan, a manager plans to leave the key terms implied, reasoning that Japan is a high-context culture. That leans on country rankings the research has largely failed to support.
+false_statement: Before a first call with a new supplier team in Japan, a manager plans to leave the key terms implied, reasoning that Japan is a high-context culture. That is a well-supported use of Hall's model.
+explanation: The tell is inferring someone's style from a passport. Reviews found the country placements weakly supported, so ask how much context this team shares and default to explicit terms.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/high-and-low-context-cultures.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 76c05b5a4e658211cedb2987459150f1c144a934
+concepts:
+- cm:high-and-low-context-cultures
+- cm:cardon-2008
+difficulty: 3
+created: '2026-11-18'
+status: active

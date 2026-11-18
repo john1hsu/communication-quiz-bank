@@ -1,0 +1,19 @@
+id: cm-000106
+area: difficult-conversations-and-conflict
+kind: scenario
+topic: Difficult conversation
+topic_type: Context
+true_statement: A project lead tells a peer who skipped the design review, "I think we see the review differently. I'd like to hear how you see it, then explain why it matters to me before release." That opens from the third story.
+false_statement: A project lead tells a peer who skipped the design review, "I think we see the review differently. I'd like to hear how you see it, then explain why it matters to me before release." That opens by arguing the facts first.
+explanation: The lead describes the gap between their views as a neutral observer would and invites the peer to explore it, rather than leading with "You keep ignoring the review process." Listening first, then speaking for yourself, follows the worksheet's order.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/difficult-conversation.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 63a4e7eff537dfc63eb6630e2c24e10c0a87df22
+concepts:
+- cm:difficult-conversation
+- cm:three-conversations-framework
+difficulty: 2
+created: '2026-11-18'
+status: active

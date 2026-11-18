@@ -1,0 +1,19 @@
+id: cm-000139
+area: presenting-and-public-speaking
+kind: scenario
+topic: Assertion-evidence slides
+topic_type: Technique
+true_statement: A product manager's slide is headed "Customer churn" above a chart of monthly cancellations. In assertion-evidence terms, that headline is still a topic, not an assertion.
+false_statement: A product manager's slide is headed "Customer churn" above a chart of monthly cancellations. In assertion-evidence terms, that headline is an assertion, because a chart supports it.
+explanation: An assertion headline states the point to accept, such as "Churn doubled among customers who never finished onboarding." A topic label leaves each listener to infer the conclusion while also listening.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/assertion-evidence-slides.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 3fec030ab82f57f72b44d50d0f4cf2d02a0b7bc2
+concepts:
+- cm:assertion-evidence-slides
+- cm:slide-design
+difficulty: 1
+created: '2026-11-18'
+status: active

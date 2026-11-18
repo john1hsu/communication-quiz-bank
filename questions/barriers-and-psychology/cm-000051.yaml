@@ -1,0 +1,20 @@
+id: cm-000051
+area: barriers-and-psychology
+kind: figure
+topic: Illusion of transparency
+topic_type: Barrier
+true_statement: In Keysar and Henly's 2002 study, when speakers believed a listener had understood an ambiguous sentence, the listener had in fact misunderstood it 46% of the time.
+false_statement: In Keysar and Henly's 2002 study, when speakers believed a listener had understood an ambiguous sentence, the listener had in fact misunderstood it 6% of the time.
+explanation: Nearly half of the cases speakers counted as understood were misunderstandings, which is why the advice is to expect miscommunication and check. A 6% miss rate would make the bias trivial.
+as_of: '2002'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/illusion-of-transparency.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 7c8850bdee08cbeefdfb9bf39b7c27d549a1b280
+concepts:
+- cm:illusion-of-transparency
+- cm:keysar-henly-2002
+difficulty: 3
+created: '2026-11-18'
+status: active

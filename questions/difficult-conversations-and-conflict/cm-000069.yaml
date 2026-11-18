@@ -1,0 +1,20 @@
+id: cm-000069
+area: difficult-conversations-and-conflict
+kind: figure
+topic: Defensiveness
+topic_type: Barrier
+true_statement: A 2015 meta-analysis of self-affirmation tests found a small effect on accepting threatening messages (d = 0.17) and a larger one on behaviour (d = 0.32).
+false_statement: A 2015 meta-analysis of self-affirmation tests found a larger effect on accepting threatening messages (d = 0.32) and a small one on behaviour (d = 0.17).
+explanation: The effect on behaviour was the larger of the two; acceptance moved only slightly. Most of these studies used health messages, so the workplace payoff is plausible rather than proven.
+as_of: '2015'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/defensiveness.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: 39031df72e94c7341e320929e435f0fca753eede
+concepts:
+- cm:defensiveness
+- cm:self-affirmation-theory
+difficulty: 3
+created: '2026-11-18'
+status: active

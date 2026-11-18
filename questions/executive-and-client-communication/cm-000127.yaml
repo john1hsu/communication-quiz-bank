@@ -1,0 +1,19 @@
+id: cm-000127
+area: executive-and-client-communication
+kind: scenario
+topic: Communicating uncertainty to decision makers
+topic_type: Skill
+true_statement: Asked how many customers a price rise will cost, a product lead tells the leadership team, "Churn should be fine, though obviously nobody can be sure." That pairs false reassurance with a blanket hedge, leaving nothing to plan with.
+false_statement: Asked how many customers a price rise will cost, a product lead tells the leadership team, "Churn should be fine, though obviously nobody can be sure." That is well-communicated uncertainty, since it admits nobody can be sure.
+explanation: Leaders can neither plan for the downside nor challenge the estimate. A better answer gives a best estimate, a plausible range, how solid the evidence is and when it will improve.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/communicating-uncertainty.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: d02987437f7b4818c2481ecf5453f8117699b208
+concepts:
+- cm:communicating-uncertainty
+- cm:vague-probability-language
+difficulty: 2
+created: '2026-11-18'
+status: active

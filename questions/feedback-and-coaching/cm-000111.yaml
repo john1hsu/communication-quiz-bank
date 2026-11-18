@@ -1,0 +1,20 @@
+id: cm-000111
+area: feedback-and-coaching
+kind: origin
+topic: Feedforward
+topic_type: Technique
+true_statement: The Feedforward Interview, an appraisal conversation that starts from an employee's recent success and what made it possible, was proposed by Kluger and Nir in 2010.
+false_statement: The Feedforward Interview, an appraisal conversation that starts from an employee's recent success and what made it possible, was proposed by Marshall Goldsmith in 2010.
+explanation: Two methods share the name. Goldsmith's is a quick peer exchange of suggestions from his workshops; Kluger and Nir's is a structured manager-employee interview built on appreciative inquiry.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/feedforward.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: a4b9c9ee52b3955f35737a272baa741703be0c72
+concepts:
+- cm:feedforward
+- cm:feedforward-interview
+- cm:marshall-goldsmith
+difficulty: 2
+created: '2026-11-18'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000148
+area: barriers-and-psychology
+kind: scenario
+topic: Spotlight effect
+topic_type: Barrier
+true_statement: After mispronouncing a client's product name once during a pitch, a consultant replays it for days, sure everyone in the room remembers it. That is the spotlight effect.
+false_statement: After mispronouncing a client's product name once during a pitch, a consultant replays it for days, sure everyone in the room remembers it. That is the illusion of transparency.
+explanation: She overestimates how much others noticed and will remember her slip, which is the spotlight effect. The illusion of transparency is about overestimating how well others can read your inner feelings.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/spotlight-effect.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: d5a7b892217dab4577089b81deaf4a338195ff8b
+concepts:
+- cm:spotlight-effect
+- cm:illusion-of-transparency
+difficulty: 2
+created: '2026-11-18'
+status: active

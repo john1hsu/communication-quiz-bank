@@ -1,0 +1,18 @@
+id: cm-000059
+area: listening
+kind: practice
+topic: Paraphrasing
+topic_type: Technique
+true_statement: When an operations lead says a vendor's Tuesday deliveries clash with the weekly stock count, restate the clash and the worry behind it in your own words and ask whether that is the main problem, before defending the schedule.
+false_statement: When an operations lead says a vendor's Tuesday deliveries clash with the weekly stock count, explain first that procurement signed off on the schedule last month, then ask how the warehouse can make it work.
+explanation: Restating the specific facts and concern, then inviting correction, lets the other person confirm the picture before anyone argues for a solution. Leading with the sign-off defends the plan before you have shown you understood the problem.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/paraphrasing.md
+  commit: 64f51a03ea8b86314a44df349161c6e72e7de040
+  blob: cb0f7cf7d8400b1297c469b838bcd384b640c5b5
+concepts:
+- cm:paraphrasing
+difficulty: 2
+created: '2026-11-18'
+status: active
