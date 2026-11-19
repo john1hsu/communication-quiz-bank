@@ -1,0 +1,19 @@
+id: cm-000155
+area: digital-and-async-communication
+kind: scenario
+topic: Zoom fatigue
+topic_type: Barrier
+true_statement: On her fifth back-to-back video call, an analyst keeps adjusting her framing and glancing at her own tile, and by mid-afternoon she has stopped speaking up. That pattern is a classic sign of Zoom fatigue.
+false_statement: On her fifth back-to-back video call, an analyst keeps adjusting her framing and glancing at her own tile, and by mid-afternoon she has stopped speaking up. That pattern is a classic sign of information overload.
+explanation: Watching your own tile, fading voice in later back-to-back calls and fussing over framing are the warning signs of video-call fatigue. Information overload is about too many messages to process, not the strain of being on camera.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/zoom-fatigue.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: c2db8f59190183110c214740f016b0ef09440767
+concepts:
+- cm:zoom-fatigue
+- cm:information-overload
+difficulty: 2
+created: '2026-11-19'
+status: active

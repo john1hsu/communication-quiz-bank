@@ -1,0 +1,18 @@
+id: cm-000191
+area: barriers-and-psychology
+kind: scenario
+topic: Anchoring and adjustment
+topic_type: Phenomenon
+true_statement: A team lead opens a planning meeting with, "Marketing thinks the launch needs about four weeks; does that work for engineering?" Saying that figure first is likely to anchor every estimate that follows.
+false_statement: A team lead opens a planning meeting with, "Marketing thinks the launch needs about four weeks; does that work for engineering?" Saying that figure first gives a neutral reference that makes the estimates more accurate.
+explanation: People adjust away from the first number they hear, but usually not far enough. Asking each team to send its own estimate before any figure is spoken keeps one early voice from framing the room.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/anchoring-and-adjustment.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 33597b33f3c5b633bd9e58f4f92212842ed520f9
+concepts:
+- cm:anchoring-and-adjustment
+difficulty: 1
+created: '2026-11-19'
+status: active

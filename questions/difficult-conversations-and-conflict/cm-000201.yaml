@@ -1,0 +1,20 @@
+id: cm-000201
+area: difficult-conversations-and-conflict
+kind: practice
+topic: Delivering bad news
+topic_type: Context
+true_statement: When a report reacts with frustration to news that his project is cancelled, name the feeling and its cause, as in "I can see this is frustrating after the weekends you put in," before moving on to next steps.
+false_statement: When a report reacts with frustration to news that his project is cancelled, move straight on to next steps and logistics, so the conversation stays productive and the emotion doesn't take over.
+explanation: SPIKES advises observing the emotion, identifying its cause and linking the two in a statement. Pressing on with logistics while someone is upset means little of it will be heard.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/delivering-bad-news.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 4f5031d63aa83b2cacf3dcf52b4b40085ba32418
+concepts:
+- cm:delivering-bad-news
+- cm:spikes-protocol
+- cm:active-listening
+difficulty: 2
+created: '2026-11-19'
+status: active

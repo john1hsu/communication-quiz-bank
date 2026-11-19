@@ -1,0 +1,20 @@
+id: cm-000248
+area: digital-and-async-communication
+kind: scenario
+topic: Media richness theory
+topic_type: Theory
+true_statement: 'Two engineers who have worked together for years settle a knotty design disagreement over email with no trouble. Channel expansion theory explains it: email grows richer for people who share experience of the channel, topic and each other.'
+false_statement: 'Two engineers who have worked together for years settle a knotty design disagreement over email with no trouble. Media richness theory explains it: email is a rich medium suited to equivocal problems.'
+explanation: On Daft and Lengel's scale email is lean, so MRT would predict trouble here. Carlson and Zmud showed perceived richness isn't fixed by the medium but grows with shared experience, so lean channels work better between people who share context.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/media-richness-theory.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: e6d4a1b9e1b0cadad4f9ff6c144e2408a403e005
+concepts:
+- cm:media-richness-theory
+- cm:channel-expansion-theory
+- cm:email
+difficulty: 3
+created: '2026-11-19'
+status: active

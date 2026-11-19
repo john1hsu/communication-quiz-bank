@@ -1,0 +1,19 @@
+id: cm-000231
+area: persuasion-and-influence
+kind: practice
+topic: Elaboration likelihood model
+topic_type: Theory
+true_statement: For a busy steering committee that only needs to sign off, lead with a credible signal such as a respected peer team's pilot result, and keep the detailed analysis available rather than front and centre.
+false_statement: For a busy steering committee that only needs to sign off, lead with the full detailed analysis and every argument, since detail persuades any audience whatever its time or interest.
+explanation: The ELM says to build for the route an audience will actually take; detail a low-involvement audience won't read does little. The pilot result must be real, and the substance should stay available for anyone who wants to weigh it.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/elaboration-likelihood-model.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 2ce9b5bb946dd5f43f3e9e3080a3e6e57017780b
+concepts:
+- cm:elaboration-likelihood-model
+- cm:credibility
+difficulty: 2
+created: '2026-11-19'
+status: active

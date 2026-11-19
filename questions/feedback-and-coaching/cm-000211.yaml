@@ -1,0 +1,19 @@
+id: cm-000211
+area: feedback-and-coaching
+kind: evidence
+topic: Feedback sandwich
+topic_type: Technique
+true_statement: In Parkes and colleagues' 2013 studies of medical students, sandwiched feedback changed how students felt about the feedback but not how they performed on their next piece of work.
+false_statement: In Parkes and colleagues' 2013 studies of medical students, sandwiched feedback improved how students performed on their next piece of work but not how they felt about the feedback.
+explanation: Students believed the sandwich helped, yet their later work showed no gain, which is why the technique is rated contested. It can reassure giver and receiver while leaving performance unchanged.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/feedback-sandwich.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: c8328594f6926d8220957b6aaa59d2506f2471f1
+concepts:
+- cm:feedback-sandwich
+- cm:parkes-abercrombie-mccarty-2013
+difficulty: 3
+created: '2026-11-19'
+status: active

@@ -1,0 +1,18 @@
+id: cm-000237
+area: writing
+kind: practice
+topic: Readability formulas
+topic_type: Technique
+true_statement: Before running a readability score, strip out headings, bullet fragments and tables, because calculators count from full stop to full stop and a list can register as one enormous sentence.
+false_statement: Before running a readability score, leave headings, bullet fragments and tables in place, because layout is part of what makes the text readable and should count in the score.
+explanation: Non-prose distorts the counts, and the same text can score many grades apart across tools; preparing it first narrowed the spread to about two grades. Then use the score only to find passages worth rereading.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/readability-formulas.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 149c891ceffa62485488cee82a4e6e10d712a78e
+concepts:
+- cm:readability-formulas
+difficulty: 2
+created: '2026-11-19'
+status: active

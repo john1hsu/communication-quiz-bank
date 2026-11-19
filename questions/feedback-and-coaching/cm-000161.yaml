@@ -1,0 +1,18 @@
+id: cm-000161
+area: feedback-and-coaching
+kind: scenario
+topic: Manager one-on-one meetings
+topic_type: Context
+true_statement: A team lead spends each weekly one-on-one walking her analyst through her own project tracker, line by line, while the analyst says little. That turns the one-on-one into a status report, its most common failure.
+false_statement: A team lead spends each weekly one-on-one walking her analyst through her own project tracker, line by line, while the analyst says little. That is a well-run one-on-one, since it keeps them aligned on priorities.
+explanation: A one-on-one is the report's individual time, centred on their needs; reading out the manager's tracker spends it on the manager's priorities and could have been an update. The tell is who talks and whose list sets the agenda.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/one-on-one-meetings.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 6ff5b804f090c74f8c57e1bd7f8eb118caced291
+concepts:
+- cm:one-on-one-meetings
+difficulty: 1
+created: '2026-11-19'
+status: active

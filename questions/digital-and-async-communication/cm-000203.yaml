@@ -1,0 +1,18 @@
+id: cm-000203
+area: digital-and-async-communication
+kind: practice
+topic: Asynchronous communication
+topic_type: Channel
+true_statement: When you message a colleague eight time zones away, put the context, the exact ask, the next step and the links in one message, rather than opening with "Got a minute?" and waiting.
+false_statement: When you message a colleague eight time zones away, open with "Got a minute?" and wait for a reply before sending the context, the exact ask and the links.
+explanation: In async work each round of clarifying questions can cost hours or days. A complete, self-contained message lets the reader act alone in their own working hours.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/asynchronous-communication.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 673a3b4320bb8c6362422aff5071b5c31de0946c
+concepts:
+- cm:asynchronous-communication
+difficulty: 1
+created: '2026-11-19'
+status: active

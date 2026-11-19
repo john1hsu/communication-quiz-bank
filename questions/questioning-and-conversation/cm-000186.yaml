@@ -1,0 +1,19 @@
+id: cm-000186
+area: questioning-and-conversation
+kind: practice
+topic: Self-disclosure reciprocity
+topic_type: Technique
+true_statement: When a new contractor says the codebase feels huge, answer with a brief struggle of your own at a similar depth, then ask which part has been hardest, rather than launching into your own longer story.
+false_statement: When a new contractor says the codebase feels huge, launch into your own longer story about your first months to show empathy, rather than answering briefly and handing the turn back.
+explanation: Reciprocity works by matching the other person's level of detail and alternating turns. Topping a small disclosure with a big one turns the trade into a monologue and breaks the back-and-forth that builds closeness.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/reciprocal-self-disclosure.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 35d08851e4f60b6e94749bf6af1b4dfa42316613
+concepts:
+- cm:reciprocal-self-disclosure
+- cm:follow-up-questions
+difficulty: 2
+created: '2026-11-19'
+status: active

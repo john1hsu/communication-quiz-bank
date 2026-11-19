@@ -1,0 +1,19 @@
+id: cm-000242
+area: thinkers-and-works
+kind: origin
+topic: Ray Tomlinson
+topic_type: Person
+true_statement: Ray Tomlinson chose "@" to separate the user's name from the host computer in network email addresses because it could not be mistaken for part of a name.
+false_statement: Ray Tomlinson chose "@" to separate the user's name from the host computer in network email addresses because it was already the standard symbol for addresses on printers.
+explanation: He needed a separator that no name would contain and that signalled where the user was, and the user@host format is still standard. The printer link is invented; he actually rejected a printer-based protocol.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/ray-tomlinson.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: f16f1d1b6a043a6ed5a3a6833d2e6c73be086756
+concepts:
+- cm:ray-tomlinson
+- cm:email-address
+difficulty: 2
+created: '2026-11-19'
+status: active

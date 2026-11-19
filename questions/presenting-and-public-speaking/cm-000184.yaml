@@ -1,0 +1,19 @@
+id: cm-000184
+area: presenting-and-public-speaking
+kind: mechanism
+topic: Filled pauses
+topic_type: AntiPattern
+true_statement: 'Clark and Fox Tree argued that "uh" and "um" are words speakers choose to signal a delay: "uh" announces a short one and "um" a longer one.'
+false_statement: 'Clark and Fox Tree argued that "uh" and "um" are words speakers choose to signal a delay: "um" announces a short one and "uh" a longer one.'
+explanation: In their corpus, pauses followed "um" far more often than "uh" and ran longer. Seeing fillers as planning signals, not mere noise, is why their work challenges the zero-filler goal.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/filled-pauses.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 024ac4910b9ef07ee028c6fdb0fb786d99909f61
+concepts:
+- cm:filled-pauses
+- cm:clark-fox-tree-2002
+difficulty: 3
+created: '2026-11-19'
+status: active

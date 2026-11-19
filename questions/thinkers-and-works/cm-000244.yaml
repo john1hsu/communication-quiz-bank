@@ -1,0 +1,19 @@
+id: cm-000244
+area: thinkers-and-works
+kind: origin
+topic: Ray Tomlinson
+topic_type: Person
+true_statement: RFC 561, the 1973 header standard Tomlinson co-wrote, required From, Subject and Date fields at the top of every message.
+false_statement: RFC 561, the 1973 header standard Tomlinson co-wrote, required From, To and CC fields at the top of every message.
+explanation: Subject has been mandatory since the first header standard, which is why it is meant to tell readers what a message is about before they open it. To, CC and reply-to were added later by others.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/ray-tomlinson.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: f16f1d1b6a043a6ed5a3a6833d2e6c73be086756
+concepts:
+- cm:ray-tomlinson
+- cm:rfc-561
+difficulty: 2
+created: '2026-11-19'
+status: active

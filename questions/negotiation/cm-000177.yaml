@@ -1,0 +1,20 @@
+id: cm-000177
+area: negotiation
+kind: practice
+topic: Zone of possible agreement
+topic_type: Concept
+true_statement: When another team's six-week deadline looks impossible, ask what matters most to them and bring in a second issue such as scope before refusing, since that can create a zone of agreement the deadline alone lacked.
+false_statement: When another team's six-week deadline looks impossible, refuse it outright, since if the deadline alone leaves no zone of agreement, no deal can exist.
+explanation: Trading across issues can widen or create the zone, the opposite of treating the deal as a fixed pie. Offering the core feature by week six and the rest by week ten can beat a refusal for both sides.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/zone-of-possible-agreement.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: c3bce0cb0a91b9825d8a34b43d9f7d9dca6b95cf
+concepts:
+- cm:zone-of-possible-agreement
+- cm:mythical-fixed-pie
+- cm:integrative-negotiation
+difficulty: 2
+created: '2026-11-19'
+status: active

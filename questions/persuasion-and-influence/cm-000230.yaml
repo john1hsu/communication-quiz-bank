@@ -1,0 +1,19 @@
+id: cm-000230
+area: persuasion-and-influence
+kind: scenario
+topic: Elaboration likelihood model
+topic_type: Theory
+true_statement: Pitching a new ticketing tool to the team who will use it every day, an ops lead shows a slide of vendor logos and says "everyone in the industry uses it." Those are peripheral cues, weak for an audience this motivated to scrutinise.
+false_statement: Pitching a new ticketing tool to the team who will use it every day, an ops lead shows a slide of vendor logos and says "everyone in the industry uses it." Those are central-route arguments, well suited to an audience this motivated to scrutinise.
+explanation: The issue is personally relevant to daily users, so they will weigh specific arguments about time saved and migration risk. Popularity and logos are cues that work mainly when people won't or can't think it through.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/elaboration-likelihood-model.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 2ce9b5bb946dd5f43f3e9e3080a3e6e57017780b
+concepts:
+- cm:elaboration-likelihood-model
+- cm:audience-analysis
+difficulty: 2
+created: '2026-11-19'
+status: active

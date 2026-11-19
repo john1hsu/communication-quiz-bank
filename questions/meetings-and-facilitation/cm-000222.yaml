@@ -1,0 +1,19 @@
+id: cm-000222
+area: meetings-and-facilitation
+kind: practice
+topic: 1-2-4-All
+topic_type: Technique
+true_statement: In the whole-group share of 1-2-4-All, ask each group of four for one important idea not yet on the board, rather than letting the most confident group report everything it discussed.
+false_statement: In the whole-group share of 1-2-4-All, let the most confident group report everything it discussed first, then ask the other groups whether they have anything to add.
+explanation: The final share is where the bold can dominate again. One new idea per group spreads airtime and avoids repeats; this is practitioner guidance, backed only indirectly by classroom research.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/1-2-4-all.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 16ff85e019303a4a8f6a95ea555eea0a326851a8
+concepts:
+- cm:1-2-4-all
+- cm:facilitation
+difficulty: 2
+created: '2026-11-19'
+status: active

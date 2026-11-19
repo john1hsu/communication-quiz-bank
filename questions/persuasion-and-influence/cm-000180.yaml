@@ -1,0 +1,19 @@
+id: cm-000180
+area: persuasion-and-influence
+kind: practice
+topic: Credibility
+topic_type: Concept
+true_statement: Two months into a new team, an analyst should back a vendor-switch proposal with a small pilot run alongside a manager the director already trusts, rather than leading with her own spreadsheet.
+false_statement: Two months into a new team, an analyst should back a vendor-switch proposal by leading with her own detailed spreadsheet, rather than spending weeks on a pilot alongside a manager the director already trusts.
+explanation: Without a track record, a pilot and a respected sponsor lend expertise she hasn't yet earned, and meeting stakeholders first shows goodwill. Her own analysis alone is understood but not yet believed.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/credibility.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: c961112e3224dba633d8d29879b02013ebbdf943
+concepts:
+- cm:credibility
+- cm:influence-without-authority
+difficulty: 2
+created: '2026-11-19'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000232
+area: persuasion-and-influence
+kind: mechanism
+topic: Elaboration likelihood model
+topic_type: Theory
+true_statement: In the elaboration likelihood model, attitude change that comes from thinking through the arguments tends to last longer and predict behaviour better than change driven by simple cues.
+false_statement: In the elaboration likelihood model, attitude change driven by simple cues tends to last longer and predict behaviour better than change that comes from thinking through the arguments.
+explanation: A sponsor convinced by the analysis is likely to stay convinced when challenged, while one who agreed because a senior partner was present may reverse once that cue is gone. So the durable choice is also the ethical one.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/elaboration-likelihood-model.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 2ce9b5bb946dd5f43f3e9e3080a3e6e57017780b
+concepts:
+- cm:elaboration-likelihood-model
+- cm:richard-e-petty
+difficulty: 2
+created: '2026-11-19'
+status: active

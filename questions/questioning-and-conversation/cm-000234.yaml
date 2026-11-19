@@ -1,0 +1,20 @@
+id: cm-000234
+area: questioning-and-conversation
+kind: practice
+topic: Face-to-face conversation
+topic_type: Channel
+true_statement: When you need a colleague in another team to give you two days of data work, ask in person or in a short meeting rather than relying on a well-worded email you assume will work as well.
+false_statement: When you need a colleague in another team to give you two days of data work, rely on a well-worded email, which works about as well as asking in person and saves their time.
+explanation: In-person requests drew far more yeses than the same words by email, apparently through trust and empathy. Email asks from a stranger look more suspicious than the person standing in front of you.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/face-to-face-conversation.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: d19c9596a75428ccf61c3c4ca9a55fa86d4b86e8
+concepts:
+- cm:face-to-face-conversation
+- cm:ask-in-person-study
+- cm:email
+difficulty: 1
+created: '2026-11-19'
+status: active

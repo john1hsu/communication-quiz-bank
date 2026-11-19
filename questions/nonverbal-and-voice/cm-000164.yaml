@@ -1,0 +1,20 @@
+id: cm-000164
+area: nonverbal-and-voice
+kind: scenario
+topic: Gaze and eye contact
+topic_type: Skill
+true_statement: Presenting a contested budget change, a project lead locks eyes with the most doubtful manager on every point, and the manager grows more resistant. Pressing gaze on a sceptic like that can backfire.
+false_statement: Presenting a contested budget change, a project lead locks eyes with the most doubtful manager on every point, and the manager grows more resistant. Pressing gaze on a sceptic like that is what makes a speaker persuasive.
+explanation: Chen and colleagues found listeners who already disagreed were persuaded less the more they watched the speaker's eyes. Spread your gaze around the group, ask the doubter for their concern and watch them while they answer.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/eye-contact.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: af52e443888eb0f4119e69b74dfe697d35be4ec1
+concepts:
+- cm:eye-contact
+- cm:chen-et-al-2013
+- cm:persuasion
+difficulty: 2
+created: '2026-11-19'
+status: active

@@ -1,0 +1,20 @@
+id: cm-000181
+area: persuasion-and-influence
+kind: evidence
+topic: Credibility
+topic_type: Concept
+true_statement: Kumkale and Albarracín's 2004 meta-analysis found noncredible-source cues on their own produced almost no sleeper effect; reliable effects needed the discounting cue to follow strong arguments.
+false_statement: Kumkale and Albarracín's 2004 meta-analysis found noncredible-source cues on their own produced a reliable sleeper effect, whatever the strength of the arguments.
+explanation: The sleeper effect, a distrusted source gaining influence as people forget who said it, proved fragile, with only a small average rise over time. It showed up mainly with strong arguments, a late discounting cue and a motivated audience.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/credibility.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: c961112e3224dba633d8d29879b02013ebbdf943
+concepts:
+- cm:credibility
+- cm:sleeper-effect
+- cm:kumkale-albarracin-2004
+difficulty: 3
+created: '2026-11-19'
+status: active

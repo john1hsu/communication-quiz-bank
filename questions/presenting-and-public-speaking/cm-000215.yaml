@@ -1,0 +1,20 @@
+id: cm-000215
+area: presenting-and-public-speaking
+kind: scenario
+topic: Habit reversal training
+topic_type: Technique
+true_statement: 'Rehearsing a results talk, a team lead asks a colleague to tap the table each time she says "um", and when she feels one coming she closes her mouth and pauses. That is habit reversal: awareness training plus a competing response.'
+false_statement: Rehearsing a results talk, a team lead asks a colleague to tap the table each time she says "um", and when she feels one coming she closes her mouth and pauses. That is exposure practice for reducing speaking anxiety.
+explanation: The tap trains her to detect each filler as it happens, and the silent pause is a response that can't occur at the same time as the sound. Exposure practice targets fear by speaking more often, not a specific habit.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/habit-reversal-training.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 989904e46da87ffff72a37b9dd1a5dc5a2fe0a8f
+concepts:
+- cm:habit-reversal-training
+- cm:filled-pauses
+- cm:speaking-anxiety
+difficulty: 2
+created: '2026-11-19'
+status: active

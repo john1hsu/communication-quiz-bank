@@ -1,0 +1,19 @@
+id: cm-000182
+area: presenting-and-public-speaking
+kind: practice
+topic: Filled pauses
+topic_type: AntiPattern
+true_statement: Asked by leadership why a launch slipped, open with a planned sentence such as "The launch moves to the 20th," pause silently, then give the cause, rather than easing in with "So, um, basically, the launch is moving out a bit."
+false_statement: Asked by leadership why a launch slipped, ease in with "So, um, basically, the launch is moving out a bit" to sound relaxed, then work toward the date, rather than opening with a planned sentence.
+explanation: Fillers cluster where you haven't planned, such as the start of an answer. Scripting the first sentence and swapping each filler for a short silent pause puts the date first and removes the hesitation that suggests doubt.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/filled-pauses.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 024ac4910b9ef07ee028c6fdb0fb786d99909f61
+concepts:
+- cm:filled-pauses
+- cm:silence-and-pauses
+difficulty: 1
+created: '2026-11-19'
+status: active

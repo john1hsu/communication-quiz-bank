@@ -1,0 +1,20 @@
+id: cm-000172
+area: listening
+kind: origin
+topic: Wait time
+topic_type: Technique
+true_statement: Science educator Mary Budd Rowe separated the pause after a question from the pause after the reply, naming them wait time 1 and wait time 2.
+false_statement: Science educator Kenneth Tobin separated the pause after a question from the pause after the reply, naming them wait time 1 and wait time 2.
+explanation: Rowe named the two pauses after finding teachers waited under a second at both points. Tobin came later, reviewing the accumulated studies in 1987 and locating the benefit above about three seconds.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/wait-time.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: bddb917a939c8f62f91c474e7bf1cf7c505b146a
+concepts:
+- cm:wait-time
+- cm:mary-budd-rowe
+- cm:tobin-1987
+difficulty: 2
+created: '2026-11-19'
+status: active

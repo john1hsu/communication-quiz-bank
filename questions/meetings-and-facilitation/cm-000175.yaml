@@ -1,0 +1,19 @@
+id: cm-000175
+area: meetings-and-facilitation
+kind: definition
+topic: RACI matrix
+topic_type: Technique
+true_statement: In a RACI matrix, Consulted people give input before the work is finished, while Informed people are told the outcome afterwards.
+false_statement: In a RACI matrix, Informed people give input before the work is finished, while Consulted people are told the outcome afterwards.
+explanation: The C column is whose expertise must be heard before a deadline; the I column is your distribution list once the decision is made. Mixing them up either floods people with reviews or leaves needed experts out.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/raci-matrix.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 424d70beb44d07ad815ab00387c6ed1c7a8ee5a5
+concepts:
+- cm:raci-matrix
+- cm:communication-plan
+difficulty: 1
+created: '2026-11-19'
+status: active

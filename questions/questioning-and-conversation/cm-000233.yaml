@@ -1,0 +1,19 @@
+id: cm-000233
+area: questioning-and-conversation
+kind: scenario
+topic: Face-to-face conversation
+topic_type: Channel
+true_statement: 'Catching a report at the coffee machine in the open-plan area between meetings, a lead gives him critical feedback on yesterday''s client call. Being in person doesn''t redeem it: a sensitive talk needs a private, unhurried setting.'
+false_statement: Catching a report at the coffee machine in the open-plan area between meetings, a lead gives him critical feedback on yesterday's client call. That is good channel choice, since sensitive messages land best in person.
+explanation: Face-to-face is the right channel for sensitive messages, but ambushing someone in a public space with no time to respond undermines it. Book a private room, plan specific examples and leave room for the reaction.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/face-to-face-conversation.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: d19c9596a75428ccf61c3c4ca9a55fa86d4b86e8
+concepts:
+- cm:face-to-face-conversation
+- cm:difficult-conversation
+difficulty: 2
+created: '2026-11-19'
+status: active

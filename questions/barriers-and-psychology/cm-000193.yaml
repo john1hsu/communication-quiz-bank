@@ -1,0 +1,20 @@
+id: cm-000193
+area: barriers-and-psychology
+kind: evidence
+topic: Anchoring and adjustment
+topic_type: Phenomenon
+true_statement: Anchoring replicates strongly, but a 2025 set of preregistered studies found no evidence that less time to adjust makes it stronger, a core prediction of the insufficient-adjustment account.
+false_statement: Anchoring replicates strongly, and a 2025 set of preregistered studies confirmed that less time to adjust makes it stronger, as the insufficient-adjustment account predicts.
+explanation: Röseler and colleagues found anchoring robust in classic designs but no time effect, so the effect is settled while its mechanism is not. Selective accessibility, where anchor-consistent facts come to mind more easily, is the rival explanation.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/anchoring-and-adjustment.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 33597b33f3c5b633bd9e58f4f92212842ed520f9
+concepts:
+- cm:anchoring-and-adjustment
+- cm:roseler-et-al-2025
+- cm:selective-accessibility-model
+difficulty: 3
+created: '2026-11-19'
+status: active

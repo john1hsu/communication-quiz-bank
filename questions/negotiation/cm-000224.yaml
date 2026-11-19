@@ -1,0 +1,18 @@
+id: cm-000224
+area: negotiation
+kind: scenario
+topic: Concession strategy
+topic_type: Technique
+true_statement: 'Asked for a 15% renewal discount, a vendor''s account manager replies, "OK, we can do 15% off. Shall I send the paperwork?" She has made a one-sided concession: the whole budget at once, unlabelled, with nothing asked in return.'
+false_statement: Asked for a 15% renewal discount, a vendor's account manager replies, "OK, we can do 15% off. Shall I send the paperwork?" She has made a contingent concession, tied to the client signing quickly.
+explanation: A contingent concession states what you need back, as in "we can do X if you can do Y". Here nothing is asked or named, so the client learns the price was soft and has no reason to give anything back.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/concession-strategy.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: ab702bfacf54cb930bba581a695502925b35a082
+concepts:
+- cm:concession-strategy
+difficulty: 2
+created: '2026-11-19'
+status: active

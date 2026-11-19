@@ -1,0 +1,19 @@
+id: cm-000220
+area: listening
+kind: figure
+topic: Interrupting
+topic_type: AntiPattern
+true_statement: A 1998 meta-analysis of 43 studies found men interrupted more than women overall, but the effect was negligible (d = .15), and larger for intrusive interruptions (d = .33).
+false_statement: A 1998 meta-analysis of 43 studies found men interrupted more than women overall, with a large effect (d = .85), and a smaller one for intrusive interruptions (d = .33).
+explanation: Anderson and Leaper's results show popular claims about gender and interrupting outrun the evidence; the gap depended on definitions and settings, growing in natural settings and larger groups.
+as_of: '1998'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/interrupting.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 03957d5a4284aede4e58fd8020968ffa094749dc
+concepts:
+- cm:interrupting
+difficulty: 3
+created: '2026-11-19'
+status: active

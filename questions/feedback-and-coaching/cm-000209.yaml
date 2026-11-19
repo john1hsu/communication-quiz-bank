@@ -1,0 +1,19 @@
+id: cm-000209
+area: feedback-and-coaching
+kind: scenario
+topic: Feedback sandwich
+topic_type: Technique
+true_statement: Reviewing an analyst's deck that hides the recommendation on slide 14, a lead says, "Great job overall! Maybe think about the order a bit? But honestly, it's great." The generic praise buries the fix, so she may hear only "great job."
+false_statement: Reviewing an analyst's deck that hides the recommendation on slide 14, a lead says, "Great job overall! Maybe think about the order a bit? But honestly, it's great." That is a well-built sandwich, since praise surrounds the correction.
+explanation: Even the sandwich's own advocates require specific, sincere praise and one plainly stated correction with an alternative. Here the praise is padding and the fix is a vague hint, so the correction is easy to miss.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/feedback-sandwich.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: c8328594f6926d8220957b6aaa59d2506f2471f1
+concepts:
+- cm:feedback-sandwich
+- cm:feedback
+difficulty: 1
+created: '2026-11-19'
+status: active

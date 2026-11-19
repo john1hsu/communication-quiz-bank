@@ -1,0 +1,19 @@
+id: cm-000205
+area: digital-and-async-communication
+kind: evidence
+topic: Asynchronous communication
+topic_type: Channel
+true_statement: Yang and colleagues' study of Microsoft employees found that firm-wide remote work in 2020 made collaboration more siloed, with less time spent with people in other groups.
+false_statement: Yang and colleagues' study of Microsoft employees found that firm-wide remote work in 2020 made collaboration less siloed, with more time spent with people in other groups.
+explanation: As work shifted toward email and chat, cross-group collaboration fell and people added fewer new collaborators. Leaning only on async channels within your team can deepen silos, so reach across groups deliberately.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/asynchronous-communication.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 673a3b4320bb8c6362422aff5071b5c31de0946c
+concepts:
+- cm:asynchronous-communication
+- cm:yang-et-al-2022
+difficulty: 2
+created: '2026-11-19'
+status: active

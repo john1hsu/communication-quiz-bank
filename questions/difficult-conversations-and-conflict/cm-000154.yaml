@@ -1,0 +1,20 @@
+id: cm-000154
+area: difficult-conversations-and-conflict
+kind: figure
+topic: Apology
+topic_type: Genre
+true_statement: A 2010 meta-analysis of 175 studies found that receiving an apology was moderately linked to forgiving the offender, with a weighted correlation of about r = .42.
+false_statement: A 2010 meta-analysis of 175 studies found that receiving an apology was only weakly linked to forgiving the offender, with a weighted correlation of about r = .12.
+explanation: Fehr, Gelfand and Nag reported a moderate association of about .42 across roughly 26,000 participants. They also found intent, responsibility and the victim's anger mattered, so an apology works alongside how the harm is seen.
+as_of: '2010'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/apology.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 3079ac5b1249dcce2d5fe86ca8d4fc09c1ebe54b
+concepts:
+- cm:apology
+- cm:fehr-gelfand-nag-2010
+difficulty: 3
+created: '2026-11-19'
+status: active

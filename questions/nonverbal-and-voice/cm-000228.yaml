@@ -1,0 +1,19 @@
+id: cm-000228
+area: nonverbal-and-voice
+kind: practice
+topic: Gesturing while speaking
+topic_type: Skill
+true_statement: When explaining a three-step approval flow, count each stage on your fingers and move your hand left to right as each hand-off happens, rather than gripping the lectern and reading the steps as a flat list.
+false_statement: When explaining a three-step approval flow, keep your hands still on the lectern and read the steps as a flat list, so that attention stays on your words rather than your movements.
+explanation: Gestures help most when they add something the words leave implicit, here order and direction. Suppressed hands can't help the listener; just put the sequence in words or a diagram too for anyone on audio.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/gestures.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: e7b96b93660af9e65bf208c590887e5d14442c3c
+concepts:
+- cm:gestures
+- cm:presentation
+difficulty: 1
+created: '2026-11-19'
+status: active

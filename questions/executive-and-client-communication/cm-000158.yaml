@@ -1,0 +1,19 @@
+id: cm-000158
+area: executive-and-client-communication
+kind: practice
+topic: Risk numbers as natural frequencies
+topic_type: Technique
+true_statement: To brief a leader on auto-cancelling orders a fraud model flags, say "of about 518 flagged orders per 10,000, only 18 are fraud" rather than "it catches 90% of fraud with a 5% false-positive rate."
+false_statement: To brief a leader on auto-cancelling orders a fraud model flags, say "it catches 90% of fraud with a 5% false-positive rate" rather than "of about 518 flagged orders per 10,000, only 18 are fraud."
+explanation: Accuracy percentages invite the listener to ignore how rare fraud is. Counts from one group show the base rate and the false alarms, so the leader can see most flags are wrong before deciding.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/risk-numbers-as-natural-frequencies.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 2dad1dc7733ff79588d5fe5309f3a0484f2f296b
+concepts:
+- cm:risk-numbers-as-natural-frequencies
+- cm:base-rate-neglect
+difficulty: 2
+created: '2026-11-19'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000207
+area: executive-and-client-communication
+kind: practice
+topic: Project status reporting
+topic_type: Genre
+true_statement: When a data problem puts go-live at risk, a status report should give the cause, what has already been done, two options with their costs, a recommendation and the date a decision is needed.
+false_statement: When a data problem puts go-live at risk, a status report should note that the team is working through it and promise a fuller update in the next report, once the fix is clearer.
+explanation: Framing the issue as a decision lets the sponsor act while action is still cheap. Deferring to the next report is the optimistic "fixed next month" habit that keeps troubled projects invisible until options have narrowed.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/status-reporting.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 43e2d14ad9c20a2cca581d64b4e8d7e62d6aa371
+concepts:
+- cm:status-reporting
+- cm:delivering-bad-news
+difficulty: 2
+created: '2026-11-19'
+status: active

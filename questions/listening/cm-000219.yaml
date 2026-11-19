@@ -1,0 +1,20 @@
+id: cm-000219
+area: listening
+kind: practice
+topic: Interrupting
+topic_type: AntiPattern
+true_statement: When facilitating, step in at the first interruption you see, for example "Let's let Sam finish," and hand the floor back, because people cut off early tend to say less for the rest of the meeting.
+false_statement: When facilitating, let the first few interruptions slide so the discussion keeps its energy, and step in only once the same person has been cut off several times.
+explanation: Cannon, Robinson and Smith-Lovin found that early interruptions predicted more interruptions and lower participation later, a cumulative disadvantage. Waiting for a pattern lets the snowball start.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/interrupting.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 03957d5a4284aede4e58fd8020968ffa094749dc
+concepts:
+- cm:interrupting
+- cm:facilitation
+- cm:cannon-robinson-smith-lovin-2019
+difficulty: 2
+created: '2026-11-19'
+status: active

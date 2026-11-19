@@ -1,0 +1,20 @@
+id: cm-000199
+area: cross-cultural-communication
+kind: origin
+topic: Intercultural communication
+topic_type: Field
+true_statement: Edward T. Hall's 1959 book The Silent Language, the field's founding work, grew out of team efforts at the U.S. Foreign Service Institute to prepare diplomats for postings abroad.
+false_statement: Edward T. Hall's 1959 book The Silent Language, the field's founding work, grew out of Darla Deardorff's research on assessing intercultural competence.
+explanation: Between 1946 and 1956, linguists and anthropologists at the Foreign Service Institute developed the ideas while training diplomats, which explains the field's practical bent. Deardorff's competence work came decades later.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/intercultural-communication.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 14d47248cf138209cb998a63b3a72d5f4430b8cc
+concepts:
+- cm:intercultural-communication
+- cm:edward-t-hall
+- cm:the-silent-language
+difficulty: 2
+created: '2026-11-19'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000157
+area: digital-and-async-communication
+kind: evidence
+topic: Zoom fatigue
+topic_type: Barrier
+true_statement: Bailenson's 2021 nonverbal-overload account of Zoom fatigue was offered as hypotheses drawn from older research, not as findings already tested on video calls.
+false_statement: Bailenson's 2021 nonverbal-overload account of Zoom fatigue was offered as findings from his own controlled tests on video calls, not as hypotheses.
+explanation: Bailenson proposed four design features (close-up gaze, cue effort, self-view, being kept still) and said they were untested on video calls. Other teams then measured fatigue in field and lab studies, with mixed results on the camera.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/zoom-fatigue.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: c2db8f59190183110c214740f016b0ef09440767
+concepts:
+- cm:zoom-fatigue
+- cm:nonverbal-overload
+difficulty: 3
+created: '2026-11-19'
+status: active

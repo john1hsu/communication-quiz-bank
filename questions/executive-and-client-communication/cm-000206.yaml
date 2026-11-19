@@ -1,0 +1,19 @@
+id: cm-000206
+area: executive-and-client-communication
+kind: scenario
+topic: Project status reporting
+topic_type: Genre
+true_statement: 'With 22% of migrated records failing validation, a lead''s report reads: "Status: GREEN. Some data-quality items being worked through; we remain confident about the timeline." That is a watermelon report, green outside and red inside.'
+false_statement: 'With 22% of migrated records failing validation, a lead''s report reads: "Status: GREEN. Some data-quality items being worked through; we remain confident about the timeline." That is the deaf effect, executives ignoring a warning.'
+explanation: The rating stays green while the real problem hides in hedged phrases, so the author is softening bad news. The deaf effect is on the receiving side, when leaders ignore warnings that were actually sent.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/status-reporting.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 43e2d14ad9c20a2cca581d64b4e8d7e62d6aa371
+concepts:
+- cm:status-reporting
+- cm:deaf-effect
+difficulty: 2
+created: '2026-11-19'
+status: active

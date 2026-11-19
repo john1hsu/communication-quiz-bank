@@ -1,0 +1,19 @@
+id: cm-000173
+area: meetings-and-facilitation
+kind: scenario
+topic: RACI matrix
+topic_type: Technique
+true_statement: 'A team''s RACI row for release notes reads: "A: tech writer drafts. R: product manager approves and publishes." The letters are swapped, since the approver is the Accountable one and the drafter is Responsible.'
+false_statement: 'A team''s RACI row for release notes reads: "A: tech writer drafts. R: product manager approves and publishes." The letters are right, since the drafter is Accountable and the approver is Responsible.'
+explanation: Responsible is whoever does the work; Accountable is the one person answerable for the result, with authority to approve or veto. Here the product manager signs off, so she is the A.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/raci-matrix.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 424d70beb44d07ad815ab00387c6ed1c7a8ee5a5
+concepts:
+- cm:raci-matrix
+- cm:decision-rights
+difficulty: 1
+created: '2026-11-19'
+status: active

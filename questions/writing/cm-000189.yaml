@@ -1,0 +1,19 @@
+id: cm-000189
+area: writing
+kind: practice
+topic: Pyramid principle
+topic_type: Framework
+true_statement: Under a recommendation, sort the supporting points into two to four groups that each hold one kind of idea, rather than one long list that mixes causes, actions and risks.
+false_statement: Under a recommendation, put all the supporting points in one long list that mixes causes, actions and risks, rather than splitting them into a few groups that each hold one kind of idea.
+explanation: Minto's rules say a group holds one kind of idea and its points neither overlap nor leave gaps, which is the MECE test. A mixed list hides whether the reasons actually add up to the conclusion. This is practitioner guidance, not a tested finding.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/pyramid-principle.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 37449068aa1e9f61290de10282f7515b4e2f3b47
+concepts:
+- cm:pyramid-principle
+- cm:mece
+difficulty: 2
+created: '2026-11-19'
+status: active

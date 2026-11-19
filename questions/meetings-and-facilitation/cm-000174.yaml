@@ -1,0 +1,19 @@
+id: cm-000174
+area: meetings-and-facilitation
+kind: practice
+topic: RACI matrix
+topic_type: Technique
+true_statement: If a RACI grid marks engineering, marketing and support all as A for release notes, name one of them as the single Accountable approver and move the others to Consulted or Informed.
+false_statement: If a RACI grid marks engineering, marketing and support all as A for release notes, keep all three as Accountable so each function has an equal say in approval.
+explanation: Shared accountability recreates the circular edits the grid was meant to end; the core rule is one A per row. This rests on practitioner guidance rather than tested evidence, but it is the rule all the guides agree on.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/raci-matrix.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 424d70beb44d07ad815ab00387c6ed1c7a8ee5a5
+concepts:
+- cm:raci-matrix
+- cm:role-ambiguity
+difficulty: 2
+created: '2026-11-19'
+status: active

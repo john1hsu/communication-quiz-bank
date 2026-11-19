@@ -1,0 +1,19 @@
+id: cm-000208
+area: executive-and-client-communication
+kind: evidence
+topic: Project status reporting
+topic_type: Genre
+true_statement: In Keil and colleagues' 2014 field study of government IT projects, heavier auditing of status reports bred defensiveness and a cycle of distrust rather than more honest reporting.
+false_statement: In Keil and colleagues' 2014 field study of government IT projects, heavier auditing of status reports produced more honest reporting, because teams knew they would be checked.
+explanation: Teams who found scrutiny unfair grew defensive, auditors read that as deception and scrutinised harder. The one project with honest reporting was where both sides had agreed shared reporting expectations.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/status-reporting.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 43e2d14ad9c20a2cca581d64b4e8d7e62d6aa371
+concepts:
+- cm:status-reporting
+- cm:keil-et-al-2014
+difficulty: 3
+created: '2026-11-19'
+status: active

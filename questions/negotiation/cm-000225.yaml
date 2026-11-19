@@ -1,0 +1,19 @@
+id: cm-000225
+area: negotiation
+kind: practice
+topic: Concession strategy
+topic_type: Technique
+true_statement: In a renewal, say "I can offer 6% off, which comes out of our services margin; to make that work we'd need a two-year term," rather than quietly lowering the price and hoping the client reciprocates.
+false_statement: In a renewal, quietly lower the price by 6% and wait to see whether the client reciprocates, rather than spelling out what it costs you and asking for a two-year term in return.
+explanation: People reciprocate the benefit they perceive, so an unnamed concession often earns nothing. Naming a true cost and asking for a specific return keeps the reciprocity norm working; the stated cost must be real, not invented.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/concession-strategy.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: ab702bfacf54cb930bba581a695502925b35a082
+concepts:
+- cm:concession-strategy
+- cm:norm-of-reciprocity
+difficulty: 2
+created: '2026-11-19'
+status: active

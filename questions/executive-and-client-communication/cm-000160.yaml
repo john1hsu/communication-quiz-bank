@@ -1,0 +1,19 @@
+id: cm-000160
+area: executive-and-client-communication
+kind: evidence
+topic: Risk numbers as natural frequencies
+topic_type: Technique
+true_statement: Sirota, Navarrete and Juanchich's 2024 experiments found natural frequencies beat single-event probabilities mainly when the problem was clearly worded; with standard textbook wording the advantage often vanished.
+false_statement: Sirota, Navarrete and Juanchich's 2024 experiments found natural frequencies beat single-event probabilities even with standard textbook wording, so clear wording added little.
+explanation: 'Their seven experiments suggest the format helps only when each number is plainly tied to its reference group. That is why the technique''s evidence is mixed: wording matters as much as the switch to counts.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/risk-numbers-as-natural-frequencies.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 2dad1dc7733ff79588d5fe5309f3a0484f2f296b
+concepts:
+- cm:risk-numbers-as-natural-frequencies
+- cm:sirota-navarrete-juanchich-2024
+difficulty: 3
+created: '2026-11-19'
+status: active

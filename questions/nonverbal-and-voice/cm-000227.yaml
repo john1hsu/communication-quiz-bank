@@ -1,0 +1,19 @@
+id: cm-000227
+area: nonverbal-and-voice
+kind: scenario
+topic: Gesturing while speaking
+topic_type: Skill
+true_statement: Presenting the quarterly forecast, a manager keeps twisting his pen and touching his collar between slides. Those movements are adaptors, which tend to read as anxiety.
+false_statement: Presenting the quarterly forecast, a manager keeps twisting his pen and touching his collar between slides. Those movements are illustrators, which help listeners follow the content.
+explanation: Illustrators move with speech to show size, shape or sequence; adaptors are self-touching or fidgeting that signal arousal. Filming a rehearsal and watching it silently is the usual way to catch them.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/gestures.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: e7b96b93660af9e65bf208c590887e5d14442c3c
+concepts:
+- cm:gestures
+- cm:nonverbal-communication
+difficulty: 1
+created: '2026-11-19'
+status: active

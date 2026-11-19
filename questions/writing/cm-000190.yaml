@@ -1,0 +1,20 @@
+id: cm-000190
+area: writing
+kind: origin
+topic: Pyramid principle
+topic_type: Framework
+true_statement: Barbara Minto developed the pyramid principle while editing associates' reports at McKinsey, and published it as The Pyramid Principle in 1985.
+false_statement: Barbara Minto developed the pyramid principle while editing associates' reports at McKinsey, and published it as The Pyramid Principle in 1963.
+explanation: Minto joined McKinsey in 1963 and left in 1973; the book came out in 1985 after she had taught the method in courses across the firm. She later revised it as The Minto Pyramid Principle.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/pyramid-principle.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 37449068aa1e9f61290de10282f7515b4e2f3b47
+concepts:
+- cm:pyramid-principle
+- cm:barbara-minto
+- cm:the-pyramid-principle-book
+difficulty: 2
+created: '2026-11-19'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000200
+area: difficult-conversations-and-conflict
+kind: scenario
+topic: Delivering bad news
+topic_type: Context
+true_statement: A team lead learns on Monday that a report's promotion went to someone else, and keeps postponing the talk all week because she doesn't want to upset him. That is the MUM effect, and the delay lets rumour fill the gap.
+false_statement: A team lead learns on Monday that a report's promotion went to someone else, and keeps postponing the talk all week because she doesn't want to upset him. That is a sound instinct, since waiting for a better moment softens the blow.
+explanation: The MUM effect is the reluctance to pass on unwelcome news, and its strongest driver was fear of upsetting the recipient, so delay feels kind. Set yourself a deadline and tell him plainly and early.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/delivering-bad-news.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 4f5031d63aa83b2cacf3dcf52b4b40085ba32418
+concepts:
+- cm:delivering-bad-news
+- cm:mum-effect
+difficulty: 2
+created: '2026-11-19'
+status: active

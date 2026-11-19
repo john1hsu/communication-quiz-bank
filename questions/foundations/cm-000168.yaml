@@ -1,0 +1,19 @@
+id: cm-000168
+area: foundations
+kind: scenario
+topic: Clarity
+topic_type: Concept
+true_statement: A new client contact asks why the change request stalled, and the lead replies, "Per prior thread, CR-2 blocked, see SOW." The reply is short, but it is not clear, because it drops context this reader doesn't have.
+false_statement: A new client contact asks why the change request stalled, and the lead replies, "Per prior thread, CR-2 blocked, see SOW." The reply is clear, because brevity is what clarity asks for.
+explanation: Brevity is only one part of Grice's Manner maxim, next to avoiding obscurity and ambiguity. Clarity is judged by the receiver, and a new contact can't decode a thread they never saw.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/clarity.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 84a14bf67e327b5b7b00f81bb5ba72e0f3960a64
+concepts:
+- cm:clarity
+- cm:grices-maxims
+difficulty: 2
+created: '2026-11-19'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000216
+area: presenting-and-public-speaking
+kind: practice
+topic: Habit reversal training
+topic_type: Technique
+true_statement: Before training yourself out of "um", record two or three short practice talks and count your fillers per minute, so you can tell later whether the training worked.
+false_statement: Before training yourself out of "um", skip recording and simply resolve to stop in your next talk, since counting fillers only makes you more self-conscious.
+explanation: Every speech study measured the filler rate before and after; without a baseline you can't tell if anything changed. Spotting fillers on recordings is also the first stage of awareness training.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/habit-reversal-training.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 989904e46da87ffff72a37b9dd1a5dc5a2fe0a8f
+concepts:
+- cm:habit-reversal-training
+- cm:presentation-rehearsal
+difficulty: 1
+created: '2026-11-19'
+status: active

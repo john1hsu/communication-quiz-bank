@@ -1,0 +1,19 @@
+id: cm-000167
+area: foundations
+kind: practice
+topic: Clarity
+topic_type: Concept
+true_statement: To flag a vendor delay, write "The API will arrive two weeks late; please choose by Thursday between moving launch to 14 March or cutting reporting" rather than "We may need to revisit the timeline given vendor developments."
+false_statement: To flag a vendor delay, write "We may need to revisit the timeline given vendor developments" rather than "The API will arrive two weeks late; please choose by Thursday between moving launch to 14 March or cutting reporting."
+explanation: Clarity means the reader can act on the first pass. The specific version names the fact, the decision and the deadline; the hedged one leaves the reader unsure whether anything has even changed.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/clarity.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 84a14bf67e327b5b7b00f81bb5ba72e0f3960a64
+concepts:
+- cm:clarity
+- cm:concise-writing
+difficulty: 1
+created: '2026-11-19'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000151
+area: cross-cultural-communication
+kind: origin
+topic: Ethnocentrism
+topic_type: Barrier
+true_statement: Ethnocentrism is usually credited to William Graham Sumner in 1906, but a 2014 review found Ludwig Gumplowicz using the concept around 1879, so Sumner popularised rather than coined it.
+false_statement: Ethnocentrism is usually credited to Ludwig Gumplowicz in 1906, but a 2014 review found William Graham Sumner using the concept around 1879, so Gumplowicz popularised rather than coined it.
+explanation: Bizumic's history traced the idea to Gumplowicz's writing from 1879 and 1881; Sumner's 1906 description became the standard reference. The false version swaps the two scholars.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/ethnocentrism.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 4330c63182688b7f6ac112ac4478279945e99f2c
+concepts:
+- cm:ethnocentrism
+- cm:ludwig-gumplowicz
+difficulty: 3
+created: '2026-11-19'
+status: active

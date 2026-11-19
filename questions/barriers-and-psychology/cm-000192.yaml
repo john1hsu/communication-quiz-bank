@@ -1,0 +1,19 @@
+id: cm-000192
+area: barriers-and-psychology
+kind: practice
+topic: Anchoring and adjustment
+topic_type: Phenomenon
+true_statement: Before you accept or counter a vendor's opening price, list reasons that figure could be wrong, since considering the opposite weakens an anchor's pull, even for experts.
+false_statement: Before you accept or counter a vendor's opening price, list reasons that figure is reasonable, so your counter stays close enough to it to seem credible.
+explanation: Mussweiler, Strack and Pfeiffer found that arguing against the anchor reduced its influence for students and experts alike. Building the case for the number does the opposite, keeping more anchor-consistent reasons in mind.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/anchoring-and-adjustment.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 33597b33f3c5b633bd9e58f4f92212842ed520f9
+concepts:
+- cm:anchoring-and-adjustment
+- cm:first-offer
+difficulty: 2
+created: '2026-11-19'
+status: active

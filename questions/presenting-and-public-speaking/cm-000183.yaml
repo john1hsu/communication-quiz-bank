@@ -1,0 +1,20 @@
+id: cm-000183
+area: presenting-and-public-speaking
+kind: figure
+topic: Filled pauses
+topic_type: AntiPattern
+true_statement: In a 2024 study of filler rates in speeches, listener ratings did not drop at 5 filler sounds per minute but fell at higher rates, especially 12 per minute.
+false_statement: In a 2024 study of filler rates in speeches, listener ratings already fell at 2 filler sounds per minute and dropped no further at 12 per minute.
+explanation: The damage came at dense rates, not from the occasional um, which is why chasing zero fillers outruns the evidence. Count your own rate on a recording and aim for few, not none.
+as_of: '2024'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/filled-pauses.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 024ac4910b9ef07ee028c6fdb0fb786d99909f61
+concepts:
+- cm:filled-pauses
+- cm:credibility
+difficulty: 3
+created: '2026-11-19'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000162
+area: feedback-and-coaching
+kind: practice
+topic: Manager one-on-one meetings
+topic_type: Context
+true_statement: In a one-on-one, open with the direct report's agenda items, for example "What's on your list?", and save the manager's own topics for the end.
+false_statement: In a one-on-one, open with the manager's own topics so they don't get squeezed out, and take the direct report's agenda items at the end.
+explanation: Putting the report's items first makes the meeting follow their priorities and surfaces blockers the manager would not think to ask about. Leading with the manager's list tends to crowd out the report's concerns.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/one-on-one-meetings.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 6ff5b804f090c74f8c57e1bd7f8eb118caced291
+concepts:
+- cm:one-on-one-meetings
+- cm:managing-up
+difficulty: 2
+created: '2026-11-19'
+status: active

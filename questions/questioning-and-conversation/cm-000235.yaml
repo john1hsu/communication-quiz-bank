@@ -1,0 +1,19 @@
+id: cm-000235
+area: questioning-and-conversation
+kind: evidence
+topic: Face-to-face conversation
+topic_type: Channel
+true_statement: In Roghanizad and Bohns's favour-asking experiments, requesters predicted email would work about as well as asking in person, though in-person asks succeeded far more often.
+false_statement: In Roghanizad and Bohns's favour-asking experiments, requesters predicted asking in person would work far better than email, though email asks succeeded just as often.
+explanation: People asked face to face complied many times more often, yet requesters didn't foresee it, so they don't notice what they give up by emailing. The samples were students and one request type, so the size is uncertain.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/face-to-face-conversation.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: d19c9596a75428ccf61c3c4ca9a55fa86d4b86e8
+concepts:
+- cm:face-to-face-conversation
+- cm:ask-in-person-study
+difficulty: 3
+created: '2026-11-19'
+status: active

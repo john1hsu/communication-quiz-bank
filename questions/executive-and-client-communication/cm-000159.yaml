@@ -1,0 +1,18 @@
+id: cm-000159
+area: executive-and-client-communication
+kind: scenario
+topic: Risk numbers as natural frequencies
+topic_type: Technique
+true_statement: A quality lead tells the plant manager, "The alarm fires for 80 per 100 defective parts and 5 per 100 good ones." Those are normalised frequencies, which keep the conditional structure that natural frequencies are meant to remove.
+false_statement: A quality lead tells the plant manager, "The alarm fires for 80 per 100 defective parts and 5 per 100 good ones." Those are natural frequencies, which make the base rate and false alarms visible.
+explanation: Each figure uses its own per-100 group, so it is just a percentage restated and says nothing about how many parts are defective overall. A natural frequency nests every count inside one stated group, such as 10,000 parts split first by the defect rate.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/risk-numbers-as-natural-frequencies.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 2dad1dc7733ff79588d5fe5309f3a0484f2f296b
+concepts:
+- cm:risk-numbers-as-natural-frequencies
+difficulty: 3
+created: '2026-11-19'
+status: active

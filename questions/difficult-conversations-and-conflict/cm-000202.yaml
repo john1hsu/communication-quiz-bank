@@ -1,0 +1,20 @@
+id: cm-000202
+area: difficult-conversations-and-conflict
+kind: figure
+topic: Delivering bad news
+topic_type: Context
+true_statement: In lab studies Legg and Sweeny reported in 2013, 78% of recipients wanted the bad news first, while news-givers mostly preferred to start with good news.
+false_statement: In lab studies Legg and Sweeny reported in 2013, 78% of news-givers wanted to give the bad news first, while recipients mostly preferred to start with good news.
+explanation: Recipients wanted the bad news first and ended up less worried when they got it; givers leaned toward cushioning, which mainly serves the speaker. Imagining the recipient's feelings shifted givers only slightly.
+as_of: '2013'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/delivering-bad-news.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 4f5031d63aa83b2cacf3dcf52b4b40085ba32418
+concepts:
+- cm:delivering-bad-news
+- cm:legg-sweeny-2013
+difficulty: 3
+created: '2026-11-19'
+status: active

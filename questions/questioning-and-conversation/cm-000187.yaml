@@ -1,0 +1,19 @@
+id: cm-000187
+area: questioning-and-conversation
+kind: evidence
+topic: Self-disclosure reciprocity
+topic_type: Technique
+true_statement: In Sprecher and colleagues' 2013 experiment, stranger pairs who alternated between sharing and listening liked each other more than pairs who did their sharing in separate one-way blocks.
+false_statement: In Sprecher and colleagues' 2013 experiment, stranger pairs who did their sharing in separate one-way blocks liked each other more than pairs who alternated between sharing and listening.
+explanation: Alternating turns produced more liking, closeness and enjoyment, likely because partners could respond to each other and set the depth together. These were lab chats between students, so transfer to work is plausible rather than proven.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/reciprocal-self-disclosure.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 35d08851e4f60b6e94749bf6af1b4dfa42316613
+concepts:
+- cm:reciprocal-self-disclosure
+- cm:sprecher-et-al-2013
+difficulty: 2
+created: '2026-11-19'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000156
+area: digital-and-async-communication
+kind: practice
+topic: Zoom fatigue
+topic_type: Barrier
+true_statement: Before booking a video meeting, first ask whether the conversation needs faces at all, or whether a phone call, shared document or async update would do the job.
+false_statement: Before booking a video meeting, keep video as the default so everyone can read cues, and cut fatigue by trimming each call by ten minutes.
+explanation: Choosing a leaner channel is the first fix for video fatigue, since it removes the on-camera strain entirely. Defaulting to video and only shortening calls keeps the gaze, self-view and stillness that drive the tiredness.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/zoom-fatigue.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: c2db8f59190183110c214740f016b0ef09440767
+concepts:
+- cm:zoom-fatigue
+- cm:channel-selection
+difficulty: 1
+created: '2026-11-19'
+status: active

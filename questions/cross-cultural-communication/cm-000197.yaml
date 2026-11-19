@@ -1,0 +1,19 @@
+id: cm-000197
+area: cross-cultural-communication
+kind: scenario
+topic: Intercultural communication
+topic_type: Field
+true_statement: A manager finds a new colleague's emails abrupt, decides "that's just how people from his country write," and never mentions it. That uses culture as a fixed label instead of a hypothesis to check with the colleague.
+false_statement: A manager finds a new colleague's emails abrupt, decides "that's just how people from his country write," and never mentions it. That is the field's recommended move of using a cultural framework to explain behaviour.
+explanation: A framework should generate a guess about the abruptness, which you then test by asking the person. Country is often a poor proxy for an individual's culture, and occupation or background may explain more.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/intercultural-communication.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 14d47248cf138209cb998a63b3a72d5f4430b8cc
+concepts:
+- cm:intercultural-communication
+- cm:hofstede-cultural-dimensions
+difficulty: 2
+created: '2026-11-19'
+status: active

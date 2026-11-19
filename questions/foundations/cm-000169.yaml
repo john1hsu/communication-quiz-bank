@@ -1,0 +1,19 @@
+id: cm-000169
+area: foundations
+kind: evidence
+topic: Clarity
+topic_type: Concept
+true_statement: In Oppenheimer's experiments, readers rated the authors of needlessly complex texts as less intelligent than the authors of plainer versions of the same content.
+false_statement: In Oppenheimer's experiments, readers rated the authors of needlessly complex texts as more intelligent than the authors of plainer versions of the same content.
+explanation: Needless complexity lowered, not raised, readers' estimates of the writer, so writing to sound expert tends to backfire. It is one multi-experiment paper with student raters, so treat the effect as suggestive.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/clarity.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 84a14bf67e327b5b7b00f81bb5ba72e0f3960a64
+concepts:
+- cm:clarity
+- cm:oppenheimer-2006
+difficulty: 2
+created: '2026-11-19'
+status: active

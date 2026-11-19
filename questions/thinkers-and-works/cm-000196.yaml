@@ -1,0 +1,19 @@
+id: cm-000196
+area: thinkers-and-works
+kind: evidence
+topic: George Loewenstein
+topic_type: Person
+true_statement: In the 1989 curse-of-knowledge experiments, feedback did little to reduce the bias, while trading in a market roughly halved it without removing it.
+false_statement: In the 1989 curse-of-knowledge experiments, feedback largely removed the bias, while trading in a market did little to reduce it.
+explanation: Informed students' predictions stayed pulled toward the true earnings they knew despite feedback; markets helped only partly. The lesson is to check understanding with the real audience rather than trusting your sense of what is obvious.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/george-loewenstein.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: b74c63d9585581acf0b2338f3367b14d1951edc8
+concepts:
+- cm:george-loewenstein
+- cm:camerer-loewenstein-weber-1989
+difficulty: 3
+created: '2026-11-19'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000185
+area: questioning-and-conversation
+kind: scenario
+topic: Self-disclosure reciprocity
+topic_type: Technique
+true_statement: In her first one-on-one with a new hire, a director confides, "I'm struggling to stay on top of this role right now." Sharing a current weakness from the senior seat risks costing her influence; a past struggle she has solved would be safer.
+false_statement: In her first one-on-one with a new hire, a director confides, "I'm struggling to stay on top of this role right now." Sharing a current weakness from the senior seat is the safest way to build connection.
+explanation: Gibson, Harari and Marr found higher-status people who disclosed a weakness were seen as lower in status, liked less and resisted more, while peers paid no penalty. Managers can still reciprocate with interests, work preferences or solved challenges.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/reciprocal-self-disclosure.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 35d08851e4f60b6e94749bf6af1b4dfa42316613
+concepts:
+- cm:reciprocal-self-disclosure
+- cm:gibson-harari-marr-2018
+difficulty: 3
+created: '2026-11-19'
+status: active

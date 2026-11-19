@@ -1,0 +1,19 @@
+id: cm-000226
+area: negotiation
+kind: evidence
+topic: Concession strategy
+topic_type: Technique
+true_statement: In Tey and colleagues' 2021 studies, people who received concessions that shrank step by step made less ambitious counteroffers than those who received concessions in other patterns.
+false_statement: In Tey and colleagues' 2021 studies, people who received concessions that shrank step by step made more ambitious counteroffers than those who received concessions in other patterns.
+explanation: Shrinking steps signal that a negotiator is nearing their limit, which tempers the other side's demands. The effect weakened at extreme paces or round counts, and it only stays ethical when the limit it signals is real.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/concession-strategy.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: ab702bfacf54cb930bba581a695502925b35a082
+concepts:
+- cm:concession-strategy
+- cm:tey-et-al-2021
+difficulty: 3
+created: '2026-11-19'
+status: active

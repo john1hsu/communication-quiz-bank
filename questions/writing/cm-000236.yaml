@@ -1,0 +1,19 @@
+id: cm-000236
+area: writing
+kind: scenario
+topic: Readability formulas
+topic_type: Technique
+true_statement: To hit a grade-8 target, a policy team rewrites a staff notice as "Leave. Approval needed. Submit form. Use portal. Manager signs. HR checks." It scores as very easy, but it was written to the number and leaves readers guessing.
+false_statement: To hit a grade-8 target, a policy team rewrites a staff notice as "Leave. Approval needed. Submit form. Use portal. Manager signs. HR checks." Its very easy score shows the notice is now plain language.
+explanation: Chopped sentences lower the score without saying the order, the deadline or who acts. Plain language is judged by whether readers can find, understand and use the content, which no formula measures.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/readability-formulas.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 149c891ceffa62485488cee82a4e6e10d712a78e
+concepts:
+- cm:readability-formulas
+- cm:plain-language
+difficulty: 2
+created: '2026-11-19'
+status: active

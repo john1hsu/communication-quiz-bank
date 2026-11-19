@@ -1,0 +1,19 @@
+id: cm-000213
+area: foundations
+kind: practice
+topic: Common ground and grounding theory
+topic_type: Theory
+true_statement: In a team spread across offices, treat a colleague's silence on your proposal as missing evidence of understanding and ask directly, rather than reading it as agreement.
+false_statement: In a team spread across offices, treat a colleague's silence on your proposal as agreement once a reasonable time has passed, rather than chasing for an explicit reply.
+explanation: Grounding needs positive evidence such as a relevant reply or a read-back; silence in a dispersed team could mean anything, from disagreement to a holiday. Without that evidence, the message hasn't reached common ground.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/common-ground.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 01fef707d2b16123674bd3fece4070a72e17e8a2
+concepts:
+- cm:common-ground
+- cm:checking-understanding
+difficulty: 2
+created: '2026-11-19'
+status: active

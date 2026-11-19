@@ -1,0 +1,19 @@
+id: cm-000247
+area: difficult-conversations-and-conflict
+kind: evidence
+topic: Social accounts
+topic_type: Technique
+true_statement: Shaw, Wild and Colquitt's 2003 meta-analysis found explanations helped most after unfavourable outcomes, and excuses tended to work better than justifications.
+false_statement: Shaw, Wild and Colquitt's 2003 meta-analysis found explanations helped most after favourable outcomes, and justifications tended to work better than excuses.
+explanation: Accounts matter most when the news is bad, as fair-treatment research also finds. Excuses help by shifting responsibility, which is exactly why they must be true; inventing a mitigating cause is deception.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/social-accounts.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: eb187354dc719502c1b3536d64e2e94fcc7ca573
+concepts:
+- cm:social-accounts
+- cm:shaw-wild-colquitt-2003
+difficulty: 3
+created: '2026-11-19'
+status: active

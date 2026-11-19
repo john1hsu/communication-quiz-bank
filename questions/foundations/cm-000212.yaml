@@ -1,0 +1,19 @@
+id: cm-000212
+area: foundations
+kind: scenario
+topic: Common ground and grounding theory
+topic_type: Theory
+true_statement: A lead emails a new deadline only to the two engineers in her office; the remote designer keeps working to the old date, and she decides he's careless. That is a common-ground failure, information sent to only some members, blamed on the person.
+false_statement: A lead emails a new deadline only to the two engineers in her office; the remote designer keeps working to the old date, and she decides he's careless. That is the illusion of transparency, overestimating how well others read your feelings.
+explanation: Cramton found dispersed teams lose mutual knowledge when information reaches only some members, and that people then blame the person rather than the situation they can't see. Nothing here is about hidden feelings.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/common-ground.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 01fef707d2b16123674bd3fece4070a72e17e8a2
+concepts:
+- cm:common-ground
+- cm:cramton-2001
+difficulty: 2
+created: '2026-11-19'
+status: active

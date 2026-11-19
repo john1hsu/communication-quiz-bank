@@ -1,0 +1,21 @@
+id: cm-000198
+area: cross-cultural-communication
+kind: figure
+topic: Intercultural communication
+topic_type: Field
+true_statement: A 2016 meta-analysis of 558 studies using Hofstede's dimensions found about 80% of the variation in cultural values lay within countries rather than between them.
+false_statement: A 2016 meta-analysis of 558 studies using Hofstede's dimensions found about 80% of the variation in cultural values lay between countries rather than within them.
+explanation: Taras, Steel and Kirkman concluded that country is often a poor proxy for culture, so national scores shouldn't be applied to individual colleagues. Their analysis covered values only, not communication style.
+as_of: '2016'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/intercultural-communication.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 14d47248cf138209cb998a63b3a72d5f4430b8cc
+concepts:
+- cm:intercultural-communication
+- cm:taras-steel-kirkman-2016
+- cm:hofstede-cultural-dimensions
+difficulty: 3
+created: '2026-11-19'
+status: active

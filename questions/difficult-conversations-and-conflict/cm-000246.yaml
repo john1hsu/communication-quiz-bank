@@ -1,0 +1,19 @@
+id: cm-000246
+area: difficult-conversations-and-conflict
+kind: practice
+topic: Social accounts
+topic_type: Technique
+true_statement: When cancelling conference places you promised, name the specific cause, say what you argued for, and explain how refunds and development plans will be handled, rather than citing "business reasons."
+false_statement: When cancelling conference places you promised, cite "business reasons" briefly and thank people for understanding, since a detailed cause only invites argument.
+explanation: An account works through its adequacy; an empty one gives people nothing to judge and reads as arbitrary. Covering how people will be treated, not just why, reaches those whose first question is what happens to them next.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/social-accounts.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: eb187354dc719502c1b3536d64e2e94fcc7ca573
+concepts:
+- cm:social-accounts
+- cm:delivering-bad-news
+difficulty: 2
+created: '2026-11-19'
+status: active

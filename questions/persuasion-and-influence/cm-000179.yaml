@@ -1,0 +1,18 @@
+id: cm-000179
+area: persuasion-and-influence
+kind: scenario
+topic: Credibility
+topic_type: Concept
+true_statement: A respected senior architect pitches a tooling change. The ops team grants he knows the tools cold but suspects the change mostly makes his own team's life easier. Their doubt is about his goodwill, not his competence.
+false_statement: A respected senior architect pitches a tooling change. The ops team grants he knows the tools cold but suspects the change mostly makes his own team's life easier. Their doubt is about his competence, not his goodwill.
+explanation: Competence is expertise; goodwill is whether the speaker seems to care about the listener's interests, and the two are rated separately. Here the expertise is accepted, so he needs to show how the change serves the ops team.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/credibility.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: c961112e3224dba633d8d29879b02013ebbdf943
+concepts:
+- cm:credibility
+difficulty: 2
+created: '2026-11-19'
+status: active

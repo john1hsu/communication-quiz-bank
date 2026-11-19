@@ -1,0 +1,19 @@
+id: cm-000178
+area: negotiation
+kind: evidence
+topic: Zone of possible agreement
+topic_type: Concept
+true_statement: Larrick and Wu's 2007 studies found negotiators tend to underestimate the size of the bargaining zone, and so overestimate how much of the surplus they captured.
+false_statement: Larrick and Wu's 2007 studies found negotiators tend to overestimate the size of the bargaining zone, and so underestimate how much of the surplus they captured.
+explanation: 'They called it a small-pie bias: thinking the zone is narrow makes a modest deal look like a big win. Treat your estimate of the other side''s limit as a hypothesis to test, not a fact.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/zone-of-possible-agreement.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: c3bce0cb0a91b9825d8a34b43d9f7d9dca6b95cf
+concepts:
+- cm:zone-of-possible-agreement
+- cm:larrick-wu-2007
+difficulty: 3
+created: '2026-11-19'
+status: active

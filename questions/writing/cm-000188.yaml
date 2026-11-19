@@ -1,0 +1,20 @@
+id: cm-000188
+area: writing
+kind: scenario
+topic: Pyramid principle
+topic_type: Framework
+true_statement: 'An analyst''s report on rising tooling costs runs: "Week 1: we collected cost data. Week 2: we tested feed rates. Week 3: we found several patterns." It narrates the order of the work and buries the answer.'
+false_statement: 'An analyst''s report on rising tooling costs runs: "Week 1: we collected cost data. Week 2: we tested feed rates. Week 3: we found several patterns." It follows the pyramid principle, building up from evidence to the answer.'
+explanation: 'The pyramid puts the recommendation on top, then grouped reasons, then evidence: the order the reader thinks in. A week-by-week account mirrors the investigation, so the plant manager has to dig for what to do.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/pyramid-principle.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 37449068aa1e9f61290de10282f7515b4e2f3b47
+concepts:
+- cm:pyramid-principle
+- cm:burying-the-lede
+- cm:business-report
+difficulty: 1
+created: '2026-11-19'
+status: active

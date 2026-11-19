@@ -1,0 +1,19 @@
+id: cm-000241
+area: barriers-and-psychology
+kind: evidence
+topic: Considering others' contributions first
+topic_type: Technique
+true_statement: Caruso, Epley and Bazerman found that considering others' contributions first reduced over-claiming but lowered enjoyment and interest in future collaboration among the biggest contributors in cooperative groups.
+false_statement: Caruso, Epley and Bazerman found that considering others' contributions first reduced over-claiming and raised enjoyment and interest in future collaboration among the biggest contributors in cooperative groups.
+explanation: Seeing an uneven split clearly can sting those who carried most, which is why the technique's status is mixed. Pair it with a forward-looking talk about dividing the work next time.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/considering-others-contributions-first.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 75c1b01a664626a314ccaf5b2a2765edce498ce9
+concepts:
+- cm:considering-others-contributions-first
+- cm:caruso-epley-bazerman-2006
+difficulty: 3
+created: '2026-11-19'
+status: active

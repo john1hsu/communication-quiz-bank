@@ -1,0 +1,20 @@
+id: cm-000243
+area: thinkers-and-works
+kind: evidence
+topic: Ray Tomlinson
+topic_type: Person
+true_statement: 'Calling Tomlinson the inventor of email is contested: MIT''s CTSS MAIL already carried messages within one computer in 1965, and his step was mail between computers on a network.'
+false_statement: 'Calling Tomlinson the inventor of email is contested: MIT''s CTSS MAIL already carried messages between computers in 1965, and his step was mail between users of one computer.'
+explanation: CTSS MAIL worked only within one time-sharing machine; Tomlinson's 1971 work crossed the ARPANET. The defensible claim is that he built the first network email and its addressing convention.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/ray-tomlinson.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: f16f1d1b6a043a6ed5a3a6833d2e6c73be086756
+concepts:
+- cm:ray-tomlinson
+- cm:ctss-mail
+- cm:email
+difficulty: 3
+created: '2026-11-19'
+status: active

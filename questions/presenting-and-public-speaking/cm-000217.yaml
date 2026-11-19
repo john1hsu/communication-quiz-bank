@@ -1,0 +1,19 @@
+id: cm-000217
+area: presenting-and-public-speaking
+kind: origin
+topic: Habit reversal training
+topic_type: Technique
+true_statement: Nathan Azrin and R. G. Nunn introduced habit reversal in 1973 as a treatment for nervous habits such as nail-biting and tics, long before it was applied to filler words.
+false_statement: Nathan Azrin and R. G. Nunn introduced habit reversal in 2016 as a treatment for filler words in student speeches, before it was applied to nervous habits such as nail-biting.
+explanation: The method began as a clinical package for habits and tics; behaviour analysts such as Mancuso and Miltenberger later applied a stripped-down version to speech in 2016.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/habit-reversal-training.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 989904e46da87ffff72a37b9dd1a5dc5a2fe0a8f
+concepts:
+- cm:habit-reversal-training
+- cm:nathan-azrin
+difficulty: 2
+created: '2026-11-19'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000239
+area: barriers-and-psychology
+kind: scenario
+topic: Considering others' contributions first
+topic_type: Technique
+true_statement: In a retro, a lead asks four engineers to estimate their own share of the migration work, and the numbers add up to 160%. The gap most likely reflects egocentric over-claiming, each person remembering their own work best.
+false_statement: In a retro, a lead asks four engineers to estimate their own share of the migration work, and the numbers add up to 160%. The gap most likely shows that at least one engineer is deliberately inflating their share.
+explanation: Research traces totals above 100% to memory and attention, not lying, and they grow with team size. Use the gap to surface overlooked work, for instance by having everyone list others' contributions before their own.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/considering-others-contributions-first.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 75c1b01a664626a314ccaf5b2a2765edce498ce9
+concepts:
+- cm:considering-others-contributions-first
+- cm:egocentric-bias
+difficulty: 2
+created: '2026-11-19'
+status: active

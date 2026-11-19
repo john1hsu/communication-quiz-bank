@@ -1,0 +1,19 @@
+id: cm-000165
+area: nonverbal-and-voice
+kind: practice
+topic: Gaze and eye contact
+topic_type: Skill
+true_statement: When you're working out a hard answer in a one-to-one, it's fine to look away while you think, then come back to the person's eyes to land your main point.
+false_statement: When you're working out a hard answer in a one-to-one, keep holding the person's eyes while you think, so you don't come across as evasive.
+explanation: Eye contact draws on general mental resources and slowed people on the hardest tasks, so glancing away while thinking is normal. Holding gaze through a complex answer adds load without signalling anything extra.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/eye-contact.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: af52e443888eb0f4119e69b74dfe697d35be4ec1
+concepts:
+- cm:eye-contact
+- cm:cognitive-load
+difficulty: 2
+created: '2026-11-19'
+status: active

@@ -1,0 +1,20 @@
+id: cm-000171
+area: listening
+kind: practice
+topic: Wait time
+topic_type: Technique
+true_statement: 'If you hold less power in a negotiation, don''t lean on long silences: in MIT studies of simulated job negotiations, pauses by the lower-status party brought no benefit and left them feeling worse.'
+false_statement: 'If you hold less power in a negotiation, lean on long silences: in MIT studies of simulated job negotiations, pauses helped the lower-status party more than anyone and left them feeling better.'
+explanation: Pauses of three seconds or more helped negotiators find deals good for both sides, but the benefit had a status boundary. Silence is room to think, not a lever, and it can backfire for the weaker party.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/wait-time.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: bddb917a939c8f62f91c474e7bf1cf7c505b146a
+concepts:
+- cm:wait-time
+- cm:curhan-et-al-2022
+- cm:salary-negotiation
+difficulty: 3
+created: '2026-11-19'
+status: active

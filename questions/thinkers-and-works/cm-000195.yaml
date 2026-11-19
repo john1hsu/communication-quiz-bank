@@ -1,0 +1,19 @@
+id: cm-000195
+area: thinkers-and-works
+kind: practice
+topic: George Loewenstein
+topic_type: Person
+true_statement: To open a training talk on a new pricing model, applying Loewenstein's information-gap idea, start with the puzzle the sales team actually has, such as why two similar customers got different quotes, then walk through the answer.
+false_statement: To open a training talk on a new pricing model, applying Loewenstein's information-gap idea, front-load every detail of the model first, then invite the team's questions about specific quotes at the end.
+explanation: Curiosity grows when people notice a gap between what they know and want to know, and curious learners remember answers better. A curiosity opener suits talks where attention must be earned; a busy reader of a decision email still needs the answer first.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/george-loewenstein.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: b74c63d9585581acf0b2338f3367b14d1951edc8
+concepts:
+- cm:george-loewenstein
+- cm:information-gap-theory
+difficulty: 2
+created: '2026-11-19'
+status: active

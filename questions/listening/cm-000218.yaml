@@ -1,0 +1,19 @@
+id: cm-000218
+area: listening
+kind: scenario
+topic: Interrupting
+topic_type: AntiPattern
+true_statement: As a peer walks through her rollout plan, a colleague quietly says "right" and "exactly" while she keeps talking, and she carries on uninterrupted. That is cooperative overlap rather than an intrusive interruption.
+false_statement: As a peer walks through her rollout plan, a colleague quietly says "right" and "exactly" while she keeps talking, and she carries on uninterrupted. That is an intrusive interruption, since he spoke while she held the floor.
+explanation: An intrusive interruption takes the turn away or changes direction; brief, quiet agreement that leaves the speaker going supports her instead. Some listeners may still hear overlap as rude, so ask rather than assume.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/interrupting.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 03957d5a4284aede4e58fd8020968ffa094749dc
+concepts:
+- cm:interrupting
+- cm:cooperative-overlap
+difficulty: 2
+created: '2026-11-19'
+status: active

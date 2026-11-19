@@ -1,0 +1,19 @@
+id: cm-000170
+area: listening
+kind: scenario
+topic: Wait time
+topic_type: Technique
+true_statement: In a retro, a product manager asks, "What slowed us down?" and a second later adds, "Was it the test environment? Or the late spec changes?" He has filled wait time 1, turning an open question into multiple choice.
+false_statement: In a retro, a product manager asks, "What slowed us down?" and a second later adds, "Was it the test environment? Or the late spec changes?" He has skipped wait time 2, the pause after someone answers.
+explanation: Wait time 1 is the silence right after you ask; offering options during it lets the asker's guesses steer the reply. Wait time 2 comes after an answer, and nobody has answered yet.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/wait-time.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: bddb917a939c8f62f91c474e7bf1cf7c505b146a
+concepts:
+- cm:wait-time
+- cm:open-ended-questions
+difficulty: 2
+created: '2026-11-19'
+status: active

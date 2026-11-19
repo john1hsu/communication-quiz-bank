@@ -1,0 +1,20 @@
+id: cm-000153
+area: difficult-conversations-and-conflict
+kind: scenario
+topic: Apology
+topic_type: Genre
+true_statement: A client tells an analyst he believes she deliberately hid a cost overrun; she didn't, and the records will show it. Because this is an accusation about integrity, a clear denial is likely to protect trust better than an apology.
+false_statement: A client tells an analyst he believes she deliberately hid a cost overrun; she didn't, and the records will show it. Because apology beats denial after any trust violation, an apology is likely to protect trust better than a denial.
+explanation: Kim and colleagues found apology helps after a lapse of skill but backfires on integrity accusations, because admitting fault confirms the dishonesty judgement. An apology later contradicted by the evidence would hurt trust further.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/apology.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 3079ac5b1249dcce2d5fe86ca8d4fc09c1ebe54b
+concepts:
+- cm:apology
+- cm:kim-et-al-2004
+- cm:denial
+difficulty: 3
+created: '2026-11-19'
+status: active

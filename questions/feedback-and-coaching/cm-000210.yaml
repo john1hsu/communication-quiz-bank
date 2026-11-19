@@ -1,0 +1,19 @@
+id: cm-000210
+area: feedback-and-coaching
+kind: practice
+topic: Feedback sandwich
+topic_type: Technique
+true_statement: If a report's work has three serious, recurring problems, hold a direct conversation about them rather than spreading them across a series of praise sandwiches.
+false_statement: If a report's work has three serious, recurring problems, wrap each one in its own praise sandwich so every conversation stays positive and he doesn't get defensive.
+explanation: A sandwich can carry at most one modest correction; serious or repeated issues need a fuller, direct talk. Routine cushioning also devalues praise, so people start bracing for the "but".
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/feedback-sandwich.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: c8328594f6926d8220957b6aaa59d2506f2471f1
+concepts:
+- cm:feedback-sandwich
+- cm:defensiveness
+difficulty: 2
+created: '2026-11-19'
+status: active

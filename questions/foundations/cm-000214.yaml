@@ -1,0 +1,20 @@
+id: cm-000214
+area: foundations
+kind: evidence
+topic: Common ground and grounding theory
+topic_type: Theory
+true_statement: In Keysar and colleagues' 2000 eye-tracking experiments, listeners first considered objects only they could see and used shared knowledge to correct themselves afterwards.
+false_statement: In Keysar and colleagues' 2000 eye-tracking experiments, listeners restricted their search from the start to objects they knew the speaker could also see.
+explanation: This egocentric heuristic challenges the idea that people consult common ground automatically. Grounding as a joint process is well supported, but moment to moment we start from our own view.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/common-ground.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 01fef707d2b16123674bd3fece4070a72e17e8a2
+concepts:
+- cm:common-ground
+- cm:keysar-et-al-2000
+- cm:egocentric-bias
+difficulty: 3
+created: '2026-11-19'
+status: active

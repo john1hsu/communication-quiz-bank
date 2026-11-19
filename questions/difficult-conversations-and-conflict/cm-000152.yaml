@@ -1,0 +1,19 @@
+id: cm-000152
+area: difficult-conversations-and-conflict
+kind: practice
+topic: Apology
+topic_type: Genre
+true_statement: An apology email for sending a client the wrong file should name the error in the first person, state what it cost them and offer a dated fix, without asking the client to forgive you.
+false_statement: An apology email for sending a client the wrong file should name the error in the first person, state what it cost them and offer a dated fix, then close by asking the client to forgive you.
+explanation: In Lewicki and colleagues' tests, a request for forgiveness was the component people rated least effective, while responsibility and repair rated highest. Ending with a plea shifts the focus to your discomfort and puts a demand on the person you harmed.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/apology.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 3079ac5b1249dcce2d5fe86ca8d4fc09c1ebe54b
+concepts:
+- cm:apology
+- cm:lewicki-polin-lount-2016
+difficulty: 2
+created: '2026-11-19'
+status: active

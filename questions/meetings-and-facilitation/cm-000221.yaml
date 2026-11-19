@@ -1,0 +1,19 @@
+id: cm-000221
+area: meetings-and-facilitation
+kind: scenario
+topic: 1-2-4-All
+topic_type: Technique
+true_statement: A lead asks ten engineers, "What should we change to cut incidents?", hears a senior engineer suggest more alerting, asks "Anyone else? No?" and records it as the action. The first senior voice has set the answer, an unequal-participation problem.
+false_statement: A lead asks ten engineers, "What should we change to cut incidents?", hears a senior engineer suggest more alerting, asks "Anyone else? No?" and records it as the action. That is fair consensus, since everyone had a chance to speak.
+explanation: In an open round the quickest or most senior person anchors the room, and quieter people rarely speak up. A minute of silent writing followed by pairs gives everyone an idea and a low-risk audience first.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/1-2-4-all.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 16ff85e019303a4a8f6a95ea555eea0a326851a8
+concepts:
+- cm:1-2-4-all
+- cm:unequal-participation
+difficulty: 1
+created: '2026-11-19'
+status: active

@@ -1,0 +1,20 @@
+id: cm-000163
+area: feedback-and-coaching
+kind: evidence
+topic: Manager one-on-one meetings
+topic_type: Context
+true_statement: In Flinchum's 2022 survey, the manager's relations-oriented behaviour in one-on-ones, such as listening and giving deserved recognition, was a stronger route to engagement than how often they met.
+false_statement: In Flinchum's 2022 survey, how often managers held one-on-ones was a stronger route to engagement than relations-oriented behaviour, such as listening and giving deserved recognition.
+explanation: 'Quality beat quantity: listening, voice, concern and recognition mattered most, while frequency counted mainly as a floor of about monthly. The findings are self-report associations, so the evidence is mixed rather than settled.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/one-on-one-meetings.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 6ff5b804f090c74f8c57e1bd7f8eb118caced291
+concepts:
+- cm:one-on-one-meetings
+- cm:flinchum-2022
+- cm:employee-engagement
+difficulty: 3
+created: '2026-11-19'
+status: active

@@ -1,0 +1,20 @@
+id: cm-000238
+area: writing
+kind: evidence
+topic: Readability formulas
+topic_type: Technique
+true_statement: In Duffy and Kabance's Navy experiments, rewrites that sharply lowered readability scores barely improved readers' comprehension.
+false_statement: In Duffy and Kabance's Navy experiments, rewrites that sharply lowered readability scores clearly improved readers' comprehension.
+explanation: Scores fell by several grades while understanding hardly moved, apart from a small vocabulary gain for weaker readers. That is why using formulas as a writing target is contested; testing with real readers is the better check.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/readability-formulas.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 149c891ceffa62485488cee82a4e6e10d712a78e
+concepts:
+- cm:readability-formulas
+- cm:duffy-kabance-1982
+- cm:usability-testing
+difficulty: 3
+created: '2026-11-19'
+status: active

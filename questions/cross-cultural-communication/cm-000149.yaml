@@ -1,0 +1,19 @@
+id: cm-000149
+area: cross-cultural-communication
+kind: scenario
+topic: Ethnocentrism
+topic_type: Barrier
+true_statement: In a design review, a manager waves off a proposal from an engineer with a strong accent as "not thought through", then praises the same idea when a same-culture colleague raises it a week later. That uneven credibility is a sign of ethnocentrism.
+false_statement: In a design review, a manager waves off a proposal from an engineer with a strong accent as "not thought through", then praises the same idea when a same-culture colleague raises it a week later. That is a fair call on delivery, not ethnocentrism.
+explanation: The idea was identical; only the messenger changed. Trusting the same content more from someone who shares your culture is a classic ethnocentric filter on credibility, not a judgement about delivery.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/ethnocentrism.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 4330c63182688b7f6ac112ac4478279945e99f2c
+concepts:
+- cm:ethnocentrism
+- cm:credibility
+difficulty: 2
+created: '2026-11-19'
+status: active

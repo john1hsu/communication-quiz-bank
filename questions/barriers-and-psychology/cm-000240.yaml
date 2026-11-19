@@ -1,0 +1,19 @@
+id: cm-000240
+area: barriers-and-psychology
+kind: practice
+topic: Considering others' contributions first
+topic_type: Technique
+true_statement: In a quarterly update about a launch five people worked on, name each colleague and what they did before stating your own role, rather than leading with your own work and thanking "the team" at the end.
+false_statement: In a quarterly update about a launch five people worked on, lead with your own work and thank "the team" at the end, rather than naming each colleague and what they did first.
+explanation: Listing others first surfaces contributions you'd half forgotten and shows the reader whom to recognise, while still stating your real role. A vague nod to the team doesn't do that work.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/considering-others-contributions-first.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 75c1b01a664626a314ccaf5b2a2765edce498ce9
+concepts:
+- cm:considering-others-contributions-first
+- cm:team-project
+difficulty: 1
+created: '2026-11-19'
+status: active

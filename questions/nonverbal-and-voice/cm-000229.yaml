@@ -1,0 +1,19 @@
+id: cm-000229
+area: nonverbal-and-voice
+kind: evidence
+topic: Gesturing while speaking
+topic_type: Skill
+true_statement: Hostetter's 2011 meta-analysis found gestures helped listeners understand most when they added information the speech left out, rather than repeating what was said.
+false_statement: Hostetter's 2011 meta-analysis found gestures helped listeners understand most when they repeated what was said, rather than adding information the speech left out.
+explanation: Comprehension gains were larger for non-redundant gestures and for depicting physical actions rather than abstract ideas. So show the size, shape or sequence your words don't spell out.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/gestures.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: e7b96b93660af9e65bf208c590887e5d14442c3c
+concepts:
+- cm:gestures
+- cm:hostetter-2011
+difficulty: 2
+created: '2026-11-19'
+status: active

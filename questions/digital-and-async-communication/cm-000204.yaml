@@ -1,0 +1,20 @@
+id: cm-000204
+area: digital-and-async-communication
+kind: figure
+topic: Asynchronous communication
+topic_type: Channel
+true_statement: In Perlow's 1999 study of a software team, engineers rated almost all their interruptions as helpful, but only about one in ten as urgent.
+false_statement: In Perlow's 1999 study of a software team, engineers rated almost all their interruptions as urgent, but only about one in ten as helpful.
+explanation: Most interruptions were useful yet could have waited, which is the case for batching questions into agreed windows and protecting focus time. Scheduled quiet time raised self-reported productivity, though it faded once the project ended.
+as_of: '1999'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/asynchronous-communication.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 673a3b4320bb8c6362422aff5071b5c31de0946c
+concepts:
+- cm:asynchronous-communication
+- cm:perlow-1999
+difficulty: 3
+created: '2026-11-19'
+status: active

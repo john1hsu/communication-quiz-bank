@@ -1,0 +1,20 @@
+id: cm-000194
+area: thinkers-and-works
+kind: origin
+topic: George Loewenstein
+topic_type: Person
+true_statement: Loewenstein, Camerer and Weber's 1989 paper introduced the curse of knowledge and first tested it, but a footnote credits Robin Hogarth with suggesting the name.
+false_statement: Loewenstein, Camerer and Weber's 1989 paper introduced the curse of knowledge and first tested it, but a footnote credits Leaf Van Boven with suggesting the name.
+explanation: The decision researcher Robin Hogarth proposed the label; the three authors supplied the concept's first controlled test. Van Boven worked with Loewenstein later, on empathy gaps.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/george-loewenstein.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: b74c63d9585581acf0b2338f3367b14d1951edc8
+concepts:
+- cm:george-loewenstein
+- cm:curse-of-knowledge
+- cm:camerer-loewenstein-weber-1989
+difficulty: 3
+created: '2026-11-19'
+status: active

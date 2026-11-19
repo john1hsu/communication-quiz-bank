@@ -1,0 +1,20 @@
+id: cm-000176
+area: negotiation
+kind: scenario
+topic: Zone of possible agreement
+topic_type: Concept
+true_statement: In an offer call, a candidate's walk-away point is a $70,000 salary and the employer's ceiling is $65,000. There is no zone of possible agreement on salary, so both should turn to their alternatives instead of haggling on.
+false_statement: In an offer call, a candidate's walk-away point is a $70,000 salary and the employer's ceiling is $65,000. The zone of possible agreement runs from $65,000 to $70,000, so they should settle in the middle.
+explanation: A ZOPA exists only where the two reservation points overlap. The candidate's lowest acceptable figure sits above the employer's highest, so any number between them is worse than walking away for one side.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/zone-of-possible-agreement.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: c3bce0cb0a91b9825d8a34b43d9f7d9dca6b95cf
+concepts:
+- cm:zone-of-possible-agreement
+- cm:reservation-value
+- cm:salary-negotiation
+difficulty: 1
+created: '2026-11-19'
+status: active

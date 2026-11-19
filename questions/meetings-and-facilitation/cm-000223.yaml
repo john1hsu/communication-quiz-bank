@@ -1,0 +1,21 @@
+id: cm-000223
+area: meetings-and-facilitation
+kind: origin
+topic: 1-2-4-All
+topic_type: Technique
+true_statement: 1-2-4-All was developed by Henri Lipmanowicz and Keith McCandless as part of Liberating Structures, a free collection of small-group formats.
+false_statement: 1-2-4-All was developed by Frank Lyman in 1981 as a classroom method, and was later added to Liberating Structures.
+explanation: Lyman proposed think-pair-share for classrooms in 1981; 1-2-4-All shares its alone-then-pair start but was designed by Lipmanowicz and McCandless for any group size.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/1-2-4-all.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: 16ff85e019303a4a8f6a95ea555eea0a326851a8
+concepts:
+- cm:1-2-4-all
+- cm:liberating-structures
+- cm:henri-lipmanowicz
+- cm:keith-mccandless
+difficulty: 2
+created: '2026-11-19'
+status: active

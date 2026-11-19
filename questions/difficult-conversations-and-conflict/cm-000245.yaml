@@ -1,0 +1,18 @@
+id: cm-000245
+area: difficult-conversations-and-conflict
+kind: scenario
+topic: Social accounts
+topic_type: Technique
+true_statement: Telling her team the vendor review is cancelled, a director says, "I cut it to free budget for the security audit, which protects every client we have." That account is a justification, arguing the decision was right given a higher goal.
+false_statement: Telling her team the vendor review is cancelled, a director says, "I cut it to free budget for the security audit, which protects every client we have." That account is an excuse, pointing to causes that reduce her responsibility.
+explanation: She owns the choice and defends it by the goal it serves, which makes it a justification. An excuse would shift responsibility to outside causes, such as a finance-wide freeze she couldn't stop.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/social-accounts.md
+  commit: 525802f7601992d56ebd4715f48a40be522e0f10
+  blob: eb187354dc719502c1b3536d64e2e94fcc7ca573
+concepts:
+- cm:social-accounts
+difficulty: 2
+created: '2026-11-19'
+status: active
