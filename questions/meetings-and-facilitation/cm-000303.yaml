@@ -1,0 +1,18 @@
+id: cm-000303
+area: meetings-and-facilitation
+kind: scenario
+topic: Workplace meetings
+topic_type: Context
+true_statement: After chairing the monthly planning meeting, a director tells her boss it was one of the team's best, though she hasn't asked anyone who attended. She is judging the meeting from the chair, and organisers tend to overrate their own meetings.
+false_statement: After chairing the monthly planning meeting, a director tells her boss it was one of the team's best, though she hasn't asked anyone who attended. Her view is a reliable guide, since whoever runs a meeting rates it more accurately than attendees do.
+explanation: Leaders rate their own meetings more favourably than attendees do, so the chair's impression is a biased read. The tell is that she asked nobody; the fix is attendee feedback, ideally anonymous, rather than the view from the front.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/workplace-meetings.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 7112eba49437f6f0d20d6a410690c1eabaa668fb
+concepts:
+- cm:workplace-meetings
+difficulty: 2
+created: '2026-11-20'
+status: active

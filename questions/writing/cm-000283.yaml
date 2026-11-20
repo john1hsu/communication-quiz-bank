@@ -1,0 +1,19 @@
+id: cm-000283
+area: writing
+kind: practice
+topic: Concise writing
+topic_type: Skill
+true_statement: Before sending a long project update, list its points, keep only the ones readers need in order to act, and move the rest to a linked document or a follow-up.
+false_statement: Before sending a long project update, keep every point but trim each sentence, since concise writing works on words rather than on whole ideas.
+explanation: Concision applies to whole ideas as well as words; cutting side points that readers don't need to act shortens a message far more than polishing sentences. Trimming words while keeping every point leaves the reader with the same load.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/concise-writing.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: b315f128e379c0b294384cf2eed74d04d227675d
+concepts:
+- cm:concise-writing
+- cm:email
+difficulty: 2
+created: '2026-11-20'
+status: active

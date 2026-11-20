@@ -1,0 +1,19 @@
+id: cm-000311
+area: executive-and-client-communication
+kind: evidence
+topic: Trusted advisor
+topic_type: Framework
+true_statement: In Ko's 2010 field survey of consultant-client pairs, clients' benevolent trust in their consultants, not their competence trust, predicted successful knowledge transfer.
+false_statement: In Ko's 2010 field survey of consultant-client pairs, clients' competence trust in their consultants, not their benevolent trust, predicted successful knowledge transfer.
+explanation: Clients who believed the consultant cared about their interests absorbed more, which fits the framework's stress on intimacy and low self-orientation over expertise alone. It is one study in one setting, and the trust equation itself remains a practitioner model.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/trusted-advisor.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 6030679750ec2860b70201b36aef38d901293df5
+concepts:
+- cm:trusted-advisor
+- cm:ko-2010
+difficulty: 3
+created: '2026-11-20'
+status: active

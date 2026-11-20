@@ -1,0 +1,20 @@
+id: cm-000266
+area: listening
+kind: evidence
+topic: Perspective-taking
+topic_type: Skill
+true_statement: Across Eyal, Steffel and Epley's 2018 series of experiments, imagining another person's perspective reduced self-centred thinking but gave no consistent gain in judging what they actually thought or felt.
+false_statement: Across Eyal, Steffel and Epley's 2018 series of experiments, imagining another person's perspective reduced self-centred thinking and reliably improved judgments of what they actually thought or felt.
+explanation: Perspective-taking pulled people away from their own viewpoint, yet accuracy did not rise and sometimes dropped while confidence went up. Use it to form hypotheses, then ask the person to get the answer right.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/perspective-taking.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 6a28ce5df1c8032ad85e0d49a456020ad60302f2
+concepts:
+- cm:perspective-taking
+- cm:eyal-steffel-epley-2018
+- cm:egocentric-bias
+difficulty: 3
+created: '2026-11-20'
+status: active

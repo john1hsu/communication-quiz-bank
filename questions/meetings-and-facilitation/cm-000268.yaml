@@ -1,0 +1,19 @@
+id: cm-000268
+area: meetings-and-facilitation
+kind: practice
+topic: Facilitation
+topic_type: Skill
+true_statement: When a stakeholder keeps pulling a meeting off topic, start with a reminder of the agenda or ground rules, then try a time-box or parking-lot item, and save confronting them in the room for last.
+false_statement: When a stakeholder keeps pulling a meeting off topic, confront them in the room straight away, then fall back on a time-box or parking-lot item, and save a reminder of the agenda for last.
+explanation: 'Facilitators escalate gradually: point back to the agreed agenda or rules first, then time-box or park the item, then have a quiet word at a break. Confronting someone in front of the group is the last resort, not the opening move.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/facilitation.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 1aa7042075f04984223aec89d1c6a5858ae2b11b
+concepts:
+- cm:facilitation
+- cm:meeting-agendas
+difficulty: 2
+created: '2026-11-20'
+status: active

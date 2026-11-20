@@ -1,0 +1,18 @@
+id: cm-000328
+area: questioning-and-conversation
+kind: practice
+topic: Conversational receptiveness
+topic_type: Technique
+true_statement: Rather than replying "No, we can't add the dashboard, because the sprint is full," propose what you would do instead, such as "We could take the dashboard next sprint if export moves out."
+false_statement: Rather than offering an alternative plan, reply "No, we can't add the dashboard, because the sprint is full," since a clear reason shows you have thought the request through.
+explanation: 'Readers react badly to negations and argumentative "because" reasoning, so HEAR reframes to the positive: a forward-looking proposal keeps your position while inviting engagement. A flat "no, because" reads as a rebuttal, not as thoughtfulness.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/conversational-receptiveness.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 5cd386931f701d8b0aa3bcf3b1083f817f087d37
+concepts:
+- cm:conversational-receptiveness
+difficulty: 2
+created: '2026-11-20'
+status: active

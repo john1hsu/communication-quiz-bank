@@ -1,0 +1,18 @@
+id: cm-000297
+area: difficult-conversations-and-conflict
+kind: scenario
+topic: Role reversal
+topic_type: Technique
+true_statement: In a budget stand-off, a finance lead agrees to argue marketing's side first and says, "As marketing, I want more money for the campaign." The marketing head shrugs. The swap fell short because it gave only their demand, not their reasons and worries.
+false_statement: In a budget stand-off, a finance lead agrees to argue marketing's side first and says, "As marketing, I want more money for the campaign." The marketing head shrugs. The swap fell short because it was spoken in the first person instead of summarised.
+explanation: Role reversal is meant to state the other side's goal, reasons and fears well enough that they accept it; a bare demand misses that. Speaking in the first person is the recommended form, so it is not the problem here.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/role-reversal.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 663c3ad856755ac60c37fc88c0b24b733afbc9cd
+concepts:
+- cm:role-reversal
+difficulty: 2
+created: '2026-11-20'
+status: active

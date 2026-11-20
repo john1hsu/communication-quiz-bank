@@ -1,0 +1,19 @@
+id: cm-000264
+area: listening
+kind: scenario
+topic: Perspective-taking
+topic_type: Skill
+true_statement: Before a contract renewal, a buyer jots down what the supplier's account rep must hit this quarter, what her boss will ask her and which terms she can't move on. He is practising perspective-taking rather than empathy.
+false_statement: Before a contract renewal, a buyer jots down what the supplier's account rep must hit this quarter, what her boss will ask her and which terms she can't move on. He is practising empathy rather than perspective-taking.
+explanation: He is mapping her goals, pressures and reasoning, the cognitive route that defines perspective-taking. Empathy would mean connecting with her feelings, which in negotiation studies led people to give ground without finding creative trades.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/perspective-taking.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 6a28ce5df1c8032ad85e0d49a456020ad60302f2
+concepts:
+- cm:perspective-taking
+- cm:empathy
+difficulty: 2
+created: '2026-11-20'
+status: active

@@ -1,0 +1,18 @@
+id: cm-000258
+area: executive-and-client-communication
+kind: scenario
+topic: Executive briefing
+topic_type: Context
+true_statement: Briefing the CFO on a vendor overrun, an analyst sets out three options and closes with, "What do you think we should do?" That opinion-seeking close hands the analysis back to the person with the least time to do it.
+false_statement: Briefing the CFO on a vendor overrun, an analyst sets out three options and closes with, "What do you think we should do?" That neutral close is good practice, letting the leader decide without being sold to.
+explanation: Briefing guidance asks for a specific recommendation that follows from the analysis; the tell is a question where the recommendation should be. Informing rather than selling still means saying what you recommend. This is practitioner guidance from military and civil-service training, not tested findings.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/executive-briefing.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 262f6d71827f7102ff98d0df0159475a9c1f7bb9
+concepts:
+- cm:executive-briefing
+difficulty: 2
+created: '2026-11-20'
+status: active

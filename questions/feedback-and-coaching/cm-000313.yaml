@@ -1,0 +1,19 @@
+id: cm-000313
+area: feedback-and-coaching
+kind: practice
+topic: Receiving feedback
+topic_type: Skill
+true_statement: When your manager says you need to "be more proactive", ask what she saw that prompted it and what, concretely, she would like to see you do instead.
+false_statement: When your manager says you need to "be more proactive", agree and promise to take more initiative, so you don't come across as defensive about it.
+explanation: 'A vague label like "be more proactive" can mean many things, so the skilled receiver turns it into specifics: what was observed and what is wanted instead. Promising to change without knowing what it means leaves nothing concrete to act on.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/receiving-feedback.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: fe5ca752bc87d6dd8b0b9d4fe044f650d97adc1f
+concepts:
+- cm:receiving-feedback
+- cm:open-ended-questions
+difficulty: 2
+created: '2026-11-20'
+status: active

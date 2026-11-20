@@ -1,0 +1,18 @@
+id: cm-000294
+area: cross-cultural-communication
+kind: scenario
+topic: Multicultural team
+topic_type: Context
+true_statement: In weekly design reviews, a lead takes whichever answer comes first, and two senior specialists working in their second language rarely get a word in. That lets the most fluent dominate, and the team loses expertise it was assembled for.
+false_statement: 'In weekly design reviews, a lead takes whichever answer comes first, and two senior specialists working in their second language rarely get a word in. That is a hierarchy gap: members from hierarchical backgrounds holding back in a flat team.'
+explanation: The deciding feature is that the quiet members are senior experts losing out to quick speech in the working language, a fluency problem, not deference to rank. Setting the norm that people were chosen for expertise, not English, and inviting interruptions helps.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/multicultural-team.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: e803aa83269403c1e231e0adef1ae8dbb1ed2b54
+concepts:
+- cm:multicultural-team
+difficulty: 2
+created: '2026-11-20'
+status: active

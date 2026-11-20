@@ -1,0 +1,20 @@
+id: cm-000261
+area: feedback-and-coaching
+kind: scenario
+topic: Performance review
+topic_type: Context
+true_statement: In his annual review, an engineer hears for the first time that his slow code reviews held up two releases earlier in the year. That surprise means the ongoing feedback conversations during the year did not happen, the most common review failure.
+false_statement: In his annual review, an engineer hears for the first time that his slow code reviews held up two releases earlier in the year. That surprise means the review is doing its job as the year's main moment for feedback.
+explanation: The tell-tale sign is news about months-old problems arriving in the formal review. The review should summarise conversations already had, with regular check-ins carrying most feedback; treating it as the year's only feedback is the classic failure, not its purpose.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/performance-review.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: e42137a31998ffbe4e5959588a4010831092bc3e
+concepts:
+- cm:performance-review
+- cm:one-on-one-meetings
+- cm:feedback
+difficulty: 2
+created: '2026-11-20'
+status: active

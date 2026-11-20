@@ -1,0 +1,19 @@
+id: cm-000282
+area: writing
+kind: scenario
+topic: Concise writing
+topic_type: Skill
+true_statement: Asked to tighten a project summary before it goes to the director, an analyst adds two clarifying sentences and a caveat but deletes nothing. That is the common default toward adding rather than subtracting when improving something.
+false_statement: Asked to tighten a project summary before it goes to the director, an analyst adds two clarifying sentences and a caveat but deletes nothing. That is concise editing, since added caveats make each point more precise.
+explanation: 'The tell is that a request to tighten produced a longer text: people improving something tend to overlook removal unless prompted. Ask "what can I delete?" before revising, so the edit actually shortens the summary.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/concise-writing.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: b315f128e379c0b294384cf2eed74d04d227675d
+concepts:
+- cm:concise-writing
+- cm:subtraction-neglect
+difficulty: 2
+created: '2026-11-20'
+status: active

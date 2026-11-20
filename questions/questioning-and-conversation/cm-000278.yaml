@@ -1,0 +1,20 @@
+id: cm-000278
+area: questioning-and-conversation
+kind: figure
+topic: Perspective-getting
+topic_type: Technique
+true_statement: In Eyal, Steffel and Epley's 2018 couples experiment, people in every condition believed they had judged about 14 of their partner's 20 opinions correctly, but averaged only about six.
+false_statement: In Eyal, Steffel and Epley's 2018 couples experiment, people in every condition believed they had judged about 6 of their partner's 20 opinions correctly, but actually averaged about 14.
+explanation: 'Predictors were overconfident, not underconfident: felt certainty stayed near 14 of 20 whatever they did, while real accuracy was far lower. That gap is why people skip asking and why asking must be a deliberate habit.'
+as_of: '2018'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/perspective-getting.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 7037b52c917f048cf481ea7ce795a8cb10528205
+concepts:
+- cm:perspective-getting
+- cm:eyal-steffel-epley-2018
+difficulty: 3
+created: '2026-11-20'
+status: active

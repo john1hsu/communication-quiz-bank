@@ -1,0 +1,19 @@
+id: cm-000322
+area: nonverbal-and-voice
+kind: practice
+topic: Power posing
+topic_type: Phenomenon
+true_statement: Before a job interview, sitting upright is fine if it steadies you, but spend your spare minutes rehearsing your opening answer rather than holding a power pose to change how you're judged.
+false_statement: Before a job interview, spend your spare minutes holding an expansive power pose rather than rehearsing your opening answer, since the pose does more to make interviewers judge you confident.
+explanation: Upright posture is harmless, but the evidence doesn't show the private pose changes hormones or how others rate you. Rehearsing your opening is the better-supported use of the time.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/power-posing.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: ddf3cdd4455b3b9215d6747cdab9804808a90b05
+concepts:
+- cm:power-posing
+- cm:job-interview
+difficulty: 1
+created: '2026-11-20'
+status: active

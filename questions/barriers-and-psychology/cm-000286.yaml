@@ -1,0 +1,20 @@
+id: cm-000286
+area: barriers-and-psychology
+kind: practice
+topic: Egocentric bias
+topic_type: Barrier
+true_statement: Before sending a terse reply you mean as friendly, reread it in a flat, neutral voice; if the words alone don't carry the warmth, say it plainly or switch to a call.
+false_statement: Before sending a terse reply you mean as friendly, reread it in the warm tone you intend to check it sounds friendly; if it does, send it as written.
+explanation: Rereading in your intended tone is the trap, because you hear what only you know you meant. A flat read shows what the recipient actually gets, and email strips out the voice and face that would otherwise correct them.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/egocentric-bias.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: ff4694de76a5d338b3a7653ab712e36f820ae2a1
+concepts:
+- cm:egocentric-bias
+- cm:egocentrism-over-email-study
+- cm:clarity
+difficulty: 2
+created: '2026-11-20'
+status: active

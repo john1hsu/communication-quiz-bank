@@ -1,0 +1,19 @@
+id: cm-000251
+area: foundations
+kind: definition
+topic: Organizational communication
+topic_type: Field
+true_statement: The communicative constitution of organizations (CCO) holds that an organization is an ongoing, fragile accomplishment produced through communication, not a container in which communication happens.
+false_statement: The communicative constitution of organizations (CCO) holds that an organization is a stable container in which communication happens, so its structure shapes messages but not the other way round.
+explanation: 'CCO reverses the container view: talk and text keep making the organization. The practical upshot is that what a change means is negotiated in conversation, so announcements need follow-up talk, not just distribution.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/organizational-communication.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 7cfb77cc7f7ee93a7b289c2445427ee57980c020
+concepts:
+- cm:organizational-communication
+- cm:communicative-constitution-of-organizations
+difficulty: 2
+created: '2026-11-20'
+status: active

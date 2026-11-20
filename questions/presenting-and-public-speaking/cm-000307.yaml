@@ -1,0 +1,20 @@
+id: cm-000307
+area: presenting-and-public-speaking
+kind: practice
+topic: Self-recording playback
+topic_type: Technique
+true_statement: 'Review a recorded run-through twice: once with the sound off to catch gestures, posture and fidgets, and once with sound to check pace, pauses and filler words.'
+false_statement: Review a recorded run-through once with the sound on and check everything together, since muting the clip hides the delivery habits that matter most.
+explanation: A muted pass makes hand and body habits stand out, and a second pass with sound covers pace and fillers. Splitting the viewing gives each kind of habit its own look instead of trying to judge everything at once.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/self-recording-playback.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 6dbc0cbecb50c4785d5d42db611fed304489443a
+concepts:
+- cm:self-recording-playback
+- cm:gestures
+- cm:filled-pauses
+difficulty: 1
+created: '2026-11-20'
+status: active

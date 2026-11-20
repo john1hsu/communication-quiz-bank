@@ -1,0 +1,19 @@
+id: cm-000331
+area: writing
+kind: practice
+topic: Paramedic method for revising prose
+topic_type: Technique
+true_statement: 'To revise "There was a discussion of the pricing options by the sales team," turn the buried action into a verb with its doer as subject: "The sales team discussed the pricing options."'
+false_statement: 'To revise "There was a discussion of the pricing options by the sales team," move the doer to the front but keep the noun: "The sales team had a discussion of the pricing options."'
+explanation: The action is hiding in the noun "discussion"; the method's key step is to make it a simple verb with the actor as subject. Moving the team to the front but keeping "had a discussion of" leaves the nominalisation and its extra preposition.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/paramedic-method.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 42b3860353294577cd8fc64a6e5494373a563867
+concepts:
+- cm:paramedic-method
+- cm:nominalization
+difficulty: 2
+created: '2026-11-20'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000342
+area: feedback-and-coaching
+kind: scenario
+topic: Self-affirmation before feedback
+topic_type: Technique
+true_statement: Before a design critique, an architect spends five minutes telling herself, "My plan is solid and I covered every edge case." That defends the work under review rather than affirming an unrelated value.
+false_statement: Before a design critique, an architect spends five minutes telling herself, "My plan is solid and I covered every edge case." That is self-affirmation before feedback, used as intended.
+explanation: 'The decisive feature is what she reflects on: the very work about to be judged. Self-affirmation means writing about a value outside that domain, such as family or community, which widens the self instead of shoring up the threatened skill.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/self-affirmation-before-feedback.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 11af080132b9155a3f8b24a4e38beedcdea3da4c
+concepts:
+- cm:self-affirmation-before-feedback
+- cm:self-affirmation-theory
+difficulty: 2
+created: '2026-11-20'
+status: active

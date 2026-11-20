@@ -1,0 +1,20 @@
+id: cm-000332
+area: writing
+kind: evidence
+topic: Paramedic method for revising prose
+topic_type: Technique
+true_statement: A 1998 study found that turning nominalisations into verbs helped native English readers focus on the key information, while the nominalised version could work quite well for non-native readers.
+false_statement: A 1998 study found that turning nominalisations into verbs helped non-native English readers focus on the key information, while the nominalised version could work quite well for native readers.
+explanation: Spyridakis and Isakson's result supports one step of the method for native-speaker audiences only; the full routine is untested and rests on practitioner consensus. For global teams, check that the revised sentence still reads easily in a second language.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/paramedic-method.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 42b3860353294577cd8fc64a6e5494373a563867
+concepts:
+- cm:paramedic-method
+- cm:nominalization
+- cm:spyridakis-isakson-1998
+difficulty: 3
+created: '2026-11-20'
+status: active

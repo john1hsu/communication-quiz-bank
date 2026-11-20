@@ -1,0 +1,20 @@
+id: cm-000334
+area: barriers-and-psychology
+kind: mechanism
+topic: Information overload
+topic_type: Barrier
+true_statement: In the inverted-U model of information overload, decision quality rises as useful information is added, peaks, then falls as still more arrives.
+false_statement: In the inverted-U model of information overload, decision quality rises as useful information is added, then levels off at a plateau however much more arrives.
+explanation: The model's warning is that past a peak, extra information makes decisions worse, not merely no better; overload begins where that decline starts. A plateau would make surplus information harmless. Whether the curve holds exactly is still debated.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/information-overload.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 565137f95a81a8785cf4fee0b998eb90890c4d7a
+concepts:
+- cm:information-overload
+- cm:decision-quality
+- cm:cognitive-load
+difficulty: 2
+created: '2026-11-20'
+status: active

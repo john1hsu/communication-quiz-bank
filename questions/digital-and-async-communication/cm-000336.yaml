@@ -1,0 +1,19 @@
+id: cm-000336
+area: digital-and-async-communication
+kind: scenario
+topic: Setting reply-time expectations
+topic_type: Technique
+true_statement: A manager's email footer reads "No need to reply outside working hours," yet in team meetings he praises whoever answered his Sunday emails first. The footer won't lift the pressure, because the norm his behaviour sets is the stressor.
+false_statement: A manager's email footer reads "No need to reply outside working hours," yet in team meetings he praises whoever answered his Sunday emails first. The footer still lifts the pressure, because a written sender note is what closes receivers' urgency gap.
+explanation: 'A signature line contradicted by behaviour is a named pitfall: the praise for instant Sunday replies tells staff what is really expected. An organisational expectation of after-hours monitoring, linked to anxiety and poorer health, outweighs a footer.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/setting-reply-time-expectations.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 47e57fe8ed9459a8323154a433d9432f40a59037
+concepts:
+- cm:setting-reply-time-expectations
+- cm:email
+difficulty: 2
+created: '2026-11-20'
+status: active

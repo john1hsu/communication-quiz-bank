@@ -1,0 +1,19 @@
+id: cm-000302
+area: foundations
+kind: figure
+topic: Interpersonal communication
+topic_type: Field
+true_statement: In Deming's 2017 study of US data, jobs demanding high social interaction grew by nearly 12 percentage points as a share of employment between 1980 and 2012.
+false_statement: In Deming's 2017 study of US data, math-intensive jobs with little social interaction grew by nearly 12 percentage points as a share of employment between 1980 and 2012.
+explanation: Social-heavy jobs grew while math-intensive jobs low in social interaction shrank. The finding is correlational, so it shows interpersonal skill is valued, not which behaviours build it.
+as_of: '2017'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/interpersonal-communication.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 1a2ed65aa751db12b8cf36d40d257d7e54e1c798
+concepts:
+- cm:interpersonal-communication
+difficulty: 3
+created: '2026-11-20'
+status: active

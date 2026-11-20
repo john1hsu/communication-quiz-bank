@@ -1,0 +1,19 @@
+id: cm-000280
+area: persuasion-and-influence
+kind: practice
+topic: Narrative persuasion
+topic_type: Technique
+true_statement: After telling leaders about one sales rep who lost a renewal because a quote took nine days, give the figure for how often quotes run that long, so they can judge whether the case is typical.
+false_statement: After telling leaders about one sales rep who lost a renewal because a quote took nine days, go straight to your ask and leave out the figures, so they don't dilute the story's impact.
+explanation: The story makes the problem vivid; the numbers right after it show it is representative and let the audience check the story for themselves. Leaving them out asks leaders to generalise from one case.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/narrative-persuasion.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 70f56cd5ef70336e94af5cf4f2b5f50d0ddbc94b
+concepts:
+- cm:narrative-persuasion
+- cm:statistical-evidence
+difficulty: 2
+created: '2026-11-20'
+status: active

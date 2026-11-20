@@ -1,0 +1,20 @@
+id: cm-000285
+area: barriers-and-psychology
+kind: scenario
+topic: Egocentric bias
+topic_type: Barrier
+true_statement: A product lead who chose the new sprint cadence tells her director, "Honestly, the whole team will be on board with this," though she hasn't asked anyone. Assuming others share a choice because she made it is egocentric bias, in its false-consensus form.
+false_statement: A product lead who chose the new sprint cadence tells her director, "Honestly, the whole team will be on board with this," though she hasn't asked anyone. Assuming others share a choice because she made it is the curse of knowledge.
+explanation: Her own choice is colouring her estimate of how many others would choose the same, the false-consensus pull of egocentric bias. The curse of knowledge is about forgetting background others lack, which isn't the issue here.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/egocentric-bias.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: ff4694de76a5d338b3a7653ab712e36f820ae2a1
+concepts:
+- cm:egocentric-bias
+- cm:false-consensus-effect
+- cm:curse-of-knowledge
+difficulty: 2
+created: '2026-11-20'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000290
+area: digital-and-async-communication
+kind: evidence
+topic: Scheduled inbox checks
+topic_type: Technique
+true_statement: In Fitz and colleagues' 2019 field experiment, people who got no phone notifications at all gained no attention benefit and reported more anxiety and fear of missing out than those left with the usual stream.
+false_statement: In Fitz and colleagues' 2019 field experiment, people who got no phone notifications at all showed the biggest drop in inattention and stress, outperforming those who got three batches a day.
+explanation: 'Going to zero backfired: no gain in attention, plus more anxiety and fear of missing out. Three batches a day was the condition that lowered inattention and stress, so aim for a few planned check-ins rather than a blackout.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/scheduled-inbox-checks.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: e1dc91d669e3f9b87d3a7ab584c5c07601b4d4a7
+concepts:
+- cm:scheduled-inbox-checks
+- cm:fitz-et-al-2019
+difficulty: 3
+created: '2026-11-20'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000319
+area: negotiation
+kind: practice
+topic: Interests vs. positions
+topic_type: Principle
+true_statement: When a peer team turns down your request for a two-week code freeze, ask what would go wrong for them if they agreed, and play back what you hear before proposing options.
+false_statement: When a peer team turns down your request for a two-week code freeze, restate more firmly why the freeze matters to you before asking anything about their side.
+explanation: Asking what your proposal would cost them surfaces the interests behind their refusal, and playing it back shows you heard it. Repeating your own case harder keeps both sides locked in positions.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/interests-vs-positions.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: b07e929bcf36618d053d04b45f6c42ec1fe865b2
+concepts:
+- cm:interests-vs-positions
+- cm:open-ended-questions
+difficulty: 2
+created: '2026-11-20'
+status: active

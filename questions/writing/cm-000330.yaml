@@ -1,0 +1,18 @@
+id: cm-000330
+area: writing
+kind: scenario
+topic: Paramedic method for revising prose
+topic_type: Technique
+true_statement: Halfway through drafting a proposal, a consultant stops after each sentence to circle prepositions and box every "is", and loses her train of thought. She is misusing the Paramedic Method, which is meant as a pass after the draft is done.
+false_statement: Halfway through drafting a proposal, a consultant stops after each sentence to circle prepositions and box every "is", and loses her train of thought. She is using the Paramedic Method as intended, catching wordiness as it appears.
+explanation: The method is a revision routine run on a finished draft, one key sentence at a time; applying it mid-draft slows writing and breaks your flow. Draft first, then run it on the opening, the request and the longest sentences.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/paramedic-method.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 42b3860353294577cd8fc64a6e5494373a563867
+concepts:
+- cm:paramedic-method
+difficulty: 2
+created: '2026-11-20'
+status: active

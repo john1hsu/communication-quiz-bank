@@ -1,0 +1,19 @@
+id: cm-000292
+area: thinkers-and-works
+kind: practice
+topic: The Culture Map
+topic_type: Work
+true_statement: When a colleague's way of disagreeing clashes with yours, Meyer's advice is to explain your own style and adjust it, rather than expect the colleague to adopt yours.
+false_statement: When a colleague's way of disagreeing clashes with yours, Meyer's advice is to state your team's style once, clearly, and expect the colleague to adopt it.
+explanation: Her rules ask managers to see themselves from colleagues' perspective and keep adjusting their own behaviour. Insisting others conform treats your own spot on the scale as the norm. The advice is practitioner guidance, not tested intervention.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/the-culture-map.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 446c86ca96a23776d058b4a68ff4e1870dc69c6c
+concepts:
+- cm:the-culture-map
+- cm:multicultural-team
+difficulty: 2
+created: '2026-11-20'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000289
+area: digital-and-async-communication
+kind: practice
+topic: Scheduled inbox checks
+topic_type: Technique
+true_statement: During each scheduled inbox check, decide on every message in one pass, replying, delegating, scheduling or archiving it, rather than reading everything first and leaving the replies for later.
+false_statement: During each scheduled inbox check, read every new message first to get the full picture, and leave the replies, delegations and archiving for a separate block later in the day.
+explanation: One-pass triage closes each message out inside the check-in. Reading and leaving messages means meeting them all again later, so the inbox keeps pulling at your attention between the planned times.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/scheduled-inbox-checks.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: e1dc91d669e3f9b87d3a7ab584c5c07601b4d4a7
+concepts:
+- cm:scheduled-inbox-checks
+- cm:email
+difficulty: 2
+created: '2026-11-20'
+status: active

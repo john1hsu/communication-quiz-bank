@@ -1,0 +1,21 @@
+id: cm-000250
+area: foundations
+kind: origin
+topic: Organizational communication
+topic_type: Field
+true_statement: 'W. Charles Redding, often called the father of organizational communication, co-edited the 1964 Business and Industrial Communication: A Source Book, usually seen as the field''s starting point.'
+false_statement: 'Chester Barnard, often called the father of organizational communication, co-edited the 1964 Business and Industrial Communication: A Source Book, usually seen as the field''s starting point.'
+explanation: Redding edited the source book with George Sanborn. Barnard was an earlier influence, arguing in 1938 that an executive's first job is to build and maintain a communication system.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/organizational-communication.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 7cfb77cc7f7ee93a7b289c2445427ee57980c020
+concepts:
+- cm:organizational-communication
+- cm:w-charles-redding
+- cm:business-and-industrial-communication-a-source-book
+- cm:chester-barnard
+difficulty: 2
+created: '2026-11-20'
+status: active

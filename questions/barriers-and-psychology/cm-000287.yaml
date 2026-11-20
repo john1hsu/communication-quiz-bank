@@ -1,0 +1,19 @@
+id: cm-000287
+area: barriers-and-psychology
+kind: origin
+topic: Egocentric bias
+topic_type: Barrier
+true_statement: Michael Ross and Fiore Sicoly named egocentric bias in research showing that people working jointly accept more responsibility for the outcome than their partners think they deserve.
+false_statement: Justin Kruger and Nicholas Epley named egocentric bias in research showing that email senders overestimate how well their intended tone comes across to readers.
+explanation: Ross and Sicoly's work on shared tasks gave the bias its name, partly explaining it by how much easier our own contributions are to recall. Kruger and Epley's email studies came later and extended the idea to everyday messages.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/egocentric-bias.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: ff4694de76a5d338b3a7653ab712e36f820ae2a1
+concepts:
+- cm:egocentric-bias
+- cm:ross-sicoly-1979
+difficulty: 2
+created: '2026-11-20'
+status: active

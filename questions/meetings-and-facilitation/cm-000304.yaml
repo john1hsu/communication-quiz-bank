@@ -1,0 +1,19 @@
+id: cm-000304
+area: meetings-and-facilitation
+kind: practice
+topic: Workplace meetings
+topic_type: Context
+true_statement: When a weekly team meeting is mostly people reading status aloud, move the updates to a written post the day before and spend the live time only on the items that need a decision.
+false_statement: When a weekly team meeting is mostly people reading status aloud, keep the round of updates but cap each speaker at two minutes so the meeting finishes on time.
+explanation: Updates that need no discussion belong in an asynchronous channel, which frees the live minutes for the problem-solving and action-planning talk linked to better outcomes. Time-boxing the status round still spends everyone's time hearing updates nobody needed live.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/workplace-meetings.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 7112eba49437f6f0d20d6a410690c1eabaa668fb
+concepts:
+- cm:workplace-meetings
+- cm:asynchronous-communication
+difficulty: 2
+created: '2026-11-20'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000255
+area: cross-cultural-communication
+kind: scenario
+topic: Hofstede's dimensions of national culture
+topic_type: Theory
+true_statement: In a retro, a lead says, "We seem to differ on how much hierarchy we expect in design reviews," instead of calling the quieter members timid. That uses Hofstede's dimensions as shared vocabulary for expectations, not as a verdict on character.
+false_statement: In a retro, a lead says, "We seem to differ on how much hierarchy we expect in design reviews," instead of calling the quieter members timid. That turns a country power-distance average into a prediction about the people on the team.
+explanation: The lead names a difference in expectations the team can discuss and never mentions any country or score, which is the model used well. Over-reading national averages would mean assigning individuals a trait from their passport, which she avoids.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/hofstede-cultural-dimensions.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 79782a5f2a931fd7506e091b08d3bbcaf0cef156
+concepts:
+- cm:hofstede-cultural-dimensions
+- cm:power-distance
+difficulty: 2
+created: '2026-11-20'
+status: active

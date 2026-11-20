@@ -1,0 +1,20 @@
+id: cm-000301
+area: foundations
+kind: origin
+topic: Interpersonal communication
+topic_type: Field
+true_statement: Interpersonal communication research has its roots in rhetoric and public speaking, which is why its early studies focused heavily on persuasion between individuals.
+false_statement: Interpersonal communication research has its roots in mass-media studies, which is why its early studies focused heavily on persuasion between individuals.
+explanation: Speech communication grew from rhetoric, and that heritage put persuasion at the centre. Social psychology later widened the scope and lent its hypothesis-testing methods.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/interpersonal-communication.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 1a2ed65aa751db12b8cf36d40d257d7e54e1c798
+concepts:
+- cm:interpersonal-communication
+- cm:rhetoric
+- cm:social-psychology
+difficulty: 2
+created: '2026-11-20'
+status: active

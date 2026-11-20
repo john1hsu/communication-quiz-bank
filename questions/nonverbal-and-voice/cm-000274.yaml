@@ -1,0 +1,19 @@
+id: cm-000274
+area: nonverbal-and-voice
+kind: practice
+topic: Nonverbal communication
+topic_type: Concept
+true_statement: If a colleague goes quiet and frowns while you present a plan, ask about it afterwards, such as "You went quiet at the deadline. Is it workable?", rather than concluding she disagrees.
+false_statement: If a colleague goes quiet and frowns while you present a plan, treat it as disagreement and rebut her likely objections, since a frown with silence reliably signals it.
+explanation: A frown or silence doesn't specify an emotion or intent; she may just be working through the numbers. Checking turns a guess into information, while acting on the guess can start an argument nobody was having.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/nonverbal-communication.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: d4818fe35c6fd386d179a70839cd8dc970dde8a5
+concepts:
+- cm:nonverbal-communication
+- cm:mixed-messages
+difficulty: 2
+created: '2026-11-20'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000295
+area: cross-cultural-communication
+kind: practice
+topic: Multicultural team
+topic_type: Context
+true_statement: To surface a likely problem in a multicultural team, ask an indirect question such as "What would happen if this component failed?" rather than asking someone to name a colleague's failure.
+false_statement: To surface a likely problem in a multicultural team, ask each member to say plainly whose component is failing, since stating it directly is clearest for everyone.
+explanation: An indirect question surfaces the risk without forcing anyone to state a teammate's failure outright. Demanding names in front of the team is the explicit style that, across a direct/indirect gap, can read as an attack.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/multicultural-team.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: e803aa83269403c1e231e0adef1ae8dbb1ed2b54
+concepts:
+- cm:multicultural-team
+- cm:direct-vs-indirect-feedback
+difficulty: 2
+created: '2026-11-20'
+status: active

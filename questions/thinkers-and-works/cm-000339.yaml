@@ -1,0 +1,22 @@
+id: cm-000339
+area: thinkers-and-works
+kind: origin
+topic: Thomas Gilovich
+topic_type: Person
+true_statement: Gilovich, Savitsky and Medvec named the illusion of transparency in a 1998 paper and followed it with the spotlight effect paper in 2000.
+false_statement: Gilovich, Savitsky and Medvec named the spotlight effect in a 1998 paper and followed it with the illusion of transparency paper in 2000.
+explanation: The 1998 paper named the tendency to overestimate how well others read our inner states; the 2000 paper, with its Barry Manilow T-shirt study, named the spotlight effect. The false version swaps the order.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/thomas-gilovich.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 7ac599af3ead74500673048e1d2554338017ec89
+concepts:
+- cm:thomas-gilovich
+- cm:illusion-of-transparency
+- cm:spotlight-effect
+- cm:gilovich-savitsky-medvec-1998
+- cm:gilovich-medvec-savitsky-2000
+difficulty: 2
+created: '2026-11-20'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000252
+area: presenting-and-public-speaking
+kind: scenario
+topic: Presentation rehearsal
+topic_type: Technique
+true_statement: 'Preparing a pitch to leadership, a manager runs it three times alone in front of a mirror and calls it rehearsed. He has skipped the part of rehearsal with the clearest evidence: a run-through before a few live listeners.'
+false_statement: Preparing a pitch to leadership, a manager runs it three times alone in front of a mirror and calls it rehearsed. He has covered the part of rehearsal with the clearest evidence, since a mirror shows his delivery as listeners see it.
+explanation: The tell is that nobody else hears the talk. Practising before an audience is the condition linked to better scores, and a mirror is only a last resort; ask three or four colleagues to sit in and say what was unclear.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/presentation-rehearsal.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: be472dff5a344cd8b0f064eee381b6556977a9f9
+concepts:
+- cm:presentation-rehearsal
+- cm:smith-frymier-2006
+difficulty: 2
+created: '2026-11-20'
+status: active

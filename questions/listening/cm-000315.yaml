@@ -1,0 +1,19 @@
+id: cm-000315
+area: listening
+kind: scenario
+topic: Labeling emotions
+topic_type: Technique
+true_statement: On a delivery-date negotiation call, a supplier's account lead tells the buyer, "It seems like you don't care much about quality." That label carries a judgment, so it is likely to be heard as an attack.
+false_statement: On a delivery-date negotiation call, a supplier's account lead tells the buyer, "It seems like you don't care much about quality." That label is a neutral observation that invites the buyer to correct it.
+explanation: 'The "It seems like" opener doesn''t make a label neutral: this one implies a criticism of the buyer''s motives. A neutral version names the priority instead, such as "It seems like speed is your top concern."'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/labeling-emotions.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 4c9bd2c1ca4fc71d5f8605576aa3329e5c1a8eb5
+concepts:
+- cm:labeling-emotions
+- cm:negotiation
+difficulty: 2
+created: '2026-11-20'
+status: active

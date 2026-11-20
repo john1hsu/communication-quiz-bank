@@ -1,0 +1,19 @@
+id: cm-000254
+area: presenting-and-public-speaking
+kind: evidence
+topic: Presentation rehearsal
+topic_type: Technique
+true_statement: The link between rehearsal and better-rated speeches comes mostly from correlational studies of university speech students, so part of it may reflect stronger students simply preparing more.
+false_statement: The link between rehearsal and better-rated speeches comes mostly from randomized trials with working professionals, so more rehearsal has been shown to cause better talks at work.
+explanation: 'The core studies surveyed or tracked students in speech courses and found that preparation went with higher ratings, but grade average also predicted performance. That is why rehearsal is rated mixed: a sound habit, with modest and context-dependent evidence.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/presentation-rehearsal.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: be472dff5a344cd8b0f064eee381b6556977a9f9
+concepts:
+- cm:presentation-rehearsal
+- cm:menzel-carrell-1994
+difficulty: 3
+created: '2026-11-20'
+status: active

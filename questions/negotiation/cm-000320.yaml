@@ -1,0 +1,18 @@
+id: cm-000320
+area: negotiation
+kind: origin
+topic: Interests vs. positions
+topic_type: Principle
+true_statement: 'In her 1925 talk "Constructive Conflict", Mary Parker Follett used a quarrel over a library window to illustrate integration: meeting both readers'' real needs rather than compromising.'
+false_statement: 'In her 1925 talk "Constructive Conflict", Mary Parker Follett used a quarrel over a library window to illustrate compromise: each reader giving up part of what they wanted.'
+explanation: Follett set integration apart from domination and compromise. One reader wanted to avoid a draught and the other wanted fresh air, so opening a window in an empty next room met both needs with no one giving ground.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/interests-vs-positions.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: b07e929bcf36618d053d04b45f6c42ec1fe865b2
+concepts:
+- cm:interests-vs-positions
+difficulty: 2
+created: '2026-11-20'
+status: active

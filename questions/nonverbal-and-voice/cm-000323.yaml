@@ -1,0 +1,19 @@
+id: cm-000323
+area: nonverbal-and-voice
+kind: evidence
+topic: Power posing
+topic_type: Phenomenon
+true_statement: Credé argued that most felt-power studies compared expansive poses with slumped ones, and where a neutral baseline existed, the gap came from slumping making people feel worse, not expansive poses making them feel better.
+false_statement: Credé argued that most felt-power studies compared expansive poses with slumped ones, and where a neutral baseline existed, the gap came from expansive poses making people feel better, not slumping making them feel worse.
+explanation: Without a neutral comparison you can't tell which pose did the work, and the few studies with one pointed at slumping. That's why what survives of power posing is better summed up as "don't slump" than "stand like a superhero".
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/power-posing.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: ddf3cdd4455b3b9215d6747cdab9804808a90b05
+concepts:
+- cm:power-posing
+- cm:crede-2019
+difficulty: 3
+created: '2026-11-20'
+status: active

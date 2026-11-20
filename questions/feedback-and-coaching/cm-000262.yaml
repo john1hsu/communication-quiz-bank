@@ -1,0 +1,19 @@
+id: cm-000262
+area: feedback-and-coaching
+kind: practice
+topic: Performance review
+topic_type: Context
+true_statement: When a report pushes back on her rating in a performance review, ask what she sees differently and explore her reasons, rather than restating the case for the rating.
+false_statement: When a report pushes back on her rating in a performance review, restate the evidence for the rating firmly, so the disagreement doesn't take over the meeting.
+explanation: Disagreement is the main way employees actively take part in reviews, so expect it and explore it. Defending the rating turns the meeting back into a one-way verdict, and disagreement already goes with feeling less supported by the manager.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/performance-review.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: e42137a31998ffbe4e5959588a4010831092bc3e
+concepts:
+- cm:performance-review
+- cm:difficult-conversation
+difficulty: 2
+created: '2026-11-20'
+status: active

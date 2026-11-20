@@ -1,0 +1,18 @@
+id: cm-000253
+area: presenting-and-public-speaking
+kind: practice
+topic: Presentation rehearsal
+topic_type: Technique
+true_statement: The evening before a client briefing on video, do one final run on the real camera, screen-share and microphone setup, then stop practising and get some sleep.
+false_statement: The evening before a client briefing on video, keep running the talk late into the night on whatever setup is handy, since last-minute extra run-throughs matter more than sleep.
+explanation: Rehearsal guidance favours a last run in the real room or on the real video setup, then rest over one more late practice. Late cramming on a different setup leaves you tired and untested on the tools you'll actually use.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/presentation-rehearsal.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: be472dff5a344cd8b0f064eee381b6556977a9f9
+concepts:
+- cm:presentation-rehearsal
+difficulty: 1
+created: '2026-11-20'
+status: active

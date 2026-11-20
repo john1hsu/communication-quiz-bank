@@ -1,0 +1,19 @@
+id: cm-000344
+area: feedback-and-coaching
+kind: evidence
+topic: Self-affirmation before feedback
+topic_type: Technique
+true_statement: A 2021 replication at the University of Illinois of a values-affirmation study that had narrowed a gender gap in introductory physics did not reproduce the original's positive results.
+false_statement: A 2021 replication at the University of Illinois of a values-affirmation study that had narrowed a gender gap in introductory physics reproduced the original's positive results.
+explanation: 'The close replication failed, and its authors judged the exercise not well enough understood to count as a reliable intervention. That is why the technique is rated mixed: a cheap experiment to try, not a proven workplace tool.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/self-affirmation-before-feedback.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 11af080132b9155a3f8b24a4e38beedcdea3da4c
+concepts:
+- cm:self-affirmation-before-feedback
+- cm:values-affirmation-illinois-replication-2021
+difficulty: 3
+created: '2026-11-20'
+status: active

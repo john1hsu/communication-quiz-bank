@@ -1,0 +1,18 @@
+id: cm-000259
+area: executive-and-client-communication
+kind: practice
+topic: Executive briefing
+topic_type: Context
+true_statement: When an executive interrupts your briefing with a question, answer it before moving on, or say where in the brief you will cover it and then make sure you do.
+false_statement: When an executive interrupts your briefing with a question, note it and hold every question until the end, so you finish your planned points before the slot runs out.
+explanation: Senior listeners often interrupt, and briefing courses say to deal with the question now or name exactly when you will, then follow through. Parking every question ignores what the leader needs to know; this is practitioner advice rather than a tested finding.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/executive-briefing.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 262f6d71827f7102ff98d0df0159475a9c1f7bb9
+concepts:
+- cm:executive-briefing
+difficulty: 2
+created: '2026-11-20'
+status: active

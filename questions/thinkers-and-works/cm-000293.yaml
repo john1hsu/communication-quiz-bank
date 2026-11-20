@@ -1,0 +1,18 @@
+id: cm-000293
+area: thinkers-and-works
+kind: evidence
+topic: The Culture Map
+topic_type: Work
+true_statement: The Culture Map's eight scales were built from executives' real cases and anecdotes, and a 2021 review noted the book rarely engages with empirical research.
+false_statement: The Culture Map's eight scales were built from a large validated survey of managers, and a 2021 review praised the book for its close engagement with empirical research.
+explanation: The framework is practitioner knowledge rather than a measured instrument, so the reviewer saw it as a useful introduction to pair with real studies. Treat a country's place on a scale as a hypothesis to check with the person.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/the-culture-map.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 446c86ca96a23776d058b4a68ff4e1870dc69c6c
+concepts:
+- cm:the-culture-map
+difficulty: 3
+created: '2026-11-20'
+status: active

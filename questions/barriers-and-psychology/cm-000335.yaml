@@ -1,0 +1,19 @@
+id: cm-000335
+area: barriers-and-psychology
+kind: evidence
+topic: Information overload
+topic_type: Barrier
+true_statement: Barley, Meyerson and Grodal found that hours worked did not explain email-related overload, and argued email partly acts as a symbol that draws attention away from other sources of overload.
+false_statement: Barley, Meyerson and Grodal found that long working hours explained most email-related overload, and argued that complaints about email were really a stand-in for overwork.
+explanation: In their study of high-tech professionals, time on email tracked felt overload but hours worked did not, so email became a symbol for strain from many sources. That is why persistent overload is worth reading as an organizational signal, such as meeting load or unclear priorities, not just an inbox problem.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/information-overload.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 565137f95a81a8785cf4fee0b998eb90890c4d7a
+concepts:
+- cm:information-overload
+- cm:barley-meyerson-grodal-2011
+difficulty: 3
+created: '2026-11-20'
+status: active

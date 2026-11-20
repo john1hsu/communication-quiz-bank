@@ -1,0 +1,19 @@
+id: cm-000263
+area: feedback-and-coaching
+kind: mechanism
+topic: Performance review
+topic_type: Context
+true_statement: In recorded appraisal interviews, a supervisor's relation-oriented statements drew more active contributions from the employee, which drew further relation-oriented responses, and reviews with more of this cycle were rated more successful.
+false_statement: In recorded appraisal interviews, a supervisor's relation-oriented statements made employees more passive and agreeable, so reviews with fewer employee contributions were rated more successful.
+explanation: 'Meinecke and colleagues found a reinforcing loop: supportive, relation-oriented talk drew the employee in, and their active contribution was the route to a successful review. Success came from more employee input, not quieter agreement.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/performance-review.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: e42137a31998ffbe4e5959588a4010831092bc3e
+concepts:
+- cm:performance-review
+- cm:meinecke-lehmann-willenbrock-kauffeld-2017
+difficulty: 2
+created: '2026-11-20'
+status: active

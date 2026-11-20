@@ -1,0 +1,20 @@
+id: cm-000337
+area: digital-and-async-communication
+kind: practice
+topic: Setting reply-time expectations
+topic_type: Technique
+true_statement: When a request has a real deadline, put the reply-by time and its reason in the subject line or opening lines, as in "[Action by Thu 3pm] Q3 figures for the board pack."
+false_statement: When a request has a real deadline, give the context first and put the reply-by time and its reason in the closing line, so the reader understands why before seeing when.
+explanation: A deadline left at the end of a long message makes the reader dig or guess, a common mistake. Stating it early, with the reason, lets them plan straight away; the context can follow.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/setting-reply-time-expectations.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 47e57fe8ed9459a8323154a433d9432f40a59037
+concepts:
+- cm:setting-reply-time-expectations
+- cm:email
+- cm:bottom-line-up-front
+difficulty: 2
+created: '2026-11-20'
+status: active

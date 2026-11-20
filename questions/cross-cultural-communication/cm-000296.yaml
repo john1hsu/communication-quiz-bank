@@ -1,0 +1,19 @@
+id: cm-000296
+area: cross-cultural-communication
+kind: evidence
+topic: Multicultural team
+topic_type: Context
+true_statement: A 2010 meta-analysis found cultural diversity in teams was linked to more task conflict and weaker social integration, but also to more creativity and satisfaction.
+false_statement: A 2010 meta-analysis found cultural diversity in teams was linked to less task conflict and stronger social integration, but also to less creativity and satisfaction.
+explanation: Stahl, Maznevski and colleagues framed diversity as bringing both process losses and process gains, so the same mix can become innovative or divided. How the team handles its processes decides which.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/multicultural-team.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: e803aa83269403c1e231e0adef1ae8dbb1ed2b54
+concepts:
+- cm:multicultural-team
+- cm:stahl-maznevski-voigt-jonsen-2010
+difficulty: 3
+created: '2026-11-20'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000272
+area: negotiation
+kind: evidence
+topic: Integrative negotiation
+topic_type: Technique
+true_statement: In De Dreu, Weingart and Kwon's 2000 meta-analysis, prosocial negotiators reached higher joint outcomes only when they were also firm about their own interests.
+false_statement: In De Dreu, Weingart and Kwon's 2000 meta-analysis, prosocial negotiators reached higher joint outcomes whether or not they were firm about their own interests.
+explanation: The gains appeared only when resistance to yielding was high or unknown, so concern for the other side has to come with firmness. Concern alone tends to produce concessions, not better joint deals; most of the studies were simulations.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/integrative-negotiation.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: a19f542581c798da747836ff9f5877a6a8b66289
+concepts:
+- cm:integrative-negotiation
+- cm:de-dreu-weingart-kwon-2000
+difficulty: 3
+created: '2026-11-20'
+status: active

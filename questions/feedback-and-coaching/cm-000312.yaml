@@ -1,0 +1,21 @@
+id: cm-000312
+area: feedback-and-coaching
+kind: scenario
+topic: Receiving feedback
+topic_type: Skill
+true_statement: After a demo, a sales director says the API guide was hard to follow, and the developer thinks, "He's never shipped a line of our code, so why is he judging the docs?" That is a relationship trigger.
+false_statement: After a demo, a sales director says the API guide was hard to follow, and the developer thinks, "He's never shipped a line of our code, so why is he judging the docs?" That is an identity trigger.
+explanation: The developer is reacting to who gave the comment, not to its content or to his self-image, which is Stone and Heen's relationship trigger. An identity trigger would sound like "I'm a careful writer, so this can't be right about me"; the fix here is to separate the what from the who.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/receiving-feedback.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: fe5ca752bc87d6dd8b0b9d4fe044f650d97adc1f
+concepts:
+- cm:receiving-feedback
+- cm:sheila-heen
+- cm:douglas-stone
+- cm:defensiveness
+difficulty: 2
+created: '2026-11-20'
+status: active

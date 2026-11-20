@@ -1,0 +1,18 @@
+id: cm-000316
+area: listening
+kind: practice
+topic: Labeling emotions
+topic_type: Technique
+true_statement: When a senior stakeholder pushes hard for an earlier launch, label the business pressure, as in "It sounds like the board date is driving this," rather than her personal feelings.
+false_statement: When a senior stakeholder pushes hard for an earlier launch, label her personal feelings, as in "It sounds like you're anxious about the board," rather than the business pressure.
+explanation: With senior stakeholders, naming the business pressure lands better than naming their emotions; labeling the feeling itself is usually more welcome with an upset peer or report. This is practitioner guidance rather than a tested finding.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/labeling-emotions.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 4c9bd2c1ca4fc71d5f8605576aa3329e5c1a8eb5
+concepts:
+- cm:labeling-emotions
+difficulty: 3
+created: '2026-11-20'
+status: active

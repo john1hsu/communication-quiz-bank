@@ -1,0 +1,20 @@
+id: cm-000257
+area: cross-cultural-communication
+kind: origin
+topic: Hofstede's dimensions of national culture
+topic_type: Theory
+true_statement: Hofstede's first four dimensions came from averaging, by country, an employee opinion survey he ran across IBM's national subsidiaries, published in Culture's Consequences in 1980.
+false_statement: Hofstede's first four dimensions came from averaging, by country, World Values Survey answers from national population samples, published in Culture's Consequences in 1980.
+explanation: The original data were IBM staff questionnaires about pay, conditions and bosses; World Values Survey data came in only later, through Michael Minkov's work on the sixth dimension. Critics note that one company's employees may not typify a nation.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/hofstede-cultural-dimensions.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 79782a5f2a931fd7506e091b08d3bbcaf0cef156
+concepts:
+- cm:hofstede-cultural-dimensions
+- cm:geert-hofstede
+- cm:cultures-consequences
+difficulty: 2
+created: '2026-11-20'
+status: active

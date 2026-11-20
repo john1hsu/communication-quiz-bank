@@ -1,0 +1,19 @@
+id: cm-000343
+area: feedback-and-coaching
+kind: practice
+topic: Self-affirmation before feedback
+topic_type: Technique
+true_statement: Do the five-minute values reflection just before a post-incident review starts, rather than afterwards to recover from the criticism.
+false_statement: Save the five-minute values reflection for after a post-incident review, once the criticism has landed and you need to recover from it.
+explanation: The exercise is meant to lower the threat before the encounter so the feedback can get through. Done afterwards it becomes damage control, and the defensive reaction has already shaped what you heard.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/self-affirmation-before-feedback.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 11af080132b9155a3f8b24a4e38beedcdea3da4c
+concepts:
+- cm:self-affirmation-before-feedback
+- cm:defensiveness
+difficulty: 2
+created: '2026-11-20'
+status: active

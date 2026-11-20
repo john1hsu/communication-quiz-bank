@@ -1,0 +1,18 @@
+id: cm-000327
+area: questioning-and-conversation
+kind: scenario
+topic: Conversational receptiveness
+topic_type: Technique
+true_statement: Disagreeing with a hiring plan in a budget thread, a finance lead writes, "We both want the Q3 launch fully staffed; where we differ is when to hire." That is the Emphasise-agreement move in HEAR.
+false_statement: Disagreeing with a hiring plan in a budget thread, a finance lead writes, "We both want the Q3 launch fully staffed; where we differ is when to hire." That is the Acknowledge move in HEAR.
+explanation: The line names a shared goal before the difference, which is emphasising agreement. Acknowledging would restate the other person's own argument, such as "So your concern is that we'll be short-handed at launch."
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/conversational-receptiveness.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 5cd386931f701d8b0aa3bcf3b1083f817f087d37
+concepts:
+- cm:conversational-receptiveness
+difficulty: 2
+created: '2026-11-20'
+status: active

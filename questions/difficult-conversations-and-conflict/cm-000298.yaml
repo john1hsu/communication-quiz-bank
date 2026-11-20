@@ -1,0 +1,19 @@
+id: cm-000298
+area: difficult-conversations-and-conflict
+kind: practice
+topic: Role reversal
+topic_type: Technique
+true_statement: When preparing alone for a hard contract talk, write the other party's brief in their voice, argue it aloud, and note which of your own arguments would actually move them.
+false_statement: When preparing alone for a hard contract talk, write out your own strongest arguments, argue them aloud, and rehearse rebuttals to the objections you expect.
+explanation: Solo role reversal means arguing from the other side's chair, which shows how the facts look from there and which of your points survive. Rehearsing only your own case keeps you inside your own perspective.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/role-reversal.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 663c3ad856755ac60c37fc88c0b24b733afbc9cd
+concepts:
+- cm:role-reversal
+- cm:negotiation-preparation
+difficulty: 2
+created: '2026-11-20'
+status: active

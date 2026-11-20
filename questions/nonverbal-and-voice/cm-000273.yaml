@@ -1,0 +1,18 @@
+id: cm-000273
+area: nonverbal-and-voice
+kind: scenario
+topic: Nonverbal communication
+topic_type: Concept
+true_statement: 'A director keeps a job candidate waiting twenty minutes past the slot, then ends the interview early to take another call. The candidate reads it as a sign of low priority: a message sent through chronemics, the nonverbal code of time.'
+false_statement: 'A director keeps a job candidate waiting twenty minutes past the slot, then ends the interview early to take another call. The candidate reads it as a sign of low priority: a message sent through proxemics, the nonverbal code of time.'
+explanation: Lateness and cutting a meeting short are uses of time, which is chronemics. Proxemics is the code of space, such as how close people stand, so it doesn't fit an exchange that turns on waiting and duration.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/nonverbal-communication.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: d4818fe35c6fd386d179a70839cd8dc970dde8a5
+concepts:
+- cm:nonverbal-communication
+difficulty: 1
+created: '2026-11-20'
+status: active

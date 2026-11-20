@@ -1,0 +1,19 @@
+id: cm-000291
+area: thinkers-and-works
+kind: definition
+topic: The Culture Map
+topic_type: Work
+true_statement: 'Erin Meyer''s central idea in The Culture Map is relativity: what matters is where a culture sits on a scale compared with the people you work with, not its absolute position.'
+false_statement: 'Erin Meyer''s central idea in The Culture Map is absolute position: what matters is where a culture sits on each scale, whichever colleagues you happen to be working with.'
+explanation: Two cultures that both look direct to an outsider can still clash, because each judges the other from its own spot on the scale. So the useful question is how your position differs from your counterpart's.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/the-culture-map.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 446c86ca96a23776d058b4a68ff4e1870dc69c6c
+concepts:
+- cm:the-culture-map
+- cm:erin-meyer
+difficulty: 1
+created: '2026-11-20'
+status: active

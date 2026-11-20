@@ -1,0 +1,18 @@
+id: cm-000318
+area: negotiation
+kind: scenario
+topic: Interests vs. positions
+topic_type: Principle
+true_statement: A client insists, "The dashboard must go live by March 1." Asked why, she explains her board meets on March 3 and wants to see churn figures. The March 1 date is her position; showing the board churn figures is her interest.
+false_statement: A client insists, "The dashboard must go live by March 1." Asked why, she explains her board meets on March 3 and wants to see churn figures. The March 1 date is her interest; showing the board churn figures is her position.
+explanation: A position is the stated demand, here a date; the interest is the need behind it. Naming the interest opens other options, such as a one-off churn report for the board, that the date alone hides.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/interests-vs-positions.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: b07e929bcf36618d053d04b45f6c42ec1fe865b2
+concepts:
+- cm:interests-vs-positions
+difficulty: 1
+created: '2026-11-20'
+status: active

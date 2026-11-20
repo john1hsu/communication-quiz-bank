@@ -1,0 +1,20 @@
+id: cm-000256
+area: cross-cultural-communication
+kind: practice
+topic: Hofstede's dimensions of national culture
+topic_type: Theory
+true_statement: If a junior analyst on a partner team never corrects the director in meetings, consider their occupation and seniority before their nationality as an explanation.
+false_statement: If a junior analyst on a partner team never corrects the director in meetings, look up their country's power-distance score first, since nationality best explains power-distance values.
+explanation: A meta-analysis found occupation grouped power-distance values far better than country did, so role and rank are the first place to look. A national score is at most a hypothesis to check by asking the team how it likes to disagree.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/hofstede-cultural-dimensions.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 79782a5f2a931fd7506e091b08d3bbcaf0cef156
+concepts:
+- cm:hofstede-cultural-dimensions
+- cm:power-distance
+- cm:taras-steel-kirkman-2016
+difficulty: 2
+created: '2026-11-20'
+status: active

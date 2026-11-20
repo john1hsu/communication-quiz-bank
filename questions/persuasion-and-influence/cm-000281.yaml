@@ -1,0 +1,19 @@
+id: cm-000281
+area: persuasion-and-influence
+kind: evidence
+topic: Narrative persuasion
+topic_type: Technique
+true_statement: A 2015 meta-analysis found statistical evidence shifted beliefs and attitudes more than narratives did, while narratives did more to shift people's intentions to act.
+false_statement: A 2015 meta-analysis found narratives shifted beliefs and attitudes more than statistical evidence did, while statistics did more to shift people's intentions to act.
+explanation: Stories and numbers move different outcomes, which is why the advice is to pair them rather than pick one. Use the figures to establish what is true and the story to motivate action.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/narrative-persuasion.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 70f56cd5ef70336e94af5cf4f2b5f50d0ddbc94b
+concepts:
+- cm:narrative-persuasion
+- cm:statistical-evidence
+difficulty: 3
+created: '2026-11-20'
+status: active

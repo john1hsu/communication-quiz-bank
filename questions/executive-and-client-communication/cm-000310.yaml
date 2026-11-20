@@ -1,0 +1,19 @@
+id: cm-000310
+area: executive-and-client-communication
+kind: practice
+topic: Trusted advisor
+topic_type: Framework
+true_statement: With a sponsor anxious about a slipping launch, listen until she feels understood before you frame the problem, rather than jumping from the opening straight to your recommended fix.
+false_statement: With a sponsor anxious about a slipping launch, go from the opening straight to your recommended fix, then listen to her reactions, since a quick solution shows you understood.
+explanation: The framework's steps run engage, listen, frame, envision, commit; listening earns the right to frame the problem, and skipping it is the common mistake. This is practitioner guidance from a business book, not a tested sequence.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/trusted-advisor.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 6030679750ec2860b70201b36aef38d901293df5
+concepts:
+- cm:trusted-advisor
+- cm:active-listening
+difficulty: 2
+created: '2026-11-20'
+status: active

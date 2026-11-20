@@ -1,0 +1,19 @@
+id: cm-000324
+area: persuasion-and-influence
+kind: scenario
+topic: Persuasion
+topic_type: Skill
+true_statement: Pushing his preferred vendor, a manager tells the committee the discount expires Friday, though he knows it runs to month end. He has crossed into manipulation by inventing urgency to cut short their judgement.
+false_statement: Pushing his preferred vendor, a manager tells the committee the discount expires Friday, though he knows it runs to month end. That is still persuasion, since a deadline is a reason the committee can weigh.
+explanation: Persuasion offers reasons the audience can inspect and leaves them free to refuse. A deadline he knows is false is not a reason they can check; it is invented urgency meant to bypass their scrutiny.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/persuasion.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 57b7453b1413335b8bbf877e00710c44291eb0cc
+concepts:
+- cm:persuasion
+- cm:manipulation
+difficulty: 2
+created: '2026-11-20'
+status: active

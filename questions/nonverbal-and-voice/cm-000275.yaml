@@ -1,0 +1,19 @@
+id: cm-000275
+area: nonverbal-and-voice
+kind: evidence
+topic: Nonverbal communication
+topic_type: Concept
+true_statement: 'The popular claim that you can spot a lying colleague from body language outruns the research: across many studies, people tell lies from truths only slightly better than chance.'
+false_statement: 'The popular claim that you can spot a lying colleague from body language is backed by the research: across many studies, people reliably tell lies from truths by watching for nervous cues.'
+explanation: Bond and DePaulo's meta-analysis found accuracy barely above chance, and liars don't necessarily look more nervous. Leaning on fidgets or averted gaze as lie signs can distort how you judge someone's credibility.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/nonverbal-communication.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: d4818fe35c6fd386d179a70839cd8dc970dde8a5
+concepts:
+- cm:nonverbal-communication
+- cm:bond-depaulo-2006
+difficulty: 2
+created: '2026-11-20'
+status: active

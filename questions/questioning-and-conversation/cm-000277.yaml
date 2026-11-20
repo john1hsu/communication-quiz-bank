@@ -1,0 +1,20 @@
+id: cm-000277
+area: questioning-and-conversation
+kind: practice
+topic: Perspective-getting
+topic_type: Technique
+true_statement: When asking a report in a one-on-one what she really thinks of the planned office move, say why you are asking and that you want to hear the downsides, so an unwelcome answer feels safe to give.
+false_statement: When asking a report in a one-on-one what she really thinks of the planned office move, ask briskly and take her first answer at face value, since asking directly is what makes you accurate.
+explanation: A direct question only helps if the answer is honest, and a reply given under pressure or fear of consequences is weak evidence. Explaining your purpose and showing you can hear bad news makes candour possible.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/perspective-getting.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 7037b52c917f048cf481ea7ce795a8cb10528205
+concepts:
+- cm:perspective-getting
+- cm:psychological-safety
+- cm:one-on-one-meetings
+difficulty: 2
+created: '2026-11-20'
+status: active

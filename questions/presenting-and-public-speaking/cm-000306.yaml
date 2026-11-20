@@ -1,0 +1,18 @@
+id: cm-000306
+area: presenting-and-public-speaking
+kind: scenario
+topic: Self-recording playback
+topic_type: Technique
+true_statement: An account manager films her pitch rehearsal, watches it once and winces at her voice and outfit, but notes nothing specific to change. That is watching without criteria, which brings discomfort rather than a fix.
+false_statement: An account manager films her pitch rehearsal, watches it once and winces at her voice and outfit, but notes nothing specific to change. That is watching as an outsider, the stance that turns playback into improvement.
+explanation: She reacted to how she looked and sounded in general, with no checklist and no chosen fix. Watching as an outsider means judging the clip like a coach against two or three set behaviours, then picking one or two changes.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/self-recording-playback.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 6dbc0cbecb50c4785d5d42db611fed304489443a
+concepts:
+- cm:self-recording-playback
+difficulty: 2
+created: '2026-11-20'
+status: active

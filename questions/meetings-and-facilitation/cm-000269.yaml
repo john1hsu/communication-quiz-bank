@@ -1,0 +1,20 @@
+id: cm-000269
+area: meetings-and-facilitation
+kind: evidence
+topic: Facilitation
+topic_type: Skill
+true_statement: The claim that fair turn-taking makes groups smarter is disputed, since independent attempts to reproduce the collective-intelligence factor partly or fully failed; treat fair airtime mainly as a way to hear more views.
+false_statement: The claim that fair turn-taking makes groups smarter is settled, since independent attempts consistently reproduced the collective-intelligence factor; treat fair airtime as a proven route to better decisions.
+explanation: Woolley's 2010 study and a 2021 meta-analysis by the same research group support a collective-intelligence factor, but a 2021 review found independent replications partly or fully failed and member IQ explained much of performance in some studies. Fair airtime is well supported for widening input, not proven to raise decision quality.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/facilitation.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 1aa7042075f04984223aec89d1c6a5858ae2b11b
+concepts:
+- cm:facilitation
+- cm:g-versus-c-meta-analysis-2021
+- cm:woolley-et-al-2010
+difficulty: 3
+created: '2026-11-20'
+status: active

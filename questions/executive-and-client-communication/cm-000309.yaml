@@ -1,0 +1,18 @@
+id: cm-000309
+area: executive-and-client-communication
+kind: scenario
+topic: Trusted advisor
+topic_type: Framework
+true_statement: Opening a quarterly review, an account lead spends ten minutes on her firm's awards, then pitches an add-on service before asking about the client's goals. In trust-equation terms, that raises self-orientation, which divides trust.
+false_statement: Opening a quarterly review, an account lead spends ten minutes on her firm's awards, then pitches an add-on service before asking about the client's goals. In trust-equation terms, that raises credibility, which outweighs the other terms.
+explanation: Talking up your firm and selling before asking about the client puts visible focus on your own revenue and image, which is self-orientation, the denominator. Credibility is about believable expertise, and it is only one of three numerator terms, not a trump card.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/trusted-advisor.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 6030679750ec2860b70201b36aef38d901293df5
+concepts:
+- cm:trusted-advisor
+difficulty: 2
+created: '2026-11-20'
+status: active

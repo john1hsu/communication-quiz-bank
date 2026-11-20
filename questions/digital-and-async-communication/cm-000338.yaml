@@ -1,0 +1,20 @@
+id: cm-000338
+area: digital-and-async-communication
+kind: evidence
+topic: Setting reply-time expectations
+topic_type: Technique
+true_statement: In Giurge and Bohns's tests, a one-line "not urgent" note from the sender erased receivers' overestimate of how fast an out-of-hours email needed a reply, but it did not directly lower their rated stress.
+false_statement: In Giurge and Bohns's tests, a one-line "not urgent" note from the sender erased receivers' overestimate of how fast an out-of-hours email needed a reply, and its main payoff was a direct drop in their rated stress.
+explanation: The note closed the expectation gap in a scenario experiment with full-time employees, but any stress benefit was weak, indirect and seen only in exploratory analysis. Use the note to remove guesswork about timing, not as a proven stress cure.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/setting-reply-time-expectations.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 47e57fe8ed9459a8323154a433d9432f40a59037
+concepts:
+- cm:setting-reply-time-expectations
+- cm:email-urgency-bias-study
+- cm:email-urgency-bias
+difficulty: 3
+created: '2026-11-20'
+status: active

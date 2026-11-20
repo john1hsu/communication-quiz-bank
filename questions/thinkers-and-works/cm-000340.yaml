@@ -1,0 +1,20 @@
+id: cm-000340
+area: thinkers-and-works
+kind: scenario
+topic: Thomas Gilovich
+topic_type: Person
+true_statement: After a supplier negotiation, a buyer who tried to hide how badly she needs a March delivery is sure she gave it away. Gilovich's negotiation research suggests she probably revealed less than she thinks.
+false_statement: After a supplier negotiation, a buyer who tried to hide how badly she needs a March delivery is sure she gave it away. Gilovich's negotiation research suggests she probably revealed even more than she thinks.
+explanation: In the 2003 study with Van Boven and Medvec, negotiators hiding their preferences thought they had leaked more than they had, an illusion of transparency. Her vivid sense of her own urgency is not what the supplier saw.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/thomas-gilovich.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 7ac599af3ead74500673048e1d2554338017ec89
+concepts:
+- cm:thomas-gilovich
+- cm:illusion-of-transparency
+- cm:victoria-medvec
+difficulty: 2
+created: '2026-11-20'
+status: active

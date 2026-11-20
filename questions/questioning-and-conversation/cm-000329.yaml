@@ -1,0 +1,19 @@
+id: cm-000329
+area: questioning-and-conversation
+kind: evidence
+topic: Conversational receptiveness
+topic_type: Technique
+true_statement: In Yeomans and colleagues' 2020 studies, how receptive executives sounded to their discussion partners and to an algorithm did not match the executives' own sense of how receptive they had been.
+false_statement: 'In Yeomans and colleagues'' 2020 studies, executives judged their own receptiveness accurately: their self-ratings closely matched how their discussion partners and an algorithm rated them.'
+explanation: People are poor judges of how receptive they sound, which is why the article treats receptive language as something to practise deliberately, for example by drafting tough replies before sending. Feeling open-minded is no guarantee you come across that way.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/conversational-receptiveness.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 5cd386931f701d8b0aa3bcf3b1083f817f087d37
+concepts:
+- cm:conversational-receptiveness
+- cm:yeomans-et-al-2020
+difficulty: 3
+created: '2026-11-20'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000305
+area: meetings-and-facilitation
+kind: evidence
+topic: Workplace meetings
+topic_type: Context
+true_statement: In Rogelberg, Leach and Burnfield's 2006 survey, employees high in accomplishment striving felt worse when their meeting time came as many short meetings than as a few longer ones of the same total length.
+false_statement: In Rogelberg, Leach and Burnfield's 2006 survey, employees high in accomplishment striving felt worse when their meeting time came as a few long meetings than as many short ones of the same total length.
+explanation: For people driven to get their own work done, many short meetings hurt more than fewer, longer ones of the same total. People lower in that trait even reported better well-being with more meeting time, which is why asking the team beats one meeting rule for everyone.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/workplace-meetings.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 7112eba49437f6f0d20d6a410690c1eabaa668fb
+concepts:
+- cm:workplace-meetings
+- cm:rogelberg-leach-burnfield-2006
+difficulty: 3
+created: '2026-11-20'
+status: active

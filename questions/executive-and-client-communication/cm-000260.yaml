@@ -1,0 +1,18 @@
+id: cm-000260
+area: executive-and-client-communication
+kind: definition
+topic: Executive briefing
+topic_type: Context
+true_statement: An information brief aims only at helping a senior leader understand an issue, while a decision brief exists to get a choice made and opens by saying a decision will be sought.
+false_statement: A decision brief aims only at helping a senior leader understand an issue, while an information brief exists to get a choice made and opens by saying a decision will be sought.
+explanation: 'Military staff training sorts briefs by purpose: information briefs build understanding, decision briefs end with a request for a choice. Confusing the two is a named pitfall, since a fact-heavy information brief leaves the leader with nothing clear to decide.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/executive-briefing.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 262f6d71827f7102ff98d0df0159475a9c1f7bb9
+concepts:
+- cm:executive-briefing
+difficulty: 1
+created: '2026-11-20'
+status: active

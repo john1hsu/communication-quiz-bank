@@ -1,0 +1,18 @@
+id: cm-000325
+area: persuasion-and-influence
+kind: practice
+topic: Persuasion
+topic_type: Skill
+true_statement: If you can't find a real benefit to your audience in what you're proposing, change the proposal rather than searching for a better way to spin it.
+false_statement: If you can't find a real benefit to your audience in what you're proposing, keep the proposal and search for a framing that makes it sound like a win for them.
+explanation: Conger's common-ground framing describes a proposal by what the audience truly gains. With no shared benefit, reframing is spin; reshaping the proposal so it serves their goals is the honest and more durable fix.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/persuasion.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 57b7453b1413335b8bbf877e00710c44291eb0cc
+concepts:
+- cm:persuasion
+difficulty: 2
+created: '2026-11-20'
+status: active

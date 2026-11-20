@@ -1,0 +1,19 @@
+id: cm-000317
+area: listening
+kind: evidence
+topic: Labeling emotions
+topic_type: Technique
+true_statement: In Lieberman's 2011 experiments, people correctly expected reappraising a feeling to help but wrongly expected that labeling it would make them feel worse; labeling in fact made them feel slightly better.
+false_statement: In Lieberman's 2011 experiments, people correctly expected labeling a feeling to help but wrongly expected that reappraising it would make them feel worse; reappraisal in fact made them feel slightly better.
+explanation: The forecasting error was about labeling, not reappraisal, and it helps explain why managers avoid naming emotions they can plainly see. The benefit was real but small, so labeling is a modest aid, not a guaranteed de-escalator.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/labeling-emotions.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 4c9bd2c1ca4fc71d5f8605576aa3329e5c1a8eb5
+concepts:
+- cm:labeling-emotions
+- cm:cognitive-reappraisal
+difficulty: 3
+created: '2026-11-20'
+status: active

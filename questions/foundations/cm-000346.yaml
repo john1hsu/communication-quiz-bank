@@ -1,0 +1,20 @@
+id: cm-000346
+area: foundations
+kind: figure
+topic: Social psychology
+topic_type: Field
+true_statement: When the Open Science Collaboration repeated 100 psychology studies in 2015, only 36% of the replications produced significant results, against 97% of the originals.
+false_statement: When the Open Science Collaboration repeated 100 psychology studies in 2015, 64% of the replications produced significant results, against 97% of the originals.
+explanation: Barely a third of replications came out significant, with effects about half the original size. Before building a communication habit on a social-psychology finding, check whether it survived large replications.
+as_of: '2015'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/social-psychology.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 06dfa300443ad10567eaa315fb10cf464399b20d
+concepts:
+- cm:social-psychology
+- cm:open-science-collaboration-2015
+difficulty: 3
+created: '2026-11-20'
+status: active

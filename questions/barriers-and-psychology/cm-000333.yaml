@@ -1,0 +1,19 @@
+id: cm-000333
+area: barriers-and-psychology
+kind: scenario
+topic: Information overload
+topic_type: Barrier
+true_statement: A team lead copies all 40 people in his department on every vendor update "so nobody can say they weren't told." He is adding to information overload by sending to people who don't need to act on or know it.
+false_statement: A team lead copies all 40 people in his department on every vendor update "so nobody can say they weren't told." He is easing information overload, since one message to everyone saves people chasing the update elsewhere.
+explanation: 'The tell is the reason given: copying people to cover himself rather than because they need to act. Trimming distribution lists is the first fix for overload, since every extra message competes with everything else in the reader''s day.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/information-overload.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 565137f95a81a8785cf4fee0b998eb90890c4d7a
+concepts:
+- cm:information-overload
+- cm:email
+difficulty: 2
+created: '2026-11-20'
+status: active

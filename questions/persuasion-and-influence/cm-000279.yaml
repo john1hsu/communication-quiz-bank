@@ -1,0 +1,19 @@
+id: cm-000279
+area: persuasion-and-influence
+kind: scenario
+topic: Narrative persuasion
+topic_type: Technique
+true_statement: Arguing for a new escalation process, a support lead tells leadership about the year's single worst outage and never says it was a one-off. Her story is unrepresentative and can mislead them about how common the problem is.
+false_statement: Arguing for a new escalation process, a support lead tells leadership about the year's single worst outage and never says it was a one-off. Her story is well chosen, since the most dramatic case draws listeners in most.
+explanation: Listeners' judgements tend to follow a vivid case even when the wider evidence differs, so the story should be typical. She should pick a representative incident or say plainly how rare the outage was.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/narrative-persuasion.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 70f56cd5ef70336e94af5cf4f2b5f50d0ddbc94b
+concepts:
+- cm:narrative-persuasion
+- cm:credibility
+difficulty: 2
+created: '2026-11-20'
+status: active

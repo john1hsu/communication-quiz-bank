@@ -1,0 +1,19 @@
+id: cm-000288
+area: digital-and-async-communication
+kind: scenario
+topic: Scheduled inbox checks
+topic_type: Technique
+true_statement: A product manager decides to process email only at 9, 1 and 4, but leaves the inbox tab open and glances at it between meetings "just to see." She keeps the interruptions batching is meant to remove, since the tested routine closed the mailbox between checks.
+false_statement: A product manager decides to process email only at 9, 1 and 4, but leaves the inbox tab open and glances at it between meetings "just to see." That still counts as full batching, since the tested routine limited when people replied, not when they looked.
+explanation: In the experiments the mailbox was closed and alerts were off between check-ins; peeking keeps the breaks in attention while dropping the benefit. Batching limits looking, not just replying, so the fix is to close the tab until the next slot.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/scheduled-inbox-checks.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: e1dc91d669e3f9b87d3a7ab584c5c07601b4d4a7
+concepts:
+- cm:scheduled-inbox-checks
+- cm:email
+difficulty: 2
+created: '2026-11-20'
+status: active

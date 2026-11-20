@@ -1,0 +1,20 @@
+id: cm-000249
+area: foundations
+kind: scenario
+topic: Organizational communication
+topic_type: Field
+true_statement: 'An operations manager announces a new shift system by memo alone and then meets confusion and pushback. The gap is in the system: no explanation of why, no route for questions to flow back up, and no conversation to make sense of it together.'
+false_statement: An operations manager announces a new shift system by memo alone and then meets confusion and pushback. The gap is a badly drafted memo, a one-person writing problem that clearer wording would solve.
+explanation: Organizational communication looks at how information moves, not only at one message. The memo lacked meaning-making and an upward channel, so a follow-up conversation would help more than a sharper rewrite.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/organizational-communication.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 7cfb77cc7f7ee93a7b289c2445427ee57980c020
+concepts:
+- cm:organizational-communication
+- cm:communicative-constitution-of-organizations
+- cm:motivating-language-theory
+difficulty: 2
+created: '2026-11-20'
+status: active

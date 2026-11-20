@@ -1,0 +1,18 @@
+id: cm-000271
+area: negotiation
+kind: practice
+topic: Integrative negotiation
+topic_type: Technique
+true_statement: In a multi-issue deal, share your own priorities a piece at a time and check that the other side reciprocates before you disclose more.
+false_statement: In a multi-issue deal, lay out all your priorities and your budget ceiling in the first few minutes, so the other side sees you are open and follows suit.
+explanation: Openness helps both sides find trades, but disclosing everything up front leaves you exposed if the counterpart is playing purely distributively. Revealing in steps lets you test whether information flows both ways.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/integrative-negotiation.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: a19f542581c798da747836ff9f5877a6a8b66289
+concepts:
+- cm:integrative-negotiation
+difficulty: 2
+created: '2026-11-20'
+status: active

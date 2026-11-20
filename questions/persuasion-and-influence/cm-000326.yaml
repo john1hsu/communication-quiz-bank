@@ -1,0 +1,19 @@
+id: cm-000326
+area: persuasion-and-influence
+kind: evidence
+topic: Persuasion
+topic_type: Skill
+true_statement: Pooling many meta-analyses, O'Keefe and Hoeken (2021) found message-design choices, such as one- versus two-sided arguments, have small effects that can't be counted on to help.
+false_statement: Pooling many meta-analyses, O'Keefe and Hoeken (2021) found message-design choices, such as one- versus two-sided arguments, reliably help once the right moderating conditions are known.
+explanation: Most design choices could plausibly help or hurt in a new setting, even with moderators specified. Rely on credibility, audience-centred reasons and dialogue rather than any single wording rule.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/persuasion.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 57b7453b1413335b8bbf877e00710c44291eb0cc
+concepts:
+- cm:persuasion
+- cm:okeefe-hoeken-2021
+difficulty: 3
+created: '2026-11-20'
+status: active

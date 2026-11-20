@@ -1,0 +1,18 @@
+id: cm-000300
+area: foundations
+kind: scenario
+topic: Interpersonal communication
+topic_type: Field
+true_statement: A lead messages a peer, "Need the Q3 numbers by 3. Thanks." The numbers arrive on time, but the peer stays cool with her for weeks. The message met its instrumental goal but missed its relational one.
+false_statement: A lead messages a peer, "Need the Q3 numbers by 3. Thanks." The numbers arrive on time, but the peer stays cool with her for weeks. The message met its relational goal but missed its instrumental one.
+explanation: The task got done, so the instrumental goal was met; the cooling shows what the curt request signalled about the relationship. Every request carries both, which is why a technically correct ask can still strain trust.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/interpersonal-communication.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 1a2ed65aa751db12b8cf36d40d257d7e54e1c798
+concepts:
+- cm:interpersonal-communication
+difficulty: 2
+created: '2026-11-20'
+status: active

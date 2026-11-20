@@ -1,0 +1,18 @@
+id: cm-000267
+area: meetings-and-facilitation
+kind: scenario
+topic: Facilitation
+topic_type: Skill
+true_statement: In a retro, the team lead running the discussion says, "Honestly, I think the real problem is the test environment, so let's spend our time there." As facilitator, she has given up her neutral stance by steering the content.
+false_statement: In a retro, the team lead running the discussion says, "Honestly, I think the real problem is the test environment, so let's spend our time there." As facilitator, she is keeping discussion on track by redirecting a tangent.
+explanation: A facilitator owns the process and leaves the content to the group; the tell here is that she names the cause herself and points the group at it. Redirecting a tangent brings people back to the agreed agenda, not to the chair's preferred answer.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/facilitation.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 1aa7042075f04984223aec89d1c6a5858ae2b11b
+concepts:
+- cm:facilitation
+difficulty: 2
+created: '2026-11-20'
+status: active

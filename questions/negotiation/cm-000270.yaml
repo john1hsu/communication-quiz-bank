@@ -1,0 +1,20 @@
+id: cm-000270
+area: negotiation
+kind: scenario
+topic: Integrative negotiation
+topic_type: Technique
+true_statement: Two managers both want the shared data analyst next quarter. One says, "Let's just split her time 50-50," before either has asked which projects matter most to the other. That is a distributive compromise that can leave joint gains unclaimed.
+false_statement: Two managers both want the shared data analyst next quarter. One says, "Let's just split her time 50-50," before either has asked which projects matter most to the other. That is integrative negotiation, since each side gets something.
+explanation: Meeting in the middle on one issue treats the analyst's time as a fixed pie. Integrative negotiation would first ask about each side's priorities and deadlines, then trade, for example more of her time in month one for one manager and month three for the other.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/integrative-negotiation.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: a19f542581c798da747836ff9f5877a6a8b66289
+concepts:
+- cm:integrative-negotiation
+- cm:distributive-negotiation
+- cm:mythical-fixed-pie
+difficulty: 2
+created: '2026-11-20'
+status: active

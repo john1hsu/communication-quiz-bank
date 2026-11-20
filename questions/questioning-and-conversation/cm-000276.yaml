@@ -1,0 +1,18 @@
+id: cm-000276
+area: questioning-and-conversation
+kind: scenario
+topic: Perspective-getting
+topic_type: Technique
+true_statement: Planning a handover, a manager asks an analyst whether he'd mind dropping the client reports, hears "that's fine," and assumes he'll also be happy to take over the data pipeline. She asked once and generalised from it.
+false_statement: Planning a handover, a manager asks an analyst whether he'd mind dropping the client reports, hears "that's fine," and assumes he'll also be happy to take over the data pipeline. She got his perspective rather than guessing it.
+explanation: Asking only improves accuracy on the points actually discussed, so his answer about reports says nothing about the pipeline. She needed a second question about each point her decision depends on.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/perspective-getting.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 7037b52c917f048cf481ea7ce795a8cb10528205
+concepts:
+- cm:perspective-getting
+difficulty: 2
+created: '2026-11-20'
+status: active

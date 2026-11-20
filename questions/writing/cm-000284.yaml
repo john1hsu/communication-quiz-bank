@@ -1,0 +1,20 @@
+id: cm-000284
+area: writing
+kind: figure
+topic: Concise writing
+topic_type: Skill
+true_statement: In a school-board field experiment reported in 2023, a 49-word survey request drew a 4.8% response rate, against 2.7% for a 127-word version with the same core content.
+false_statement: In a school-board field experiment reported in 2023, a 49-word survey request drew a 2.7% response rate, against 4.8% for a 127-word version with the same core content.
+explanation: 'Rogers and Lasky-Fink found the shorter email lifted responses by about 80%, fitting their argument that readers judge effort from length. The evidence is still mixed: few studies, mostly one-to-many requests.'
+as_of: '2023'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/concise-writing.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: b315f128e379c0b294384cf2eed74d04d227675d
+concepts:
+- cm:concise-writing
+- cm:writing-for-busy-readers
+difficulty: 3
+created: '2026-11-20'
+status: active

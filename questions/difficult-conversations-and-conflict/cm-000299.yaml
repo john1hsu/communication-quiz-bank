@@ -1,0 +1,19 @@
+id: cm-000299
+area: difficult-conversations-and-conflict
+kind: evidence
+topic: Role reversal
+topic_type: Technique
+true_statement: In Johnson and Deutsch's 1966 study, when the two sides' positions were truly incompatible, role reversal did no better than plain self-presentation at producing agreement.
+false_statement: In Johnson and Deutsch's 1966 study, when the two sides' positions were truly incompatible, role reversal produced more agreements than plain self-presentation.
+explanation: Role reversal reliably improved understanding of the opponent, but with incompatible positions it even lowered each side's sense of being understood. Clearer understanding can expose a real clash, so use it to diagnose a dispute, not as a promise of a deal.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/role-reversal.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 663c3ad856755ac60c37fc88c0b24b733afbc9cd
+concepts:
+- cm:role-reversal
+- cm:johnson-deutsch-1966
+difficulty: 3
+created: '2026-11-20'
+status: active

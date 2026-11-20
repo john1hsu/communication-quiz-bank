@@ -1,0 +1,18 @@
+id: cm-000345
+area: foundations
+kind: scenario
+topic: Social psychology
+topic_type: Field
+true_statement: When a colleague misses the morning stand-up, a lead tells a peer, "He just doesn't care about this project," without asking whether anything else came up. That is the fundamental attribution error.
+false_statement: When a colleague misses the morning stand-up, a lead tells a peer, "He just doesn't care about this project," without asking whether anything else came up. That is the self-serving bias.
+explanation: The lead explains someone else's behaviour by character and ignores his situation, the fundamental attribution error; asking what else was going on is the fix. The self-serving bias is about how we explain our own successes and failures.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/social-psychology.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 06dfa300443ad10567eaa315fb10cf464399b20d
+concepts:
+- cm:social-psychology
+difficulty: 2
+created: '2026-11-20'
+status: active

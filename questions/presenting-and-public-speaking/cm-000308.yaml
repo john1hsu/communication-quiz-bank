@@ -1,0 +1,20 @@
+id: cm-000308
+area: presenting-and-public-speaking
+kind: evidence
+topic: Self-recording playback
+topic_type: Technique
+true_statement: Bourhis and Allen's 1998 synthesis of classroom experiments found that students given videotaped feedback improved their speaking skills without becoming significantly more anxious.
+false_statement: Bourhis and Allen's 1998 synthesis of classroom experiments found that students given videotaped feedback improved their speaking skills but became significantly more anxious.
+explanation: The pooled studies showed gains in content, skill and test scores with no significant rise in anxiety, which answers the common worry that watching yourself backfires. The evidence is dated and student-based, hence the mixed rating.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/self-recording-playback.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 6dbc0cbecb50c4785d5d42db611fed304489443a
+concepts:
+- cm:self-recording-playback
+- cm:bourhis-allen-1998
+- cm:speaking-anxiety
+difficulty: 3
+created: '2026-11-20'
+status: active

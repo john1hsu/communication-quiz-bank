@@ -1,0 +1,20 @@
+id: cm-000341
+area: thinkers-and-works
+kind: evidence
+topic: Thomas Gilovich
+topic_type: Person
+true_statement: In Savitsky and Gilovich's public-speaking study, speakers told about the illusion of transparency overestimated their visible nervousness less and were rated by observers as more confident.
+false_statement: In Savitsky and Gilovich's public-speaking study, speakers told about the illusion of transparency felt calmer, but observers rated them no more confident than other speakers.
+explanation: Simply learning that the audience sees far less of your nerves than you feel changed how speakers came across, not just how they felt. That makes it a useful reminder to give yourself or an anxious colleague before a presentation.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/thomas-gilovich.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 7ac599af3ead74500673048e1d2554338017ec89
+concepts:
+- cm:thomas-gilovich
+- cm:savitsky-gilovich-2003
+- cm:speaking-anxiety
+difficulty: 3
+created: '2026-11-20'
+status: active

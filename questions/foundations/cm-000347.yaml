@@ -1,0 +1,20 @@
+id: cm-000347
+area: foundations
+kind: origin
+topic: Social psychology
+topic_type: Field
+true_statement: Carl Hovland's Yale Communication and Attitude Change Program tested how source credibility, presentation order, one- versus two-sided messages and fear appeals change opinions.
+false_statement: Floyd Allport's Yale Communication and Attitude Change Program tested how source credibility, presentation order, one- versus two-sided messages and fear appeals change opinions.
+explanation: Hovland founded the Yale programme after running the US Army's wartime training-film experiments, making persuasion a core topic. Allport is credited with defining the field in 1924 as the experimental study of social behaviour.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/social-psychology.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 06dfa300443ad10567eaa315fb10cf464399b20d
+concepts:
+- cm:social-psychology
+- cm:carl-hovland
+- cm:floyd-allport
+difficulty: 2
+created: '2026-11-20'
+status: active

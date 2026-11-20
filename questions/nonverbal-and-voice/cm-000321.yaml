@@ -1,0 +1,19 @@
+id: cm-000321
+area: nonverbal-and-voice
+kind: scenario
+topic: Power posing
+topic_type: Phenomenon
+true_statement: Before a salary negotiation, a colleague urges you to stand hands-on-hips for two minutes "to boost your testosterone and cut cortisol." That advice rests on hormonal effects a much larger replication failed to find.
+false_statement: Before a salary negotiation, a colleague urges you to stand hands-on-hips for two minutes "to boost your testosterone and cut cortisol." That advice rests on hormonal effects that larger studies have since confirmed.
+explanation: The hormone claim comes from the small 2010 study; Ranehill and colleagues' larger replication found no effect on testosterone, cortisol or risk-taking, and a 2022 meta-analysis found no hormonal evidence either. Power posing's headline claims are a failed replication.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/power-posing.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: ddf3cdd4455b3b9215d6747cdab9804808a90b05
+concepts:
+- cm:power-posing
+- cm:ranehill-et-al-2015
+difficulty: 2
+created: '2026-11-20'
+status: active

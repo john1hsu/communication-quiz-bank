@@ -1,0 +1,18 @@
+id: cm-000348
+area: negotiation
+kind: practice
+topic: Negotiation preparation
+topic_type: Context
+true_statement: Preparing for a vendor renewal with price, term and support on the table, set one overall goal for the package and treat your plan as a hypothesis to test at the table.
+false_statement: Preparing for a vendor renewal with price, term and support on the table, set a separate stretch goal for each issue and hold to each one whatever you learn at the table.
+explanation: In Polzer and Neale's experiments, per-issue goals pushed negotiators toward issue-by-issue haggling, and fixed goals sometimes made them ignore new information. A package goal leaves room to trade across issues.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/negotiation-preparation.md
+  commit: 22d56ea568bad29132334334e697891a644db6de
+  blob: 1090af91fdc9ce1b61046cac57123170cc19c953
+concepts:
+- cm:negotiation-preparation
+difficulty: 2
+created: '2026-11-20'
+status: active
