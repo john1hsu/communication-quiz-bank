@@ -1,0 +1,20 @@
+id: cm-000427
+area: negotiation
+kind: scenario
+topic: Distributive negotiation
+topic_type: Technique
+true_statement: A contractor quotes a client a $900 day rate. The client says nothing for a few seconds, and the contractor adds, "I could probably do $820." She has filled the silence with a unilateral concession before the client moved.
+false_statement: A contractor quotes a client a $900 day rate. The client says nothing for a few seconds, and the contractor adds, "I could probably do $820." She has made a contingent concession tied to the client's next move.
+explanation: Nothing was asked in return and the client had not countered, so the drop is unilateral, prompted only by discomfort with silence. A contingent concession names a specific action the other side must take, such as a longer engagement.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/distributive-negotiation.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 0c0143c3d6cb3794e2bcafe237f1be269c4cdc5c
+concepts:
+- cm:distributive-negotiation
+- cm:concession-strategy
+- cm:wait-time
+difficulty: 2
+created: '2026-11-21'
+status: active

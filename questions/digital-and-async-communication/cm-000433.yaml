@@ -1,0 +1,20 @@
+id: cm-000433
+area: digital-and-async-communication
+kind: scenario
+topic: Emoji and tone in text
+topic_type: Technique
+true_statement: Writing a first email to a client's procurement lead she has never met, an account manager closes with "Looking forward to working together :)". In formal first contacts like this, smileys tend to lower how competent the sender seems.
+false_statement: Writing a first email to a client's procurement lead she has never met, an account manager closes with "Looking forward to working together :)". In formal first contacts like this, smileys tend to raise warmth with no cost to perceived competence.
+explanation: Glikson and colleagues found smileys in a work email to an unknown contact lowered perceived competence, and recipients shared less in reply. The warmth-without-cost result held only in informal settings.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/emoji-and-tone-in-text.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: b0019e95071f4e576f084179b819d50abe7a9626
+concepts:
+- cm:emoji-and-tone-in-text
+- cm:glikson-cheshin-van-kleef-2018
+- cm:email
+difficulty: 2
+created: '2026-11-21'
+status: active

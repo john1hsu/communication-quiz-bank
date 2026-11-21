@@ -1,0 +1,21 @@
+id: cm-000371
+area: nonverbal-and-voice
+kind: practice
+topic: Paralanguage
+topic_type: Concept
+true_statement: To sound more confident when pitching an idea aloud, project steadily and vary your loudness a little, rather than raising your pitch or speeding up.
+false_statement: To sound more confident when pitching an idea aloud, raise your pitch and speed up a little, rather than projecting steadily or varying your loudness.
+explanation: Van Zant and Berger found louder speech with some variation in volume made speakers seem more confident, which shifted attitudes, while pitch and rate did not reliably predict persuasion. The effects were small, so treat this as a modest edge.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/paralanguage.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: c1ba03020988893ce1c950491f6bf48f6bd6f7d9
+concepts:
+- cm:paralanguage
+- cm:van-zant-berger-2019
+- cm:vocal-delivery
+- cm:credibility
+difficulty: 2
+created: '2026-11-21'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000376
+area: writing
+kind: scenario
+topic: Bulleted and numbered lists
+topic_type: Technique
+true_statement: 'A tech lead''s decision memo reads "Why we chose vendor B:" followed by "• Lower cost • Latency risk • Support in EU only". The list hides reasoning: it drops how the risk weighs against the saving and what would change the choice.'
+false_statement: 'A tech lead''s decision memo reads "Why we chose vendor B:" followed by "• Lower cost • Latency risk • Support in EU only". The list is well used: it has a lead-in and short parallel items, so the argument is easy to scan.'
+explanation: Lead-in and parallel form are fine, but a choice is an argument with trade-offs, and fragments make the points look equal and independent. Keep the reasoning in sentences, such as why the latency risk is acceptable, and list only discrete items.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/bulleted-and-numbered-lists.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: efc589ba5c4a1cde5aa3493333159efc5a1ccd7e
+concepts:
+- cm:bulleted-and-numbered-lists
+- cm:columbia-accident-investigation-board-report
+difficulty: 2
+created: '2026-11-21'
+status: active

@@ -1,0 +1,20 @@
+id: cm-000401
+area: persuasion-and-influence
+kind: practice
+topic: Monroe's motivated sequence
+topic_type: Framework
+true_statement: Proposing a pilot to senior leaders who expect the conclusion first, state your ask at the start and use Monroe's need, solution and visualization steps as the body that supports it.
+false_statement: Proposing a pilot to senior leaders who expect the conclusion first, keep Monroe's canonical order and hold the ask for the close, since that order is what makes the sequence persuasive.
+explanation: For answer-first readers a solution held back to the end can read as stalling, and the one controlled test found the canonical order is not the active ingredient. The steps still work as a checklist of what to cover.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/monroes-motivated-sequence.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 5d9825bcfab2ce40abd847982b6fc70ecdb1f2ce
+concepts:
+- cm:monroes-motivated-sequence
+- cm:bottom-line-up-front
+- cm:micciche-pryor-butler-2000
+difficulty: 2
+created: '2026-11-21'
+status: active

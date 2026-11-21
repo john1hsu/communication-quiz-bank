@@ -1,0 +1,18 @@
+id: cm-000440
+area: cross-cultural-communication
+kind: practice
+topic: Face and facework
+topic_type: Concept
+true_statement: If a senior colleague's figures in a client deck are out of date, message her privately before the rehearsal and offer to swap them in or let her do it.
+false_statement: If a senior colleague's figures in a client deck are out of date, point it out during the team rehearsal so the fix is made openly in front of everyone.
+explanation: Choosing a private setting removes the audience that makes losing face costly, and leaving her in control of the fix protects her image while still making the correction clear. A public correction threatens her competence in front of peers.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/face-and-facework.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 0a92427ba413f981ee5e144fcfa096f7a4a1c682
+concepts:
+- cm:face-and-facework
+difficulty: 1
+created: '2026-11-21'
+status: active

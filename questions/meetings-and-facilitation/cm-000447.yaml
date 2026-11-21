@@ -1,0 +1,19 @@
+id: cm-000447
+area: meetings-and-facilitation
+kind: evidence
+topic: Unequal participation
+topic_type: Barrier
+true_statement: The popular line that two people do over 60% of the talking in a six-person meeting is offered by Leigh Thompson without a named study, so treat it as an illustration, not a measured norm.
+false_statement: The popular line that two people do over 60% of the talking in a six-person meeting comes from Woolley and colleagues' 2010 studies, so treat it as a measured norm.
+explanation: Kellogg's page presents the figure with no study behind it. Woolley's 2010 work was about turn-taking equality and a collective intelligence factor, not this airtime statistic.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/unequal-participation.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 2affa177e256ddca1bab6f41931c0f0e13c9d39f
+concepts:
+- cm:unequal-participation
+- cm:woolley-et-al-2010
+difficulty: 3
+created: '2026-11-21'
+status: active

@@ -1,0 +1,20 @@
+id: cm-000386
+area: negotiation
+kind: mechanism
+topic: Salary negotiation
+topic_type: Context
+true_statement: Hart, Bear and Ren (2024) found job candidates overestimate the chance that negotiating will make the employer withdraw the offer, partly because they see the negotiation as zero-sum.
+false_statement: Hart, Bear and Ren (2024) found job candidates underestimate the chance that negotiating will make the employer withdraw the offer, partly because they see the negotiation as joint problem-solving.
+explanation: 'The finding runs the other way: fear is inflated, driven by zero-sum framing and feeling powerless, which is why many candidates never ask. Treating the talk as joint problem-solving is the remedy the article suggests, not the cause of the error.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/salary-negotiation.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: c90432dbed66d6329f9af5ccaf3d15974ebdf184
+concepts:
+- cm:salary-negotiation
+- cm:hart-bear-ren-2024
+- cm:mythical-fixed-pie
+difficulty: 2
+created: '2026-11-21'
+status: active

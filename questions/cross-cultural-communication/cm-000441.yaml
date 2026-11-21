@@ -1,0 +1,20 @@
+id: cm-000441
+area: cross-cultural-communication
+kind: evidence
+topic: Face and facework
+topic_type: Concept
+true_statement: In Oetzel and Ting-Toomey's 2003 four-country survey, concern for one's own face predicted a dominating conflict style, while concern for the other person's face predicted avoiding and integrating.
+false_statement: In Oetzel and Ting-Toomey's 2003 four-country survey, concern for the other person's face predicted a dominating conflict style, while concern for one's own face predicted avoiding and integrating.
+explanation: Protecting your own image pushed people to dominate, while protecting the other's image went with avoiding or integrating. The data were self-reported by college students, so treat the link as a tendency, not a rule.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/face-and-facework.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 0a92427ba413f981ee5e144fcfa096f7a4a1c682
+concepts:
+- cm:face-and-facework
+- cm:oetzel-ting-toomey-2003
+- cm:face-negotiation-theory
+difficulty: 3
+created: '2026-11-21'
+status: active

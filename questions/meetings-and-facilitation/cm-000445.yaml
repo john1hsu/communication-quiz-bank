@@ -1,0 +1,20 @@
+id: cm-000445
+area: meetings-and-facilitation
+kind: practice
+topic: Unequal participation
+topic_type: Barrier
+true_statement: In a weekly design review where the director usually opens each topic, ask her to hold her view until everyone else has spoken.
+false_statement: In a weekly design review where the director usually opens each topic, ask her to state her view first so others have something concrete to react to.
+explanation: Early and frequent speakers gain influence whatever the quality of their input, so a leader who opens anchors the room. Letting the senior person speak last gets the others' views on the table first.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/unequal-participation.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 2affa177e256ddca1bab6f41931c0f0e13c9d39f
+concepts:
+- cm:unequal-participation
+- cm:facilitation
+- cm:workplace-meetings
+difficulty: 2
+created: '2026-11-21'
+status: active

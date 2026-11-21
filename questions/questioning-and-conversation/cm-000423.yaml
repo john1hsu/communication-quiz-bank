@@ -1,0 +1,20 @@
+id: cm-000423
+area: questioning-and-conversation
+kind: evidence
+topic: GROW model
+topic_type: Framework
+true_statement: In a 2015 randomised replication, solution-focused coaching questions raised students' self-efficacy and planned action steps more than problem-focused questions about causes and history.
+false_statement: In a 2015 randomised replication, problem-focused coaching questions about causes and history raised students' self-efficacy and planned action steps more than solution-focused questions.
+explanation: This supports keeping GROW's Reality stage brief and moving to what would be better. GROW itself rests on practitioner consensus; it is the questioning stance, not the model, that has controlled evidence.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/grow-model.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 565a74a94b155edf3105862671fb36ead77f3194
+concepts:
+- cm:grow-model
+- cm:coaching-psychology
+- cm:questioning
+difficulty: 3
+created: '2026-11-21'
+status: active

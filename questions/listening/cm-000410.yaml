@@ -1,0 +1,19 @@
+id: cm-000410
+area: listening
+kind: practice
+topic: Summarizing
+topic_type: Technique
+true_statement: When summarizing a colleague's concerns, keep your own view and proposed fix out of the summary, and raise them only once they have confirmed or corrected it.
+false_statement: When summarizing a colleague's concerns, fold your own view and proposed fix into the summary, so they can confirm both your reading and your plan at once.
+explanation: A summary is a clarifying move that tests understanding; adding your position turns the check into an argument or a proposal. Confirm their version first, then use it as the bridge to solutions.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/summarizing.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 39f75d359080d4c78165ab0171cfa7dea7ec1f6a
+concepts:
+- cm:summarizing
+- cm:one-on-one-meetings
+difficulty: 2
+created: '2026-11-21'
+status: active

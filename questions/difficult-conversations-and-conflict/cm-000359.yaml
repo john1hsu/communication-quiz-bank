@@ -1,0 +1,19 @@
+id: cm-000359
+area: difficult-conversations-and-conflict
+kind: practice
+topic: De-escalation
+topic_type: Technique
+true_statement: 'If a visitor keeps shouting at the front desk, state the limit as a fact and pair it with a real choice: "I can''t keep talking while you''re shouting. We can sit down now, or I can call you at three."'
+false_statement: 'If a visitor keeps shouting at the front desk, state the limit as a warning: "Raise your voice at me once more and you''re out of the building, so it''s your choice."'
+explanation: De-escalation guidance pairs limits with realistic choices and honest optimism, delivered calmly and tied to the behaviour. A limit dressed as a threat escalates, even when it mentions a choice.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/de-escalation.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 73a874b5b1f876277c89a103f834e39d86e87475
+concepts:
+- cm:de-escalation
+- cm:verbal-aggression
+difficulty: 2
+created: '2026-11-21'
+status: active

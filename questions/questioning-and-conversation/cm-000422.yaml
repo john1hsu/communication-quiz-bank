@@ -1,0 +1,20 @@
+id: cm-000422
+area: questioning-and-conversation
+kind: practice
+topic: GROW model
+topic_type: Framework
+true_statement: When coaching a report through GROW, ask for her options first and add your own idea only after hers, labelled as one option among several.
+false_statement: When coaching a report through GROW, lead with your own recommended option so she has a strong starting point, then ask what else she could try.
+explanation: Putting your idea first anchors her and quietly hands ownership back to you, which GROW is meant to avoid. You can still contribute, but after her ideas and as one choice rather than the answer.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/grow-model.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 565a74a94b155edf3105862671fb36ead77f3194
+concepts:
+- cm:grow-model
+- cm:open-ended-questions
+- cm:coaching
+difficulty: 2
+created: '2026-11-21'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000353
+area: presenting-and-public-speaking
+kind: practice
+topic: Presentation
+topic_type: Context
+true_statement: 'For a short update to department heads, order the talk as "What? So what? Now what?": the point stated plainly, why it matters to this audience, then what you want them to do or decide.'
+false_statement: 'For a short update to department heads, order the talk as "So what? Now what? What?": why it matters, what you want them to decide, then the point itself, saved for the close.'
+explanation: Abrahams's sequence puts the plain statement of the point first so the relevance and the ask have something to attach to. This is practitioner guidance rather than tested research, but holding the point back for the close leaves listeners guessing what the ask is about.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/presentation.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 1044209eb968053e2ce66b6c5322e33da4292576
+concepts:
+- cm:presentation
+- cm:presentation-structure
+difficulty: 1
+created: '2026-11-21'
+status: active

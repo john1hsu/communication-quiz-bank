@@ -1,0 +1,18 @@
+id: cm-000425
+area: writing
+kind: practice
+topic: Wall of text
+topic_type: AntiPattern
+true_statement: In a long status email, bold only the one or two phrases readers must not miss, such as a deadline, because highlighting one passage makes the rest less likely to be read.
+false_statement: In a long status email, bold every sentence that carries an important detail, because highlighting more passages makes each of them more likely to be read.
+explanation: Emphasis works by contrast, and highlighted text draws attention away from everything else. Bolding many sentences erodes that contrast, so save it for the few phrases that must be seen.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/wall-of-text.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 2e6cfce4713d26292767d69091282eed7d30bd6c
+concepts:
+- cm:wall-of-text
+difficulty: 2
+created: '2026-11-21'
+status: active

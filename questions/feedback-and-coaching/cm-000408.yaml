@@ -1,0 +1,20 @@
+id: cm-000408
+area: feedback-and-coaching
+kind: evidence
+topic: Hattie and Timperley's feedback model
+topic_type: Framework
+true_statement: A 2020 meta-analysis co-authored by Hattie backed the idea that more informative feedback works better, but it could not test the model's claim that praise of the person is the least effective level.
+false_statement: A 2020 meta-analysis co-authored by Hattie backed the idea that more informative feedback works better, and it confirmed the model's claim that praise of the person is the least effective level.
+explanation: The 2020 review found information-rich feedback outperformed bare rewards or punishments, but it could not code the four levels at all. So the self-level claim remains untested there, part of why the model's status is mixed.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/hattie-timperley-feedback-model.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 2794ca3fba9fed07c06db5b3c8e35e48469b5498
+concepts:
+- cm:hattie-timperley-feedback-model
+- cm:wisniewski-zierer-hattie-2020
+- cm:john-hattie
+difficulty: 3
+created: '2026-11-21'
+status: active

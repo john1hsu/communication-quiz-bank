@@ -1,0 +1,19 @@
+id: cm-000407
+area: feedback-and-coaching
+kind: practice
+topic: Hattie and Timperley's feedback model
+topic_type: Framework
+true_statement: When a report's draft misses the mark, start by confirming the goal you both hold for it, then compare the draft with that goal and name the next step.
+false_statement: When a report's draft misses the mark, start by listing everything that's off, then name the next step, and agree what the goal was only at the end.
+explanation: The model's order is where am I going, how am I going, where to next. Comments help only when the person knows the target, and missing goals are a common reason feedback fails.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/hattie-timperley-feedback-model.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 2794ca3fba9fed07c06db5b3c8e35e48469b5498
+concepts:
+- cm:hattie-timperley-feedback-model
+- cm:one-on-one-meetings
+difficulty: 2
+created: '2026-11-21'
+status: active

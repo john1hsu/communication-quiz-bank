@@ -1,0 +1,19 @@
+id: cm-000446
+area: meetings-and-facilitation
+kind: mechanism
+topic: Unequal participation
+topic_type: Barrier
+true_statement: In a 2020 study of leaderless groups, the time a member spent talking predicted whether others saw them as a leader, even with intelligence, personality and gender controlled for.
+false_statement: In a 2020 study of leaderless groups, the time a member spent talking predicted whether others saw them as a leader, but only because the biggest talkers were also the most intelligent.
+explanation: The effect held after controlling for intelligence, so airtime itself buys influence. That is how lopsided talk rewards whoever speaks first and longest, not whoever knows most.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/unequal-participation.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 2affa177e256ddca1bab6f41931c0f0e13c9d39f
+concepts:
+- cm:unequal-participation
+- cm:maclaren-et-al-2020
+difficulty: 3
+created: '2026-11-21'
+status: active

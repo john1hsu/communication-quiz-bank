@@ -1,0 +1,19 @@
+id: cm-000415
+area: nonverbal-and-voice
+kind: scenario
+topic: Acoustic speech-analysis coaching
+topic_type: Technique
+true_statement: Before a board update, a manager runs a speech-analysis tool that flags her pace, flat pitch and fillers, and she tries to fix all three in one evening's practice. That is chasing every metric.
+false_statement: Before a board update, a manager runs a speech-analysis tool that flags her pace, flat pitch and fillers, and she tries to fix all three in one evening's practice. That is over-correcting.
+explanation: 'Working on every flagged reading at once dilutes the practice; the published training picked one parameter and drilled it until it shifted. Over-correcting is a different mistake: pushing one reading so far that the voice stops sounding natural.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/acoustic-speech-analysis-coaching.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 2f4629e4a61024bbab33d99b24512f1cc95242a9
+concepts:
+- cm:acoustic-speech-analysis-coaching
+- cm:presentation-rehearsal
+difficulty: 2
+created: '2026-11-21'
+status: active

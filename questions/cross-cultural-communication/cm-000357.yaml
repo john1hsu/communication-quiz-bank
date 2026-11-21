@@ -1,0 +1,19 @@
+id: cm-000357
+area: cross-cultural-communication
+kind: evidence
+topic: Cultural intelligence
+topic_type: Skill
+true_statement: In Rockstuhl and Van Dyne's 2018 meta-analysis, cultural knowledge held by people low in metacognitive CQ was even negatively related to task performance.
+false_statement: In Rockstuhl and Van Dyne's 2018 meta-analysis, cultural knowledge held by people low in motivational CQ was even negatively related to task performance.
+explanation: Metacognitive CQ, the habit of checking and revising your interpretations, strengthened the payoff of the other capabilities; without it, knowing about cultures could backfire. Motivational CQ was linked mainly to adjustment, not to this moderating role. The evidence base is mixed and mostly self-report.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/cultural-intelligence.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: a255b0d5d5bd4f07be14415fbd48c3cf1a8c00ca
+concepts:
+- cm:cultural-intelligence
+- cm:rockstuhl-van-dyne-2018
+difficulty: 3
+created: '2026-11-21'
+status: active

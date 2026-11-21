@@ -1,0 +1,18 @@
+id: cm-000383
+area: barriers-and-psychology
+kind: practice
+topic: Cognitive load theory
+topic_type: Theory
+true_statement: On a project call, post the six milestone dates in the chat or on screen as you talk them through, rather than reading them out as a spoken list, because spoken information vanishes as it goes.
+false_statement: On a project call, read the six milestone dates out slowly as a spoken list and skip posting them, because seeing them in writing while you talk only splits attention.
+explanation: Speech is transient, so a long spoken list overloads listeners faster than the same list in writing; leaving key numbers written down lets people check them again. Talking through written dates is not split attention, since the two sources sit together rather than in separate places.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/cognitive-load.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: fc47ed7cfe21632eb02f543f8b0289384952ae53
+concepts:
+- cm:cognitive-load
+difficulty: 2
+created: '2026-11-21'
+status: active

@@ -1,0 +1,20 @@
+id: cm-000367
+area: meetings-and-facilitation
+kind: scenario
+topic: Brainstorming
+topic_type: Technique
+true_statement: A product team generating ideas alternates four-minute solo writing rounds with brief reads of everyone's ideas in a shared doc, then writes again. That alternating pattern is the one a field study at a tech company found produced the most ideas.
+false_statement: A product team generating ideas alternates four-minute solo writing rounds with brief reads of everyone's ideas in a shared doc, then writes again. That alternating pattern is the one a field study at a tech company found produced the fewest ideas.
+explanation: Switching between short solo writing and quick reviews of teammates' ideas beat continuous group sharing, because people think without a speaking queue and still build on others. The reads don't derail solo thinking; they feed the next round.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/brainstorming.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 17189fc8875001d3c09981f67216b894319eae14
+concepts:
+- cm:brainstorming
+- cm:brainwriting
+- cm:workplace-meetings
+difficulty: 2
+created: '2026-11-21'
+status: active

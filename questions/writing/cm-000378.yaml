@@ -1,0 +1,20 @@
+id: cm-000378
+area: writing
+kind: figure
+topic: Bulleted and numbered lists
+topic_type: Technique
+true_statement: In Jansen's experiments published in 2014, putting items in a bulleted list improved recall of those items but reduced recall of the text around the list.
+false_statement: In Jansen's experiments published in 2014, putting items in a bulleted list improved recall of those items and also improved recall of the text around the list.
+explanation: Bullets pull attention to what is inside them at the expense of the surrounding prose, so anything important left in the sentences around a list is more likely to be missed. The false version leaves out that cost.
+as_of: '2014'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/bulleted-and-numbered-lists.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: efc589ba5c4a1cde5aa3493333159efc5a1ccd7e
+concepts:
+- cm:bulleted-and-numbered-lists
+- cm:jansen-2014
+difficulty: 3
+created: '2026-11-21'
+status: active

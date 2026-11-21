@@ -1,0 +1,20 @@
+id: cm-000443
+area: difficult-conversations-and-conflict
+kind: mechanism
+topic: Conflict resolution
+topic_type: Field
+true_statement: Morton Deutsch argued that competitive exchanges tend to escalate while cooperative ones build on themselves, because each kind of relationship reproduces the processes that created it.
+false_statement: Morton Deutsch argued that competitive exchanges tend to settle down over time while cooperative ones tend to slide into rivalry, because each kind of relationship wears away the processes that created it.
+explanation: In Deutsch's account, suspicion and deception breed more of the same, as do trust and openness, so a dispute's course is self-reinforcing. That is why protecting cooperative features such as honesty and open information matters early.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/conflict-resolution.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 502ddff7d8d2e5860a00bb59b43971cb5c2a2896
+concepts:
+- cm:conflict-resolution
+- cm:morton-deutsch
+- cm:theory-of-cooperation-and-competition
+difficulty: 2
+created: '2026-11-21'
+status: active

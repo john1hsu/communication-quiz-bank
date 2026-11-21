@@ -1,0 +1,18 @@
+id: cm-000355
+area: cross-cultural-communication
+kind: scenario
+topic: Cultural intelligence
+topic_type: Skill
+true_statement: 'On a client call, a partner team''s lead answers a proposal with "We will consider it." Instead of logging a yes, the project manager asks, "What would make this hard to approve on your side?" That is metacognitive CQ: treating her first reading as a hypothesis to check.'
+false_statement: 'On a client call, a partner team''s lead answers a proposal with "We will consider it." Instead of logging a yes, the project manager asks, "What would make this hard to approve on your side?" That is cognitive CQ: drawing on stored knowledge of how cultures differ.'
+explanation: The tell is that she doubts her own interpretation of an ambiguous reply and tests it with a question, which is the checking-and-revising work of metacognitive CQ. Cognitive CQ is what you know about cultures; she is not applying a known norm here, she is questioning her reading.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/cultural-intelligence.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: a255b0d5d5bd4f07be14415fbd48c3cf1a8c00ca
+concepts:
+- cm:cultural-intelligence
+difficulty: 2
+created: '2026-11-21'
+status: active

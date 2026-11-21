@@ -1,0 +1,19 @@
+id: cm-000349
+area: persuasion-and-influence
+kind: scenario
+topic: Refutational two-sided messages
+topic_type: Technique
+true_statement: 'Proposing a database migration, an engineer writes to her director: "Some will worry about a weekend of downtime, but the long-term gains clearly outweigh that." That is a nonrefutational two-sided message, which on average persuades slightly less than not raising the worry.'
+false_statement: 'Proposing a database migration, an engineer writes to her director: "Some will worry about a weekend of downtime, but the long-term gains clearly outweigh that." That is a refutational two-sided message, which on average persuades slightly more than a one-sided case.'
+explanation: She names the downtime objection but offers no evidence, safeguard or design change to answer it, so it is left standing. A refutational version would say how downtime is avoided or limited, for example a staged cutover with a rollback plan.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/refutational-two-sided-messages.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 9367d7e26b5cf48b8280ac20bea12a950a7005b1
+concepts:
+- cm:refutational-two-sided-messages
+- cm:okeefe-1999
+difficulty: 2
+created: '2026-11-21'
+status: active

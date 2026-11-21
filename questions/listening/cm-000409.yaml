@@ -1,0 +1,20 @@
+id: cm-000409
+area: listening
+kind: scenario
+topic: Summarizing
+topic_type: Technique
+true_statement: 'After a client spends ten minutes on a call listing frustrations, the account manager says, "So three things: invoices arrive late, the portal times out at month-end, and you''re unsure who your new contact is. Did I miss anything?" That is summarizing.'
+false_statement: 'After a client spends ten minutes on a call listing frustrations, the account manager says, "So three things: invoices arrive late, the portal times out at month-end, and you''re unsure who your new contact is. Did I miss anything?" That is paraphrasing.'
+explanation: The reply gathers several points from a long stretch of talk into one organised statement and invites correction, which is a summary. A paraphrase restates a single point; scope is what separates them.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/summarizing.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 39f75d359080d4c78165ab0171cfa7dea7ec1f6a
+concepts:
+- cm:summarizing
+- cm:paraphrasing
+- cm:active-listening
+difficulty: 2
+created: '2026-11-21'
+status: active

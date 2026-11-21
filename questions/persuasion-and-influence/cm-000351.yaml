@@ -1,0 +1,20 @@
+id: cm-000351
+area: persuasion-and-influence
+kind: figure
+topic: Refutational two-sided messages
+topic_type: Technique
+true_statement: O'Keefe's 1999 meta-analysis found refutational two-sided messages slightly more persuasive than one-sided ones, while two-sided messages that only mentioned objections were slightly less persuasive.
+false_statement: O'Keefe's 1999 meta-analysis found two-sided messages that only mentioned objections slightly more persuasive than one-sided ones, while refutational versions were slightly less persuasive.
+explanation: Pooled across about 107 comparisons, answering objections gave a small gain and merely mentioning them a small loss, so the two kinds of two-sided message cancel out as a group. The false version reverses which kind helps.
+as_of: '1999'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/refutational-two-sided-messages.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 9367d7e26b5cf48b8280ac20bea12a950a7005b1
+concepts:
+- cm:refutational-two-sided-messages
+- cm:okeefe-1999
+difficulty: 3
+created: '2026-11-21'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000400
+area: persuasion-and-influence
+kind: scenario
+topic: Monroe's motivated sequence
+topic_type: Framework
+true_statement: 'Pitching a shared on-call rota, a team lead tells the directors: "Picture a quarter where nobody gets paged three nights running and incidents still close within an hour." In Monroe''s sequence, that is the visualization step.'
+false_statement: 'Pitching a shared on-call rota, a team lead tells the directors: "Picture a quarter where nobody gets paged three nights running and incidents still close within an hour." In Monroe''s sequence, that is the satisfaction step.'
+explanation: She is painting the concrete future once the solution is in place, which is visualization. Satisfaction would be explaining the rota itself, showing it works and answering the strongest objection.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/monroes-motivated-sequence.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 5d9825bcfab2ce40abd847982b6fc70ecdb1f2ce
+concepts:
+- cm:monroes-motivated-sequence
+- cm:presentation
+difficulty: 2
+created: '2026-11-21'
+status: active

@@ -1,0 +1,20 @@
+id: cm-000366
+area: listening
+kind: evidence
+topic: Mirroring
+topic_type: Technique
+true_statement: In Hale and Hamilton's 2016 virtual-reality work, a rapport boost from being mimicked appeared in an exploratory study but did not hold up in a pre-registered follow-up.
+false_statement: In Hale and Hamilton's 2016 virtual-reality work, a rapport boost from being mimicked appeared in an exploratory study and was confirmed in a pre-registered follow-up.
+explanation: The pre-registered replication found no reliable effect on rapport or trust, which is why mirroring's evidence is rated mixed. Treat it as a way to draw out detail and show attention, not a guaranteed trust builder.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/mirroring.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 01f80c5eaffe2867e8788d981de2bdef00111051
+concepts:
+- cm:mirroring
+- cm:hale-hamilton-2016
+- cm:rapport
+difficulty: 3
+created: '2026-11-21'
+status: active

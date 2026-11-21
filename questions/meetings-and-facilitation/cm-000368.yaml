@@ -1,0 +1,20 @@
+id: cm-000368
+area: meetings-and-facilitation
+kind: practice
+topic: Brainstorming
+topic_type: Technique
+true_statement: When a call-out brainstorm stalls, switch the group to silent writing with ideas pooled on sticky notes, rather than just repeating the "no bad ideas" rule.
+false_statement: When a call-out brainstorm stalls, keep the call-out format and firmly repeat the "no bad ideas" rule, since fear of judgment is what holds ideas back.
+explanation: Fear of judgment was not the main cause of lost ideas in the classic experiments; the speaking queue was. Ground rules alone leave that queue in place, while writing and pooling in parallel removes it.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/brainstorming.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 17189fc8875001d3c09981f67216b894319eae14
+concepts:
+- cm:brainstorming
+- cm:production-blocking
+- cm:diehl-stroebe-1987
+difficulty: 2
+created: '2026-11-21'
+status: active

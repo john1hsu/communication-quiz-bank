@@ -1,0 +1,19 @@
+id: cm-000361
+area: executive-and-client-communication
+kind: scenario
+topic: Elevator pitch
+topic_type: Genre
+true_statement: Catching a director after a town hall, a product analyst races through three unrelated ideas (a pricing tweak, a new dashboard, an onboarding fix) in one minute and asks for a meeting on all of them. Her pitch falls into the laundry-list trap, which executives tend to read as uncreative or desperate.
+false_statement: Catching a director after a town hall, a product analyst races through three unrelated ideas (a pricing tweak, a new dashboard, an onboarding fix) in one minute and asks for a meeting on all of them. Her pitch falls into the over-rehearsed trap, which executives tend to read as canned.
+explanation: 'The tell is the number of ideas, not how practised she sounds: a pitch should carry one idea and one ask. Picking the strongest of the three and leading with its cost to the director would fix it.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/elevator-pitch.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: faf855aeea94c9ef6be325058e92585651fa2894
+concepts:
+- cm:elevator-pitch
+- cm:elsbach-kramer-2003
+difficulty: 2
+created: '2026-11-21'
+status: active

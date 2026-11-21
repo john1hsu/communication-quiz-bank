@@ -1,0 +1,19 @@
+id: cm-000392
+area: cross-cultural-communication
+kind: practice
+topic: Culture assimilator
+topic_type: Technique
+true_statement: When building a culture assimilator for your team, keep only the episodes whose correct explanation members of the other culture broadly agree on.
+false_statement: When building a culture assimilator for your team, keep only the episodes whose correct explanation your team's most experienced expatriate managers agree on.
+explanation: The method aims at explaining behaviour the way the other culture would, so insiders of that culture must confirm each answer. Outsiders, however experienced, can share the very misreading the episode is meant to correct.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/culture-assimilator.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: a9d2ad2226bd09fa1f3b9989a37b6a7477df4fe4
+concepts:
+- cm:culture-assimilator
+- cm:ethnocentrism
+difficulty: 2
+created: '2026-11-21'
+status: active

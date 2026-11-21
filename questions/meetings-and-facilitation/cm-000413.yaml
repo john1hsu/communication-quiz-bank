@@ -1,0 +1,19 @@
+id: cm-000413
+area: meetings-and-facilitation
+kind: practice
+topic: Meeting recaps
+topic_type: Technique
+true_statement: Before a meeting ends, read the decisions and actions aloud and have each owner confirm their task and date in the room, so nobody first learns of a task from the recap.
+false_statement: After a meeting, send the recap with each new task assigned and let owners raise any objections by reply, so the meeting can end on time.
+explanation: A spoken read-back lets people object before the record is fixed and gets commitments out loud. Surprise assignments that first appear in the email tend to invite pushback.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/meeting-recaps.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 77732e88142cc899aaaa8085037fdc36e8107974
+concepts:
+- cm:meeting-recaps
+- cm:summarizing
+difficulty: 2
+created: '2026-11-21'
+status: active

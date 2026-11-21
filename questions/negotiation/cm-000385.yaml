@@ -1,0 +1,19 @@
+id: cm-000385
+area: negotiation
+kind: practice
+topic: Salary negotiation
+topic_type: Context
+true_statement: Having researched the pay range for the role, reply to an offer with thanks, one specific figure and a reason you could repeat to the hiring manager's boss, then ask, "Is there flexibility there?"
+false_statement: Having researched the pay range for the role, reply to an offer with thanks and ask, "Is this negotiable at all?", holding back your figure until they say yes.
+explanation: A specific, reasoned request anchors the discussion and invites a real answer. "Is this negotiable at all?" invites a yes-or-no reply and anchors nothing, wasting the range research you already did.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/salary-negotiation.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: c90432dbed66d6329f9af5ccaf3d15974ebdf184
+concepts:
+- cm:salary-negotiation
+- cm:first-offer
+difficulty: 2
+created: '2026-11-21'
+status: active

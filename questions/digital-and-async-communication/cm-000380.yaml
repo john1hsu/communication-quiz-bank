@@ -1,0 +1,21 @@
+id: cm-000380
+area: digital-and-async-communication
+kind: practice
+topic: Video call communication
+topic_type: Channel
+true_statement: For a distributed team that must come up with new product ideas, plan in-person time or solo idea generation first, and use video for evaluating and choosing among the ideas.
+false_statement: For a distributed team that must come up with new product ideas, generate the ideas together over video, and save in-person time for evaluating and choosing among them.
+explanation: Brucks and Levav found video pairs produced fewer creative ideas than pairs in the same room but were no worse at picking which idea to pursue. So video is the weak channel for generation, not for selection.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/video-call-communication.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: bf376aef15fbca7f0cbc9a07888e11da1cc94959
+concepts:
+- cm:video-call-communication
+- cm:brucks-levav-2022
+- cm:face-to-face-conversation
+- cm:channel-selection
+difficulty: 2
+created: '2026-11-21'
+status: active

@@ -1,0 +1,18 @@
+id: cm-000377
+area: writing
+kind: practice
+topic: Bulleted and numbered lists
+topic_type: Technique
+true_statement: Number a list when its steps must happen in order or readers will refer to items in their replies; use plain bullets for items of equal weight with no sequence.
+false_statement: Use plain bullets when a list's steps must happen in order, since the lines show the flow, and save numbers for items of equal weight so readers can count them.
+explanation: Numbers signal sequence and let a reader answer "done 1-3, 4 by Friday"; bullets signal that order doesn't matter. Swapping them misleads readers about whether the sequence matters.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/bulleted-and-numbered-lists.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: efc589ba5c4a1cde5aa3493333159efc5a1ccd7e
+concepts:
+- cm:bulleted-and-numbered-lists
+difficulty: 1
+created: '2026-11-21'
+status: active

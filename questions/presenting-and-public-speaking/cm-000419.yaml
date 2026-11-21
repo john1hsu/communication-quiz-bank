@@ -1,0 +1,18 @@
+id: cm-000419
+area: presenting-and-public-speaking
+kind: practice
+topic: Signposting
+topic_type: Technique
+true_statement: When moving between points in a talk, say a transition that closes one point and names the next, such as "That's the cost; now the timeline," rather than just "Moving on."
+false_statement: When moving between points in a talk, keep transitions to a quick "Moving on" or "Next slide," rather than spending a sentence on what was just said and what comes next.
+explanation: '"Moving on" tells listeners only that something changed, not how the new point relates to the last one. Naming both lets someone who drifted for a minute rejoin the structure.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/signposting.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 9c473d4325f52d4a813f6bd551601562b117eb69
+concepts:
+- cm:signposting
+difficulty: 1
+created: '2026-11-21'
+status: active

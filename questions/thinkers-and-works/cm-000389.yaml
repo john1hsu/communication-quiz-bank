@@ -1,0 +1,20 @@
+id: cm-000389
+area: thinkers-and-works
+kind: origin
+topic: The Relative Effectiveness of Active Listening in Initial Interactions
+topic_type: Study
+true_statement: Weger and colleagues trace active listening to Carl Rogers's 1951 account of empathic listening in therapy, and credit Thomas Gordon with turning it into a teachable method.
+false_statement: Weger and colleagues trace active listening to Thomas Gordon's 1951 account of empathic listening in therapy, and credit Carl Rogers with turning it into a teachable method.
+explanation: Rogers supplied the therapeutic idea of empathic listening; Gordon later packaged it as a method people could be trained in. The false version swaps their roles.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/weger-et-al-2014.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: a286c8e099741f61aa3e247c599745d43e1dc66f
+concepts:
+- cm:weger-et-al-2014
+- cm:carl-rogers
+- cm:thomas-gordon
+difficulty: 2
+created: '2026-11-21'
+status: active

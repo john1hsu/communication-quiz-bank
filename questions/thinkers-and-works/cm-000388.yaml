@@ -1,0 +1,20 @@
+id: cm-000388
+area: thinkers-and-works
+kind: evidence
+topic: The Relative Effectiveness of Active Listening in Initial Interactions
+topic_type: Study
+true_statement: In Weger and colleagues' 2014 first-conversation experiment, a partner who offered advice was rated about as socially attractive and satisfying to talk to as one who used active listening.
+false_statement: In Weger and colleagues' 2014 first-conversation experiment, a partner who offered advice was rated less socially attractive and less satisfying to talk to than one who used active listening.
+explanation: Active listening beat bare acknowledgement on liking and satisfaction, but not advice. Its distinct payoff was making people feel understood, so reflecting back is not a general boost to how others see you.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/weger-et-al-2014.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: a286c8e099741f61aa3e247c599745d43e1dc66f
+concepts:
+- cm:weger-et-al-2014
+- cm:active-listening
+- cm:advice-giving
+difficulty: 3
+created: '2026-11-21'
+status: active

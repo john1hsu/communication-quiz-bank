@@ -1,0 +1,20 @@
+id: cm-000420
+area: presenting-and-public-speaking
+kind: figure
+topic: Signposting
+topic_type: Technique
+true_statement: A 2020 meta-analysis of 29 experiments found that cues signalling structure in multimedia learning gave a modest overall benefit (d = 0.38), with large variation between studies.
+false_statement: A 2020 meta-analysis of 29 experiments found that cues signalling structure in multimedia learning gave a large, consistent benefit (d = 0.83), with little variation between studies.
+explanation: The pooled effect was moderate and varied widely, with stronger effects in better-controlled designs. Most of this evidence comes from classrooms, so its size in short workplace briefings is an extrapolation.
+as_of: '2020'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/signposting.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 9c473d4325f52d4a813f6bd551601562b117eb69
+concepts:
+- cm:signposting
+- cm:alpizar-adesope-wong-2020
+difficulty: 3
+created: '2026-11-21'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000403
+area: executive-and-client-communication
+kind: scenario
+topic: Executive presence
+topic_type: Skill
+true_statement: The CFO asks a programme manager whether the project will overrun. She lists every open risk, apologises twice and ends, "Honestly, it's hard to say." Her answer undercuts presence by showing hedging rather than a clear call under pressure.
+false_statement: The CFO asks a programme manager whether the project will overrun. She lists every open risk, apologises twice and ends, "Honestly, it's hard to say." Her answer builds presence by showing the listen-to-learn style executives now prefer.
+explanation: Confidence under pressure and decisiveness lead the gravitas pillar, and she offers neither. Listen-to-learn means asking and drawing others in, not withholding a judgement; a pause, her best estimate and the decision she needs would read far better.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/executive-presence.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 4df19e7cc8cb17ef41d19dc0d4dd2eb852b26fac
+concepts:
+- cm:executive-presence
+- cm:executive-briefing
+difficulty: 2
+created: '2026-11-21'
+status: active

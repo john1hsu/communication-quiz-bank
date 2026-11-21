@@ -1,0 +1,18 @@
+id: cm-000391
+area: cross-cultural-communication
+kind: scenario
+topic: Culture assimilator
+topic_type: Technique
+true_statement: Drafting a culture assimilator episode for her team, a lead writes, "The supplier stayed quiet in the review because he was embarrassed about the delay." She has broken the rule to describe the scene and leave the reason out.
+false_statement: Drafting a culture assimilator episode for her team, a lead writes, "The supplier stayed quiet in the review because he was embarrassed about the delay." She has broken the rule to validate each explanation with insiders.
+explanation: Writing the cause into the scene hands learners the answer, so they never practise generating and testing explanations. Insider validation is a separate step that checks which offered explanation locals would accept; the problem here is the description itself.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/culture-assimilator.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: a9d2ad2226bd09fa1f3b9989a37b6a7477df4fe4
+concepts:
+- cm:culture-assimilator
+difficulty: 2
+created: '2026-11-21'
+status: active

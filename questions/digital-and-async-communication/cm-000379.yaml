@@ -1,0 +1,21 @@
+id: cm-000379
+area: digital-and-async-communication
+kind: scenario
+topic: Video call communication
+topic_type: Channel
+true_statement: On a video call, a manager asks the team whether the new release date works, hears a beat of silence, says "OK, sounds like nobody's keen," and moves on. She has likely read link lag as disagreement and should have paused longer.
+false_statement: On a video call, a manager asks the team whether the new release date works, hears a beat of silence, says "OK, sounds like nobody's keen," and moves on. She has read the silence correctly, since a pause after a question on video signals disagreement.
+explanation: Small transmission delays make turn starts slower on video, so a short silence is often the link, not the team. The fix is to wait a little longer after a question before concluding anything or moving on.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/video-call-communication.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: bf376aef15fbca7f0cbc9a07888e11da1cc94959
+concepts:
+- cm:video-call-communication
+- cm:conversational-turn-taking
+- cm:wait-time
+- cm:boland-et-al-zoom-turn-taking
+difficulty: 2
+created: '2026-11-21'
+status: active

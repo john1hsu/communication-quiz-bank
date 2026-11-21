@@ -1,0 +1,18 @@
+id: cm-000396
+area: difficult-conversations-and-conflict
+kind: mechanism
+topic: Thomas-Kilmann Conflict Mode Instrument
+topic_type: Framework
+true_statement: Because each TKI item makes you choose one mode over another, a high score on a mode shows a relative preference, not an absolute amount of that behaviour.
+false_statement: Because each TKI item rates a mode on its own scale, a high score on a mode shows an absolute amount of that behaviour, comparable across people.
+explanation: The TKI's 30 forced-choice pairs trade modes against each other, so scores describe how a person ranks the modes. Reading them as absolute amounts, or as a fixed type, is a common misuse.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/thomas-kilmann-conflict-modes.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 1923977251154b1240bc610e99da89c92868c86e
+concepts:
+- cm:thomas-kilmann-conflict-modes
+difficulty: 3
+created: '2026-11-21'
+status: active

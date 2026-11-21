@@ -1,0 +1,19 @@
+id: cm-000414
+area: meetings-and-facilitation
+kind: evidence
+topic: Meeting recaps
+topic_type: Technique
+true_statement: The case for owner-task-date recaps rests mostly on expert consensus; the implementation-intentions research cited for it studied individuals' own if-then plans, not team action lists.
+false_statement: The case for owner-task-date recaps rests mostly on trials comparing teams that send recaps with teams that don't, which found clearly better follow-through.
+explanation: No studies directly compare teams with and without recaps, so the practice is rated practitioner. Goal-setting research on concrete when-and-how plans offers a plausible mechanism, not proof that recaps work.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/meeting-recaps.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 77732e88142cc899aaaa8085037fdc36e8107974
+concepts:
+- cm:meeting-recaps
+- cm:implementation-intentions
+difficulty: 3
+created: '2026-11-21'
+status: active

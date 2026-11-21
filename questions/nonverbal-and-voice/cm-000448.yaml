@@ -1,0 +1,20 @@
+id: cm-000448
+area: nonverbal-and-voice
+kind: practice
+topic: Silence and pauses
+topic_type: Skill
+true_statement: When a junior colleague raises a risk in a team meeting, respond to it promptly as chair, rather than letting a few seconds of silence hang after she speaks.
+false_statement: When a junior colleague raises a risk in a team meeting, let a few seconds of silence hang as chair before responding, to show you are weighing it seriously.
+explanation: In the Groningen experiments a brief silence in a group conversation left viewers feeling rejected even when they did not notice it. Right after someone takes a social risk, a gap reads as rejection; save the thinking pause for hard questions put to you.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/silence-and-pauses.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 304b8027f3311ebf3556910f3e261ae1e491d67e
+concepts:
+- cm:silence-and-pauses
+- cm:koudenburg-postmes-gordijn-2011
+- cm:workplace-meetings
+difficulty: 2
+created: '2026-11-21'
+status: active

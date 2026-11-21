@@ -1,0 +1,20 @@
+id: cm-000432
+area: barriers-and-psychology
+kind: evidence
+topic: Emotional contagion
+topic_type: Phenomenon
+true_statement: Hess and Fischer's 2013 review found people mimic the emotions of friends and allies far more than those of rivals, which undercuts the idea that emotional mimicry is an automatic motor copy.
+false_statement: Hess and Fischer's 2013 review found people mimic the emotions of rivals as readily as those of friends and allies, which supports the idea that emotional mimicry is an automatic motor copy.
+explanation: Mimicry depends on the relationship, which is why the mechanism is contested and the evidence rated mixed. In practice, enthusiasm may not spread to a sceptical or competing counterpart.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/emotional-contagion.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 4af35aae57e02058e6b99d0a6d4c9ba19ae7a4c2
+concepts:
+- cm:emotional-contagion
+- cm:hess-fischer-2013
+- cm:mirroring
+difficulty: 3
+created: '2026-11-21'
+status: active

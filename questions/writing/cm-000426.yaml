@@ -1,0 +1,20 @@
+id: cm-000426
+area: writing
+kind: figure
+topic: Wall of text
+topic_type: AntiPattern
+true_statement: In a 2005 Wichita State study, an enhanced layout with headers and indentation left reading speed and comprehension unchanged, though readers found it more satisfying and less tiring.
+false_statement: In a 2005 Wichita State study, an enhanced layout with headers and indentation clearly improved comprehension, though readers found it no more satisfying or less tiring.
+explanation: Breaking up text mainly helps readers find things and feel less worn out; it does not by itself make unclear content understood. The false version swaps which outcome moved.
+as_of: '2005'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/wall-of-text.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 2e6cfce4713d26292767d69091282eed7d30bd6c
+concepts:
+- cm:wall-of-text
+- cm:baker-chaparro-shaikh-2005
+difficulty: 3
+created: '2026-11-21'
+status: active

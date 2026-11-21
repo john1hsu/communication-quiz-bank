@@ -1,0 +1,19 @@
+id: cm-000390
+area: thinkers-and-works
+kind: evidence
+topic: The Relative Effectiveness of Active Listening in Initial Interactions
+topic_type: Study
+true_statement: One limit of Weger and colleagues' 2014 experiment is that the confederates who used active listening received far more training than the confederates in the other conditions.
+false_statement: One limit of Weger and colleagues' 2014 experiment is that the confederates who gave advice received far more training than the confederates using active listening.
+explanation: The active-listening confederates were trained much longer, which could favour that condition. Along with small effects, a student sample and no direct replication, it is why the result is rated mixed.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/weger-et-al-2014.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: a286c8e099741f61aa3e247c599745d43e1dc66f
+concepts:
+- cm:weger-et-al-2014
+- cm:active-listening
+difficulty: 3
+created: '2026-11-21'
+status: active

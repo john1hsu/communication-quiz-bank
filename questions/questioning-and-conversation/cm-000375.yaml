@@ -1,0 +1,19 @@
+id: cm-000375
+area: questioning-and-conversation
+kind: mechanism
+topic: Conversational turn-taking
+topic_type: Phenomenon
+true_statement: Because preparing even a single word takes longer than the typical gap between turns, listeners have to plan their reply while the other person is still talking.
+false_statement: Because preparing even a single word takes less time than the typical gap between turns, listeners can wait until the other person finishes before planning their reply.
+explanation: Replies usually start around 200 ms after a turn ends, but producing a word takes roughly 600 ms or more, so planning must overlap with listening. That squeeze is why a late or hesitant reply stands out and gets read as meaningful.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/conversational-turn-taking.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: c705556d7c23b588ac1ad08f3c79a812905fc65a
+concepts:
+- cm:conversational-turn-taking
+- cm:levinson-2016
+difficulty: 2
+created: '2026-11-21'
+status: active

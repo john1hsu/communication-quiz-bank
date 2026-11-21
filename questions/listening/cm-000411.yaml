@@ -1,0 +1,21 @@
+id: cm-000411
+area: listening
+kind: figure
+topic: Summarizing
+topic_type: Technique
+true_statement: In Rackham and Carlisle's 1978 observations of real negotiations, skilled negotiators spent about 7.5% of their behaviour summarizing, against about 4.2% for average negotiators.
+false_statement: In Rackham and Carlisle's 1978 observations of real negotiations, skilled negotiators spent about 4.2% of their behaviour summarizing, against about 7.5% for average negotiators.
+explanation: Skilled negotiators summarized nearly twice as often. The data are observational, so they show an association rather than proof that summarizing causes better deals, and summarizing overall is rated only practitioner-level evidence.
+as_of: '1978'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/summarizing.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 39f75d359080d4c78165ab0171cfa7dea7ec1f6a
+concepts:
+- cm:summarizing
+- cm:rackham-carlisle-1978
+- cm:negotiation
+difficulty: 3
+created: '2026-11-21'
+status: active

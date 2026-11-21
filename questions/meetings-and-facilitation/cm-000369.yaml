@@ -1,0 +1,19 @@
+id: cm-000369
+area: meetings-and-facilitation
+kind: evidence
+topic: Brainstorming
+topic_type: Technique
+true_statement: Mullen, Johnson and Salas's 1991 meta-analysis found the idea losses of interacting brainstorming groups grew larger as the groups got bigger.
+false_statement: Mullen, Johnson and Salas's 1991 meta-analysis found the idea losses of interacting brainstorming groups shrank as the groups got bigger.
+explanation: Losses were larger in bigger groups, as well as with an authority figure present and with spoken rather than written ideas. That's why a large room should be split into small groups or asked to write.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/brainstorming.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 17189fc8875001d3c09981f67216b894319eae14
+concepts:
+- cm:brainstorming
+- cm:mullen-johnson-salas-1991
+difficulty: 3
+created: '2026-11-21'
+status: active

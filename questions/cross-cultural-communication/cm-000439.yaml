@@ -1,0 +1,19 @@
+id: cm-000439
+area: cross-cultural-communication
+kind: scenario
+topic: Face and facework
+topic_type: Concept
+true_statement: Asking a busy architect to review her schema, a developer writes, "I know you're swamped this week. Could you spare 15 minutes before Friday?" She is protecting his negative face, his wish not to be imposed on.
+false_statement: Asking a busy architect to review her schema, a developer writes, "I know you're swamped this week. Could you spare 15 minutes before Friday?" She is protecting his positive face, his wish to be approved of and liked.
+explanation: A request imposes on someone's time and autonomy, so acknowledging the imposition and phrasing it as a question protects negative face. Positive face is about being liked and approved of, which criticism, not a request, mainly threatens.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/face-and-facework.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 0a92427ba413f981ee5e144fcfa096f7a4a1c682
+concepts:
+- cm:face-and-facework
+- cm:politeness-theory
+difficulty: 2
+created: '2026-11-21'
+status: active

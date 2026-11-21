@@ -1,0 +1,19 @@
+id: cm-000418
+area: presenting-and-public-speaking
+kind: scenario
+topic: Signposting
+topic_type: Technique
+true_statement: 'Halfway through a client briefing on a delayed rollout, the account lead says, "So, to recap this part: one delay came from the vendor and one from the audit, and both are now fixed." That is an internal summary.'
+false_statement: 'Halfway through a client briefing on a delayed rollout, the account lead says, "So, to recap this part: one delay came from the vendor and one from the audit, and both are now fixed." That is an internal preview.'
+explanation: The line looks back and recaps what was just covered, which makes it an internal summary. An internal preview looks forward and announces what is coming next, such as "Now the new date and the one risk to it."
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/signposting.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 9c473d4325f52d4a813f6bd551601562b117eb69
+concepts:
+- cm:signposting
+- cm:presentation
+difficulty: 1
+created: '2026-11-21'
+status: active

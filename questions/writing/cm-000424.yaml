@@ -1,0 +1,19 @@
+id: cm-000424
+area: writing
+kind: scenario
+topic: Wall of text
+topic_type: AntiPattern
+true_statement: 'A team lead posts one unbroken twelve-line paragraph in a ticket, with three separate requests for three people spread through it. Only the first request gets done. That is a wall of text: nothing guides the scanning eye to the later asks.'
+false_statement: 'A team lead posts one unbroken twelve-line paragraph in a ticket, with three separate requests for three people spread through it. Only the first request gets done. That is information overload: the team simply receives too many messages to keep up.'
+explanation: 'The failure sits inside one message: dense, unformatted text, so scanners act on the top and miss the rest. Information overload describes too much incoming communication overall; the fix here is one line per request, each with an owner.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/wall-of-text.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 2e6cfce4713d26292767d69091282eed7d30bd6c
+concepts:
+- cm:wall-of-text
+- cm:information-overload
+difficulty: 2
+created: '2026-11-21'
+status: active

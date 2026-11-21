@@ -1,0 +1,19 @@
+id: cm-000382
+area: barriers-and-psychology
+kind: scenario
+topic: Cognitive load theory
+topic_type: Theory
+true_statement: In a quarterly review, an analyst shows the cost chart on one slide and explains what its lines mean on the next, so the room keeps asking her to flip back. The design adds extraneous load through split attention.
+false_statement: In a quarterly review, an analyst shows the cost chart on one slide and explains what its lines mean on the next, so the room keeps asking her to flip back. The design adds extraneous load through redundancy.
+explanation: Listeners must hold one source in mind while hunting for the other, which is split attention; the fix is to put the explanation and labels on the chart itself. Redundancy would mean repeating the same information twice, such as reading out text already on screen.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/cognitive-load.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: fc47ed7cfe21632eb02f543f8b0289384952ae53
+concepts:
+- cm:cognitive-load
+- cm:presentation
+difficulty: 2
+created: '2026-11-21'
+status: active

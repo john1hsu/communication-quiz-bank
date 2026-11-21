@@ -1,0 +1,20 @@
+id: cm-000430
+area: barriers-and-psychology
+kind: scenario
+topic: Emotional contagion
+topic_type: Phenomenon
+true_statement: A support manager opens a client-escalation huddle sighing and muttering, "This is a disaster." Within minutes her team is snapping at each other, though nobody mentions her tone. That is emotional contagion.
+false_statement: A support manager opens a client-escalation huddle sighing and muttering, "This is a disaster." Within minutes her team is snapping at each other, though nobody mentions her tone. That is low psychological safety.
+explanation: Her irritation spreads to the group without anyone noticing it happen, which is mood transfer; leaders are an especially strong source because people watch them. Psychological safety is about whether people dare to speak up or admit mistakes, which this exchange does not show.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/emotional-contagion.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 4af35aae57e02058e6b99d0a6d4c9ba19ae7a4c2
+concepts:
+- cm:emotional-contagion
+- cm:psychological-safety
+- cm:workplace-meetings
+difficulty: 2
+created: '2026-11-21'
+status: active

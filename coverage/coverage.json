@@ -1,82 +1,85 @@
 {
  "totals": {
-  "active": 348
+  "active": 448
  },
  "areas": {
   "barriers-and-psychology": {
-   "active": 22
+   "active": 28
   },
   "cross-cultural-communication": {
-   "active": 21
+   "active": 30
   },
   "difficult-conversations-and-conflict": {
-   "active": 21
+   "active": 30
   },
   "digital-and-async-communication": {
-   "active": 22
+   "active": 28
   },
   "executive-and-client-communication": {
-   "active": 21
+   "active": 27
   },
   "feedback-and-coaching": {
-   "active": 24
+   "active": 27
   },
   "foundations": {
-   "active": 24
+   "active": 27
   },
   "listening": {
-   "active": 21
+   "active": 27
   },
   "meetings-and-facilitation": {
-   "active": 21
+   "active": 30
   },
   "negotiation": {
-   "active": 22
+   "active": 28
   },
   "nonverbal-and-voice": {
-   "active": 21
+   "active": 28
   },
   "persuasion-and-influence": {
-   "active": 21
+   "active": 27
   },
   "presenting-and-public-speaking": {
-   "active": 21
+   "active": 27
   },
   "questioning-and-conversation": {
-   "active": 21
+   "active": 27
   },
   "thinkers-and-works": {
-   "active": 24
+   "active": 30
   },
   "writing": {
-   "active": 21
+   "active": 27
   }
  },
  "kinds": {
   "definition": {
-   "active": 10
-  },
-  "evidence": {
-   "active": 64
-  },
-  "figure": {
-   "active": 22
-  },
-  "mechanism": {
    "active": 12
   },
+  "evidence": {
+   "active": 83
+  },
+  "figure": {
+   "active": 34
+  },
+  "mechanism": {
+   "active": 17
+  },
   "origin": {
-   "active": 23
+   "active": 27
   },
   "practice": {
-   "active": 108
+   "active": 138
   },
   "scenario": {
-   "active": 109
+   "active": 137
   }
  },
  "articles": {
   "articles/barriers-and-psychology/anchoring-and-adjustment.md": {
+   "active": 3
+  },
+  "articles/barriers-and-psychology/cognitive-load.md": {
    "active": 3
   },
   "articles/barriers-and-psychology/considering-others-contributions-first.md": {
@@ -86,6 +89,9 @@
    "active": 3
   },
   "articles/barriers-and-psychology/egocentric-bias.md": {
+   "active": 3
+  },
+  "articles/barriers-and-psychology/emotional-contagion.md": {
    "active": 3
   },
   "articles/barriers-and-psychology/illusion-of-transparency.md": {
@@ -100,6 +106,12 @@
   "articles/barriers-and-psychology/spotlight-effect.md": {
    "active": 1
   },
+  "articles/cross-cultural-communication/cultural-intelligence.md": {
+   "active": 3
+  },
+  "articles/cross-cultural-communication/culture-assimilator.md": {
+   "active": 3
+  },
   "articles/cross-cultural-communication/describe-analyze-evaluate.md": {
    "active": 3
   },
@@ -107,6 +119,9 @@
    "active": 3
   },
   "articles/cross-cultural-communication/ethnocentrism.md": {
+   "active": 3
+  },
+  "articles/cross-cultural-communication/face-and-facework.md": {
    "active": 3
   },
   "articles/cross-cultural-communication/high-and-low-context-cultures.md": {
@@ -122,6 +137,12 @@
    "active": 3
   },
   "articles/difficult-conversations-and-conflict/apology.md": {
+   "active": 3
+  },
+  "articles/difficult-conversations-and-conflict/conflict-resolution.md": {
+   "active": 3
+  },
+  "articles/difficult-conversations-and-conflict/de-escalation.md": {
    "active": 3
   },
   "articles/difficult-conversations-and-conflict/defensiveness.md": {
@@ -142,6 +163,9 @@
   "articles/difficult-conversations-and-conflict/social-accounts.md": {
    "active": 3
   },
+  "articles/difficult-conversations-and-conflict/thomas-kilmann-conflict-modes.md": {
+   "active": 3
+  },
   "articles/digital-and-async-communication/asynchronous-communication.md": {
    "active": 3
   },
@@ -154,6 +178,9 @@
   "articles/digital-and-async-communication/email.md": {
    "active": 3
   },
+  "articles/digital-and-async-communication/emoji-and-tone-in-text.md": {
+   "active": 3
+  },
   "articles/digital-and-async-communication/media-richness-theory.md": {
    "active": 1
   },
@@ -163,13 +190,22 @@
   "articles/digital-and-async-communication/setting-reply-time-expectations.md": {
    "active": 3
   },
+  "articles/digital-and-async-communication/video-call-communication.md": {
+   "active": 3
+  },
   "articles/digital-and-async-communication/zoom-fatigue.md": {
    "active": 3
   },
   "articles/executive-and-client-communication/communicating-uncertainty.md": {
    "active": 3
   },
+  "articles/executive-and-client-communication/elevator-pitch.md": {
+   "active": 3
+  },
   "articles/executive-and-client-communication/executive-briefing.md": {
+   "active": 3
+  },
+  "articles/executive-and-client-communication/executive-presence.md": {
    "active": 3
   },
   "articles/executive-and-client-communication/managing-up.md": {
@@ -194,6 +230,9 @@
    "active": 3
   },
   "articles/feedback-and-coaching/feedforward.md": {
+   "active": 3
+  },
+  "articles/feedback-and-coaching/hattie-timperley-feedback-model.md": {
    "active": 3
   },
   "articles/feedback-and-coaching/one-on-one-meetings.md": {
@@ -229,6 +268,9 @@
   "articles/foundations/organizational-communication.md": {
    "active": 3
   },
+  "articles/foundations/pragmatics.md": {
+   "active": 3
+  },
   "articles/foundations/rapport.md": {
    "active": 3
   },
@@ -244,6 +286,9 @@
   "articles/listening/labeling-emotions.md": {
    "active": 3
   },
+  "articles/listening/mirroring.md": {
+   "active": 3
+  },
   "articles/listening/open-ended-questions.md": {
    "active": 3
   },
@@ -253,16 +298,25 @@
   "articles/listening/perspective-taking.md": {
    "active": 3
   },
+  "articles/listening/summarizing.md": {
+   "active": 3
+  },
   "articles/listening/wait-time.md": {
    "active": 3
   },
   "articles/meetings-and-facilitation/1-2-4-all.md": {
    "active": 3
   },
+  "articles/meetings-and-facilitation/brainstorming.md": {
+   "active": 3
+  },
   "articles/meetings-and-facilitation/facilitation.md": {
    "active": 3
   },
   "articles/meetings-and-facilitation/meeting-agendas.md": {
+   "active": 3
+  },
+  "articles/meetings-and-facilitation/meeting-recaps.md": {
    "active": 3
   },
   "articles/meetings-and-facilitation/nominal-group-technique.md": {
@@ -274,6 +328,9 @@
   "articles/meetings-and-facilitation/raci-matrix.md": {
    "active": 3
   },
+  "articles/meetings-and-facilitation/unequal-participation.md": {
+   "active": 3
+  },
   "articles/meetings-and-facilitation/workplace-meetings.md": {
    "active": 3
   },
@@ -281,6 +338,9 @@
    "active": 3
   },
   "articles/negotiation/concession-strategy.md": {
+   "active": 3
+  },
+  "articles/negotiation/distributive-negotiation.md": {
    "active": 3
   },
   "articles/negotiation/first-offer.md": {
@@ -298,7 +358,13 @@
   "articles/negotiation/negotiation-preparation.md": {
    "active": 1
   },
+  "articles/negotiation/salary-negotiation.md": {
+   "active": 3
+  },
   "articles/negotiation/zone-of-possible-agreement.md": {
+   "active": 3
+  },
+  "articles/nonverbal-and-voice/acoustic-speech-analysis-coaching.md": {
    "active": 3
   },
   "articles/nonverbal-and-voice/camera-level-gaze.md": {
@@ -316,11 +382,17 @@
   "articles/nonverbal-and-voice/nonverbal-communication.md": {
    "active": 3
   },
+  "articles/nonverbal-and-voice/paralanguage.md": {
+   "active": 3
+  },
   "articles/nonverbal-and-voice/power-posing.md": {
    "active": 3
   },
   "articles/nonverbal-and-voice/proxemics.md": {
    "active": 3
+  },
+  "articles/nonverbal-and-voice/silence-and-pauses.md": {
+   "active": 1
   },
   "articles/persuasion-and-influence/credibility.md": {
    "active": 3
@@ -334,10 +406,16 @@
   "articles/persuasion-and-influence/issue-selling.md": {
    "active": 3
   },
+  "articles/persuasion-and-influence/monroes-motivated-sequence.md": {
+   "active": 3
+  },
   "articles/persuasion-and-influence/narrative-persuasion.md": {
    "active": 3
   },
   "articles/persuasion-and-influence/persuasion.md": {
+   "active": 3
+  },
+  "articles/persuasion-and-influence/refutational-two-sided-messages.md": {
    "active": 3
   },
   "articles/persuasion-and-influence/stakeholder-mapping.md": {
@@ -358,7 +436,13 @@
   "articles/presenting-and-public-speaking/presentation-rehearsal.md": {
    "active": 3
   },
+  "articles/presenting-and-public-speaking/presentation.md": {
+   "active": 3
+  },
   "articles/presenting-and-public-speaking/self-recording-playback.md": {
+   "active": 3
+  },
+  "articles/presenting-and-public-speaking/signposting.md": {
    "active": 3
   },
   "articles/presenting-and-public-speaking/speaking-anxiety.md": {
@@ -367,7 +451,13 @@
   "articles/questioning-and-conversation/conversational-receptiveness.md": {
    "active": 3
   },
+  "articles/questioning-and-conversation/conversational-turn-taking.md": {
+   "active": 3
+  },
   "articles/questioning-and-conversation/face-to-face-conversation.md": {
+   "active": 3
+  },
+  "articles/questioning-and-conversation/grow-model.md": {
    "active": 3
   },
   "articles/questioning-and-conversation/humble-inquiry.md": {
@@ -383,6 +473,9 @@
    "active": 3
   },
   "articles/questioning-and-conversation/teach-back.md": {
+   "active": 3
+  },
+  "articles/thinkers-and-works/adam-galinsky.md": {
    "active": 3
   },
   "articles/thinkers-and-works/aristotles-rhetoric.md": {
@@ -406,6 +499,9 @@
   "articles/thinkers-and-works/thomas-gilovich.md": {
    "active": 3
   },
+  "articles/thinkers-and-works/weger-et-al-2014.md": {
+   "active": 3
+  },
   "articles/thinkers-and-works/william-strunk-jr.md": {
    "active": 3
   },
@@ -413,6 +509,9 @@
    "active": 3
   },
   "articles/writing/bottom-line-up-front.md": {
+   "active": 3
+  },
+  "articles/writing/bulleted-and-numbered-lists.md": {
    "active": 3
   },
   "articles/writing/concise-writing.md": {
@@ -428,6 +527,9 @@
    "active": 3
   },
   "articles/writing/readability-formulas.md": {
+   "active": 3
+  },
+  "articles/writing/wall-of-text.md": {
    "active": 3
   }
  }

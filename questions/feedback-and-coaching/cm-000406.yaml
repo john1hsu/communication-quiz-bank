@@ -1,0 +1,19 @@
+id: cm-000406
+area: feedback-and-coaching
+kind: scenario
+topic: Hattie and Timperley's feedback model
+topic_type: Framework
+true_statement: Reviewing a consultant's muddled deck, a manager says, "Next time, sketch the storyline on sticky notes before you open the slides." In Hattie and Timperley's model that is process-level feedback.
+false_statement: Reviewing a consultant's muddled deck, a manager says, "Next time, sketch the storyline on sticky notes before you open the slides." In Hattie and Timperley's model that is task-level feedback.
+explanation: The comment targets the method that produced the deck, which is the process level. Task-level feedback would say what is right, wrong or missing in this particular deck, such as "slide 4 has no conclusion."
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/hattie-timperley-feedback-model.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 2794ca3fba9fed07c06db5b3c8e35e48469b5498
+concepts:
+- cm:hattie-timperley-feedback-model
+- cm:feedback
+difficulty: 2
+created: '2026-11-21'
+status: active

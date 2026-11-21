@@ -1,0 +1,19 @@
+id: cm-000395
+area: difficult-conversations-and-conflict
+kind: practice
+topic: Thomas-Kilmann Conflict Mode Instrument
+topic_type: Framework
+true_statement: Facing an unfamiliar negotiator, test them on a small issue first, checking whether they reciprocate concessions and share information, then adapt your approach to what you see.
+false_statement: Facing an unfamiliar negotiator, share all your information on the first issue to model collaboration, so they convert to a collaborative style.
+explanation: People assume others share their conflict style, and a cooperative negotiator who discloses freely can be exploited by a competitor. Probing on small issues lets you adapt rather than trying to convert their style.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/thomas-kilmann-conflict-modes.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 1923977251154b1240bc610e99da89c92868c86e
+concepts:
+- cm:thomas-kilmann-conflict-modes
+- cm:negotiation
+difficulty: 2
+created: '2026-11-21'
+status: active

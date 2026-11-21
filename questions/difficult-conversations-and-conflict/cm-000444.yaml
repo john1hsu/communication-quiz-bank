@@ -1,0 +1,19 @@
+id: cm-000444
+area: difficult-conversations-and-conflict
+kind: origin
+topic: Conflict resolution
+topic_type: Field
+true_statement: Charles Osgood's 1962 GRIT proposal sought to reduce tension through small, announced concessions that the other side is invited to reciprocate.
+false_statement: Kenneth Boulding's 1962 GRIT proposal sought to reduce tension through small, announced concessions that the other side is invited to reciprocate.
+explanation: GRIT is Osgood's idea. Boulding's landmark contribution the same year was the book Conflict and Defense, a different early work in the field.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/conflict-resolution.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 502ddff7d8d2e5860a00bb59b43971cb5c2a2896
+concepts:
+- cm:conflict-resolution
+- cm:charles-osgood
+difficulty: 2
+created: '2026-11-21'
+status: active

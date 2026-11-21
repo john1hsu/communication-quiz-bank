@@ -1,0 +1,20 @@
+id: cm-000399
+area: foundations
+kind: figure
+topic: Pragmatics
+topic_type: Field
+true_statement: In Hofweber and Jaworska's 2022 study of internal emails at a multinational insurer, 62% of requests were direct, mostly "please" plus an imperative.
+false_statement: In Hofweber and Jaworska's 2022 study of internal emails at a multinational insurer, only 38% of requests were direct, with most phrased as "could you…?"
+explanation: Most requests were direct, and nearly all the indirect ones used the "could you…?" form. Directness also tracked senders' first language, so a blunt request is often a habit rather than rudeness.
+as_of: '2022'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/pragmatics.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 5cd150baded1186f60b1cea210ac52f8dc32f567
+concepts:
+- cm:pragmatics
+- cm:email
+difficulty: 3
+created: '2026-11-21'
+status: active

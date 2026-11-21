@@ -1,0 +1,19 @@
+id: cm-000360
+area: difficult-conversations-and-conflict
+kind: evidence
+topic: De-escalation
+topic_type: Technique
+true_statement: Price and colleagues' 2015 review of de-escalation training found gains in staff knowledge, confidence and scenario performance, but only low-quality, conflicting evidence on assaults and injuries in practice.
+false_statement: Price and colleagues' 2015 review of de-escalation training found clear reductions in assaults and injuries in practice, but little change in staff knowledge or confidence.
+explanation: Training reliably improved what staff knew and how they did in practice scenarios; whether it cut real-world harm was poorly evidenced. That gap is why de-escalation's status is mixed despite confident recommendations.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/de-escalation.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 73a874b5b1f876277c89a103f834e39d86e87475
+concepts:
+- cm:de-escalation
+- cm:price-et-al-2015
+difficulty: 3
+created: '2026-11-21'
+status: active

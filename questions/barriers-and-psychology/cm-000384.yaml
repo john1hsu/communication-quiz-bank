@@ -1,0 +1,20 @@
+id: cm-000384
+area: barriers-and-psychology
+kind: figure
+topic: Cognitive load theory
+topic_type: Theory
+true_statement: Ginns's 2006 meta-analysis found that integrating related text and visuals improved learning clearly for complex material, but only slightly and non-significantly for simple material.
+false_statement: Ginns's 2006 meta-analysis found that integrating related text and visuals improved learning clearly for simple material, but only slightly and non-significantly for complex material.
+explanation: The large average effect came from hard content, which is where careful layout pays off. For a simple update the layout matters much less, so the false version gets the boundary the wrong way round.
+as_of: '2006'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/cognitive-load.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: fc47ed7cfe21632eb02f543f8b0289384952ae53
+concepts:
+- cm:cognitive-load
+- cm:ginns-2006
+difficulty: 3
+created: '2026-11-21'
+status: active

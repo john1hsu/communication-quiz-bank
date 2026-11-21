@@ -1,0 +1,21 @@
+id: cm-000372
+area: nonverbal-and-voice
+kind: evidence
+topic: Paralanguage
+topic_type: Concept
+true_statement: Kraus's 2017 finding that people read others' feelings slightly better from voice alone than from voice plus face was challenged by a reanalysis arguing the edge is too small to matter.
+false_statement: Kraus's 2017 finding that people read others' feelings slightly better from voice plus face than from voice alone was challenged by a reanalysis arguing the edge is too small to matter.
+explanation: Kraus's surprise was that listening only beat listening and watching; Rossiter's 2018 reanalysis questioned whether that small advantage matters in practice. The safe takeaway is that voice is an important emotional channel, not that it outranks the face.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/paralanguage.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: c1ba03020988893ce1c950491f6bf48f6bd6f7d9
+concepts:
+- cm:paralanguage
+- cm:kraus-2017
+- cm:facial-expressions
+- cm:phone-call
+difficulty: 3
+created: '2026-11-21'
+status: active

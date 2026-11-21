@@ -1,0 +1,19 @@
+id: cm-000442
+area: difficult-conversations-and-conflict
+kind: evidence
+topic: Conflict resolution
+topic_type: Field
+true_statement: De Dreu and Weingart's 2003 meta-analysis found task conflict, not just relationship conflict, was negatively related to team performance and satisfaction, against the textbook claim that it helps.
+false_statement: De Dreu and Weingart's 2003 meta-analysis found task conflict reliably improved team performance and satisfaction, while only relationship conflict hurt them.
+explanation: The review contradicted the then-common view that disagreement about the work reliably helps teams. Later work found task conflict is least harmful when it stays separate from personal friction, so substance-only debate is not automatically healthy.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/conflict-resolution.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 502ddff7d8d2e5860a00bb59b43971cb5c2a2896
+concepts:
+- cm:conflict-resolution
+- cm:de-dreu-weingart-2003
+difficulty: 3
+created: '2026-11-21'
+status: active

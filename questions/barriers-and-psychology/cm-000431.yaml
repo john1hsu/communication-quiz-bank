@@ -1,0 +1,20 @@
+id: cm-000431
+area: barriers-and-psychology
+kind: practice
+topic: Emotional contagion
+topic_type: Phenomenon
+true_statement: Before a tense one-on-one, check and settle your own mood first, because your face, voice and posture carry it to the other person even when your words stay neutral.
+false_statement: Before a tense one-on-one, check that your wording is neutral, because as long as your words stay neutral your mood stays with you rather than passing to the other person.
+explanation: In Barsade's experiment the confederate changed only his nonverbal displays, yet the group's mood shifted. This is reasoned practice drawn from the mechanism rather than a tested protocol, but neutral words alone do not contain a mood.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/emotional-contagion.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 4af35aae57e02058e6b99d0a6d4c9ba19ae7a4c2
+concepts:
+- cm:emotional-contagion
+- cm:barsade-2002
+- cm:nonverbal-communication
+difficulty: 2
+created: '2026-11-21'
+status: active

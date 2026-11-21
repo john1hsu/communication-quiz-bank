@@ -1,0 +1,19 @@
+id: cm-000428
+area: negotiation
+kind: practice
+topic: Distributive negotiation
+topic_type: Technique
+true_statement: If you want to tell a vendor firmly that you have other options, line up a genuine alternative quote before the meeting, so the strong statement is also true.
+false_statement: If you want to tell a vendor firmly that you have other options, mention a competing quote you could plausibly get, since bluffing about alternatives is normal hard bargaining.
+explanation: Declining to reveal your bottom line is fair, but inventing an offer risks reputation and future deals and can be illegal. The ethical move is to change the facts first, for example by getting real quotes or capping your authority.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/distributive-negotiation.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 0c0143c3d6cb3794e2bcafe237f1be269c4cdc5c
+concepts:
+- cm:distributive-negotiation
+- cm:batna
+difficulty: 2
+created: '2026-11-21'
+status: active

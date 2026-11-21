@@ -1,0 +1,18 @@
+id: cm-000354
+area: presenting-and-public-speaking
+kind: evidence
+topic: Presentation
+topic_type: Context
+true_statement: The popular claim that an audience's attention collapses after 10-15 minutes rests on few primary studies and weak methods; attention seems to vary more with the speaker than with the clock.
+false_statement: The popular claim that an audience's attention collapses after 10-15 minutes rests on consistent primary studies, so a talk should change format on that schedule whoever is speaking.
+explanation: Bradbury's review found the much-cited figure barely measured attention at all. Varying pace and inviting interaction still helps, but because it keeps people engaged, not because a timer says attention is gone.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/presentation.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 1044209eb968053e2ce66b6c5322e33da4292576
+concepts:
+- cm:presentation
+difficulty: 3
+created: '2026-11-21'
+status: active

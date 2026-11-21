@@ -1,0 +1,20 @@
+id: cm-000416
+area: nonverbal-and-voice
+kind: practice
+topic: Acoustic speech-analysis coaching
+topic_type: Technique
+true_statement: When training a flat voice against a pitch meter, drill the sentences that carry the key points of your own upcoming talk, rather than a set of generic practice sentences.
+false_statement: When training a flat voice against a pitch meter, drill a set of generic practice sentences, rather than the sentences that carry the key points of your own upcoming talk.
+explanation: Hincks and Edlund had each student repeat lines pulled from their own baseline presentation, and the gain carried over to the real talk. Your own sentences also let you decide which word in each should stand out.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/acoustic-speech-analysis-coaching.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 2f4629e4a61024bbab33d99b24512f1cc95242a9
+concepts:
+- cm:acoustic-speech-analysis-coaching
+- cm:hincks-edlund-2009
+- cm:monotone-delivery
+difficulty: 2
+created: '2026-11-21'
+status: active

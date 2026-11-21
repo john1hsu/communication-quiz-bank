@@ -1,0 +1,19 @@
+id: cm-000352
+area: presenting-and-public-speaking
+kind: scenario
+topic: Presentation
+topic_type: Context
+true_statement: With ten minutes at the steering committee, a project lead introduces himself, walks through nine slides of incident history and reaches his funding request with a minute to spare. He has buried the point, the flaw audiences report meeting most often.
+false_statement: With ten minutes at the steering committee, a project lead introduces himself, walks through nine slides of incident history and reaches his funding request with a minute to spare. His only real flaw is overloaded slides, since the order of the talk was sound.
+explanation: 'The tell is where the ask sits: background fills the slot and the decision he needs arrives too late to discuss. Opening with the cost, the request and the decision wanted would fix it whatever the slides look like.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/presentation.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 1044209eb968053e2ce66b6c5322e33da4292576
+concepts:
+- cm:presentation
+- cm:kosslyn-et-al-2012
+difficulty: 2
+created: '2026-11-21'
+status: active

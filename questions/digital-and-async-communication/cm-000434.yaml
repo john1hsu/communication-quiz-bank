@@ -1,0 +1,20 @@
+id: cm-000434
+area: digital-and-async-communication
+kind: practice
+topic: Emoji and tone in text
+topic_type: Technique
+true_statement: When telling a teammate in chat that their deck needs major rework, state the problem and the next step in plain words rather than adding a smiley to soften it.
+false_statement: When telling a teammate in chat that their deck needs major rework, keep it short and add a smiley at the end, since a positive emoji cushions criticism.
+explanation: Positive emoji did not soften bad news or criticism in workplace messages and can read as insincere. Carry the reassurance and the next step in words instead.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/emoji-and-tone-in-text.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: b0019e95071f4e576f084179b819d50abe7a9626
+concepts:
+- cm:emoji-and-tone-in-text
+- cm:delivering-bad-news
+- cm:instant-messaging
+difficulty: 2
+created: '2026-11-21'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000412
+area: meetings-and-facilitation
+kind: scenario
+topic: Meeting recaps
+topic_type: Technique
+true_statement: 'A project lead''s recap lists "Marketing to follow up on the pricing page" and "We''ll look into the API errors." Those are owners by implication: neither action names one responsible person or a date.'
+false_statement: 'A project lead''s recap lists "Marketing to follow up on the pricing page" and "We''ll look into the API errors." That is a transcript recap: a blow-by-blow account that buries the decisions.'
+explanation: The tell is "marketing" and "we" in place of a named person, and no due date. A transcript recap is the opposite problem, too much narrative; the fix here is one owner, a verb-first task and a deadline per line.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/meeting-recaps.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 77732e88142cc899aaaa8085037fdc36e8107974
+concepts:
+- cm:meeting-recaps
+- cm:unclear-ownership
+difficulty: 2
+created: '2026-11-21'
+status: active

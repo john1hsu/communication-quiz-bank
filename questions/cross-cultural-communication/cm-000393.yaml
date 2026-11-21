@@ -1,0 +1,20 @@
+id: cm-000393
+area: cross-cultural-communication
+kind: origin
+topic: Culture assimilator
+topic_type: Technique
+true_statement: The culture assimilator came out of 1960s work by Fred Fiedler, Harry Triandis and colleagues, and was first tested with US military, Peace Corps and adviser groups.
+false_statement: The culture assimilator came out of 1990s work by Dharm Bhawuk and colleagues, and was first tested with US business students preparing for exchange programmes.
+explanation: Fiedler and Triandis developed the method at Illinois and Washington in the 1960s. Bhawuk came later and built a theory-based version organised around individualism and collectivism.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/culture-assimilator.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: a9d2ad2226bd09fa1f3b9989a37b6a7477df4fe4
+concepts:
+- cm:culture-assimilator
+- cm:fred-fiedler
+- cm:harry-triandis
+difficulty: 1
+created: '2026-11-21'
+status: active

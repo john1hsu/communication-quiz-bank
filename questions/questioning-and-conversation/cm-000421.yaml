@@ -1,0 +1,20 @@
+id: cm-000421
+area: questioning-and-conversation
+kind: scenario
+topic: GROW model
+topic_type: Framework
+true_statement: In a one-on-one, after a report has listed three ways to clear her review backlog, her manager asks, "Which will you start with, and when shall we check how it went?" In GROW, that question opens the Will stage.
+false_statement: In a one-on-one, after a report has listed three ways to clear her review backlog, her manager asks, "Which will you start with, and when shall we check how it went?" In GROW, that question opens the Options stage.
+explanation: Options is where routes are generated; she has already listed three. Asking her to choose one, name a first step and set a review point is Will, or Way forward.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/grow-model.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 565a74a94b155edf3105862671fb36ead77f3194
+concepts:
+- cm:grow-model
+- cm:one-on-one-meetings
+- cm:coaching
+difficulty: 1
+created: '2026-11-21'
+status: active

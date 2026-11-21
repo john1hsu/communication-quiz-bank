@@ -1,0 +1,20 @@
+id: cm-000436
+area: thinkers-and-works
+kind: origin
+topic: Adam Galinsky
+topic_type: Person
+true_statement: In their 2001 paper "First offers as anchors", Adam Galinsky and Thomas Mussweiler found that whichever side opened, buyer or seller, tended to get the better deal.
+false_statement: In their 2001 paper "First offers as anchors", Adam Galinsky and Thomas Mussweiler found that whichever side waited for the other to open, buyer or seller, tended to get the better deal.
+explanation: The experiments showed a first-mover advantage, with the opening number strongly predicting the final price, face to face and over email. That turned anchoring into tested negotiation advice.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/adam-galinsky.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: e14e14e4564a3a32a3ff613e3a3cd536ec7a3673
+concepts:
+- cm:adam-galinsky
+- cm:galinsky-mussweiler-2001
+- cm:first-offer
+difficulty: 1
+created: '2026-11-21'
+status: active

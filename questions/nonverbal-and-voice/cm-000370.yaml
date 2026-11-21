@@ -1,0 +1,19 @@
+id: cm-000370
+area: nonverbal-and-voice
+kind: scenario
+topic: Paralanguage
+topic_type: Concept
+true_statement: In a stand-up, asked if the release date still works, a developer pauses for a long moment, then says "Yes, should be okay" in a falling pitch. The doubt her lead should pick up is carried by paralanguage.
+false_statement: In a stand-up, asked if the release date still works, a developer pauses for a long moment, then says "Yes, should be okay" in a falling pitch. The doubt her lead should pick up is carried by her choice of words.
+explanation: Her words are a plain yes; the hesitation and falling pitch are vocal cues outside the words, which is what paralanguage covers. A good follow-up is to ask what would make her more confident about the date.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/paralanguage.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: c1ba03020988893ce1c950491f6bf48f6bd6f7d9
+concepts:
+- cm:paralanguage
+- cm:mixed-messages
+difficulty: 2
+created: '2026-11-21'
+status: active

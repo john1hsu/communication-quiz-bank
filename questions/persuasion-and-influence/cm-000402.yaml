@@ -1,0 +1,20 @@
+id: cm-000402
+area: persuasion-and-influence
+kind: figure
+topic: Monroe's motivated sequence
+topic_type: Framework
+true_statement: In Micciche, Pryor and Butler's 2000 test, an argument for a parking-fee rise changed attitudes no more with its five steps in Monroe's order than in reverse or random order.
+false_statement: In Micciche, Pryor and Butler's 2000 test, an argument for a parking-fee rise changed attitudes clearly more with its five steps in Monroe's order than in reverse or random order.
+explanation: This small written-message study is the only controlled test, and it found no persuasive edge for the canonical order. The sequence's status is contested, so treat it as a coverage checklist rather than a proven formula.
+as_of: '2000'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/monroes-motivated-sequence.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 5d9825bcfab2ce40abd847982b6fc70ecdb1f2ce
+concepts:
+- cm:monroes-motivated-sequence
+- cm:micciche-pryor-butler-2000
+difficulty: 3
+created: '2026-11-21'
+status: active

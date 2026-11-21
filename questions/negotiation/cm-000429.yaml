@@ -1,0 +1,20 @@
+id: cm-000429
+area: negotiation
+kind: evidence
+topic: Distributive negotiation
+topic_type: Technique
+true_statement: In Korobkin and Doherty's 2009 settlement simulations, the strongest predictor of who captured more of the surplus was how accurately each side estimated the other's reservation price.
+false_statement: In Korobkin and Doherty's 2009 settlement simulations, the strongest predictor of who captured more of the surplus was how large each side's first offer was.
+explanation: First-offer size mattered, but it came after the accuracy of estimating the counterpart's bottom line. The lesson is to research and probe the other side's walk-away point before you start dividing value.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/distributive-negotiation.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 0c0143c3d6cb3794e2bcafe237f1be269c4cdc5c
+concepts:
+- cm:distributive-negotiation
+- cm:korobkin-doherty-2009
+- cm:reservation-value
+difficulty: 3
+created: '2026-11-21'
+status: active

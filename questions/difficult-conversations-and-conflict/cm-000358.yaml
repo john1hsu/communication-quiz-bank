@@ -1,0 +1,18 @@
+id: cm-000358
+area: difficult-conversations-and-conflict
+kind: scenario
+topic: De-escalation
+topic_type: Technique
+true_statement: A supplier storms into reception shouting about an unpaid invoice, and the office manager says, "You need to calm down before we can talk." That is a common de-escalation mistake, because it challenges him and signals she isn't listening.
+false_statement: A supplier storms into reception shouting about an unpaid invoice, and the office manager says, "You need to calm down before we can talk." That is setting a clear limit, a core de-escalation step.
+explanation: 'Telling an agitated person to calm down is provocative: it orders rather than listens. A real limit is stated calmly as a fact about behaviour and paired with a choice; this line names no behaviour and offers no option.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/de-escalation.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 73a874b5b1f876277c89a103f834e39d86e87475
+concepts:
+- cm:de-escalation
+difficulty: 2
+created: '2026-11-21'
+status: active

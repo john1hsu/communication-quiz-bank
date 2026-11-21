@@ -1,0 +1,19 @@
+id: cm-000438
+area: thinkers-and-works
+kind: definition
+topic: Adam Galinsky
+topic_type: Person
+true_statement: Galinsky's range of acceptable behavior is the span of conduct others will accept from you before backlash, and he argues that power is what sets how wide it is.
+false_statement: Galinsky's range of acceptable behavior is the span of conduct others will accept from you before backlash, and he argues that likeability is what sets how wide it is.
+explanation: In his 2016 talk, power determines how much room you have to speak up; low-power people face backlash sooner. His tips for widening the range, such as offering choices or advocating for others, are practitioner advice rather than a tested intervention.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/adam-galinsky.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: e14e14e4564a3a32a3ff613e3a3cd536ec7a3673
+concepts:
+- cm:adam-galinsky
+- cm:range-of-acceptable-behavior
+difficulty: 2
+created: '2026-11-21'
+status: active

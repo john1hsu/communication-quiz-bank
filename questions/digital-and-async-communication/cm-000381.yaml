@@ -1,0 +1,19 @@
+id: cm-000381
+area: digital-and-async-communication
+kind: evidence
+topic: Video call communication
+topic_type: Channel
+true_statement: When Newman and Schwarz played identical talks at high or low sound quality, listeners rated the same researchers and their research less favourably when the audio was poor.
+false_statement: When Newman and Schwarz played identical talks at high or low sound quality, listeners rated the researchers the same either way and judged only the recording itself as worse.
+explanation: Poor audio leaked into judgments of the speaker and the content, not just the recording. That's why the advice is to fix sound before video, especially on pitches and interviews.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/video-call-communication.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: bf376aef15fbca7f0cbc9a07888e11da1cc94959
+concepts:
+- cm:video-call-communication
+- cm:credibility
+difficulty: 3
+created: '2026-11-21'
+status: active

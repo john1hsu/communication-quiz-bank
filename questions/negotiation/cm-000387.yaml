@@ -1,0 +1,20 @@
+id: cm-000387
+area: negotiation
+kind: figure
+topic: Salary negotiation
+topic_type: Context
+true_statement: In a 2025 field experiment with U.S. tech job seekers, a short encouragement message raised the share who countered their offer to 61%, against 54% in the control group.
+false_statement: In a 2025 field experiment with U.S. tech job seekers, a deep discount on paid negotiation coaching raised the share who countered their offer to 61%, against 54% in the control group.
+explanation: Cullen, Pakzad-Hurson and Perez-Truglia found encouragement moved behaviour while cheap coaching did not change how many negotiated. That points to beliefs about risk, not missing skills, as the main barrier.
+as_of: '2025'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/salary-negotiation.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: c90432dbed66d6329f9af5ccaf3d15974ebdf184
+concepts:
+- cm:salary-negotiation
+- cm:cullen-pakzad-hurson-perez-truglia-2025
+difficulty: 3
+created: '2026-11-21'
+status: active

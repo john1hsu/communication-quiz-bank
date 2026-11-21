@@ -1,0 +1,19 @@
+id: cm-000394
+area: difficult-conversations-and-conflict
+kind: scenario
+topic: Thomas-Kilmann Conflict Mode Instrument
+topic_type: Framework
+true_statement: 'For the third sprint running, a designer drops her own accessibility requirements as soon as the product manager pushes back, saying, "Fine, your call." In Thomas-Kilmann terms she is accommodating: unassertive and cooperative.'
+false_statement: 'For the third sprint running, a designer drops her own accessibility requirements as soon as the product manager pushes back, saying, "Fine, your call." In Thomas-Kilmann terms she is avoiding: unassertive and uncooperative.'
+explanation: She yields to the other person's concerns rather than sidestepping the issue, which is accommodating; done habitually it breeds resentment. Avoiding would mean postponing or dodging the disagreement, serving neither side's concerns.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/thomas-kilmann-conflict-modes.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 1923977251154b1240bc610e99da89c92868c86e
+concepts:
+- cm:thomas-kilmann-conflict-modes
+- cm:interpersonal-conflict
+difficulty: 2
+created: '2026-11-21'
+status: active

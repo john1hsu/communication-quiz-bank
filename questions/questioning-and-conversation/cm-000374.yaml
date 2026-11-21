@@ -1,0 +1,19 @@
+id: cm-000374
+area: questioning-and-conversation
+kind: practice
+topic: Conversational turn-taking
+topic_type: Phenomenon
+true_statement: When you want others to come in during a meeting, end your turn with a clear question or a complete sentence, rather than trailing off or stacking extra clauses.
+false_statement: When you want others to come in during a meeting, trail off or keep adding clauses, rather than ending your turn with a clear question or a complete sentence.
+explanation: Listeners hand over the floor at recognisable end points of a turn. A clear question or finished sentence signals the floor is open, while trailing off or piling on clauses blurs or delays that point.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/conversational-turn-taking.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: c705556d7c23b588ac1ad08f3c79a812905fc65a
+concepts:
+- cm:conversational-turn-taking
+- cm:workplace-meetings
+difficulty: 1
+created: '2026-11-21'
+status: active

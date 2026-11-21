@@ -1,0 +1,18 @@
+id: cm-000350
+area: persuasion-and-influence
+kind: practice
+topic: Refutational two-sided messages
+topic_type: Technique
+true_statement: In a decision memo, put your answers to the reader's likeliest objections straight after your recommendation and main reason, where a sceptical reader is already raising them.
+false_statement: In a decision memo, save your answers to the reader's likeliest objections for a closing section after the full case, so they don't distract from the recommendation.
+explanation: Objections are most useful answered at the moment the reader thinks of them, which is usually right after the recommendation. Burying them at the end leaves the doubt hanging while the reader works through the rest of the case.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/refutational-two-sided-messages.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 9367d7e26b5cf48b8280ac20bea12a950a7005b1
+concepts:
+- cm:refutational-two-sided-messages
+difficulty: 2
+created: '2026-11-21'
+status: active

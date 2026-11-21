@@ -1,0 +1,19 @@
+id: cm-000435
+area: digital-and-async-communication
+kind: figure
+topic: Emoji and tone in text
+topic_type: Technique
+true_statement: In a 2016 University of Minnesota study, readers disagreed about whether a single emoji's sentiment was positive, neutral or negative about a quarter of the time.
+false_statement: In a 2016 University of Minnesota study, readers disagreed about whether a single emoji's sentiment was positive, neutral or negative about three-quarters of the time.
+explanation: Disagreement came up in roughly one case in four, and grew when readers saw different platforms' renderings. That's why the advice is to pick one common, clearly positive emoji, if any.
+as_of: '2016'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/emoji-and-tone-in-text.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: b0019e95071f4e576f084179b819d50abe7a9626
+concepts:
+- cm:emoji-and-tone-in-text
+difficulty: 3
+created: '2026-11-21'
+status: active

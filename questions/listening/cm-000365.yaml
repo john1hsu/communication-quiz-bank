@@ -1,0 +1,20 @@
+id: cm-000365
+area: listening
+kind: practice
+topic: Mirroring
+topic_type: Technique
+true_statement: In a chat-based negotiation, reuse the other side's own terms in your first replies; echoing their accommodating language near the end tends to help them more than you.
+false_statement: In a chat-based negotiation, save reusing the other side's own terms for the closing replies; echoing their language early tends to help them more than you.
+explanation: Swaab and colleagues found that linguistic mimicry paid off through trust when used in the first ten minutes of a text negotiation, while late mimicry mostly echoed concessions and benefited the counterpart. Mirror early and sparingly in writing.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/mirroring.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: 01f80c5eaffe2867e8788d981de2bdef00111051
+concepts:
+- cm:mirroring
+- cm:swaab-maddux-sinaceur-2011
+- cm:negotiation
+difficulty: 2
+created: '2026-11-21'
+status: active

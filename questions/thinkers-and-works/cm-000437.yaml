@@ -1,0 +1,20 @@
+id: cm-000437
+area: thinkers-and-works
+kind: figure
+topic: Adam Galinsky
+topic_type: Person
+true_statement: In Galinsky and colleagues' 2008 study, MBA students told to imagine what their counterpart was thinking reached a deal needing a creative solution 76% of the time, versus 39% for controls.
+false_statement: In Galinsky and colleagues' 2008 study, MBA students told to imagine what their counterpart was feeling reached a deal needing a creative solution 76% of the time, versus 39% for controls.
+explanation: Thinking about the other side's thoughts, perspective-taking, produced the jump; imagining their feelings, empathy, did no better than controls. The studies used MBA students in simulations of modest size.
+as_of: '2008'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/adam-galinsky.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: e14e14e4564a3a32a3ff613e3a3cd536ec7a3673
+concepts:
+- cm:adam-galinsky
+- cm:perspective-taking
+difficulty: 3
+created: '2026-11-21'
+status: active

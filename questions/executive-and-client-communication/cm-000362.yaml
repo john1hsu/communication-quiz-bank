@@ -1,0 +1,18 @@
+id: cm-000362
+area: executive-and-client-communication
+kind: practice
+topic: Elevator pitch
+topic_type: Genre
+true_statement: End a hallway pitch to a VP with a small, specific request, such as "Could I have 20 minutes with your team next week to propose a pilot?", that she can agree to on the spot.
+false_statement: End a hallway pitch to a VP with an open offer, such as "Let me know if you'd ever like to hear more about it," so she doesn't feel pushed into committing on the spot.
+explanation: A pitch exists to earn a next step, and an open-ended offer leaves the listener interested with nothing to do. A concrete, low-cost ask turns the interest into a meeting while still being easy to decline.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/elevator-pitch.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: faf855aeea94c9ef6be325058e92585651fa2894
+concepts:
+- cm:elevator-pitch
+difficulty: 1
+created: '2026-11-21'
+status: active

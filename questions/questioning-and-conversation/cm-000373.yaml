@@ -1,0 +1,21 @@
+id: cm-000373
+area: questioning-and-conversation
+kind: scenario
+topic: Conversational turn-taking
+topic_type: Phenomenon
+true_statement: In a planning meeting, "Any thoughts?" keeps drawing the same senior engineer, so the chair says, "Ana, how does this look from support?" She is using the rule that the current speaker may pick who goes next.
+false_statement: In a planning meeting, "Any thoughts?" keeps drawing the same senior engineer, so the chair says, "Ana, how does this look from support?" She is relying on self-selection, where whoever starts first gets the turn.
+explanation: Naming Ana is current-speaker-selects-next, the first of the turn-allocation rules. The open "Any thoughts?" was the self-selection case, which hands the floor to whoever jumps in fastest.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/conversational-turn-taking.md
+  commit: daeed4cd69bce1a460e5841c24d42768b7ea035b
+  blob: c705556d7c23b588ac1ad08f3c79a812905fc65a
+concepts:
+- cm:conversational-turn-taking
+- cm:harvey-sacks
+- cm:unequal-participation
+- cm:facilitation
+difficulty: 2
+created: '2026-11-21'
+status: active
