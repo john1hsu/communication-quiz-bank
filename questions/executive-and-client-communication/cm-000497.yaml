@@ -1,0 +1,19 @@
+id: cm-000497
+area: executive-and-client-communication
+kind: scenario
+topic: Executive summary
+topic_type: Genre
+true_statement: 'The summary page of a pricing review for the sales VP reads: "This study examined three years of deal data using regression analysis. Results indicate that discount depth is associated with churn." It is written like an academic abstract, not an executive summary.'
+false_statement: 'The summary page of a pricing review for the sales VP reads: "This study examined three years of deal data using regression analysis. Results indicate that discount depth is associated with churn." It is a sound executive summary, since it covers purpose, method and results.'
+explanation: Purpose, method and results for peers is the abstract's recipe. An executive summary leads with the recommendation, frames it in the reader's terms such as revenue or risk, gives the numbers and ends with the decision needed; this one has no ask at all.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/executive-summary.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 82a2753ade9b1509bba7fd5bfcdff6c738ac7950
+concepts:
+- cm:executive-summary
+- cm:abstract
+difficulty: 2
+created: '2026-11-23'
+status: active

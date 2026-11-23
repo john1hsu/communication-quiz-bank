@@ -1,0 +1,19 @@
+id: cm-000461
+area: foundations
+kind: scenario
+topic: Shannon-Weaver model
+topic_type: Theory
+true_statement: 'A project manager sees that all five engineers opened her email moving the code freeze to Friday and concludes the change has landed. In Weaver''s three levels, she has evidence only for the technical level: the message was delivered.'
+false_statement: 'A project manager sees that all five engineers opened her email moving the code freeze to Friday and concludes the change has landed. In Weaver''s three levels, she has evidence for the semantic level: they took the meaning she intended.'
+explanation: Weaver separated delivery, understanding and effect on conduct. An opened email or read receipt proves only delivery; whether engineers read 'Friday' as she meant, or changed their plans, needs a reply or read-back.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/shannon-weaver-model.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: df4072f437282845b54ca91d9e3f6a6fc747b59b
+concepts:
+- cm:shannon-weaver-model
+- cm:warren-weaver
+difficulty: 2
+created: '2026-11-23'
+status: active

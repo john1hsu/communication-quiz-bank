@@ -1,0 +1,19 @@
+id: cm-000540
+area: writing
+kind: practice
+topic: Informative headings
+topic_type: Technique
+true_statement: In a decision paper for a busy director, write statement headings such as "Cutting to 400 seats saves $90K a year" rather than questions such as "How much could we save?"
+false_statement: In a decision paper for a busy director, write question headings such as "How much could we save?" rather than statements such as "Cutting to 400 seats saves $90K a year"
+explanation: A question heading puts the key idea at the end and withholds your answer, which slows a scanning reader who wants your conclusion. Questions suit FAQs and public pages where you know what people will ask.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/informative-headings.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 56b23cfc82f88ab97a1f5013a986fa67c093ade9
+concepts:
+- cm:informative-headings
+- cm:executive-summary
+difficulty: 2
+created: '2026-11-23'
+status: active

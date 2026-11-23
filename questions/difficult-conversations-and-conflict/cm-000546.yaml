@@ -1,0 +1,19 @@
+id: cm-000546
+area: difficult-conversations-and-conflict
+kind: practice
+topic: Nonviolent Communication
+topic_type: Framework
+true_statement: Before raising late plan changes with a colleague, name your need, such as being able to stand behind what the client sees, separately from the one fix you prefer, so other solutions stay open.
+false_statement: Before raising late plan changes with a colleague, state the one fix you prefer as your need, so the colleague knows exactly what would satisfy you and the talk stays short.
+explanation: NVC keeps a need free of any particular person or action; folding your preferred strategy into the need closes off other ways to meet it. Name the value first, then make one concrete request.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/nonviolent-communication.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 6238a5a366a8c30c0e97d27b918ab2549b7f680e
+concepts:
+- cm:nonviolent-communication
+- cm:difficult-conversation
+difficulty: 2
+created: '2026-11-23'
+status: active

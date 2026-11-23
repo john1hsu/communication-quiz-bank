@@ -1,0 +1,19 @@
+id: cm-000510
+area: presenting-and-public-speaking
+kind: practice
+topic: Death by PowerPoint
+topic_type: AntiPattern
+true_statement: When a leadership review needs detailed ticket data, send it as a one-page handout before the meeting and keep the slides for the live argument and the ask.
+false_statement: When a leadership review needs detailed ticket data, pack it into the slides so the deck doubles as the record, and skip the separate handout.
+explanation: Dense analysis reads better at the reader's own pace in a document; the Columbia board and Tufte both favoured written papers for complex reasoning. A deck meant to be both talk and record usually serves neither.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/death-by-powerpoint.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: eacfc93f0253338aad0109a6dd4132da20ef3705
+concepts:
+- cm:death-by-powerpoint
+- cm:executive-briefing
+difficulty: 2
+created: '2026-11-23'
+status: active

@@ -1,0 +1,18 @@
+id: cm-000500
+area: feedback-and-coaching
+kind: scenario
+topic: Radical candor
+topic_type: Framework
+true_statement: In a design review, a lead tells a junior writer her draft "looks great," then tells a peer afterwards that it was unusable. On the radical candor grid, that is manipulative insincerity.
+false_statement: In a design review, a lead tells a junior writer her draft "looks great," then tells a peer afterwards that it was unusable. On the radical candor grid, that is ruinous empathy.
+explanation: 'Flattery to the face plus complaints behind the back is low care and low challenge: manipulative insincerity, which Scott ranks worst. Ruinous empathy softens criticism out of real care, without the backstabbing.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/radical-candor.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 613313474c4a04ee765c54243134560764d5b9ed
+concepts:
+- cm:radical-candor
+difficulty: 2
+created: '2026-11-23'
+status: active

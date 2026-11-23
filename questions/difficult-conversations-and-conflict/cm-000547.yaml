@@ -1,0 +1,19 @@
+id: cm-000547
+area: difficult-conversations-and-conflict
+kind: evidence
+topic: Nonviolent Communication
+topic_type: Framework
+true_statement: A 2024 scoping review found only seven studies of NVC in health-care work, just two of them experimental, so claims that NVC reliably resolves workplace conflict outrun the data.
+false_statement: A 2024 scoping review found consistent results across dozens of randomised trials of NVC in health-care work, establishing it as a reliable way to resolve workplace conflict.
+explanation: 'The evidence for NVC is encouraging but thin: few, small, mostly non-experimental studies and no large workplace trials. Treat it as a useful discipline, not a proven conflict cure.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/nonviolent-communication.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 6238a5a366a8c30c0e97d27b918ab2549b7f680e
+concepts:
+- cm:nonviolent-communication
+- cm:adriani-et-al-2024
+difficulty: 3
+created: '2026-11-23'
+status: active

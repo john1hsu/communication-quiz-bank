@@ -1,0 +1,19 @@
+id: cm-000522
+area: negotiation
+kind: practice
+topic: Negotiation
+topic_type: Context
+true_statement: When a supplier's late delivery puts your launch at risk, say plainly that you're disappointed with the offer rather than staging anger, which can win concessions but reliably damages trust.
+false_statement: When a supplier's late delivery puts your launch at risk, stage some anger at their account rep, since an angry display reliably wins concessions without much cost to the relationship.
+explanation: The 2023 review finds anger extracts concessions only under some conditions and reliably harms trust, while expressed disappointment can bring similar gains at lower cost. Displaying emotion you don't feel also shades into deception.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/negotiation.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: dfeaf27e90c6c076141ef9b777f8237fa1107830
+concepts:
+- cm:negotiation
+- cm:boothby-cooney-schweitzer-2023
+difficulty: 2
+created: '2026-11-23'
+status: active

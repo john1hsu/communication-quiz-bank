@@ -1,0 +1,19 @@
+id: cm-000538
+area: meetings-and-facilitation
+kind: evidence
+topic: Group decision making
+topic_type: Context
+true_statement: In Schulz-Hardt and colleagues' 2006 study, three-person groups that began by disagreeing found the hidden best option far more often, even when none of them had started out favouring it.
+false_statement: In Schulz-Hardt and colleagues' 2006 study, three-person groups that began by disagreeing found the hidden best option far more often, but only when at least one of them had started out favouring it.
+explanation: Prior dissent helped even when every member's first choice was wrong, because disagreement drives deeper discussion of the information. That is why collecting views independently first and valuing dissent beats smoothing it over.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/group-decision-making.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 6c412cc6cdf6c068ebd0c49af54b964b18aae7ab
+concepts:
+- cm:group-decision-making
+- cm:schulz-hardt-et-al-2006
+difficulty: 3
+created: '2026-11-23'
+status: active

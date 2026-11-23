@@ -1,0 +1,20 @@
+id: cm-000529
+area: barriers-and-psychology
+kind: definition
+topic: Communication apprehension
+topic_type: Barrier
+true_statement: 'Communication apprehension is broader than stage fright: McCroskey''s PRCA-24 scores it separately for group discussion, meetings, one-to-one conversation and public speaking.'
+false_statement: 'Communication apprehension is another name for stage fright: McCroskey''s PRCA-24 scores it as anxiety about public speaking, with no separate settings.'
+explanation: The measure covers four settings and adds them into a total, and the subscores show where someone's apprehension sits so practice can target it. Public-speaking anxiety is just its best-known form.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/communication-apprehension.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 05d6334304022d2fa006177e293c7388fc877522
+concepts:
+- cm:communication-apprehension
+- cm:james-mccroskey
+- cm:speaking-anxiety
+difficulty: 1
+created: '2026-11-23'
+status: active

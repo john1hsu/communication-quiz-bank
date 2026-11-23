@@ -1,7 +1,7 @@
 {
  "version": 1,
- "count": 448,
- "active": 448,
+ "count": 548,
+ "active": 548,
  "questions": [
   {
    "id": "cm-000001",
@@ -7249,6 +7249,1610 @@
    "difficulty": 2,
    "status": "active",
    "source": "https://john1hsu.github.io/communication-graph/a/silence-and-pauses.html"
+  },
+  {
+   "id": "cm-000449",
+   "area": "persuasion-and-influence",
+   "kind": "scenario",
+   "topic": "Charismatic leadership tactics",
+   "t": "Announcing a reorg, a director opens: \"We can keep three teams fighting over one backlog, or give one team the whole thing - I'd choose the second.\" That opening uses a contrast, one of the charismatic leadership tactics.",
+   "f": "Announcing a reorg, a director opens: \"We can keep three teams fighting over one backlog, or give one team the whole thing - I'd choose the second.\" That opening uses a metaphor, one of the charismatic leadership tactics.",
+   "x": "The line sets two options side by side, what we could keep doing versus what we will do, which is the contrast tactic. Nothing is described in terms of something else, so it isn't a metaphor.",
+   "concepts": [
+    "cm:charismatic-leadership-tactics"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/charismatic-leadership-tactics.html"
+  },
+  {
+   "id": "cm-000450",
+   "area": "persuasion-and-influence",
+   "kind": "practice",
+   "topic": "Charismatic leadership tactics",
+   "t": "To get better at charismatic leadership tactics, rehearse on video with feedback and keep practising over several weeks, rather than reading up on the list the night before your talk.",
+   "f": "To get better at charismatic leadership tactics, read up on the list the night before your talk, rather than spending several weeks rehearsing on video with feedback.",
+   "x": "The trained gains came from hours of filmed practice and coaching spread over weeks, and the nonverbal tactics in particular were learned by rehearsal, not reading. One-off cramming is a listed mistake.",
+   "concepts": [
+    "cm:charismatic-leadership-tactics",
+    "cm:self-recording-playback",
+    "cm:presentation-rehearsal"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/charismatic-leadership-tactics.html"
+  },
+  {
+   "id": "cm-000451",
+   "area": "persuasion-and-influence",
+   "kind": "evidence",
+   "topic": "Charismatic leadership tactics",
+   "t": "Ernst, Banks and colleagues' 2021 prospective meta-analysis in five countries found charismatic tactics improved performance face to face but had essentially no effect in virtual settings.",
+   "f": "Ernst, Banks and colleagues' 2021 prospective meta-analysis in five countries found charismatic tactics improved performance most strongly in virtual settings, more than face to face.",
+   "x": "The pooled virtual effect was close to zero while in-person effects were moderate to large, so a charismatic video or email message needs a clear written summary of the substance rather than relying on the tactics.",
+   "concepts": [
+    "cm:charismatic-leadership-tactics",
+    "cm:ernst-et-al-2021"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/charismatic-leadership-tactics.html"
+  },
+  {
+   "id": "cm-000452",
+   "area": "presenting-and-public-speaking",
+   "kind": "scenario",
+   "topic": "Vocal delivery",
+   "t": "Giving a budget update, a project lead slows down as she reaches the 18% overrun, says the figure louder, pauses, then makes her request, and the room asks about the number. Her voice is flagging what listeners should remember.",
+   "f": "Giving a budget update, a project lead slows down as she reaches the 18% overrun, says the figure louder, pauses, then makes her request, and the room asks about the number. Her voice is signalling doubt about the figure.",
+   "x": "Slowing, a lift in volume and a deliberate silent pause together mark the key point and give listeners time to take it in. A planned pause before a stated request adds weight; it isn't the trailing-off of someone unsure.",
+   "concepts": [
+    "cm:vocal-delivery",
+    "cm:silence-and-pauses"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/vocal-delivery.html"
+  },
+  {
+   "id": "cm-000453",
+   "area": "presenting-and-public-speaking",
+   "kind": "practice",
+   "topic": "Vocal delivery",
+   "t": "If your draft talk runs over its slot when you estimate it at about 150 words a minute, cut text rather than plan to speak faster.",
+   "f": "If your draft talk runs over its slot when you estimate it at about 150 words a minute, plan to speak faster rather than cut text.",
+   "x": "Rushing is one of the delivery problems listeners complain about most, and good speakers slow down for unfamiliar material and near the close. Trimming the script keeps a rate the room can follow.",
+   "concepts": [
+    "cm:vocal-delivery"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/vocal-delivery.html"
+  },
+  {
+   "id": "cm-000454",
+   "area": "presenting-and-public-speaking",
+   "kind": "figure",
+   "topic": "Vocal delivery",
+   "t": "In Rodero's 2022 experiment with 120 viewers, speeches with a medium amount of pitch variation were rated most effective, ahead of those with few or many variations.",
+   "f": "In Rodero's 2022 experiment with 120 viewers, speeches with the most pitch variation were rated most effective, ahead of those with a medium amount or few variations.",
+   "x": "Pitch should move on key words, but the study found a middle level beat both flat and highly varied delivery. It used four actors and 25-second clips, so it may not generalise to long talks.",
+   "concepts": [
+    "cm:vocal-delivery",
+    "cm:rodero-2022"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/vocal-delivery.html",
+   "asOf": "2022"
+  },
+  {
+   "id": "cm-000455",
+   "area": "executive-and-client-communication",
+   "kind": "scenario",
+   "topic": "Escalating a problem",
+   "t": "After two stalled talks with the data team lead about a shared deadline, a product lead quietly emails his own VP, who he expects will back him, and doesn't tell the other lead. That is a one-sided escalation, which risks a decision made on partial information.",
+   "f": "After two stalled talks with the data team lead about a shared deadline, a product lead quietly emails his own VP, who he expects will back him, and doesn't tell the other lead. That is a joint escalation, which gets the decision maker both sides' facts.",
+   "x": "The tell is that he goes alone to a leader likely to side with him and leaves the other party uninformed. A joint escalation would bring both leads, their positions fairly stated and a record of how they tried to resolve it, to the decision maker together.",
+   "concepts": [
+    "cm:escalation-communication"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/escalation-communication.html"
+  },
+  {
+   "id": "cm-000456",
+   "area": "executive-and-client-communication",
+   "kind": "practice",
+   "topic": "Escalating a problem",
+   "t": "Once you have escalated a scope dispute and are waiting for the sponsor's decision, keep the team working to the current plan, then confirm the decision in writing to everyone affected when it comes.",
+   "f": "Once you have escalated a scope dispute and are waiting for the sponsor's decision, pause the affected work so nothing is wasted, then confirm the decision in writing to everyone affected when it comes.",
+   "x": "Practitioner guidance lists halting work while a decision is pending as a common escalation mistake; the plan in force stays in force until someone with authority changes it. Pausing turns the escalation into a delay of its own.",
+   "concepts": [
+    "cm:escalation-communication"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/escalation-communication.html"
+  },
+  {
+   "id": "cm-000457",
+   "area": "executive-and-client-communication",
+   "kind": "evidence",
+   "topic": "Escalating a problem",
+   "t": "In Park, Im and Keil's 2008 lab experiment, time urgency indirectly raised people's willingness to report project bad news, so stressing how narrow the window to fix a problem is can prompt earlier escalation.",
+   "f": "In Park, Im and Keil's 2008 lab experiment, time urgency indirectly lowered people's willingness to report project bad news, so stressing how narrow the window to fix a problem tends to delay escalation.",
+   "x": "The study found urgency pushed reporting up, not down, which is why managers are advised to stress the shrinking window to fix a problem. It is one lab experiment on the mum effect; the escalation practices themselves remain untested practitioner advice.",
+   "concepts": [
+    "cm:escalation-communication",
+    "cm:park-im-keil-2008",
+    "cm:mum-effect"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/escalation-communication.html"
+  },
+  {
+   "id": "cm-000458",
+   "area": "feedback-and-coaching",
+   "kind": "scenario",
+   "topic": "Praise and recognition",
+   "t": "A manager messages an analyst: \"Thanks for catching the duplicate invoices on Friday - the client got a clean report and renewed. Next time, though, loop me in sooner.\" Tacking the correction onto the thanks muddies the recognition.",
+   "f": "A manager messages an analyst: \"Thanks for catching the duplicate invoices on Friday - the client got a clean report and renewed. Next time, though, loop me in sooner.\" Adding the correction makes the recognition more useful.",
+   "x": "Recognition works best kept clean: no \"but\", correction or new request in the same message, or people learn to brace for the catch. Give the thanks on its own and raise the timing point separately.",
+   "concepts": [
+    "cm:praise-and-recognition",
+    "cm:feedback-sandwich"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/praise-and-recognition.html"
+  },
+  {
+   "id": "cm-000459",
+   "area": "feedback-and-coaching",
+   "kind": "mechanism",
+   "topic": "Praise and recognition",
+   "t": "In Grant and Gino's experiments, being thanked made helpers more likely to help again mainly because it made them feel socially valued, not because it made them feel more competent.",
+   "f": "In Grant and Gino's experiments, being thanked made helpers more likely to help again mainly because it made them feel more competent, not because it made them feel socially valued.",
+   "x": "The thanks worked through perceived social worth: helpers learned their help was wanted. That is why recognition still matters for confident high performers, who don't need a competence boost.",
+   "concepts": [
+    "cm:praise-and-recognition",
+    "cm:grant-gino-2010",
+    "cm:perceived-social-worth"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/praise-and-recognition.html"
+  },
+  {
+   "id": "cm-000460",
+   "area": "feedback-and-coaching",
+   "kind": "evidence",
+   "topic": "Praise and recognition",
+   "t": "Popular rules that teams need a precise ratio of positive to negative comments, such as 5.6 to 1, trace to a model whose mathematics Brown, Sokal and Friedman showed in 2013 to be unfounded.",
+   "f": "Popular rules that teams need a precise ratio of positive to negative comments, such as 5.6 to 1, trace to a model that Brown, Sokal and Friedman confirmed in a 2013 replication.",
+   "x": "Brown, Sokal and Friedman debunked the Fredrickson-Losada positivity-ratio maths, so there is no magic number. Mostly positive interaction is still sound advice; the precise ratio is the myth.",
+   "concepts": [
+    "cm:praise-and-recognition",
+    "cm:brown-sokal-friedman-2013"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/praise-and-recognition.html"
+  },
+  {
+   "id": "cm-000461",
+   "area": "foundations",
+   "kind": "scenario",
+   "topic": "Shannon-Weaver model",
+   "t": "A project manager sees that all five engineers opened her email moving the code freeze to Friday and concludes the change has landed. In Weaver's three levels, she has evidence only for the technical level: the message was delivered.",
+   "f": "A project manager sees that all five engineers opened her email moving the code freeze to Friday and concludes the change has landed. In Weaver's three levels, she has evidence for the semantic level: they took the meaning she intended.",
+   "x": "Weaver separated delivery, understanding and effect on conduct. An opened email or read receipt proves only delivery; whether engineers read 'Friday' as she meant, or changed their plans, needs a reply or read-back.",
+   "concepts": [
+    "cm:shannon-weaver-model",
+    "cm:warren-weaver"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/shannon-weaver-model.html"
+  },
+  {
+   "id": "cm-000462",
+   "area": "foundations",
+   "kind": "practice",
+   "topic": "Shannon-Weaver model",
+   "t": "When a cutover email turns on one date, state that date in both the subject line and the body, adding deliberate redundancy so a skimmed or garbled detail can still be caught.",
+   "f": "When a cutover email turns on one date, state that date only once, in the body, because repeating it counts as noise that makes the signal harder to decode.",
+   "x": "In the model, redundancy is the main safeguard against distortion: repeating a key figure, date or owner, or showing it in a second form, lets readers correct an error. Repetition is not noise; noise is what corrupts the signal.",
+   "concepts": [
+    "cm:shannon-weaver-model"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/shannon-weaver-model.html"
+  },
+  {
+   "id": "cm-000463",
+   "area": "foundations",
+   "kind": "origin",
+   "topic": "Shannon-Weaver model",
+   "t": "Shannon's 1948 paper treated the meaning of messages as irrelevant to its engineering problem, so the model's use for human understanding rests on Warren Weaver's 1949 extension.",
+   "f": "Weaver's 1949 article treated the meaning of messages as irrelevant to its engineering problem, so the model's use for human understanding rests on Claude Shannon's 1948 extension.",
+   "x": "Shannon wrote the 1948 engineering paper and set meaning aside; Weaver's 1949 Scientific American piece added the semantic and effectiveness levels. The false version swaps the two men and their dates.",
+   "concepts": [
+    "cm:shannon-weaver-model",
+    "cm:claude-shannon",
+    "cm:warren-weaver",
+    "cm:a-mathematical-theory-of-communication"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/shannon-weaver-model.html"
+  },
+  {
+   "id": "cm-000464",
+   "area": "listening",
+   "kind": "scenario",
+   "topic": "Conversational narcissism",
+   "t": "Before a team meeting, a lead asks a colleague, \"How did your client workshop go?\" After a two-word reply, she says, \"Mine last week was brilliant - they want a second round.\" That is boomerasking.",
+   "f": "Before a team meeting, a lead asks a colleague, \"How did your client workshop go?\" After a two-word reply, she says, \"Mine last week was brilliant - they want a second round.\" That is reciprocal self-disclosure.",
+   "x": "The tell is the question used as a launch pad: she asks, barely lets him answer, then answers it herself with a brag. Reciprocal disclosure would alternate her sharing with real interest in his answer.",
+   "concepts": [
+    "cm:conversational-narcissism",
+    "cm:boomerasking",
+    "cm:reciprocal-self-disclosure"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/conversational-narcissism.html"
+  },
+  {
+   "id": "cm-000465",
+   "area": "listening",
+   "kind": "evidence",
+   "topic": "Conversational narcissism",
+   "t": "In Yeomans and Brooks's studies, most people expected that asking a question before sharing their own news would make a better impression, yet boomeraskers were judged less sincere and less likeable.",
+   "f": "In Yeomans and Brooks's studies, people who asked a question before sharing their own news were judged more sincere and likeable, as most of them had expected.",
+   "x": "Across eight studies, the warm-up question backfired: partners rated boomeraskers as less sincere and less likeable, contrary to what the askers predicted. The cost comes from the question being a pretext.",
+   "concepts": [
+    "cm:conversational-narcissism",
+    "cm:yeomans-brooks-2025",
+    "cm:boomerasking"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/conversational-narcissism.html"
+  },
+  {
+   "id": "cm-000466",
+   "area": "listening",
+   "kind": "practice",
+   "topic": "Conversational narcissism",
+   "t": "If you notice you asked a colleague a question only to give your own answer, next time just share your news directly, since people prefer plain self-disclosure to a question used as a launch pad.",
+   "f": "If you notice you asked a colleague a question only to give your own answer, next time ask two warm-up questions before sharing, so your news feels less self-focused.",
+   "x": "The fix for boomerasking is to drop the pretext: say what you want to share plainly, or ask questions you can't answer yourself and listen to the reply. More warm-up questions only extend the disguise.",
+   "concepts": [
+    "cm:conversational-narcissism",
+    "cm:boomerasking"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/conversational-narcissism.html"
+  },
+  {
+   "id": "cm-000467",
+   "area": "questioning-and-conversation",
+   "kind": "scenario",
+   "topic": "Follow-up questions",
+   "t": "Opening a client call, the client asks a consultant, \"How's your quarter been?\" She answers briefly, then replies, \"And how's yours been?\" In Huang and colleagues' terms, that is a mirror question.",
+   "f": "Opening a client call, the client asks a consultant, \"How's your quarter been?\" She answers briefly, then replies, \"And how's yours been?\" In Huang and colleagues' terms, that is a follow-up question.",
+   "x": "A mirror question bounces back the question just asked. A follow-up would build on something the client actually said, such as asking about a detail of their answer, which is the kind most tied to liking.",
+   "concepts": [
+    "cm:follow-up-questions",
+    "cm:huang-et-al-2017"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/follow-up-questions.html"
+  },
+  {
+   "id": "cm-000468",
+   "area": "questioning-and-conversation",
+   "kind": "practice",
+   "topic": "Follow-up questions",
+   "t": "When probing a colleague's account of a project, use an expansive probe such as \"What did that look like?\" when you need breadth, and a targeted one such as \"How sure are you?\" when you need precision.",
+   "f": "When probing a colleague's account of a project, use a targeted probe such as \"How sure are you?\" when you need breadth, and an expansive one such as \"What did that look like?\" when you need precision.",
+   "x": "Expansive probes open the answer up and gather more detail; targeted probes pin down one point, such as confidence or how a decision was made. Choose by whether you need range or exactness.",
+   "concepts": [
+    "cm:follow-up-questions",
+    "cm:questioning"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/follow-up-questions.html"
+  },
+  {
+   "id": "cm-000469",
+   "area": "questioning-and-conversation",
+   "kind": "evidence",
+   "topic": "Follow-up questions",
+   "t": "Kluger and Malloy's 2019 reanalysis of the speed-dating data found that, for men, asking more questions tended to predict fewer second-date offers, challenging the field part of Huang's work.",
+   "f": "Kluger and Malloy's 2019 reanalysis of the speed-dating data found that, for men, asking more questions tended to predict more second-date offers, confirming the field part of Huang's work.",
+   "x": "The reanalysis cut against the original field result and argued a second-date offer isn't the same as liking. The original team replied that the benefits held, so the chat-study effect stands better than the field one.",
+   "concepts": [
+    "cm:follow-up-questions",
+    "cm:kluger-malloy-2019",
+    "cm:huang-et-al-2017"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/follow-up-questions.html"
+  },
+  {
+   "id": "cm-000470",
+   "area": "writing",
+   "kind": "practice",
+   "topic": "Burying the lede",
+   "t": "To check a draft for a buried lede, ask a colleague who doesn't know the project to read only the first lines and tell you the point, since unfamiliar readers most need it stated.",
+   "f": "To check a draft for a buried lede, ask a teammate who knows the project well to read only the first lines and tell you the point, since informed readers spot a missing point fastest.",
+   "x": "Readers who know the topic infer the main idea anyway, so a teammate will 'find' a point that a newcomer would miss. Testing cold with an unfamiliar reader exposes whether the opening actually states it.",
+   "concepts": [
+    "cm:burying-the-lede"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/burying-the-lede.html"
+  },
+  {
+   "id": "cm-000471",
+   "area": "writing",
+   "kind": "figure",
+   "topic": "Burying the lede",
+   "t": "In Kieras's 1980 study, stating the main idea up front cut reading time for one unfamiliar technical passage to about 52 seconds, against about 81 seconds without it.",
+   "f": "In Kieras's 1980 study, stating the main idea up front cut reading time for one unfamiliar technical passage to about 81 seconds, against about 152 seconds without it.",
+   "x": "The reported gap was roughly 52 versus 81 seconds, and it held for unfamiliar topics; with familiar ones readers worked out the main idea regardless. The false version inflates both times.",
+   "concepts": [
+    "cm:burying-the-lede",
+    "cm:kieras-1980"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/burying-the-lede.html",
+   "asOf": "1980"
+  },
+  {
+   "id": "cm-000472",
+   "area": "writing",
+   "kind": "evidence",
+   "topic": "Burying the lede",
+   "t": "A 2026 experiment on health journalism found narrative articles produced higher comprehension and interest than inverted-pyramid versions, so putting the point first is not always best for learning.",
+   "f": "A 2026 experiment on health journalism found inverted-pyramid articles produced higher comprehension and interest than narrative versions, confirming that putting the point first is always best for learning.",
+   "x": "The narrative versions won on comprehension and interest, which is why the article's evidence status is mixed. Leading with the point matters most for busy readers who must act; a story-first structure can suit writing meant to be read in full.",
+   "concepts": [
+    "cm:burying-the-lede",
+    "cm:ameseder-devetak-skubic-2026"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/burying-the-lede.html"
+  },
+  {
+   "id": "cm-000473",
+   "area": "negotiation",
+   "kind": "scenario",
+   "topic": "Mythical fixed-pie bias",
+   "t": "A buyer assumes her vendor wants an early go-live, so she gives up a volume discount to secure the later date she prefers. The vendor wanted the later date too. Missing an issue where both sides want the same outcome is the incompatibility error.",
+   "f": "A buyer assumes her vendor wants an early go-live, so she gives up a volume discount to secure the later date she prefers. The vendor wanted the later date too. Missing an issue where both sides want the same outcome is anchoring on the first offer.",
+   "x": "Thompson and Hastie separated the fixed-sum error from the incompatibility error, which is failing to spot issues both sides actually agree on. The tell is that she paid for something the vendor wanted anyway; nobody's opening number drove it, so anchoring does not fit.",
+   "concepts": [
+    "cm:mythical-fixed-pie",
+    "cm:thompson-hastie-1990",
+    "cm:lose-lose-agreement"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/mythical-fixed-pie.html"
+  },
+  {
+   "id": "cm-000474",
+   "area": "negotiation",
+   "kind": "practice",
+   "topic": "Mythical fixed-pie bias",
+   "t": "Before renegotiating a support contract, picture having to explain to your manager how you reached the deal, not just what you won; accountability for the process weakened fixed-pie thinking in experiments.",
+   "f": "Before renegotiating a support contract, picture having to report to your manager only the final price you won; accountability for the bottom line weakened fixed-pie thinking in experiments.",
+   "x": "De Dreu and colleagues found that being accountable for how you negotiated raised the motive to be accurate and led to more integrative deals. Focusing only on the number you extract keeps the deal framed as one pie to split.",
+   "concepts": [
+    "cm:mythical-fixed-pie",
+    "cm:motivated-information-processing"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/mythical-fixed-pie.html"
+  },
+  {
+   "id": "cm-000475",
+   "area": "negotiation",
+   "kind": "evidence",
+   "topic": "Mythical fixed-pie bias",
+   "t": "Kern, Brett, Weingart and Eck found that people entering multiparty negotiations held weaker fixed-pie perceptions than people negotiating in pairs.",
+   "f": "Kern, Brett, Weingart and Eck found that people entering multiparty negotiations held stronger fixed-pie perceptions than people negotiating in pairs.",
+   "x": "Across three studies and an internal meta-analysis, the fixed-pie belief was weaker when more than two parties were at the table. The false version reverses the direction of the effect; note that most of this evidence comes from simulations.",
+   "concepts": [
+    "cm:mythical-fixed-pie",
+    "cm:kern-brett-weingart-eck-2020"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/mythical-fixed-pie.html"
+  },
+  {
+   "id": "cm-000476",
+   "area": "nonverbal-and-voice",
+   "kind": "scenario",
+   "topic": "Thought groups",
+   "t": "Rehearsing a roadmap update, a manager says, \"We'll launch in the [pause] third quarter, once legal [pause] signs off.\" Her pauses fall inside phrases, splitting words listeners need to hear as one unit.",
+   "f": "Rehearsing a roadmap update, a manager says, \"We'll launch in the [pause] third quarter, once legal [pause] signs off.\" Her pauses fall at the ends of thought groups, showing listeners which words belong together.",
+   "x": "\"In the third quarter\" and \"legal signs off\" are each one chunk, so a silence in the middle breaks the unit. Thought-group pauses go after the chunk: \"We'll launch in the third quarter / once legal signs off.\"",
+   "concepts": [
+    "cm:thought-groups",
+    "cm:silence-and-pauses"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/thought-groups.html"
+  },
+  {
+   "id": "cm-000477",
+   "area": "nonverbal-and-voice",
+   "kind": "practice",
+   "topic": "Thought groups",
+   "t": "When reporting revenue, growth and margin aloud, give each figure its own chunk with a short silent pause after it, rather than running all three together in one breath.",
+   "f": "When reporting revenue, growth and margin aloud, run all three figures together in one breath and pause once at the end, rather than pausing after each figure.",
+   "x": "A pause and slight pitch drop after each number lets listeners hear which figure goes with which measure and hold it before the next arrives. Strung together, the figures blur, which is the problem the finance example fixes.",
+   "concepts": [
+    "cm:thought-groups"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/thought-groups.html"
+  },
+  {
+   "id": "cm-000478",
+   "area": "nonverbal-and-voice",
+   "kind": "evidence",
+   "topic": "Thought groups",
+   "t": "Inserting short pauses at phrase boundaries in radio news raised second-language listeners' comprehension, most for lower-level learners, though that result comes from a single master's thesis.",
+   "f": "Inserting short pauses at phrase boundaries in radio news raised second-language listeners' comprehension, most for advanced learners, though that result comes from a single master's thesis.",
+   "x": "Van Loon's experiment found the biggest gain for the weakest listeners, which is why chunking matters most for second-language audiences and poor connections. Being one thesis, it is suggestive rather than settled.",
+   "concepts": [
+    "cm:thought-groups",
+    "cm:van-loon-2000"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/thought-groups.html"
+  },
+  {
+   "id": "cm-000479",
+   "area": "barriers-and-psychology",
+   "kind": "scenario",
+   "topic": "Hot-cold empathy gap",
+   "t": "A well-rested reviewer finds an error in a report a colleague wrote at the end of a 14-hour on-call shift and comments, \"This is just sloppy.\" Reading a fatigued colleague's slip as a character flaw is the hot-cold empathy gap.",
+   "f": "A well-rested reviewer finds an error in a report a colleague wrote at the end of a 14-hour on-call shift and comments, \"This is just sloppy.\" Reading a fatigued colleague's slip as a character flaw is the curse of knowledge.",
+   "x": "The tell is a difference in state: a calm, rested judge underestimates how much fatigue drives behaviour and blames motivation instead of circumstances. The curse of knowledge is about being unable to forget what you know, not about misjudging someone's emotional or physical state.",
+   "concepts": [
+    "cm:empathy-gap",
+    "cm:curse-of-knowledge"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/empathy-gap.html"
+  },
+  {
+   "id": "cm-000480",
+   "area": "barriers-and-psychology",
+   "kind": "practice",
+   "topic": "Hot-cold empathy gap",
+   "t": "When a colleague describes burnout from a release crunch you also lived through, keep the focus on her account and validate it, rather than retelling how you got through yours.",
+   "f": "When a colleague describes burnout from a release crunch you also lived through, start by retelling how you got through yours, since shared experience makes your support land better.",
+   "x": "A 2024 set of studies found that people who had endured the same distress offered compassion sufferers rated as less helpful, partly because they turned to their own story and validated less. Having been there is a warning sign, not a credential.",
+   "concepts": [
+    "cm:empathy-gap",
+    "cm:workplace-compassion",
+    "cm:support-response"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/empathy-gap.html"
+  },
+  {
+   "id": "cm-000481",
+   "area": "barriers-and-psychology",
+   "kind": "evidence",
+   "topic": "Hot-cold empathy gap",
+   "t": "In Nordgren's research, people who were not tired or in pain blamed a struggling person's poor performance on low motivation, and simply telling them to empathise did not close that gap.",
+   "f": "In Nordgren's research, people who were not tired or in pain blamed a struggling person's poor performance on low motivation, and simply telling them to empathise was enough to close that gap.",
+   "x": "A bare instruction to empathise left the cold group's judgments unchanged, which is why the advice is to ask the other person and assume their experience is worse than it looks. Awareness is a prompt to check, not a cure.",
+   "concepts": [
+    "cm:empathy-gap"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/empathy-gap.html"
+  },
+  {
+   "id": "cm-000482",
+   "area": "digital-and-async-communication",
+   "kind": "scenario",
+   "topic": "Chat etiquette",
+   "t": "Two engineers sort out a recurring build-config error over direct messages. A week later a third engineer asks the same question in the team channel and nobody can point to the answer. Solving it privately was a chat-etiquette mistake, because it hid the answer from the next person who needed it.",
+   "f": "Two engineers sort out a recurring build-config error over direct messages. A week later a third engineer asks the same question in the team channel and nobody can point to the answer. Solving it privately was good chat etiquette, because it kept the team channel free of noise.",
+   "x": "Direct messages suit genuinely private or one-person matters; a team problem belongs in a channel thread so the answer stays findable. The tell is the repeat question that nobody can answer from the record.",
+   "concepts": [
+    "cm:chat-etiquette",
+    "cm:instant-messaging"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/chat-etiquette.html"
+  },
+  {
+   "id": "cm-000483",
+   "area": "digital-and-async-communication",
+   "kind": "practice",
+   "topic": "Chat etiquette",
+   "t": "When a chat thread about a release date has gone several rounds without agreement, move to a short call, then post the outcome back in the same thread.",
+   "f": "When a chat thread about a release date has gone several rounds without agreement, add an @channel alert so the whole team weighs in, then post the outcome back in the same thread.",
+   "x": "Chat etiquette treats a few unresolved back-and-forths, or a topic turning sensitive, as the cue to talk live. Channel-wide alerts are for urgent items the team has agreed qualify, and widening an argument adds noise rather than agreement.",
+   "concepts": [
+    "cm:chat-etiquette"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/chat-etiquette.html"
+  },
+  {
+   "id": "cm-000484",
+   "area": "digital-and-async-communication",
+   "kind": "mechanism",
+   "topic": "Chat etiquette",
+   "t": "In Gloria Mark's lab experiment, people interrupted every few minutes while answering email finished faster but reported more stress and effort, because they compensated by working harder.",
+   "f": "In Gloria Mark's lab experiment, people interrupted every few minutes while answering email finished more slowly and reported more stress, because each interruption made them start the task over.",
+   "x": "Interrupted participants sped up, not down; the cost showed up as stress, frustration, time pressure and effort. That hidden cost is why chat etiquette tries to cut needless alerts. The study had 48 mostly student participants, so it is indirect support.",
+   "concepts": [
+    "cm:chat-etiquette"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/chat-etiquette.html"
+  },
+  {
+   "id": "cm-000485",
+   "area": "thinkers-and-works",
+   "kind": "figure",
+   "topic": "The illusion of transparency: Biased assessments of others' ability to read one's emotional states",
+   "t": "In Gilovich, Savitsky and Medvec's 1998 lying game, liars predicted about 49% of their group would catch them, but only about 26% did, roughly chance.",
+   "f": "In Gilovich, Savitsky and Medvec's 1998 lying game, liars predicted about 26% of their group would catch them, but about 49% did, well above chance.",
+   "x": "Liars roughly doubled the share of the group they expected to see through them; actual detection sat near chance. The swapped version reverses the bias the study was named for.",
+   "concepts": [
+    "cm:gilovich-savitsky-medvec-1998",
+    "cm:illusion-of-transparency"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/gilovich-savitsky-medvec-1998.html",
+   "asOf": "1998"
+  },
+  {
+   "id": "cm-000486",
+   "area": "thinkers-and-works",
+   "kind": "evidence",
+   "topic": "The illusion of transparency: Biased assessments of others' ability to read one's emotional states",
+   "t": "In the 1998 lying studies, silent observers who knew the same facts as each liar predicted far lower detection than the liars did, so the bias seems to come from experiencing the lie yourself.",
+   "f": "In the 1998 lying studies, silent observers who knew the same facts as each liar predicted detection as high as the liars did, so the bias seems to come from a general belief that lies are easy to spot.",
+   "x": "The yoked observers guessed around a quarter would catch the lie, versus about 44% for the liars. Living the inner state, not general beliefs about lying, inflated the estimate.",
+   "concepts": [
+    "cm:gilovich-savitsky-medvec-1998",
+    "cm:illusion-of-transparency"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/gilovich-savitsky-medvec-1998.html"
+  },
+  {
+   "id": "cm-000487",
+   "area": "thinkers-and-works",
+   "kind": "mechanism",
+   "topic": "The illusion of transparency: Biased assessments of others' ability to read one's emotional states",
+   "t": "Gilovich and colleagues proposed that when each bystander thinks their own alarm shows but sees everyone else looking calm, each concludes the others are unworried, so nobody steps in.",
+   "f": "Gilovich and colleagues proposed that when each bystander thinks their own alarm is hidden but sees everyone else looking worried, each assumes someone else will act, so nobody steps in.",
+   "x": "In the cheating study people felt more concerned than they looked yet believed their concern was visible. Reading others' calm faces as calm minds is the proposed route to silence; the false version reverses what each person believes about their own visibility.",
+   "concepts": [
+    "cm:gilovich-savitsky-medvec-1998",
+    "cm:illusion-of-transparency"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/gilovich-savitsky-medvec-1998.html"
+  },
+  {
+   "id": "cm-000488",
+   "area": "cross-cultural-communication",
+   "kind": "scenario",
+   "topic": "Intercultural competence",
+   "t": "On a call with a partner office, a consultant gets the delivery date she wanted by overruling their lead in front of his own team, who stay cold for weeks afterwards. By Deardorff's test, her behaviour was effective but not appropriate.",
+   "f": "On a call with a partner office, a consultant gets the delivery date she wanted by overruling their lead in front of his own team, who stay cold for weeks afterwards. By Deardorff's test, her behaviour was appropriate but not effective.",
+   "x": "Deardorff's outcome has two parts: effective means you reached your goal, appropriate means the other side saw your conduct as acceptable. She got the date, so it was effective; the public overruling and the chill that followed show it was not appropriate.",
+   "concepts": [
+    "cm:intercultural-competence",
+    "cm:face-and-facework"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/intercultural-competence.html"
+  },
+  {
+   "id": "cm-000489",
+   "area": "cross-cultural-communication",
+   "kind": "practice",
+   "topic": "Intercultural competence",
+   "t": "To gauge how your calls with a partner office are going, ask a colleague from that office how your approach lands, rather than relying on your own sense of how well you adapted.",
+   "f": "To gauge how your calls with a partner office are going, rate your own adaptability on a self-assessment questionnaire, rather than asking a colleague from that office how you come across.",
+   "x": "Self-report shows only half the picture, and tested abilities often diverge from actual behaviour, so Deardorff recommends getting the other side's view of how your conduct landed. A self-rating alone can miss exactly the misreadings that matter.",
+   "concepts": [
+    "cm:intercultural-competence",
+    "cm:multicultural-team"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/intercultural-competence.html"
+  },
+  {
+   "id": "cm-000490",
+   "area": "cross-cultural-communication",
+   "kind": "figure",
+   "topic": "Intercultural competence",
+   "t": "A 2001 meta-analysis found cross-cultural training only modestly linked to adjustment (r = 0.12) and somewhat more to performance (r = 0.23).",
+   "f": "A 2001 meta-analysis found cross-cultural training only modestly linked to performance (r = 0.12) and somewhat more to adjustment (r = 0.23).",
+   "x": "The smaller correlation was with adjustment and the larger with performance; both are small, which is why reviewers favour experiential learning with reflection over one-off courses. The false version swaps the two outcomes.",
+   "concepts": [
+    "cm:intercultural-competence",
+    "cm:leung-ang-tan-2014"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/intercultural-competence.html",
+   "asOf": "2001"
+  },
+  {
+   "id": "cm-000491",
+   "area": "persuasion-and-influence",
+   "kind": "scenario",
+   "topic": "Impression management",
+   "t": "Each week an analyst mentions in stand-up that she worked late or over the weekend to finish her part. In Jones and Pittman's taxonomy she is using exemplification, aiming to look dedicated.",
+   "f": "Each week an analyst mentions in stand-up that she worked late or over the weekend to finish her part. In Jones and Pittman's taxonomy she is using ingratiation, aiming to look likeable.",
+   "x": "Advertising extra effort targets an image of dedication, which is exemplification. Ingratiation seeks to be liked, through favours or flattery; the article also notes exemplification is linked to perceptions of office politics.",
+   "concepts": [
+    "cm:impression-management"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/impression-management.html"
+  },
+  {
+   "id": "cm-000492",
+   "area": "persuasion-and-influence",
+   "kind": "practice",
+   "topic": "Impression management",
+   "t": "Introducing yourself at a team kickoff, offer a checkable result and a real, workable weakness, rather than a joke like \"I'm probably too obsessive about detail.\"",
+   "f": "Introducing yourself at a team kickoff, open with a joke like \"I'm probably too obsessive about detail,\" rather than offering a checkable result and a real, workable weakness.",
+   "x": "The joke is a humblebrag, which people judge as insincere and like less than plain bragging or honest admissions. A concrete result lets listeners judge competence themselves, and a real weakness reads as candid.",
+   "concepts": [
+    "cm:impression-management",
+    "cm:sezer-gino-norton-2018"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/impression-management.html"
+  },
+  {
+   "id": "cm-000493",
+   "area": "persuasion-and-influence",
+   "kind": "figure",
+   "topic": "Impression management",
+   "t": "In Barrick and colleagues' 2009 meta-analysis, impression management correlated more strongly with interview ratings (.47) than with later job performance ratings (.15).",
+   "f": "In Barrick and colleagues' 2009 meta-analysis, impression management correlated more strongly with later job performance ratings (.47) than with interview ratings (.15).",
+   "x": "Self-presentation sways interviewers far more than it shows up in later performance ratings, a warning that what impresses in an interview does not always predict performance on the job.",
+   "concepts": [
+    "cm:impression-management",
+    "cm:job-interview"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/impression-management.html",
+   "asOf": "2009"
+  },
+  {
+   "id": "cm-000494",
+   "area": "difficult-conversations-and-conflict",
+   "kind": "scenario",
+   "topic": "Cooling-off period",
+   "t": "Stung by a terse email copied to her manager, an engineer holds off replying but spends the hour rereading it and venting to a teammate. Her pause has become rumination, which tends to leave people angrier.",
+   "f": "Stung by a terse email copied to her manager, an engineer holds off replying but spends the hour rereading it and venting to a teammate. Her pause is a cooling-off period working as intended.",
+   "x": "What fills the gap decides whether it cools you down. Replaying the slight and venting keep the anger hot; an absorbing, unrelated task is what let anger fade in the experiments.",
+   "concepts": [
+    "cm:cooling-off-period",
+    "cm:emotion-regulation",
+    "cm:wang-et-al-2011"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/cooling-off-period.html"
+  },
+  {
+   "id": "cm-000495",
+   "area": "difficult-conversations-and-conflict",
+   "kind": "practice",
+   "topic": "Cooling-off period",
+   "t": "When an angry message needs an answer, send a short holding line with a reply-by time, such as \"I'll come back to you by 3 pm,\" so the delay doesn't read as silence or avoidance.",
+   "f": "When an angry message needs an answer, stay silent until you have fully calmed down, since any reply sent while upset, even a holding line, risks committing you to something.",
+   "x": "A holding line meets the need to respond without committing to a hot-state reply, and the time tells the other person when to expect the real answer. Unexplained silence can look like avoidance.",
+   "concepts": [
+    "cm:cooling-off-period",
+    "cm:email"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/cooling-off-period.html"
+  },
+  {
+   "id": "cm-000496",
+   "area": "difficult-conversations-and-conflict",
+   "kind": "evidence",
+   "topic": "Cooling-off period",
+   "t": "In Oechssler, Roider and Schmitz's large online study, a 24-hour cooling-off period barely changed how often people rejected unfair offers when stakes were low, and helped only when stakes felt high.",
+   "f": "In Oechssler, Roider and Schmitz's large online study, a 24-hour cooling-off period sharply cut rejections of unfair offers when stakes were low, and mattered less when stakes felt high.",
+   "x": "This study challenges how general the cooling-off benefit is: with ordinary cash stakes the delay made little difference. A pause is useful, but not a cure-all.",
+   "concepts": [
+    "cm:cooling-off-period",
+    "cm:oechssler-roider-schmitz-2008"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/cooling-off-period.html"
+  },
+  {
+   "id": "cm-000497",
+   "area": "executive-and-client-communication",
+   "kind": "scenario",
+   "topic": "Executive summary",
+   "t": "The summary page of a pricing review for the sales VP reads: \"This study examined three years of deal data using regression analysis. Results indicate that discount depth is associated with churn.\" It is written like an academic abstract, not an executive summary.",
+   "f": "The summary page of a pricing review for the sales VP reads: \"This study examined three years of deal data using regression analysis. Results indicate that discount depth is associated with churn.\" It is a sound executive summary, since it covers purpose, method and results.",
+   "x": "Purpose, method and results for peers is the abstract's recipe. An executive summary leads with the recommendation, frames it in the reader's terms such as revenue or risk, gives the numbers and ends with the decision needed; this one has no ask at all.",
+   "concepts": [
+    "cm:executive-summary",
+    "cm:abstract"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/executive-summary.html"
+  },
+  {
+   "id": "cm-000498",
+   "area": "executive-and-client-communication",
+   "kind": "practice",
+   "topic": "Executive summary",
+   "t": "Draft the executive summary after the full report is finished, then try it on someone from the target audience to see what they find useful.",
+   "f": "Draft the executive summary before writing the full report, so it can steer the analysis, then try it on someone from the target audience to see what they find useful.",
+   "x": "Until the analysis is done you can't name the findings or the recommendation the summary must lead with, so guides tell you to write it last. Testing it on a real reader then shows whether it stands alone.",
+   "concepts": [
+    "cm:executive-summary"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/executive-summary.html"
+  },
+  {
+   "id": "cm-000499",
+   "area": "executive-and-client-communication",
+   "kind": "origin",
+   "topic": "Executive summary",
+   "t": "The Canadian Health Services Research Foundation's 1:3:25 rule asks for one page of main messages, a three-page executive summary and no more than 25 pages of findings.",
+   "f": "The Canadian Health Services Research Foundation's 1:3:25 rule asks for a one-page executive summary, three pages of main messages and no more than 25 pages of findings.",
+   "x": "In 1:3:25 the single page holds the key messages and the executive summary is the three-page middle layer, both sitting above a findings section capped at 25 pages. The false version swaps the two top layers.",
+   "concepts": [
+    "cm:executive-summary",
+    "cm:business-report"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/executive-summary.html"
+  },
+  {
+   "id": "cm-000500",
+   "area": "feedback-and-coaching",
+   "kind": "scenario",
+   "topic": "Radical candor",
+   "t": "In a design review, a lead tells a junior writer her draft \"looks great,\" then tells a peer afterwards that it was unusable. On the radical candor grid, that is manipulative insincerity.",
+   "f": "In a design review, a lead tells a junior writer her draft \"looks great,\" then tells a peer afterwards that it was unusable. On the radical candor grid, that is ruinous empathy.",
+   "x": "Flattery to the face plus complaints behind the back is low care and low challenge: manipulative insincerity, which Scott ranks worst. Ruinous empathy softens criticism out of real care, without the backstabbing.",
+   "concepts": [
+    "cm:radical-candor"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/radical-candor.html"
+  },
+  {
+   "id": "cm-000501",
+   "area": "feedback-and-coaching",
+   "kind": "practice",
+   "topic": "Radical candor",
+   "t": "To start practising radical candor with a team, first ask for criticism of yourself, such as what you could stop doing to be easier to work with, then wait out the silence and reward the honesty.",
+   "f": "To start practising radical candor with a team, first give each report one piece of direct criticism, so they see candor modelled before you ask for criticism of yourself.",
+   "x": "Scott's advice begins with soliciting feedback, not giving it; leading with criticism is how the approach slides into obnoxious aggression. Rewarding the first honest answer shows the request is real.",
+   "concepts": [
+    "cm:radical-candor",
+    "cm:kim-scott",
+    "cm:receiving-feedback"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/radical-candor.html"
+  },
+  {
+   "id": "cm-000502",
+   "area": "feedback-and-coaching",
+   "kind": "evidence",
+   "topic": "Radical candor",
+   "t": "Radical candor rests mainly on Kim Scott's managerial experience; a 2016 conceptual paper proposed a training intervention but said there was no empirical evidence for it yet.",
+   "f": "Radical candor rests on controlled studies; a 2016 paper tested the framework as a package and confirmed that its four quadrants predict how well feedback lands.",
+   "x": "The framework is practitioner guidance: it hasn't been tested as a package. Studies on how people overestimate the cost of honesty support its premise only indirectly.",
+   "concepts": [
+    "cm:radical-candor",
+    "cm:kim-scott"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/radical-candor.html"
+  },
+  {
+   "id": "cm-000503",
+   "area": "listening",
+   "kind": "scenario",
+   "topic": "Support response",
+   "t": "A designer says the client rejected her mock-ups twice this week, and her lead replies, \"Twice? Last year a client rejected mine six times.\" That is a shift response.",
+   "f": "A designer says the client rejected her mock-ups twice this week, and her lead replies, \"Twice? Last year a client rejected mine six times.\" That is a support response.",
+   "x": "The reply turns her news into an opening for his own story, moving attention to him. A support response would keep the topic hers, for example \"Twice - what did they push back on?\"",
+   "concepts": [
+    "cm:support-response",
+    "cm:conversational-narcissism"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/support-response.html"
+  },
+  {
+   "id": "cm-000504",
+   "area": "listening",
+   "kind": "practice",
+   "topic": "Support response",
+   "t": "After a conversation, roughly count your shift and support replies; if shifts dominated, open your next conversation with two support replies in a row.",
+   "f": "After a conversation, roughly count your shift and support replies; if shifts dominated, close your next conversation by asking whether the other person felt heard.",
+   "x": "The habit is fixed at the start of the next exchange, by deliberately making your first replies about their topic. Asking at the end whether they felt heard doesn't change the replies that shifted the focus.",
+   "concepts": [
+    "cm:support-response"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/support-response.html"
+  },
+  {
+   "id": "cm-000505",
+   "area": "listening",
+   "kind": "origin",
+   "topic": "Support response",
+   "t": "Charles Derber drew the shift-support distinction from more than a hundred recorded dinner conversations, in which shift responses were the more common of the two.",
+   "f": "Charles Derber drew the shift-support distinction from more than a hundred recorded dinner conversations, in which support responses were the more common of the two.",
+   "x": "Derber, a Boston College sociologist, found shift responses predominated and saw their habitual use as the core of conversational narcissism. His categories come from observation, not controlled experiments.",
+   "concepts": [
+    "cm:support-response",
+    "cm:charles-derber"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/support-response.html"
+  },
+  {
+   "id": "cm-000506",
+   "area": "meetings-and-facilitation",
+   "kind": "scenario",
+   "topic": "Devil's advocacy",
+   "t": "Before approving a data-warehouse migration, a director asks a small sub-team to build a complete alternative plan and then has the two plans debated side by side. That is dialectical inquiry.",
+   "f": "Before approving a data-warehouse migration, a director asks a small sub-team to build a complete alternative plan and then has the two plans debated side by side. That is devil's advocacy.",
+   "x": "The tell is the full counter-plan: dialectical inquiry builds and debates a rival option. A devil's advocate instead critiques the leading proposal's assumptions, evidence and logic without having to author a whole alternative.",
+   "concepts": [
+    "cm:devils-advocacy",
+    "cm:dialectical-inquiry"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/devils-advocacy.html"
+  },
+  {
+   "id": "cm-000507",
+   "area": "meetings-and-facilitation",
+   "kind": "practice",
+   "topic": "Devil's advocacy",
+   "t": "When a room seems agreed on a vendor switch, name a colleague as devil's advocate, say openly that the role is assigned, and have the proposal's owner answer each of her objections before you decide.",
+   "f": "When a room seems agreed on a vendor switch, ask \"Any objections?\" and, if nobody speaks up, take the silence as a tested decision and sign the contract.",
+   "x": "An open call for objections in a room that already looks aligned rarely surfaces doubts. Assigning and labelling the critic role makes challenge part of the job rather than disloyalty, and forces the owner to deal with specific weaknesses before committing.",
+   "concepts": [
+    "cm:devils-advocacy",
+    "cm:group-decision-making"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/devils-advocacy.html"
+  },
+  {
+   "id": "cm-000508",
+   "area": "meetings-and-facilitation",
+   "kind": "evidence",
+   "topic": "Devil's advocacy",
+   "t": "In a 2002 experiment with employees and managers, groups that contained genuine dissenters curbed one-sided information search better than groups relying on an assigned devil's advocate.",
+   "f": "In a 2002 experiment with employees and managers, groups relying on an assigned devil's advocate curbed one-sided information search better than groups that contained genuine dissenters.",
+   "x": "Schulz-Hardt and colleagues found sincere disagreement beat role-played challenge, which is why the technique works best on top of real diversity of view. The false version reverses which form of dissent did better.",
+   "concepts": [
+    "cm:devils-advocacy",
+    "cm:schulz-hardt-jochims-frey-2002"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/devils-advocacy.html"
+  },
+  {
+   "id": "cm-000509",
+   "area": "presenting-and-public-speaking",
+   "kind": "scenario",
+   "topic": "Death by PowerPoint",
+   "t": "At a quarterly review, a lead puts nine bullets in small type on each slide and reads every line aloud word for word while the leaders read along. That is death by PowerPoint: the slides carry the talk and compete with the speaker.",
+   "f": "At a quarterly review, a lead puts nine bullets in small type on each slide and reads every line aloud word for word while the leaders read along. That is a wall of text: one unbroken block with nothing to guide the eye.",
+   "x": "Crowded bullet slides read aloud verbatim are the two signature faults audiences complained about most. A wall of text is an unbroken paragraph in writing; here the problem is fragmented bullets taking over from the speaker.",
+   "concepts": [
+    "cm:death-by-powerpoint",
+    "cm:wall-of-text"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/death-by-powerpoint.html"
+  },
+  {
+   "id": "cm-000510",
+   "area": "presenting-and-public-speaking",
+   "kind": "practice",
+   "topic": "Death by PowerPoint",
+   "t": "When a leadership review needs detailed ticket data, send it as a one-page handout before the meeting and keep the slides for the live argument and the ask.",
+   "f": "When a leadership review needs detailed ticket data, pack it into the slides so the deck doubles as the record, and skip the separate handout.",
+   "x": "Dense analysis reads better at the reader's own pace in a document; the Columbia board and Tufte both favoured written papers for complex reasoning. A deck meant to be both talk and record usually serves neither.",
+   "concepts": [
+    "cm:death-by-powerpoint",
+    "cm:executive-briefing"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/death-by-powerpoint.html"
+  },
+  {
+   "id": "cm-000511",
+   "area": "presenting-and-public-speaking",
+   "kind": "evidence",
+   "topic": "Death by PowerPoint",
+   "t": "David Farkas argued in 2006 that most faults Tufte blamed on slide software come from unskilled use and organisational culture, so bad slide habits, not slides themselves, are the problem.",
+   "f": "David Farkas argued in 2006 that Tufte was right that slide software itself corrupts reasoning whoever uses it, so teams should stop using slides altogether.",
+   "x": "Farkas challenged Tufte's stronger claim, saying it judges slides as free-standing documents and blames the tool for users' habits. The practical reading is to fix how decks are built, not to ban them.",
+   "concepts": [
+    "cm:death-by-powerpoint",
+    "cm:farkas-2006"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/death-by-powerpoint.html"
+  },
+  {
+   "id": "cm-000512",
+   "area": "questioning-and-conversation",
+   "kind": "scenario",
+   "topic": "Job interview",
+   "t": "An interviewer asks a candidate, \"A key client threatens to leave over a missed deadline. What do you do in the first 24 hours?\" That is a situational question.",
+   "f": "An interviewer asks a candidate, \"A key client threatens to leave over a missed deadline. What do you do in the first 24 hours?\" That is a behavioural question.",
+   "x": "A situational question poses a job-like scenario to respond to; a behavioural one asks about a real past event, as in \"Tell me about a time a client threatened to leave.\" Both work in structured interviews.",
+   "concepts": [
+    "cm:job-interview"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/job-interview.html"
+  },
+  {
+   "id": "cm-000513",
+   "area": "questioning-and-conversation",
+   "kind": "practice",
+   "topic": "Job interview",
+   "t": "Asked how you handle conflicting priorities in an interview, describe one real case: the situation, what you yourself did, and the result, then stop and let the interviewer probe.",
+   "f": "Asked how you handle conflicting priorities in an interview, describe yourself as organised and calm under pressure, then offer a real case only if the interviewer probes.",
+   "x": "A concrete story with your own actions and the outcome gives the interviewer scorable evidence. A self-description like \"I'm very organised\" gives them nothing to rate against the benchmark.",
+   "concepts": [
+    "cm:job-interview"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/job-interview.html"
+  },
+  {
+   "id": "cm-000514",
+   "area": "questioning-and-conversation",
+   "kind": "figure",
+   "topic": "Job interview",
+   "t": "In Sackett, Zhang, Berry and Lievens's 2022 re-analysis, structured interviews had the highest average operational validity of the predictors they examined, about r = .42.",
+   "f": "In Sackett, Zhang, Berry and Lievens's 2022 re-analysis, unstructured interviews had the highest average operational validity of the predictors they examined, about r = .42.",
+   "x": "Structure (same job-based questions, scored against benchmarks) is what made interviews predict job performance best, though results varied widely across studies. Unstructured gut-feel interviews predict less well.",
+   "concepts": [
+    "cm:job-interview",
+    "cm:sackett-zhang-berry-lievens-2022"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/job-interview.html",
+   "asOf": "2022"
+  },
+  {
+   "id": "cm-000515",
+   "area": "writing",
+   "kind": "practice",
+   "topic": "Business report",
+   "t": "If a leadership team is likely to resist your report's recommendation to close a site, lead with the background and evidence and reach the recommendation at the end.",
+   "f": "If a leadership team is likely to resist your report's recommendation to close a site, open with the recommendation in the first lines and let the evidence follow it.",
+   "x": "Textbook guidance ties placement to the reader's likely reaction: recommendation first for neutral or positive readers, evidence first for resistant ones so the case is built before the conclusion lands. Opening cold with an unwelcome recommendation invites rejection before the reasons are heard.",
+   "concepts": [
+    "cm:business-report"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/business-report.html"
+  },
+  {
+   "id": "cm-000516",
+   "area": "writing",
+   "kind": "definition",
+   "topic": "Business report",
+   "t": "Meeting minutes and expense reports are informational reports, presenting facts without judgement, while a feasibility study that recommends a course of action is an analytical report.",
+   "f": "Meeting minutes and expense reports are analytical reports, presenting facts with an interpretation, while a feasibility study that recommends a course of action is an informational report.",
+   "x": "Informational reports record events, activities or conditions without judgement; analytical reports add analysis to solve a problem or recommend something. The false version swaps the two families.",
+   "concepts": [
+    "cm:business-report"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/business-report.html"
+  },
+  {
+   "id": "cm-000517",
+   "area": "writing",
+   "kind": "evidence",
+   "topic": "Business report",
+   "t": "A 2016 systematic review of six randomised trials found evidence summaries probably easier to understand than full reviews, but their effect on whether decision makers actually used the evidence was unclear.",
+   "f": "A 2016 systematic review of six randomised trials found evidence summaries probably easier to understand than full reviews, and found they clearly increased how often decision makers used the evidence.",
+   "x": "Petkovic and colleagues' review supports the comprehension benefit of summary-first formats, not a proven effect on decisions. The trials were also in health policy, so the transfer to ordinary business reports is plausible but untested.",
+   "concepts": [
+    "cm:business-report",
+    "cm:petkovic-et-al-2016"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/business-report.html"
+  },
+  {
+   "id": "cm-000518",
+   "area": "foundations",
+   "kind": "scenario",
+   "topic": "Communication competence",
+   "t": "A project manager ends her request to another team with \"No rush at all, whenever you get a chance, only if it's no trouble,\" and the fix she needs never arrives. In Spitzberg's grid of outcomes, that is sufficing.",
+   "f": "A project manager ends her request to another team with \"No rush at all, whenever you get a chance, only if it's no trouble,\" and the fix she needs never arrives. In Spitzberg's grid of outcomes, that is maximizing.",
+   "x": "Sufficing is polite and appropriate but not effective: nobody was offended, and nothing happened. Maximizing is the opposite corner, where you get your way but break norms or bruise the relationship.",
+   "concepts": [
+    "cm:communication-competence",
+    "cm:brian-spitzberg"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/communication-competence.html"
+  },
+  {
+   "id": "cm-000519",
+   "area": "foundations",
+   "kind": "practice",
+   "topic": "Communication competence",
+   "t": "If you know what to say to a client about a scope overrun and can say it well, yet keep postponing the call, work on the motivation component, your avoidance, rather than studying more phrasing.",
+   "f": "If you know what to say to a client about a scope overrun and can say it well, yet keep postponing the call, work on the knowledge component by studying more phrasing for it.",
+   "x": "The component model splits competence into motivation, knowledge and skill, and each needs a different fix. Knowing what fits and being able to do it, yet avoiding the interaction, points to motivation; more phrasing adds knowledge you already have.",
+   "concepts": [
+    "cm:communication-competence",
+    "cm:communication-apprehension"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/communication-competence.html"
+  },
+  {
+   "id": "cm-000520",
+   "area": "foundations",
+   "kind": "figure",
+   "topic": "Communication competence",
+   "t": "In a 2008 survey of 220 US employees, their rating of the supervisor's communicator competence explained about 68% of the variance in their communication satisfaction.",
+   "f": "In a 2008 survey of 220 US employees, their rating of the supervisor's communicator competence explained about 18% of the variance in their communication satisfaction.",
+   "x": "Madlock found supervisor competence accounted for roughly 68% of communication satisfaction and about 18% of job satisfaction; the false version borrows the job-satisfaction figure. The study is cross-sectional, so it shows association, not cause.",
+   "concepts": [
+    "cm:communication-competence",
+    "cm:madlock-2008"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/communication-competence.html",
+   "asOf": "2008"
+  },
+  {
+   "id": "cm-000521",
+   "area": "negotiation",
+   "kind": "scenario",
+   "topic": "Negotiation",
+   "t": "A finance partner ends a headcount negotiation with a little less than she asked for, but says she felt heard and can defend the deal to her boss. Those feelings of subjective value predict whether she'll deal with you again better than the economic result does.",
+   "f": "A finance partner ends a headcount negotiation with a little less than she asked for, but says she felt heard and can defend the deal to her boss. Those feelings matter less than the economic result in predicting whether she'll deal with you again.",
+   "x": "Curhan, Elfenbein and Xu found feelings about the process, oneself and the relationship predicted later negotiation decisions better than economic outcomes. Feeling heard and being able to save face are exactly those clusters, so they shape the next negotiation.",
+   "concepts": [
+    "cm:negotiation",
+    "cm:subjective-value",
+    "cm:curhan-elfenbein-xu-2006"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/negotiation.html"
+  },
+  {
+   "id": "cm-000522",
+   "area": "negotiation",
+   "kind": "practice",
+   "topic": "Negotiation",
+   "t": "When a supplier's late delivery puts your launch at risk, say plainly that you're disappointed with the offer rather than staging anger, which can win concessions but reliably damages trust.",
+   "f": "When a supplier's late delivery puts your launch at risk, stage some anger at their account rep, since an angry display reliably wins concessions without much cost to the relationship.",
+   "x": "The 2023 review finds anger extracts concessions only under some conditions and reliably harms trust, while expressed disappointment can bring similar gains at lower cost. Displaying emotion you don't feel also shades into deception.",
+   "concepts": [
+    "cm:negotiation",
+    "cm:boothby-cooney-schweitzer-2023"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/negotiation.html"
+  },
+  {
+   "id": "cm-000523",
+   "area": "negotiation",
+   "kind": "figure",
+   "topic": "Negotiation",
+   "t": "ElShenawy's 2010 meta-analysis of negotiation-training experiments linked longer training with much better individual performance (r = .76) than short training (r = .22).",
+   "f": "ElShenawy's 2010 meta-analysis of negotiation-training experiments linked short training with much better individual performance (r = .76) than longer training (r = .22).",
+   "x": "The larger correlation went with longer training. These are laboratory results across 57 experiments, so they say little about long-term transfer to the job; the false version swaps which kind of training did better.",
+   "concepts": [
+    "cm:negotiation",
+    "cm:elshenawy-2010"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/negotiation.html",
+   "asOf": "2010"
+  },
+  {
+   "id": "cm-000524",
+   "area": "digital-and-async-communication",
+   "kind": "scenario",
+   "topic": "Digital communication",
+   "t": "Annoyed by a missed hand-off, an engineer fires off a chat message to a colleague far blunter than anything he would say to her face. That is the uninhibited messaging that reduced social cues make easier, and a reason to reread before sending.",
+   "f": "Annoyed by a missed hand-off, an engineer fires off a chat message to a colleague far blunter than anything he would say to her face. That is the status equalisation that reduced social cues make easier, and a reason to reread before sending.",
+   "x": "The tell is bluntness he would not use in person: with fewer cues about the person and setting, text gets less inhibited. Status equalisation is a different reduced-cues effect, about rank mattering less in who speaks up, and has nothing to do with tone.",
+   "concepts": [
+    "cm:digital-communication",
+    "cm:sproull-kiesler-1986"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/digital-communication.html"
+  },
+  {
+   "id": "cm-000525",
+   "area": "digital-and-async-communication",
+   "kind": "origin",
+   "topic": "Digital communication",
+   "t": "Lee Sproull and Sara Kiesler at Carnegie Mellon framed workplace email as a loss of social context cues, in a 1986 field study at a Fortune 500 company.",
+   "f": "Joseph Walther and Judee Burgoon framed workplace email as a loss of social context cues, in a 1986 field study at a Fortune 500 company.",
+   "x": "The cues-filtered-out framing came from Sproull and Kiesler's field study of real employee email. Walther and Burgoon came later, in 1992, and challenged that picture rather than proposing it.",
+   "concepts": [
+    "cm:digital-communication",
+    "cm:sproull-kiesler-1986"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/digital-communication.html"
+  },
+  {
+   "id": "cm-000526",
+   "area": "digital-and-async-communication",
+   "kind": "mechanism",
+   "topic": "Digital communication",
+   "t": "Walther and Burgoon found time mattered more than medium: computer-mediated groups grew more positive over repeated exchanges, so digital working relationships develop more slowly rather than staying colder.",
+   "f": "Walther and Burgoon found medium mattered more than time: computer-mediated groups stayed less positive however many exchanges they had, so digital working relationships stay colder rather than developing more slowly.",
+   "x": "This is the social information processing view: people carry relational meaning through wording, address and sign-offs, which takes longer in text. Their 1992 study found repeated contact closed much of the gap the cues-filtered-out view had predicted would persist.",
+   "concepts": [
+    "cm:digital-communication",
+    "cm:social-information-processing-theory"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/digital-communication.html"
+  },
+  {
+   "id": "cm-000527",
+   "area": "barriers-and-psychology",
+   "kind": "scenario",
+   "topic": "Communication apprehension",
+   "t": "A developer leaves sharp comments in design docs and talks freely in one-on-ones, but says nothing in the 12-person planning meeting, especially when directors attend. That pattern points to communication apprehension about group settings.",
+   "f": "A developer leaves sharp comments in design docs and talks freely in one-on-ones, but says nothing in the 12-person planning meeting, especially when directors attend. That pattern points to him having little to contribute on planning.",
+   "x": "The tell is a split across settings: strong input in writing and one-to-one, silence where the audience is larger and higher status, both of which raise apprehension. His written comments show he has plenty to add.",
+   "concepts": [
+    "cm:communication-apprehension",
+    "cm:workplace-meetings"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/communication-apprehension.html"
+  },
+  {
+   "id": "cm-000528",
+   "area": "barriers-and-psychology",
+   "kind": "practice",
+   "topic": "Communication apprehension",
+   "t": "To help apprehensive colleagues contribute, a facilitator can share the questions before the meeting and use rounds, small groups or written input instead of relying on the open floor.",
+   "f": "To help apprehensive colleagues contribute, a facilitator can rely on the open floor and call on quiet people without warning, so they get practice speaking up.",
+   "x": "Uncertainty, novelty and audience size all raise apprehension, so advance questions and structured or written routes lower the cost of contributing. Surprise cold-calls add exactly the uncertainty that makes it worse.",
+   "concepts": [
+    "cm:communication-apprehension",
+    "cm:unequal-participation"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/communication-apprehension.html"
+  },
+  {
+   "id": "cm-000529",
+   "area": "barriers-and-psychology",
+   "kind": "definition",
+   "topic": "Communication apprehension",
+   "t": "Communication apprehension is broader than stage fright: McCroskey's PRCA-24 scores it separately for group discussion, meetings, one-to-one conversation and public speaking.",
+   "f": "Communication apprehension is another name for stage fright: McCroskey's PRCA-24 scores it as anxiety about public speaking, with no separate settings.",
+   "x": "The measure covers four settings and adds them into a total, and the subscores show where someone's apprehension sits so practice can target it. Public-speaking anxiety is just its best-known form.",
+   "concepts": [
+    "cm:communication-apprehension",
+    "cm:james-mccroskey",
+    "cm:speaking-anxiety"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/communication-apprehension.html"
+  },
+  {
+   "id": "cm-000530",
+   "area": "nonverbal-and-voice",
+   "kind": "scenario",
+   "topic": "Facial expressions",
+   "t": "An HR lead proposes buying software that scores job candidates' emotions from their faces on recorded video interviews. That is the kind of high-stakes judgement the 2019 Barrett review warned against basing on facial analysis.",
+   "f": "An HR lead proposes buying software that scores job candidates' emotions from their faces on recorded video interviews. That is the kind of high-stakes judgement the 2019 Barrett review said facial analysis can now support.",
+   "x": "The review found that a given expression maps to a given feeling too loosely and inconsistently to infer emotion from the face alone, and named hiring among the uses to avoid. Faces are cues to check, not verdicts to score.",
+   "concepts": [
+    "cm:facial-expressions",
+    "cm:barrett-et-al-2019"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/facial-expressions.html"
+  },
+  {
+   "id": "cm-000531",
+   "area": "nonverbal-and-voice",
+   "kind": "practice",
+   "topic": "Facial expressions",
+   "t": "On a video call, make your nods, smiles and raised eyebrows a little larger than you would in person, so colleagues can see on a small tile that you are following.",
+   "f": "On a video call, make your nods, smiles and raised eyebrows a little smaller than you would in person, since the camera exaggerates every reaction on a small tile.",
+   "x": "A resting face on a small video tile is easily read as disengaged, so deliberate, slightly enlarged reactions help others see you are listening. Shrinking them makes the misreading more likely, not less.",
+   "concepts": [
+    "cm:facial-expressions",
+    "cm:video-call-communication"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/facial-expressions.html"
+  },
+  {
+   "id": "cm-000532",
+   "area": "nonverbal-and-voice",
+   "kind": "figure",
+   "topic": "Facial expressions",
+   "t": "In Cowen, Keltner and colleagues' 2021 study of about 6 million videos, 16 kinds of facial expression were tied to similar social contexts, with about 70% of those links preserved across 12 world regions.",
+   "f": "In Cowen, Keltner and colleagues' 2021 study of about 6 million videos, 16 kinds of facial expression were tied to different social contexts, with only about 20% of those links preserved across 12 world regions.",
+   "x": "The study supports some cross-cultural regularity in when expressions occur, though how often each appeared varied by region. That partial support is why the article lands on contested rather than debunked or settled.",
+   "concepts": [
+    "cm:facial-expressions",
+    "cm:cowen-et-al-2021"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/facial-expressions.html",
+   "asOf": "2021"
+  },
+  {
+   "id": "cm-000533",
+   "area": "thinkers-and-works",
+   "kind": "figure",
+   "topic": "The Effects of Feedback Interventions on Performance",
+   "t": "Pooling 607 effect sizes, Kluger and DeNisi's 1996 meta-analysis put the average effect of feedback interventions on performance at d = 0.41, a moderate gain.",
+   "f": "Pooling 607 effect sizes, Kluger and DeNisi's 1996 meta-analysis put the average effect of feedback interventions on performance at d = 0.91, a very large gain.",
+   "x": "The average was moderate, d = 0.41, and hid wide spread, with many interventions hurting performance. A very large average would not fit the study's message that feedback often backfires.",
+   "concepts": [
+    "cm:kluger-denisi-1996"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/kluger-denisi-1996.html",
+   "asOf": "1996"
+  },
+  {
+   "id": "cm-000534",
+   "area": "thinkers-and-works",
+   "kind": "evidence",
+   "topic": "The Effects of Feedback Interventions on Performance",
+   "t": "In Kluger and DeNisi's meta-analysis, feedback interventions paired with goal setting had stronger effects on performance, while those carrying praise had weaker ones.",
+   "f": "In Kluger and DeNisi's meta-analysis, feedback interventions carrying praise had stronger effects on performance, while those paired with goal setting had weaker ones.",
+   "x": "Goals keep attention on the task, which strengthens feedback; praise pulls attention toward the self and dilutes it. So give feedback with a concrete target, such as two days instead of four next quarter.",
+   "concepts": [
+    "cm:kluger-denisi-1996",
+    "cm:feedback-intervention-theory"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/kluger-denisi-1996.html"
+  },
+  {
+   "id": "cm-000535",
+   "area": "thinkers-and-works",
+   "kind": "origin",
+   "topic": "The Effects of Feedback Interventions on Performance",
+   "t": "Kluger and DeNisi showed that harmful effects of feedback had been reported since the early 1900s but were routinely explained away, partly because influential reviews treated feedback as reliably helpful.",
+   "f": "Kluger and DeNisi showed that harmful effects of feedback were first reported in the late 1980s, shortly before their review, because earlier studies had never measured them.",
+   "x": "Their historical review found the negative effects were old news, dismissed for decades because reviews such as Ammons' 1956 summary assumed feedback always helps. The false version invents a late discovery.",
+   "concepts": [
+    "cm:kluger-denisi-1996",
+    "cm:avraham-n-kluger",
+    "cm:angelo-denisi"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/kluger-denisi-1996.html"
+  },
+  {
+   "id": "cm-000536",
+   "area": "meetings-and-facilitation",
+   "kind": "scenario",
+   "topic": "Group decision making",
+   "t": "Choosing between two vendors, a team spends forty minutes on the pricing everyone saw in the deck, and the security engineer's knowledge of a failed audit never comes up. That is the hidden-profile problem: discussion favours shared information over what one person holds.",
+   "f": "Choosing between two vendors, a team spends forty minutes on the pricing everyone saw in the deck, and the security engineer's knowledge of a failed audit never comes up. That is production blocking: only one person can talk at a time.",
+   "x": "The tell is that the time went to facts all members already knew while one member's unique fact stayed hidden, which is the bias hidden-profile research documents. Production blocking describes ideas lost while people wait their turn in brainstorming, not a pull toward shared facts.",
+   "concepts": [
+    "cm:group-decision-making",
+    "cm:hidden-profile",
+    "cm:brainstorming"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/group-decision-making.html"
+  },
+  {
+   "id": "cm-000537",
+   "area": "meetings-and-facilitation",
+   "kind": "practice",
+   "topic": "Group decision making",
+   "t": "Before a team chooses between two rollout plans, go round each function and ask what it knows about the options that the others might not, so gaps in the pooled information become visible.",
+   "f": "Before a team chooses between two rollout plans, ask the room once whether anyone has concerns, and treat a quiet room as a sign the relevant information has been shared.",
+   "x": "Unique information is what predicts good group decisions, and a general call for concerns lets it stay hidden. Asking each person explicitly what they hold that others lack is the step the board-study authors recommend.",
+   "concepts": [
+    "cm:group-decision-making",
+    "cm:hidden-profile"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/group-decision-making.html"
+  },
+  {
+   "id": "cm-000538",
+   "area": "meetings-and-facilitation",
+   "kind": "evidence",
+   "topic": "Group decision making",
+   "t": "In Schulz-Hardt and colleagues' 2006 study, three-person groups that began by disagreeing found the hidden best option far more often, even when none of them had started out favouring it.",
+   "f": "In Schulz-Hardt and colleagues' 2006 study, three-person groups that began by disagreeing found the hidden best option far more often, but only when at least one of them had started out favouring it.",
+   "x": "Prior dissent helped even when every member's first choice was wrong, because disagreement drives deeper discussion of the information. That is why collecting views independently first and valuing dissent beats smoothing it over.",
+   "concepts": [
+    "cm:group-decision-making",
+    "cm:schulz-hardt-et-al-2006"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/group-decision-making.html"
+  },
+  {
+   "id": "cm-000539",
+   "area": "writing",
+   "kind": "scenario",
+   "topic": "Informative headings",
+   "t": "A product manager's eight-page vendor review goes to a director who will skim it, with headings \"Overview\", \"Findings\", \"Discussion\" and \"Next steps\". These are label headings: each could sit on any document, so the director must open every section to learn its point.",
+   "f": "A product manager's eight-page vendor review goes to a director who will skim it, with headings \"Overview\", \"Findings\", \"Discussion\" and \"Next steps\". These are informative headings: each tells the director what kind of content sits below it.",
+   "x": "Saying what kind of content a section holds is exactly what a label does. An informative heading states the section's point, such as the finding or the decision needed, so the headings alone tell the story.",
+   "concepts": [
+    "cm:informative-headings"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/informative-headings.html"
+  },
+  {
+   "id": "cm-000540",
+   "area": "writing",
+   "kind": "practice",
+   "topic": "Informative headings",
+   "t": "In a decision paper for a busy director, write statement headings such as \"Cutting to 400 seats saves $90K a year\" rather than questions such as \"How much could we save?\"",
+   "f": "In a decision paper for a busy director, write question headings such as \"How much could we save?\" rather than statements such as \"Cutting to 400 seats saves $90K a year\"",
+   "x": "A question heading puts the key idea at the end and withholds your answer, which slows a scanning reader who wants your conclusion. Questions suit FAQs and public pages where you know what people will ask.",
+   "concepts": [
+    "cm:informative-headings",
+    "cm:executive-summary"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/informative-headings.html"
+  },
+  {
+   "id": "cm-000541",
+   "area": "writing",
+   "kind": "evidence",
+   "topic": "Informative headings",
+   "t": "In Lorch and Lorch's 1996 experiments, headings improved readers' recall of unfamiliar topics but not of familiar ones.",
+   "f": "In Lorch and Lorch's 1996 experiments, headings improved readers' recall of familiar topics but not of unfamiliar ones.",
+   "x": "Headings helped most where readers had no prior map of the subject, which is why they matter for newcomers and outsiders. Readers who already knew a topic recalled it about as well without them.",
+   "concepts": [
+    "cm:informative-headings",
+    "cm:lorch-lorch-1996"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/informative-headings.html"
+  },
+  {
+   "id": "cm-000542",
+   "area": "cross-cultural-communication",
+   "kind": "scenario",
+   "topic": "Politeness theory",
+   "t": "Needing a vice president's sign-off on the mockups, a designer posts in a shared channel, \"Still no sign-off on the mockups,\" and hopes he takes the hint. She has gone off record, a strategy a senior reader can simply miss.",
+   "f": "Needing a vice president's sign-off on the mockups, a designer posts in a shared channel, \"Still no sign-off on the mockups,\" and hopes he takes the hint. She has used negative politeness, hedging her request to respect his autonomy.",
+   "x": "A hint that never states the ask is the off-record strategy; negative politeness still makes the request, softened with hedges, questions or apologies (\"Would you be able to sign off by Friday?\"). With higher-status readers, make the actual ask recoverable.",
+   "concepts": [
+    "cm:politeness-theory",
+    "cm:managing-up"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/politeness-theory.html"
+  },
+  {
+   "id": "cm-000543",
+   "area": "cross-cultural-communication",
+   "kind": "practice",
+   "topic": "Politeness theory",
+   "t": "When you must criticise a peer's analysis, redress the threat to her positive face, for instance by naming what she got right, rather than apologising as if you were imposing on her time.",
+   "f": "When you must criticise a peer's analysis, apologise as if you were imposing on her time, rather than redressing the threat to her positive face by naming what she got right.",
+   "x": "Experiments suggest a strategy reads as most polite when it repairs the kind of face the act endangers. Criticism threatens the wish to be valued, so approval fits it; an apology suits a request that imposes on someone's freedom.",
+   "concepts": [
+    "cm:politeness-theory",
+    "cm:face-and-facework"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/politeness-theory.html"
+  },
+  {
+   "id": "cm-000544",
+   "area": "cross-cultural-communication",
+   "kind": "evidence",
+   "topic": "Politeness theory",
+   "t": "In a large study of online requests, Wikipedia editors wrote more politely before winning administrator elections and less politely afterwards, matching the prediction that power lowers politeness.",
+   "f": "In a large study of online requests, Wikipedia editors wrote less politely before winning administrator elections and more politely afterwards, matching the prediction that power raises politeness.",
+   "x": "Danescu-Niculescu-Mizil and colleagues found politeness dropped once editors gained status, and lower-reputation Stack Exchange users were more polite than high-reputation ones. The false version reverses the direction of the power effect.",
+   "concepts": [
+    "cm:politeness-theory",
+    "cm:danescu-niculescu-mizil-et-al-2013"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/politeness-theory.html"
+  },
+  {
+   "id": "cm-000545",
+   "area": "difficult-conversations-and-conflict",
+   "kind": "scenario",
+   "topic": "Nonviolent Communication",
+   "t": "A manager asks a report, \"Would you be willing to send the weekly numbers by Thursday noon?\" When she mentions a clash, he says a slip will show up in her review. In NVC terms, he made a demand.",
+   "f": "A manager asks a report, \"Would you be willing to send the weekly numbers by Thursday noon?\" When she mentions a clash, he says a slip will show up in her review. In NVC terms, he made a request.",
+   "x": "NVC's test is what happens after a \"no\": if declining is punished, it was a demand, however politely it was phrased. A real request stays open to her answer and explores other ways to meet the need.",
+   "concepts": [
+    "cm:nonviolent-communication"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/nonviolent-communication.html"
+  },
+  {
+   "id": "cm-000546",
+   "area": "difficult-conversations-and-conflict",
+   "kind": "practice",
+   "topic": "Nonviolent Communication",
+   "t": "Before raising late plan changes with a colleague, name your need, such as being able to stand behind what the client sees, separately from the one fix you prefer, so other solutions stay open.",
+   "f": "Before raising late plan changes with a colleague, state the one fix you prefer as your need, so the colleague knows exactly what would satisfy you and the talk stays short.",
+   "x": "NVC keeps a need free of any particular person or action; folding your preferred strategy into the need closes off other ways to meet it. Name the value first, then make one concrete request.",
+   "concepts": [
+    "cm:nonviolent-communication",
+    "cm:difficult-conversation"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/nonviolent-communication.html"
+  },
+  {
+   "id": "cm-000547",
+   "area": "difficult-conversations-and-conflict",
+   "kind": "evidence",
+   "topic": "Nonviolent Communication",
+   "t": "A 2024 scoping review found only seven studies of NVC in health-care work, just two of them experimental, so claims that NVC reliably resolves workplace conflict outrun the data.",
+   "f": "A 2024 scoping review found consistent results across dozens of randomised trials of NVC in health-care work, establishing it as a reliable way to resolve workplace conflict.",
+   "x": "The evidence for NVC is encouraging but thin: few, small, mostly non-experimental studies and no large workplace trials. Treat it as a useful discipline, not a proven conflict cure.",
+   "concepts": [
+    "cm:nonviolent-communication",
+    "cm:adriani-et-al-2024"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/nonviolent-communication.html"
+  },
+  {
+   "id": "cm-000548",
+   "area": "executive-and-client-communication",
+   "kind": "scenario",
+   "topic": "Client communication",
+   "t": "At kickoff, an HR director asks the analytics team to \"make the onboarding report better\" but can't say what better would look like. In Ojasalo's terms that is a fuzzy expectation, which the team should turn into a precise, checkable goal before building anything.",
+   "f": "At kickoff, an HR director asks the analytics team to \"make the onboarding report better\" but can't say what better would look like. In Ojasalo's terms that is an implicit expectation, which the team should turn into a precise, checkable goal before building anything.",
+   "x": "Fuzzy means the client wants an improvement without knowing what it is, which is what happens here. An implicit expectation is a specific want the client assumes and never voices, such as expecting mobile access without mentioning it; both need surfacing, but they are different problems.",
+   "concepts": [
+    "cm:client-communication"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/communication-graph/a/client-communication.html"
   }
  ]
 }

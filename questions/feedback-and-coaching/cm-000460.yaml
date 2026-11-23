@@ -1,0 +1,19 @@
+id: cm-000460
+area: feedback-and-coaching
+kind: evidence
+topic: Praise and recognition
+topic_type: Technique
+true_statement: Popular rules that teams need a precise ratio of positive to negative comments, such as 5.6 to 1, trace to a model whose mathematics Brown, Sokal and Friedman showed in 2013 to be unfounded.
+false_statement: Popular rules that teams need a precise ratio of positive to negative comments, such as 5.6 to 1, trace to a model that Brown, Sokal and Friedman confirmed in a 2013 replication.
+explanation: Brown, Sokal and Friedman debunked the Fredrickson-Losada positivity-ratio maths, so there is no magic number. Mostly positive interaction is still sound advice; the precise ratio is the myth.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/praise-and-recognition.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: dc4e2b25f1a1e3c08c2e59f29afbc89a598a1004
+concepts:
+- cm:praise-and-recognition
+- cm:brown-sokal-friedman-2013
+difficulty: 3
+created: '2026-11-23'
+status: active

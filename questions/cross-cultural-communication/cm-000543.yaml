@@ -1,0 +1,19 @@
+id: cm-000543
+area: cross-cultural-communication
+kind: practice
+topic: Politeness theory
+topic_type: Theory
+true_statement: When you must criticise a peer's analysis, redress the threat to her positive face, for instance by naming what she got right, rather than apologising as if you were imposing on her time.
+false_statement: When you must criticise a peer's analysis, apologise as if you were imposing on her time, rather than redressing the threat to her positive face by naming what she got right.
+explanation: Experiments suggest a strategy reads as most polite when it repairs the kind of face the act endangers. Criticism threatens the wish to be valued, so approval fits it; an apology suits a request that imposes on someone's freedom.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/politeness-theory.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: fefd954afcc50e546f63f3572a8c7e6803f00b8d
+concepts:
+- cm:politeness-theory
+- cm:face-and-facework
+difficulty: 3
+created: '2026-11-23'
+status: active

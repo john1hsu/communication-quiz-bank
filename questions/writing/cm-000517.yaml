@@ -1,0 +1,19 @@
+id: cm-000517
+area: writing
+kind: evidence
+topic: Business report
+topic_type: Genre
+true_statement: A 2016 systematic review of six randomised trials found evidence summaries probably easier to understand than full reviews, but their effect on whether decision makers actually used the evidence was unclear.
+false_statement: A 2016 systematic review of six randomised trials found evidence summaries probably easier to understand than full reviews, and found they clearly increased how often decision makers used the evidence.
+explanation: Petkovic and colleagues' review supports the comprehension benefit of summary-first formats, not a proven effect on decisions. The trials were also in health policy, so the transfer to ordinary business reports is plausible but untested.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/business-report.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: c96adf8383cda50c41bddb4affb5c4faebae1c7b
+concepts:
+- cm:business-report
+- cm:petkovic-et-al-2016
+difficulty: 3
+created: '2026-11-23'
+status: active

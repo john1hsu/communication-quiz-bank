@@ -1,0 +1,18 @@
+id: cm-000453
+area: presenting-and-public-speaking
+kind: practice
+topic: Vocal delivery
+topic_type: Skill
+true_statement: If your draft talk runs over its slot when you estimate it at about 150 words a minute, cut text rather than plan to speak faster.
+false_statement: If your draft talk runs over its slot when you estimate it at about 150 words a minute, plan to speak faster rather than cut text.
+explanation: Rushing is one of the delivery problems listeners complain about most, and good speakers slow down for unfamiliar material and near the close. Trimming the script keeps a rate the room can follow.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/vocal-delivery.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 1cad08e1c033ffa8305d63ede72011ffc2ef9e67
+concepts:
+- cm:vocal-delivery
+difficulty: 1
+created: '2026-11-23'
+status: active

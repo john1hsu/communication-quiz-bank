@@ -1,0 +1,20 @@
+id: cm-000464
+area: listening
+kind: scenario
+topic: Conversational narcissism
+topic_type: AntiPattern
+true_statement: Before a team meeting, a lead asks a colleague, "How did your client workshop go?" After a two-word reply, she says, "Mine last week was brilliant - they want a second round." That is boomerasking.
+false_statement: Before a team meeting, a lead asks a colleague, "How did your client workshop go?" After a two-word reply, she says, "Mine last week was brilliant - they want a second round." That is reciprocal self-disclosure.
+explanation: 'The tell is the question used as a launch pad: she asks, barely lets him answer, then answers it herself with a brag. Reciprocal disclosure would alternate her sharing with real interest in his answer.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/conversational-narcissism.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 5c143fb7ae786a965003c7bd5ac61a9658f969d3
+concepts:
+- cm:conversational-narcissism
+- cm:boomerasking
+- cm:reciprocal-self-disclosure
+difficulty: 2
+created: '2026-11-23'
+status: active

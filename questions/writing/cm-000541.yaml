@@ -1,0 +1,19 @@
+id: cm-000541
+area: writing
+kind: evidence
+topic: Informative headings
+topic_type: Technique
+true_statement: In Lorch and Lorch's 1996 experiments, headings improved readers' recall of unfamiliar topics but not of familiar ones.
+false_statement: In Lorch and Lorch's 1996 experiments, headings improved readers' recall of familiar topics but not of unfamiliar ones.
+explanation: Headings helped most where readers had no prior map of the subject, which is why they matter for newcomers and outsiders. Readers who already knew a topic recalled it about as well without them.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/informative-headings.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 56b23cfc82f88ab97a1f5013a986fa67c093ade9
+concepts:
+- cm:informative-headings
+- cm:lorch-lorch-1996
+difficulty: 3
+created: '2026-11-23'
+status: active

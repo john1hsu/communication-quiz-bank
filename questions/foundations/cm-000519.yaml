@@ -1,0 +1,19 @@
+id: cm-000519
+area: foundations
+kind: practice
+topic: Communication competence
+topic_type: Skill
+true_statement: If you know what to say to a client about a scope overrun and can say it well, yet keep postponing the call, work on the motivation component, your avoidance, rather than studying more phrasing.
+false_statement: If you know what to say to a client about a scope overrun and can say it well, yet keep postponing the call, work on the knowledge component by studying more phrasing for it.
+explanation: The component model splits competence into motivation, knowledge and skill, and each needs a different fix. Knowing what fits and being able to do it, yet avoiding the interaction, points to motivation; more phrasing adds knowledge you already have.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/communication-competence.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: f6feea74292a703bfd095cc3fac102f4af285e02
+concepts:
+- cm:communication-competence
+- cm:communication-apprehension
+difficulty: 2
+created: '2026-11-23'
+status: active

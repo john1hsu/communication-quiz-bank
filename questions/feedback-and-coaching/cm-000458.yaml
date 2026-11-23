@@ -1,0 +1,19 @@
+id: cm-000458
+area: feedback-and-coaching
+kind: scenario
+topic: Praise and recognition
+topic_type: Technique
+true_statement: 'A manager messages an analyst: "Thanks for catching the duplicate invoices on Friday - the client got a clean report and renewed. Next time, though, loop me in sooner." Tacking the correction onto the thanks muddies the recognition.'
+false_statement: 'A manager messages an analyst: "Thanks for catching the duplicate invoices on Friday - the client got a clean report and renewed. Next time, though, loop me in sooner." Adding the correction makes the recognition more useful.'
+explanation: 'Recognition works best kept clean: no "but", correction or new request in the same message, or people learn to brace for the catch. Give the thanks on its own and raise the timing point separately.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/praise-and-recognition.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: dc4e2b25f1a1e3c08c2e59f29afbc89a598a1004
+concepts:
+- cm:praise-and-recognition
+- cm:feedback-sandwich
+difficulty: 2
+created: '2026-11-23'
+status: active

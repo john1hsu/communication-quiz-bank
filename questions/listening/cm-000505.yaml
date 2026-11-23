@@ -1,0 +1,19 @@
+id: cm-000505
+area: listening
+kind: origin
+topic: Support response
+topic_type: Technique
+true_statement: Charles Derber drew the shift-support distinction from more than a hundred recorded dinner conversations, in which shift responses were the more common of the two.
+false_statement: Charles Derber drew the shift-support distinction from more than a hundred recorded dinner conversations, in which support responses were the more common of the two.
+explanation: Derber, a Boston College sociologist, found shift responses predominated and saw their habitual use as the core of conversational narcissism. His categories come from observation, not controlled experiments.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/support-response.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 05439440c8bc05e5a67b7f9f88672d407d45671b
+concepts:
+- cm:support-response
+- cm:charles-derber
+difficulty: 2
+created: '2026-11-23'
+status: active

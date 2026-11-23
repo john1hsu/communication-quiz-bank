@@ -1,0 +1,20 @@
+id: cm-000523
+area: negotiation
+kind: figure
+topic: Negotiation
+topic_type: Context
+true_statement: ElShenawy's 2010 meta-analysis of negotiation-training experiments linked longer training with much better individual performance (r = .76) than short training (r = .22).
+false_statement: ElShenawy's 2010 meta-analysis of negotiation-training experiments linked short training with much better individual performance (r = .76) than longer training (r = .22).
+explanation: The larger correlation went with longer training. These are laboratory results across 57 experiments, so they say little about long-term transfer to the job; the false version swaps which kind of training did better.
+as_of: '2010'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/negotiation.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: dfeaf27e90c6c076141ef9b777f8237fa1107830
+concepts:
+- cm:negotiation
+- cm:elshenawy-2010
+difficulty: 3
+created: '2026-11-23'
+status: active

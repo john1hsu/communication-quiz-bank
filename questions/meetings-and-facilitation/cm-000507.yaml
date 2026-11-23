@@ -1,0 +1,19 @@
+id: cm-000507
+area: meetings-and-facilitation
+kind: practice
+topic: Devil's advocacy
+topic_type: Technique
+true_statement: When a room seems agreed on a vendor switch, name a colleague as devil's advocate, say openly that the role is assigned, and have the proposal's owner answer each of her objections before you decide.
+false_statement: When a room seems agreed on a vendor switch, ask "Any objections?" and, if nobody speaks up, take the silence as a tested decision and sign the contract.
+explanation: An open call for objections in a room that already looks aligned rarely surfaces doubts. Assigning and labelling the critic role makes challenge part of the job rather than disloyalty, and forces the owner to deal with specific weaknesses before committing.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/devils-advocacy.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: c380b891b2785c5c68a8072e1839b8a364e73362
+concepts:
+- cm:devils-advocacy
+- cm:group-decision-making
+difficulty: 1
+created: '2026-11-23'
+status: active

@@ -1,0 +1,20 @@
+id: cm-000465
+area: listening
+kind: evidence
+topic: Conversational narcissism
+topic_type: AntiPattern
+true_statement: In Yeomans and Brooks's studies, most people expected that asking a question before sharing their own news would make a better impression, yet boomeraskers were judged less sincere and less likeable.
+false_statement: In Yeomans and Brooks's studies, people who asked a question before sharing their own news were judged more sincere and likeable, as most of them had expected.
+explanation: 'Across eight studies, the warm-up question backfired: partners rated boomeraskers as less sincere and less likeable, contrary to what the askers predicted. The cost comes from the question being a pretext.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/conversational-narcissism.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 5c143fb7ae786a965003c7bd5ac61a9658f969d3
+concepts:
+- cm:conversational-narcissism
+- cm:yeomans-brooks-2025
+- cm:boomerasking
+difficulty: 3
+created: '2026-11-23'
+status: active

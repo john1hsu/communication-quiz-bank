@@ -1,0 +1,19 @@
+id: cm-000526
+area: digital-and-async-communication
+kind: mechanism
+topic: Digital communication
+topic_type: Field
+true_statement: 'Walther and Burgoon found time mattered more than medium: computer-mediated groups grew more positive over repeated exchanges, so digital working relationships develop more slowly rather than staying colder.'
+false_statement: 'Walther and Burgoon found medium mattered more than time: computer-mediated groups stayed less positive however many exchanges they had, so digital working relationships stay colder rather than developing more slowly.'
+explanation: 'This is the social information processing view: people carry relational meaning through wording, address and sign-offs, which takes longer in text. Their 1992 study found repeated contact closed much of the gap the cues-filtered-out view had predicted would persist.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/digital-communication.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 002dc352fe9e680f723d8651813a4c814506502a
+concepts:
+- cm:digital-communication
+- cm:social-information-processing-theory
+difficulty: 2
+created: '2026-11-23'
+status: active

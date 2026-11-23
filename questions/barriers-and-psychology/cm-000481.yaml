@@ -1,0 +1,18 @@
+id: cm-000481
+area: barriers-and-psychology
+kind: evidence
+topic: Hot-cold empathy gap
+topic_type: Barrier
+true_statement: In Nordgren's research, people who were not tired or in pain blamed a struggling person's poor performance on low motivation, and simply telling them to empathise did not close that gap.
+false_statement: In Nordgren's research, people who were not tired or in pain blamed a struggling person's poor performance on low motivation, and simply telling them to empathise was enough to close that gap.
+explanation: A bare instruction to empathise left the cold group's judgments unchanged, which is why the advice is to ask the other person and assume their experience is worse than it looks. Awareness is a prompt to check, not a cure.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/empathy-gap.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: a72ab33ed8c313eb4b6ca4cb24d0e6e75a5e68d1
+concepts:
+- cm:empathy-gap
+difficulty: 3
+created: '2026-11-23'
+status: active

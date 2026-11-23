@@ -1,0 +1,19 @@
+id: cm-000509
+area: presenting-and-public-speaking
+kind: scenario
+topic: Death by PowerPoint
+topic_type: AntiPattern
+true_statement: 'At a quarterly review, a lead puts nine bullets in small type on each slide and reads every line aloud word for word while the leaders read along. That is death by PowerPoint: the slides carry the talk and compete with the speaker.'
+false_statement: 'At a quarterly review, a lead puts nine bullets in small type on each slide and reads every line aloud word for word while the leaders read along. That is a wall of text: one unbroken block with nothing to guide the eye.'
+explanation: Crowded bullet slides read aloud verbatim are the two signature faults audiences complained about most. A wall of text is an unbroken paragraph in writing; here the problem is fragmented bullets taking over from the speaker.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/death-by-powerpoint.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: eacfc93f0253338aad0109a6dd4132da20ef3705
+concepts:
+- cm:death-by-powerpoint
+- cm:wall-of-text
+difficulty: 1
+created: '2026-11-23'
+status: active

@@ -1,0 +1,20 @@
+id: cm-000480
+area: barriers-and-psychology
+kind: practice
+topic: Hot-cold empathy gap
+topic_type: Barrier
+true_statement: When a colleague describes burnout from a release crunch you also lived through, keep the focus on her account and validate it, rather than retelling how you got through yours.
+false_statement: When a colleague describes burnout from a release crunch you also lived through, start by retelling how you got through yours, since shared experience makes your support land better.
+explanation: A 2024 set of studies found that people who had endured the same distress offered compassion sufferers rated as less helpful, partly because they turned to their own story and validated less. Having been there is a warning sign, not a credential.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/empathy-gap.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: a72ab33ed8c313eb4b6ca4cb24d0e6e75a5e68d1
+concepts:
+- cm:empathy-gap
+- cm:workplace-compassion
+- cm:support-response
+difficulty: 2
+created: '2026-11-23'
+status: active

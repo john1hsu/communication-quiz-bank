@@ -1,0 +1,19 @@
+id: cm-000452
+area: presenting-and-public-speaking
+kind: scenario
+topic: Vocal delivery
+topic_type: Skill
+true_statement: Giving a budget update, a project lead slows down as she reaches the 18% overrun, says the figure louder, pauses, then makes her request, and the room asks about the number. Her voice is flagging what listeners should remember.
+false_statement: Giving a budget update, a project lead slows down as she reaches the 18% overrun, says the figure louder, pauses, then makes her request, and the room asks about the number. Her voice is signalling doubt about the figure.
+explanation: Slowing, a lift in volume and a deliberate silent pause together mark the key point and give listeners time to take it in. A planned pause before a stated request adds weight; it isn't the trailing-off of someone unsure.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/vocal-delivery.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 1cad08e1c033ffa8305d63ede72011ffc2ef9e67
+concepts:
+- cm:vocal-delivery
+- cm:silence-and-pauses
+difficulty: 2
+created: '2026-11-23'
+status: active

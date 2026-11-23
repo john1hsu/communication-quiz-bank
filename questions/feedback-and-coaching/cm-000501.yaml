@@ -1,0 +1,20 @@
+id: cm-000501
+area: feedback-and-coaching
+kind: practice
+topic: Radical candor
+topic_type: Framework
+true_statement: To start practising radical candor with a team, first ask for criticism of yourself, such as what you could stop doing to be easier to work with, then wait out the silence and reward the honesty.
+false_statement: To start practising radical candor with a team, first give each report one piece of direct criticism, so they see candor modelled before you ask for criticism of yourself.
+explanation: Scott's advice begins with soliciting feedback, not giving it; leading with criticism is how the approach slides into obnoxious aggression. Rewarding the first honest answer shows the request is real.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/radical-candor.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 613313474c4a04ee765c54243134560764d5b9ed
+concepts:
+- cm:radical-candor
+- cm:kim-scott
+- cm:receiving-feedback
+difficulty: 2
+created: '2026-11-23'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000482
+area: digital-and-async-communication
+kind: scenario
+topic: Chat etiquette
+topic_type: Technique
+true_statement: Two engineers sort out a recurring build-config error over direct messages. A week later a third engineer asks the same question in the team channel and nobody can point to the answer. Solving it privately was a chat-etiquette mistake, because it hid the answer from the next person who needed it.
+false_statement: Two engineers sort out a recurring build-config error over direct messages. A week later a third engineer asks the same question in the team channel and nobody can point to the answer. Solving it privately was good chat etiquette, because it kept the team channel free of noise.
+explanation: Direct messages suit genuinely private or one-person matters; a team problem belongs in a channel thread so the answer stays findable. The tell is the repeat question that nobody can answer from the record.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/chat-etiquette.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 1b033a849879d8eedf7f47a2b5cd648c7f11831d
+concepts:
+- cm:chat-etiquette
+- cm:instant-messaging
+difficulty: 2
+created: '2026-11-23'
+status: active

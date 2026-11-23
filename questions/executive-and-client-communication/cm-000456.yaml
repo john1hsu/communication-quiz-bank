@@ -1,0 +1,18 @@
+id: cm-000456
+area: executive-and-client-communication
+kind: practice
+topic: Escalating a problem
+topic_type: Technique
+true_statement: Once you have escalated a scope dispute and are waiting for the sponsor's decision, keep the team working to the current plan, then confirm the decision in writing to everyone affected when it comes.
+false_statement: Once you have escalated a scope dispute and are waiting for the sponsor's decision, pause the affected work so nothing is wasted, then confirm the decision in writing to everyone affected when it comes.
+explanation: Practitioner guidance lists halting work while a decision is pending as a common escalation mistake; the plan in force stays in force until someone with authority changes it. Pausing turns the escalation into a delay of its own.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/escalation-communication.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 40dd73d2f8c471bfd6c3e58b26afd27939edb4f1
+concepts:
+- cm:escalation-communication
+difficulty: 2
+created: '2026-11-23'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000478
+area: nonverbal-and-voice
+kind: evidence
+topic: Thought groups
+topic_type: Technique
+true_statement: Inserting short pauses at phrase boundaries in radio news raised second-language listeners' comprehension, most for lower-level learners, though that result comes from a single master's thesis.
+false_statement: Inserting short pauses at phrase boundaries in radio news raised second-language listeners' comprehension, most for advanced learners, though that result comes from a single master's thesis.
+explanation: Van Loon's experiment found the biggest gain for the weakest listeners, which is why chunking matters most for second-language audiences and poor connections. Being one thesis, it is suggestive rather than settled.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/thought-groups.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: d64d7bc3582b3d021c190a09e381f8f26bfb91d5
+concepts:
+- cm:thought-groups
+- cm:van-loon-2000
+difficulty: 3
+created: '2026-11-23'
+status: active

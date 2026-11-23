@@ -1,0 +1,19 @@
+id: cm-000488
+area: cross-cultural-communication
+kind: scenario
+topic: Intercultural competence
+topic_type: Skill
+true_statement: On a call with a partner office, a consultant gets the delivery date she wanted by overruling their lead in front of his own team, who stay cold for weeks afterwards. By Deardorff's test, her behaviour was effective but not appropriate.
+false_statement: On a call with a partner office, a consultant gets the delivery date she wanted by overruling their lead in front of his own team, who stay cold for weeks afterwards. By Deardorff's test, her behaviour was appropriate but not effective.
+explanation: 'Deardorff''s outcome has two parts: effective means you reached your goal, appropriate means the other side saw your conduct as acceptable. She got the date, so it was effective; the public overruling and the chill that followed show it was not appropriate.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/intercultural-competence.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 819961240cdf65b0955838c4d4deb7964f3b132a
+concepts:
+- cm:intercultural-competence
+- cm:face-and-facework
+difficulty: 2
+created: '2026-11-23'
+status: active

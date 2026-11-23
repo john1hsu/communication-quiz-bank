@@ -1,0 +1,19 @@
+id: cm-000525
+area: digital-and-async-communication
+kind: origin
+topic: Digital communication
+topic_type: Field
+true_statement: Lee Sproull and Sara Kiesler at Carnegie Mellon framed workplace email as a loss of social context cues, in a 1986 field study at a Fortune 500 company.
+false_statement: Joseph Walther and Judee Burgoon framed workplace email as a loss of social context cues, in a 1986 field study at a Fortune 500 company.
+explanation: The cues-filtered-out framing came from Sproull and Kiesler's field study of real employee email. Walther and Burgoon came later, in 1992, and challenged that picture rather than proposing it.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/digital-communication.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 002dc352fe9e680f723d8651813a4c814506502a
+concepts:
+- cm:digital-communication
+- cm:sproull-kiesler-1986
+difficulty: 2
+created: '2026-11-23'
+status: active

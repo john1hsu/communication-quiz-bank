@@ -1,0 +1,18 @@
+id: cm-000548
+area: executive-and-client-communication
+kind: scenario
+topic: Client communication
+topic_type: Context
+true_statement: At kickoff, an HR director asks the analytics team to "make the onboarding report better" but can't say what better would look like. In Ojasalo's terms that is a fuzzy expectation, which the team should turn into a precise, checkable goal before building anything.
+false_statement: At kickoff, an HR director asks the analytics team to "make the onboarding report better" but can't say what better would look like. In Ojasalo's terms that is an implicit expectation, which the team should turn into a precise, checkable goal before building anything.
+explanation: Fuzzy means the client wants an improvement without knowing what it is, which is what happens here. An implicit expectation is a specific want the client assumes and never voices, such as expecting mobile access without mentioning it; both need surfacing, but they are different problems.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/client-communication.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: c653723bb3490d74f14c80e30852b2f7051a6f18
+concepts:
+- cm:client-communication
+difficulty: 2
+created: '2026-11-23'
+status: active

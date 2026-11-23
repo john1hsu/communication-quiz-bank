@@ -1,0 +1,19 @@
+id: cm-000451
+area: persuasion-and-influence
+kind: evidence
+topic: Charismatic leadership tactics
+topic_type: Technique
+true_statement: Ernst, Banks and colleagues' 2021 prospective meta-analysis in five countries found charismatic tactics improved performance face to face but had essentially no effect in virtual settings.
+false_statement: Ernst, Banks and colleagues' 2021 prospective meta-analysis in five countries found charismatic tactics improved performance most strongly in virtual settings, more than face to face.
+explanation: The pooled virtual effect was close to zero while in-person effects were moderate to large, so a charismatic video or email message needs a clear written summary of the substance rather than relying on the tactics.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/charismatic-leadership-tactics.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: e5de22e9492438ff7228c90d53c1160d77956084
+concepts:
+- cm:charismatic-leadership-tactics
+- cm:ernst-et-al-2021
+difficulty: 3
+created: '2026-11-23'
+status: active

@@ -1,0 +1,19 @@
+id: cm-000534
+area: thinkers-and-works
+kind: evidence
+topic: The Effects of Feedback Interventions on Performance
+topic_type: Study
+true_statement: In Kluger and DeNisi's meta-analysis, feedback interventions paired with goal setting had stronger effects on performance, while those carrying praise had weaker ones.
+false_statement: In Kluger and DeNisi's meta-analysis, feedback interventions carrying praise had stronger effects on performance, while those paired with goal setting had weaker ones.
+explanation: Goals keep attention on the task, which strengthens feedback; praise pulls attention toward the self and dilutes it. So give feedback with a concrete target, such as two days instead of four next quarter.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/kluger-denisi-1996.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: e4ee6b04894151cbfb34b9514a698d67f7f01a08
+concepts:
+- cm:kluger-denisi-1996
+- cm:feedback-intervention-theory
+difficulty: 2
+created: '2026-11-23'
+status: active

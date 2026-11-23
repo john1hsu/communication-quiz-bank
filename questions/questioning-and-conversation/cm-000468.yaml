@@ -1,0 +1,19 @@
+id: cm-000468
+area: questioning-and-conversation
+kind: practice
+topic: Follow-up questions
+topic_type: Technique
+true_statement: When probing a colleague's account of a project, use an expansive probe such as "What did that look like?" when you need breadth, and a targeted one such as "How sure are you?" when you need precision.
+false_statement: When probing a colleague's account of a project, use a targeted probe such as "How sure are you?" when you need breadth, and an expansive one such as "What did that look like?" when you need precision.
+explanation: Expansive probes open the answer up and gather more detail; targeted probes pin down one point, such as confidence or how a decision was made. Choose by whether you need range or exactness.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/follow-up-questions.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: e96bb549ecf6ea75c0dfcc30c6ddf9f8f6f7f9dd
+concepts:
+- cm:follow-up-questions
+- cm:questioning
+difficulty: 2
+created: '2026-11-23'
+status: active

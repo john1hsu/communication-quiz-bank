@@ -1,0 +1,19 @@
+id: cm-000475
+area: negotiation
+kind: evidence
+topic: Mythical fixed-pie bias
+topic_type: Barrier
+true_statement: Kern, Brett, Weingart and Eck found that people entering multiparty negotiations held weaker fixed-pie perceptions than people negotiating in pairs.
+false_statement: Kern, Brett, Weingart and Eck found that people entering multiparty negotiations held stronger fixed-pie perceptions than people negotiating in pairs.
+explanation: Across three studies and an internal meta-analysis, the fixed-pie belief was weaker when more than two parties were at the table. The false version reverses the direction of the effect; note that most of this evidence comes from simulations.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/mythical-fixed-pie.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 0fc6ab658deae27600b2f3403f999383434a5ebd
+concepts:
+- cm:mythical-fixed-pie
+- cm:kern-brett-weingart-eck-2020
+difficulty: 3
+created: '2026-11-23'
+status: active

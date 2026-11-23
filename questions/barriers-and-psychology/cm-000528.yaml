@@ -1,0 +1,19 @@
+id: cm-000528
+area: barriers-and-psychology
+kind: practice
+topic: Communication apprehension
+topic_type: Barrier
+true_statement: To help apprehensive colleagues contribute, a facilitator can share the questions before the meeting and use rounds, small groups or written input instead of relying on the open floor.
+false_statement: To help apprehensive colleagues contribute, a facilitator can rely on the open floor and call on quiet people without warning, so they get practice speaking up.
+explanation: Uncertainty, novelty and audience size all raise apprehension, so advance questions and structured or written routes lower the cost of contributing. Surprise cold-calls add exactly the uncertainty that makes it worse.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/communication-apprehension.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 05d6334304022d2fa006177e293c7388fc877522
+concepts:
+- cm:communication-apprehension
+- cm:unequal-participation
+difficulty: 2
+created: '2026-11-23'
+status: active

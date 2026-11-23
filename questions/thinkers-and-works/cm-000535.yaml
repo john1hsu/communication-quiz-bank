@@ -1,0 +1,20 @@
+id: cm-000535
+area: thinkers-and-works
+kind: origin
+topic: The Effects of Feedback Interventions on Performance
+topic_type: Study
+true_statement: Kluger and DeNisi showed that harmful effects of feedback had been reported since the early 1900s but were routinely explained away, partly because influential reviews treated feedback as reliably helpful.
+false_statement: Kluger and DeNisi showed that harmful effects of feedback were first reported in the late 1980s, shortly before their review, because earlier studies had never measured them.
+explanation: Their historical review found the negative effects were old news, dismissed for decades because reviews such as Ammons' 1956 summary assumed feedback always helps. The false version invents a late discovery.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/kluger-denisi-1996.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: e4ee6b04894151cbfb34b9514a698d67f7f01a08
+concepts:
+- cm:kluger-denisi-1996
+- cm:avraham-n-kluger
+- cm:angelo-denisi
+difficulty: 2
+created: '2026-11-23'
+status: active

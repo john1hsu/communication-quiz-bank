@@ -1,0 +1,20 @@
+id: cm-000493
+area: persuasion-and-influence
+kind: figure
+topic: Impression management
+topic_type: Theory
+true_statement: In Barrick and colleagues' 2009 meta-analysis, impression management correlated more strongly with interview ratings (.47) than with later job performance ratings (.15).
+false_statement: In Barrick and colleagues' 2009 meta-analysis, impression management correlated more strongly with later job performance ratings (.47) than with interview ratings (.15).
+explanation: Self-presentation sways interviewers far more than it shows up in later performance ratings, a warning that what impresses in an interview does not always predict performance on the job.
+as_of: '2009'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/impression-management.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: be9d13b3d896989b16ebf672438cc62bfe0db674
+concepts:
+- cm:impression-management
+- cm:job-interview
+difficulty: 3
+created: '2026-11-23'
+status: active

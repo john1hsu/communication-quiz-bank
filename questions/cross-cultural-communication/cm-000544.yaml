@@ -1,0 +1,19 @@
+id: cm-000544
+area: cross-cultural-communication
+kind: evidence
+topic: Politeness theory
+topic_type: Theory
+true_statement: In a large study of online requests, Wikipedia editors wrote more politely before winning administrator elections and less politely afterwards, matching the prediction that power lowers politeness.
+false_statement: In a large study of online requests, Wikipedia editors wrote less politely before winning administrator elections and more politely afterwards, matching the prediction that power raises politeness.
+explanation: Danescu-Niculescu-Mizil and colleagues found politeness dropped once editors gained status, and lower-reputation Stack Exchange users were more polite than high-reputation ones. The false version reverses the direction of the power effect.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/politeness-theory.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: fefd954afcc50e546f63f3572a8c7e6803f00b8d
+concepts:
+- cm:politeness-theory
+- cm:danescu-niculescu-mizil-et-al-2013
+difficulty: 3
+created: '2026-11-23'
+status: active

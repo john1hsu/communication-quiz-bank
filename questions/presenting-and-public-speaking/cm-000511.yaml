@@ -1,0 +1,19 @@
+id: cm-000511
+area: presenting-and-public-speaking
+kind: evidence
+topic: Death by PowerPoint
+topic_type: AntiPattern
+true_statement: David Farkas argued in 2006 that most faults Tufte blamed on slide software come from unskilled use and organisational culture, so bad slide habits, not slides themselves, are the problem.
+false_statement: David Farkas argued in 2006 that Tufte was right that slide software itself corrupts reasoning whoever uses it, so teams should stop using slides altogether.
+explanation: Farkas challenged Tufte's stronger claim, saying it judges slides as free-standing documents and blames the tool for users' habits. The practical reading is to fix how decks are built, not to ban them.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/death-by-powerpoint.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: eacfc93f0253338aad0109a6dd4132da20ef3705
+concepts:
+- cm:death-by-powerpoint
+- cm:farkas-2006
+difficulty: 3
+created: '2026-11-23'
+status: active

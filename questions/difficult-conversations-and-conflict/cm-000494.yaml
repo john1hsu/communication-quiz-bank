@@ -1,0 +1,20 @@
+id: cm-000494
+area: difficult-conversations-and-conflict
+kind: scenario
+topic: Cooling-off period
+topic_type: Technique
+true_statement: Stung by a terse email copied to her manager, an engineer holds off replying but spends the hour rereading it and venting to a teammate. Her pause has become rumination, which tends to leave people angrier.
+false_statement: Stung by a terse email copied to her manager, an engineer holds off replying but spends the hour rereading it and venting to a teammate. Her pause is a cooling-off period working as intended.
+explanation: What fills the gap decides whether it cools you down. Replaying the slight and venting keep the anger hot; an absorbing, unrelated task is what let anger fade in the experiments.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/cooling-off-period.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 340b2c13776e7939e4d9f2acf9a845e4904ce8a0
+concepts:
+- cm:cooling-off-period
+- cm:emotion-regulation
+- cm:wang-et-al-2011
+difficulty: 2
+created: '2026-11-23'
+status: active

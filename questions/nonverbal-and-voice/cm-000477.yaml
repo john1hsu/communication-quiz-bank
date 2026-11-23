@@ -1,0 +1,18 @@
+id: cm-000477
+area: nonverbal-and-voice
+kind: practice
+topic: Thought groups
+topic_type: Technique
+true_statement: When reporting revenue, growth and margin aloud, give each figure its own chunk with a short silent pause after it, rather than running all three together in one breath.
+false_statement: When reporting revenue, growth and margin aloud, run all three figures together in one breath and pause once at the end, rather than pausing after each figure.
+explanation: A pause and slight pitch drop after each number lets listeners hear which figure goes with which measure and hold it before the next arrives. Strung together, the figures blur, which is the problem the finance example fixes.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/thought-groups.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: d64d7bc3582b3d021c190a09e381f8f26bfb91d5
+concepts:
+- cm:thought-groups
+difficulty: 1
+created: '2026-11-23'
+status: active

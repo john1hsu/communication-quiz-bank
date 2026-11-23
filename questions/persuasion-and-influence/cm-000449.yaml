@@ -1,0 +1,18 @@
+id: cm-000449
+area: persuasion-and-influence
+kind: scenario
+topic: Charismatic leadership tactics
+topic_type: Technique
+true_statement: 'Announcing a reorg, a director opens: "We can keep three teams fighting over one backlog, or give one team the whole thing - I''d choose the second." That opening uses a contrast, one of the charismatic leadership tactics.'
+false_statement: 'Announcing a reorg, a director opens: "We can keep three teams fighting over one backlog, or give one team the whole thing - I''d choose the second." That opening uses a metaphor, one of the charismatic leadership tactics.'
+explanation: The line sets two options side by side, what we could keep doing versus what we will do, which is the contrast tactic. Nothing is described in terms of something else, so it isn't a metaphor.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/charismatic-leadership-tactics.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: e5de22e9492438ff7228c90d53c1160d77956084
+concepts:
+- cm:charismatic-leadership-tactics
+difficulty: 2
+created: '2026-11-23'
+status: active

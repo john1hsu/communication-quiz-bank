@@ -1,0 +1,19 @@
+id: cm-000472
+area: writing
+kind: evidence
+topic: Burying the lede
+topic_type: AntiPattern
+true_statement: A 2026 experiment on health journalism found narrative articles produced higher comprehension and interest than inverted-pyramid versions, so putting the point first is not always best for learning.
+false_statement: A 2026 experiment on health journalism found inverted-pyramid articles produced higher comprehension and interest than narrative versions, confirming that putting the point first is always best for learning.
+explanation: The narrative versions won on comprehension and interest, which is why the article's evidence status is mixed. Leading with the point matters most for busy readers who must act; a story-first structure can suit writing meant to be read in full.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/burying-the-lede.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 7d5cab02005bbcc5b9f8d863263e196ed09bbf4e
+concepts:
+- cm:burying-the-lede
+- cm:ameseder-devetak-skubic-2026
+difficulty: 3
+created: '2026-11-23'
+status: active

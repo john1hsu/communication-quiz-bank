@@ -1,0 +1,19 @@
+id: cm-000479
+area: barriers-and-psychology
+kind: scenario
+topic: Hot-cold empathy gap
+topic_type: Barrier
+true_statement: A well-rested reviewer finds an error in a report a colleague wrote at the end of a 14-hour on-call shift and comments, "This is just sloppy." Reading a fatigued colleague's slip as a character flaw is the hot-cold empathy gap.
+false_statement: A well-rested reviewer finds an error in a report a colleague wrote at the end of a 14-hour on-call shift and comments, "This is just sloppy." Reading a fatigued colleague's slip as a character flaw is the curse of knowledge.
+explanation: 'The tell is a difference in state: a calm, rested judge underestimates how much fatigue drives behaviour and blames motivation instead of circumstances. The curse of knowledge is about being unable to forget what you know, not about misjudging someone''s emotional or physical state.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/empathy-gap.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: a72ab33ed8c313eb4b6ca4cb24d0e6e75a5e68d1
+concepts:
+- cm:empathy-gap
+- cm:curse-of-knowledge
+difficulty: 2
+created: '2026-11-23'
+status: active

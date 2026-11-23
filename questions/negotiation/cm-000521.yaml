@@ -1,0 +1,20 @@
+id: cm-000521
+area: negotiation
+kind: scenario
+topic: Negotiation
+topic_type: Context
+true_statement: A finance partner ends a headcount negotiation with a little less than she asked for, but says she felt heard and can defend the deal to her boss. Those feelings of subjective value predict whether she'll deal with you again better than the economic result does.
+false_statement: A finance partner ends a headcount negotiation with a little less than she asked for, but says she felt heard and can defend the deal to her boss. Those feelings matter less than the economic result in predicting whether she'll deal with you again.
+explanation: Curhan, Elfenbein and Xu found feelings about the process, oneself and the relationship predicted later negotiation decisions better than economic outcomes. Feeling heard and being able to save face are exactly those clusters, so they shape the next negotiation.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/negotiation.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: dfeaf27e90c6c076141ef9b777f8237fa1107830
+concepts:
+- cm:negotiation
+- cm:subjective-value
+- cm:curhan-elfenbein-xu-2006
+difficulty: 2
+created: '2026-11-23'
+status: active

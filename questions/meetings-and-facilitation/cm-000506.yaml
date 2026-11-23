@@ -1,0 +1,19 @@
+id: cm-000506
+area: meetings-and-facilitation
+kind: scenario
+topic: Devil's advocacy
+topic_type: Technique
+true_statement: Before approving a data-warehouse migration, a director asks a small sub-team to build a complete alternative plan and then has the two plans debated side by side. That is dialectical inquiry.
+false_statement: Before approving a data-warehouse migration, a director asks a small sub-team to build a complete alternative plan and then has the two plans debated side by side. That is devil's advocacy.
+explanation: 'The tell is the full counter-plan: dialectical inquiry builds and debates a rival option. A devil''s advocate instead critiques the leading proposal''s assumptions, evidence and logic without having to author a whole alternative.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/devils-advocacy.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: c380b891b2785c5c68a8072e1839b8a364e73362
+concepts:
+- cm:devils-advocacy
+- cm:dialectical-inquiry
+difficulty: 2
+created: '2026-11-23'
+status: active

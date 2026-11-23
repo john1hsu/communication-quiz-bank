@@ -1,0 +1,18 @@
+id: cm-000504
+area: listening
+kind: practice
+topic: Support response
+topic_type: Technique
+true_statement: After a conversation, roughly count your shift and support replies; if shifts dominated, open your next conversation with two support replies in a row.
+false_statement: After a conversation, roughly count your shift and support replies; if shifts dominated, close your next conversation by asking whether the other person felt heard.
+explanation: The habit is fixed at the start of the next exchange, by deliberately making your first replies about their topic. Asking at the end whether they felt heard doesn't change the replies that shifted the focus.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/support-response.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 05439440c8bc05e5a67b7f9f88672d407d45671b
+concepts:
+- cm:support-response
+difficulty: 2
+created: '2026-11-23'
+status: active

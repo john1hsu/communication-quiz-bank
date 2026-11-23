@@ -1,0 +1,20 @@
+id: cm-000454
+area: presenting-and-public-speaking
+kind: figure
+topic: Vocal delivery
+topic_type: Skill
+true_statement: In Rodero's 2022 experiment with 120 viewers, speeches with a medium amount of pitch variation were rated most effective, ahead of those with few or many variations.
+false_statement: In Rodero's 2022 experiment with 120 viewers, speeches with the most pitch variation were rated most effective, ahead of those with a medium amount or few variations.
+explanation: Pitch should move on key words, but the study found a middle level beat both flat and highly varied delivery. It used four actors and 25-second clips, so it may not generalise to long talks.
+as_of: '2022'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/presenting-and-public-speaking/vocal-delivery.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 1cad08e1c033ffa8305d63ede72011ffc2ef9e67
+concepts:
+- cm:vocal-delivery
+- cm:rodero-2022
+difficulty: 3
+created: '2026-11-23'
+status: active

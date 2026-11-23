@@ -1,0 +1,19 @@
+id: cm-000508
+area: meetings-and-facilitation
+kind: evidence
+topic: Devil's advocacy
+topic_type: Technique
+true_statement: In a 2002 experiment with employees and managers, groups that contained genuine dissenters curbed one-sided information search better than groups relying on an assigned devil's advocate.
+false_statement: In a 2002 experiment with employees and managers, groups relying on an assigned devil's advocate curbed one-sided information search better than groups that contained genuine dissenters.
+explanation: Schulz-Hardt and colleagues found sincere disagreement beat role-played challenge, which is why the technique works best on top of real diversity of view. The false version reverses which form of dissent did better.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/devils-advocacy.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: c380b891b2785c5c68a8072e1839b8a364e73362
+concepts:
+- cm:devils-advocacy
+- cm:schulz-hardt-jochims-frey-2002
+difficulty: 3
+created: '2026-11-23'
+status: active

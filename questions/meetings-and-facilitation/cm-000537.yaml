@@ -1,0 +1,19 @@
+id: cm-000537
+area: meetings-and-facilitation
+kind: practice
+topic: Group decision making
+topic_type: Context
+true_statement: Before a team chooses between two rollout plans, go round each function and ask what it knows about the options that the others might not, so gaps in the pooled information become visible.
+false_statement: Before a team chooses between two rollout plans, ask the room once whether anyone has concerns, and treat a quiet room as a sign the relevant information has been shared.
+explanation: Unique information is what predicts good group decisions, and a general call for concerns lets it stay hidden. Asking each person explicitly what they hold that others lack is the step the board-study authors recommend.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/group-decision-making.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 6c412cc6cdf6c068ebd0c49af54b964b18aae7ab
+concepts:
+- cm:group-decision-making
+- cm:hidden-profile
+difficulty: 2
+created: '2026-11-23'
+status: active

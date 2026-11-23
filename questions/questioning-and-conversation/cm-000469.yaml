@@ -1,0 +1,20 @@
+id: cm-000469
+area: questioning-and-conversation
+kind: evidence
+topic: Follow-up questions
+topic_type: Technique
+true_statement: Kluger and Malloy's 2019 reanalysis of the speed-dating data found that, for men, asking more questions tended to predict fewer second-date offers, challenging the field part of Huang's work.
+false_statement: Kluger and Malloy's 2019 reanalysis of the speed-dating data found that, for men, asking more questions tended to predict more second-date offers, confirming the field part of Huang's work.
+explanation: The reanalysis cut against the original field result and argued a second-date offer isn't the same as liking. The original team replied that the benefits held, so the chat-study effect stands better than the field one.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/follow-up-questions.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: e96bb549ecf6ea75c0dfcc30c6ddf9f8f6f7f9dd
+concepts:
+- cm:follow-up-questions
+- cm:kluger-malloy-2019
+- cm:huang-et-al-2017
+difficulty: 3
+created: '2026-11-23'
+status: active

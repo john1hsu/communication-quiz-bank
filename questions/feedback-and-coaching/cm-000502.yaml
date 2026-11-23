@@ -1,0 +1,19 @@
+id: cm-000502
+area: feedback-and-coaching
+kind: evidence
+topic: Radical candor
+topic_type: Framework
+true_statement: Radical candor rests mainly on Kim Scott's managerial experience; a 2016 conceptual paper proposed a training intervention but said there was no empirical evidence for it yet.
+false_statement: Radical candor rests on controlled studies; a 2016 paper tested the framework as a package and confirmed that its four quadrants predict how well feedback lands.
+explanation: 'The framework is practitioner guidance: it hasn''t been tested as a package. Studies on how people overestimate the cost of honesty support its premise only indirectly.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/radical-candor.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 613313474c4a04ee765c54243134560764d5b9ed
+concepts:
+- cm:radical-candor
+- cm:kim-scott
+difficulty: 3
+created: '2026-11-23'
+status: active

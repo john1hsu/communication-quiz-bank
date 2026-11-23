@@ -1,0 +1,19 @@
+id: cm-000489
+area: cross-cultural-communication
+kind: practice
+topic: Intercultural competence
+topic_type: Skill
+true_statement: To gauge how your calls with a partner office are going, ask a colleague from that office how your approach lands, rather than relying on your own sense of how well you adapted.
+false_statement: To gauge how your calls with a partner office are going, rate your own adaptability on a self-assessment questionnaire, rather than asking a colleague from that office how you come across.
+explanation: Self-report shows only half the picture, and tested abilities often diverge from actual behaviour, so Deardorff recommends getting the other side's view of how your conduct landed. A self-rating alone can miss exactly the misreadings that matter.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/intercultural-competence.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 819961240cdf65b0955838c4d4deb7964f3b132a
+concepts:
+- cm:intercultural-competence
+- cm:multicultural-team
+difficulty: 2
+created: '2026-11-23'
+status: active

@@ -1,0 +1,20 @@
+id: cm-000490
+area: cross-cultural-communication
+kind: figure
+topic: Intercultural competence
+topic_type: Skill
+true_statement: A 2001 meta-analysis found cross-cultural training only modestly linked to adjustment (r = 0.12) and somewhat more to performance (r = 0.23).
+false_statement: A 2001 meta-analysis found cross-cultural training only modestly linked to performance (r = 0.12) and somewhat more to adjustment (r = 0.23).
+explanation: The smaller correlation was with adjustment and the larger with performance; both are small, which is why reviewers favour experiential learning with reflection over one-off courses. The false version swaps the two outcomes.
+as_of: '2001'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/intercultural-competence.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 819961240cdf65b0955838c4d4deb7964f3b132a
+concepts:
+- cm:intercultural-competence
+- cm:leung-ang-tan-2014
+difficulty: 3
+created: '2026-11-23'
+status: active

@@ -1,0 +1,20 @@
+id: cm-000514
+area: questioning-and-conversation
+kind: figure
+topic: Job interview
+topic_type: Context
+true_statement: In Sackett, Zhang, Berry and Lievens's 2022 re-analysis, structured interviews had the highest average operational validity of the predictors they examined, about r = .42.
+false_statement: In Sackett, Zhang, Berry and Lievens's 2022 re-analysis, unstructured interviews had the highest average operational validity of the predictors they examined, about r = .42.
+explanation: Structure (same job-based questions, scored against benchmarks) is what made interviews predict job performance best, though results varied widely across studies. Unstructured gut-feel interviews predict less well.
+as_of: '2022'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/job-interview.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: cefcf462dd3473b863af01094dde3830d2ecc3a9
+concepts:
+- cm:job-interview
+- cm:sackett-zhang-berry-lievens-2022
+difficulty: 3
+created: '2026-11-23'
+status: active

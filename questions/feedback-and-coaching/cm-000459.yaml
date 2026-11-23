@@ -1,0 +1,20 @@
+id: cm-000459
+area: feedback-and-coaching
+kind: mechanism
+topic: Praise and recognition
+topic_type: Technique
+true_statement: In Grant and Gino's experiments, being thanked made helpers more likely to help again mainly because it made them feel socially valued, not because it made them feel more competent.
+false_statement: In Grant and Gino's experiments, being thanked made helpers more likely to help again mainly because it made them feel more competent, not because it made them feel socially valued.
+explanation: 'The thanks worked through perceived social worth: helpers learned their help was wanted. That is why recognition still matters for confident high performers, who don''t need a competence boost.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/feedback-and-coaching/praise-and-recognition.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: dc4e2b25f1a1e3c08c2e59f29afbc89a598a1004
+concepts:
+- cm:praise-and-recognition
+- cm:grant-gino-2010
+- cm:perceived-social-worth
+difficulty: 2
+created: '2026-11-23'
+status: active

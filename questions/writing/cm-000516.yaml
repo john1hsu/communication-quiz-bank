@@ -1,0 +1,18 @@
+id: cm-000516
+area: writing
+kind: definition
+topic: Business report
+topic_type: Genre
+true_statement: Meeting minutes and expense reports are informational reports, presenting facts without judgement, while a feasibility study that recommends a course of action is an analytical report.
+false_statement: Meeting minutes and expense reports are analytical reports, presenting facts with an interpretation, while a feasibility study that recommends a course of action is an informational report.
+explanation: Informational reports record events, activities or conditions without judgement; analytical reports add analysis to solve a problem or recommend something. The false version swaps the two families.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/business-report.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: c96adf8383cda50c41bddb4affb5c4faebae1c7b
+concepts:
+- cm:business-report
+difficulty: 1
+created: '2026-11-23'
+status: active

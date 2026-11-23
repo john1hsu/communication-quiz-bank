@@ -1,0 +1,18 @@
+id: cm-000491
+area: persuasion-and-influence
+kind: scenario
+topic: Impression management
+topic_type: Theory
+true_statement: Each week an analyst mentions in stand-up that she worked late or over the weekend to finish her part. In Jones and Pittman's taxonomy she is using exemplification, aiming to look dedicated.
+false_statement: Each week an analyst mentions in stand-up that she worked late or over the weekend to finish her part. In Jones and Pittman's taxonomy she is using ingratiation, aiming to look likeable.
+explanation: Advertising extra effort targets an image of dedication, which is exemplification. Ingratiation seeks to be liked, through favours or flattery; the article also notes exemplification is linked to perceptions of office politics.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/impression-management.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: be9d13b3d896989b16ebf672438cc62bfe0db674
+concepts:
+- cm:impression-management
+difficulty: 2
+created: '2026-11-23'
+status: active

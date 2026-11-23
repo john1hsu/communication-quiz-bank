@@ -1,0 +1,19 @@
+id: cm-000495
+area: difficult-conversations-and-conflict
+kind: practice
+topic: Cooling-off period
+topic_type: Technique
+true_statement: When an angry message needs an answer, send a short holding line with a reply-by time, such as "I'll come back to you by 3 pm," so the delay doesn't read as silence or avoidance.
+false_statement: When an angry message needs an answer, stay silent until you have fully calmed down, since any reply sent while upset, even a holding line, risks committing you to something.
+explanation: A holding line meets the need to respond without committing to a hot-state reply, and the time tells the other person when to expect the real answer. Unexplained silence can look like avoidance.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/cooling-off-period.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 340b2c13776e7939e4d9f2acf9a845e4904ce8a0
+concepts:
+- cm:cooling-off-period
+- cm:email
+difficulty: 1
+created: '2026-11-23'
+status: active

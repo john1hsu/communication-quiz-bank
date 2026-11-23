@@ -1,0 +1,18 @@
+id: cm-000545
+area: difficult-conversations-and-conflict
+kind: scenario
+topic: Nonviolent Communication
+topic_type: Framework
+true_statement: A manager asks a report, "Would you be willing to send the weekly numbers by Thursday noon?" When she mentions a clash, he says a slip will show up in her review. In NVC terms, he made a demand.
+false_statement: A manager asks a report, "Would you be willing to send the weekly numbers by Thursday noon?" When she mentions a clash, he says a slip will show up in her review. In NVC terms, he made a request.
+explanation: 'NVC''s test is what happens after a "no": if declining is punished, it was a demand, however politely it was phrased. A real request stays open to her answer and explores other ways to meet the need.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/nonviolent-communication.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 6238a5a366a8c30c0e97d27b918ab2549b7f680e
+concepts:
+- cm:nonviolent-communication
+difficulty: 2
+created: '2026-11-23'
+status: active

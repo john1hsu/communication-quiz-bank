@@ -1,0 +1,21 @@
+id: cm-000463
+area: foundations
+kind: origin
+topic: Shannon-Weaver model
+topic_type: Theory
+true_statement: Shannon's 1948 paper treated the meaning of messages as irrelevant to its engineering problem, so the model's use for human understanding rests on Warren Weaver's 1949 extension.
+false_statement: Weaver's 1949 article treated the meaning of messages as irrelevant to its engineering problem, so the model's use for human understanding rests on Claude Shannon's 1948 extension.
+explanation: Shannon wrote the 1948 engineering paper and set meaning aside; Weaver's 1949 Scientific American piece added the semantic and effectiveness levels. The false version swaps the two men and their dates.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/shannon-weaver-model.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: df4072f437282845b54ca91d9e3f6a6fc747b59b
+concepts:
+- cm:shannon-weaver-model
+- cm:claude-shannon
+- cm:warren-weaver
+- cm:a-mathematical-theory-of-communication
+difficulty: 2
+created: '2026-11-23'
+status: active

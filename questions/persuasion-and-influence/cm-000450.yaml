@@ -1,0 +1,20 @@
+id: cm-000450
+area: persuasion-and-influence
+kind: practice
+topic: Charismatic leadership tactics
+topic_type: Technique
+true_statement: To get better at charismatic leadership tactics, rehearse on video with feedback and keep practising over several weeks, rather than reading up on the list the night before your talk.
+false_statement: To get better at charismatic leadership tactics, read up on the list the night before your talk, rather than spending several weeks rehearsing on video with feedback.
+explanation: The trained gains came from hours of filmed practice and coaching spread over weeks, and the nonverbal tactics in particular were learned by rehearsal, not reading. One-off cramming is a listed mistake.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/charismatic-leadership-tactics.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: e5de22e9492438ff7228c90d53c1160d77956084
+concepts:
+- cm:charismatic-leadership-tactics
+- cm:self-recording-playback
+- cm:presentation-rehearsal
+difficulty: 1
+created: '2026-11-23'
+status: active

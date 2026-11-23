@@ -1,0 +1,20 @@
+id: cm-000536
+area: meetings-and-facilitation
+kind: scenario
+topic: Group decision making
+topic_type: Context
+true_statement: 'Choosing between two vendors, a team spends forty minutes on the pricing everyone saw in the deck, and the security engineer''s knowledge of a failed audit never comes up. That is the hidden-profile problem: discussion favours shared information over what one person holds.'
+false_statement: 'Choosing between two vendors, a team spends forty minutes on the pricing everyone saw in the deck, and the security engineer''s knowledge of a failed audit never comes up. That is production blocking: only one person can talk at a time.'
+explanation: The tell is that the time went to facts all members already knew while one member's unique fact stayed hidden, which is the bias hidden-profile research documents. Production blocking describes ideas lost while people wait their turn in brainstorming, not a pull toward shared facts.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/meetings-and-facilitation/group-decision-making.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 6c412cc6cdf6c068ebd0c49af54b964b18aae7ab
+concepts:
+- cm:group-decision-making
+- cm:hidden-profile
+- cm:brainstorming
+difficulty: 2
+created: '2026-11-23'
+status: active

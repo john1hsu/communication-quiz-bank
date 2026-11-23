@@ -1,0 +1,20 @@
+id: cm-000520
+area: foundations
+kind: figure
+topic: Communication competence
+topic_type: Skill
+true_statement: In a 2008 survey of 220 US employees, their rating of the supervisor's communicator competence explained about 68% of the variance in their communication satisfaction.
+false_statement: In a 2008 survey of 220 US employees, their rating of the supervisor's communicator competence explained about 18% of the variance in their communication satisfaction.
+explanation: Madlock found supervisor competence accounted for roughly 68% of communication satisfaction and about 18% of job satisfaction; the false version borrows the job-satisfaction figure. The study is cross-sectional, so it shows association, not cause.
+as_of: '2008'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/communication-competence.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: f6feea74292a703bfd095cc3fac102f4af285e02
+concepts:
+- cm:communication-competence
+- cm:madlock-2008
+difficulty: 3
+created: '2026-11-23'
+status: active

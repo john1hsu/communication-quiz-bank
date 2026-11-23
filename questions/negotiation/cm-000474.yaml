@@ -1,0 +1,19 @@
+id: cm-000474
+area: negotiation
+kind: practice
+topic: Mythical fixed-pie bias
+topic_type: Barrier
+true_statement: Before renegotiating a support contract, picture having to explain to your manager how you reached the deal, not just what you won; accountability for the process weakened fixed-pie thinking in experiments.
+false_statement: Before renegotiating a support contract, picture having to report to your manager only the final price you won; accountability for the bottom line weakened fixed-pie thinking in experiments.
+explanation: De Dreu and colleagues found that being accountable for how you negotiated raised the motive to be accurate and led to more integrative deals. Focusing only on the number you extract keeps the deal framed as one pie to split.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/negotiation/mythical-fixed-pie.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 0fc6ab658deae27600b2f3403f999383434a5ebd
+concepts:
+- cm:mythical-fixed-pie
+- cm:motivated-information-processing
+difficulty: 2
+created: '2026-11-23'
+status: active

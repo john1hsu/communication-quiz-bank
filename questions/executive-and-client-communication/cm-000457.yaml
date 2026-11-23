@@ -1,0 +1,20 @@
+id: cm-000457
+area: executive-and-client-communication
+kind: evidence
+topic: Escalating a problem
+topic_type: Technique
+true_statement: In Park, Im and Keil's 2008 lab experiment, time urgency indirectly raised people's willingness to report project bad news, so stressing how narrow the window to fix a problem is can prompt earlier escalation.
+false_statement: In Park, Im and Keil's 2008 lab experiment, time urgency indirectly lowered people's willingness to report project bad news, so stressing how narrow the window to fix a problem tends to delay escalation.
+explanation: The study found urgency pushed reporting up, not down, which is why managers are advised to stress the shrinking window to fix a problem. It is one lab experiment on the mum effect; the escalation practices themselves remain untested practitioner advice.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/escalation-communication.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 40dd73d2f8c471bfd6c3e58b26afd27939edb4f1
+concepts:
+- cm:escalation-communication
+- cm:park-im-keil-2008
+- cm:mum-effect
+difficulty: 3
+created: '2026-11-23'
+status: active

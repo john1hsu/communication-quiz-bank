@@ -1,0 +1,19 @@
+id: cm-000533
+area: thinkers-and-works
+kind: figure
+topic: The Effects of Feedback Interventions on Performance
+topic_type: Study
+true_statement: Pooling 607 effect sizes, Kluger and DeNisi's 1996 meta-analysis put the average effect of feedback interventions on performance at d = 0.41, a moderate gain.
+false_statement: Pooling 607 effect sizes, Kluger and DeNisi's 1996 meta-analysis put the average effect of feedback interventions on performance at d = 0.91, a very large gain.
+explanation: The average was moderate, d = 0.41, and hid wide spread, with many interventions hurting performance. A very large average would not fit the study's message that feedback often backfires.
+as_of: '1996'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/kluger-denisi-1996.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: e4ee6b04894151cbfb34b9514a698d67f7f01a08
+concepts:
+- cm:kluger-denisi-1996
+difficulty: 3
+created: '2026-11-23'
+status: active

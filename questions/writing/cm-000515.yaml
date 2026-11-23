@@ -1,0 +1,18 @@
+id: cm-000515
+area: writing
+kind: practice
+topic: Business report
+topic_type: Genre
+true_statement: If a leadership team is likely to resist your report's recommendation to close a site, lead with the background and evidence and reach the recommendation at the end.
+false_statement: If a leadership team is likely to resist your report's recommendation to close a site, open with the recommendation in the first lines and let the evidence follow it.
+explanation: 'Textbook guidance ties placement to the reader''s likely reaction: recommendation first for neutral or positive readers, evidence first for resistant ones so the case is built before the conclusion lands. Opening cold with an unwelcome recommendation invites rejection before the reasons are heard.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/business-report.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: c96adf8383cda50c41bddb4affb5c4faebae1c7b
+concepts:
+- cm:business-report
+difficulty: 2
+created: '2026-11-23'
+status: active

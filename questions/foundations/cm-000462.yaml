@@ -1,0 +1,18 @@
+id: cm-000462
+area: foundations
+kind: practice
+topic: Shannon-Weaver model
+topic_type: Theory
+true_statement: When a cutover email turns on one date, state that date in both the subject line and the body, adding deliberate redundancy so a skimmed or garbled detail can still be caught.
+false_statement: When a cutover email turns on one date, state that date only once, in the body, because repeating it counts as noise that makes the signal harder to decode.
+explanation: 'In the model, redundancy is the main safeguard against distortion: repeating a key figure, date or owner, or showing it in a second form, lets readers correct an error. Repetition is not noise; noise is what corrupts the signal.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/shannon-weaver-model.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: df4072f437282845b54ca91d9e3f6a6fc747b59b
+concepts:
+- cm:shannon-weaver-model
+difficulty: 1
+created: '2026-11-23'
+status: active

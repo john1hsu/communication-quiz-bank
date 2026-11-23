@@ -1,0 +1,19 @@
+id: cm-000524
+area: digital-and-async-communication
+kind: scenario
+topic: Digital communication
+topic_type: Field
+true_statement: Annoyed by a missed hand-off, an engineer fires off a chat message to a colleague far blunter than anything he would say to her face. That is the uninhibited messaging that reduced social cues make easier, and a reason to reread before sending.
+false_statement: Annoyed by a missed hand-off, an engineer fires off a chat message to a colleague far blunter than anything he would say to her face. That is the status equalisation that reduced social cues make easier, and a reason to reread before sending.
+explanation: 'The tell is bluntness he would not use in person: with fewer cues about the person and setting, text gets less inhibited. Status equalisation is a different reduced-cues effect, about rank mattering less in who speaks up, and has nothing to do with tone.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/digital-communication.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 002dc352fe9e680f723d8651813a4c814506502a
+concepts:
+- cm:digital-communication
+- cm:sproull-kiesler-1986
+difficulty: 2
+created: '2026-11-23'
+status: active

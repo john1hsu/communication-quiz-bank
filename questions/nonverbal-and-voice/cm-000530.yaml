@@ -1,0 +1,19 @@
+id: cm-000530
+area: nonverbal-and-voice
+kind: scenario
+topic: Facial expressions
+topic_type: Phenomenon
+true_statement: An HR lead proposes buying software that scores job candidates' emotions from their faces on recorded video interviews. That is the kind of high-stakes judgement the 2019 Barrett review warned against basing on facial analysis.
+false_statement: An HR lead proposes buying software that scores job candidates' emotions from their faces on recorded video interviews. That is the kind of high-stakes judgement the 2019 Barrett review said facial analysis can now support.
+explanation: The review found that a given expression maps to a given feeling too loosely and inconsistently to infer emotion from the face alone, and named hiring among the uses to avoid. Faces are cues to check, not verdicts to score.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/facial-expressions.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 48cde41c4392e8116635993447fe1c410a8a7695
+concepts:
+- cm:facial-expressions
+- cm:barrett-et-al-2019
+difficulty: 3
+created: '2026-11-23'
+status: active

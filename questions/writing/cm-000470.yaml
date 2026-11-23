@@ -1,0 +1,18 @@
+id: cm-000470
+area: writing
+kind: practice
+topic: Burying the lede
+topic_type: AntiPattern
+true_statement: To check a draft for a buried lede, ask a colleague who doesn't know the project to read only the first lines and tell you the point, since unfamiliar readers most need it stated.
+false_statement: To check a draft for a buried lede, ask a teammate who knows the project well to read only the first lines and tell you the point, since informed readers spot a missing point fastest.
+explanation: Readers who know the topic infer the main idea anyway, so a teammate will 'find' a point that a newcomer would miss. Testing cold with an unfamiliar reader exposes whether the opening actually states it.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/burying-the-lede.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 7d5cab02005bbcc5b9f8d863263e196ed09bbf4e
+concepts:
+- cm:burying-the-lede
+difficulty: 2
+created: '2026-11-23'
+status: active

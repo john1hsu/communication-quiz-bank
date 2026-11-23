@@ -1,0 +1,20 @@
+id: cm-000532
+area: nonverbal-and-voice
+kind: figure
+topic: Facial expressions
+topic_type: Phenomenon
+true_statement: In Cowen, Keltner and colleagues' 2021 study of about 6 million videos, 16 kinds of facial expression were tied to similar social contexts, with about 70% of those links preserved across 12 world regions.
+false_statement: In Cowen, Keltner and colleagues' 2021 study of about 6 million videos, 16 kinds of facial expression were tied to different social contexts, with only about 20% of those links preserved across 12 world regions.
+explanation: The study supports some cross-cultural regularity in when expressions occur, though how often each appeared varied by region. That partial support is why the article lands on contested rather than debunked or settled.
+as_of: '2021'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/facial-expressions.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 48cde41c4392e8116635993447fe1c410a8a7695
+concepts:
+- cm:facial-expressions
+- cm:cowen-et-al-2021
+difficulty: 3
+created: '2026-11-23'
+status: active

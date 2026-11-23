@@ -1,0 +1,19 @@
+id: cm-000487
+area: thinkers-and-works
+kind: mechanism
+topic: 'The illusion of transparency: Biased assessments of others'' ability to read one''s emotional states'
+topic_type: Study
+true_statement: Gilovich and colleagues proposed that when each bystander thinks their own alarm shows but sees everyone else looking calm, each concludes the others are unworried, so nobody steps in.
+false_statement: Gilovich and colleagues proposed that when each bystander thinks their own alarm is hidden but sees everyone else looking worried, each assumes someone else will act, so nobody steps in.
+explanation: In the cheating study people felt more concerned than they looked yet believed their concern was visible. Reading others' calm faces as calm minds is the proposed route to silence; the false version reverses what each person believes about their own visibility.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/gilovich-savitsky-medvec-1998.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 5b47511902e4eab616ef54ba9bd8cf5badd6d763
+concepts:
+- cm:gilovich-savitsky-medvec-1998
+- cm:illusion-of-transparency
+difficulty: 2
+created: '2026-11-23'
+status: active

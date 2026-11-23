@@ -1,0 +1,20 @@
+id: cm-000485
+area: thinkers-and-works
+kind: figure
+topic: 'The illusion of transparency: Biased assessments of others'' ability to read one''s emotional states'
+topic_type: Study
+true_statement: In Gilovich, Savitsky and Medvec's 1998 lying game, liars predicted about 49% of their group would catch them, but only about 26% did, roughly chance.
+false_statement: In Gilovich, Savitsky and Medvec's 1998 lying game, liars predicted about 26% of their group would catch them, but about 49% did, well above chance.
+explanation: Liars roughly doubled the share of the group they expected to see through them; actual detection sat near chance. The swapped version reverses the bias the study was named for.
+as_of: '1998'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/gilovich-savitsky-medvec-1998.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 5b47511902e4eab616ef54ba9bd8cf5badd6d763
+concepts:
+- cm:gilovich-savitsky-medvec-1998
+- cm:illusion-of-transparency
+difficulty: 3
+created: '2026-11-23'
+status: active

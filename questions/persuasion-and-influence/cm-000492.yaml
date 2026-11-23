@@ -1,0 +1,19 @@
+id: cm-000492
+area: persuasion-and-influence
+kind: practice
+topic: Impression management
+topic_type: Theory
+true_statement: Introducing yourself at a team kickoff, offer a checkable result and a real, workable weakness, rather than a joke like "I'm probably too obsessive about detail."
+false_statement: Introducing yourself at a team kickoff, open with a joke like "I'm probably too obsessive about detail," rather than offering a checkable result and a real, workable weakness.
+explanation: The joke is a humblebrag, which people judge as insincere and like less than plain bragging or honest admissions. A concrete result lets listeners judge competence themselves, and a real weakness reads as candid.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/persuasion-and-influence/impression-management.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: be9d13b3d896989b16ebf672438cc62bfe0db674
+concepts:
+- cm:impression-management
+- cm:sezer-gino-norton-2018
+difficulty: 2
+created: '2026-11-23'
+status: active

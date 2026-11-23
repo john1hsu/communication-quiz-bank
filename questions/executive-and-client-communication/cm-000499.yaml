@@ -1,0 +1,19 @@
+id: cm-000499
+area: executive-and-client-communication
+kind: origin
+topic: Executive summary
+topic_type: Genre
+true_statement: The Canadian Health Services Research Foundation's 1:3:25 rule asks for one page of main messages, a three-page executive summary and no more than 25 pages of findings.
+false_statement: The Canadian Health Services Research Foundation's 1:3:25 rule asks for a one-page executive summary, three pages of main messages and no more than 25 pages of findings.
+explanation: In 1:3:25 the single page holds the key messages and the executive summary is the three-page middle layer, both sitting above a findings section capped at 25 pages. The false version swaps the two top layers.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/executive-summary.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 82a2753ade9b1509bba7fd5bfcdff6c738ac7950
+concepts:
+- cm:executive-summary
+- cm:business-report
+difficulty: 2
+created: '2026-11-23'
+status: active

@@ -1,0 +1,18 @@
+id: cm-000513
+area: questioning-and-conversation
+kind: practice
+topic: Job interview
+topic_type: Context
+true_statement: 'Asked how you handle conflicting priorities in an interview, describe one real case: the situation, what you yourself did, and the result, then stop and let the interviewer probe.'
+false_statement: Asked how you handle conflicting priorities in an interview, describe yourself as organised and calm under pressure, then offer a real case only if the interviewer probes.
+explanation: A concrete story with your own actions and the outcome gives the interviewer scorable evidence. A self-description like "I'm very organised" gives them nothing to rate against the benchmark.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/job-interview.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: cefcf462dd3473b863af01094dde3830d2ecc3a9
+concepts:
+- cm:job-interview
+difficulty: 1
+created: '2026-11-23'
+status: active

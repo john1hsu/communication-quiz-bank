@@ -1,0 +1,19 @@
+id: cm-000486
+area: thinkers-and-works
+kind: evidence
+topic: 'The illusion of transparency: Biased assessments of others'' ability to read one''s emotional states'
+topic_type: Study
+true_statement: In the 1998 lying studies, silent observers who knew the same facts as each liar predicted far lower detection than the liars did, so the bias seems to come from experiencing the lie yourself.
+false_statement: In the 1998 lying studies, silent observers who knew the same facts as each liar predicted detection as high as the liars did, so the bias seems to come from a general belief that lies are easy to spot.
+explanation: The yoked observers guessed around a quarter would catch the lie, versus about 44% for the liars. Living the inner state, not general beliefs about lying, inflated the estimate.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/thinkers-and-works/gilovich-savitsky-medvec-1998.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 5b47511902e4eab616ef54ba9bd8cf5badd6d763
+concepts:
+- cm:gilovich-savitsky-medvec-1998
+- cm:illusion-of-transparency
+difficulty: 3
+created: '2026-11-23'
+status: active

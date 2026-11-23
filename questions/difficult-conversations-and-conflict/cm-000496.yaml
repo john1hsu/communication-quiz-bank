@@ -1,0 +1,19 @@
+id: cm-000496
+area: difficult-conversations-and-conflict
+kind: evidence
+topic: Cooling-off period
+topic_type: Technique
+true_statement: In Oechssler, Roider and Schmitz's large online study, a 24-hour cooling-off period barely changed how often people rejected unfair offers when stakes were low, and helped only when stakes felt high.
+false_statement: In Oechssler, Roider and Schmitz's large online study, a 24-hour cooling-off period sharply cut rejections of unfair offers when stakes were low, and mattered less when stakes felt high.
+explanation: 'This study challenges how general the cooling-off benefit is: with ordinary cash stakes the delay made little difference. A pause is useful, but not a cure-all.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/difficult-conversations-and-conflict/cooling-off-period.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 340b2c13776e7939e4d9f2acf9a845e4904ce8a0
+concepts:
+- cm:cooling-off-period
+- cm:oechssler-roider-schmitz-2008
+difficulty: 3
+created: '2026-11-23'
+status: active

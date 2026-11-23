@@ -1,0 +1,19 @@
+id: cm-000542
+area: cross-cultural-communication
+kind: scenario
+topic: Politeness theory
+topic_type: Theory
+true_statement: Needing a vice president's sign-off on the mockups, a designer posts in a shared channel, "Still no sign-off on the mockups," and hopes he takes the hint. She has gone off record, a strategy a senior reader can simply miss.
+false_statement: Needing a vice president's sign-off on the mockups, a designer posts in a shared channel, "Still no sign-off on the mockups," and hopes he takes the hint. She has used negative politeness, hedging her request to respect his autonomy.
+explanation: A hint that never states the ask is the off-record strategy; negative politeness still makes the request, softened with hedges, questions or apologies ("Would you be able to sign off by Friday?"). With higher-status readers, make the actual ask recoverable.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/cross-cultural-communication/politeness-theory.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: fefd954afcc50e546f63f3572a8c7e6803f00b8d
+concepts:
+- cm:politeness-theory
+- cm:managing-up
+difficulty: 2
+created: '2026-11-23'
+status: active

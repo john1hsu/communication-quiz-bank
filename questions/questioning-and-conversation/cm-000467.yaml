@@ -1,0 +1,19 @@
+id: cm-000467
+area: questioning-and-conversation
+kind: scenario
+topic: Follow-up questions
+topic_type: Technique
+true_statement: Opening a client call, the client asks a consultant, "How's your quarter been?" She answers briefly, then replies, "And how's yours been?" In Huang and colleagues' terms, that is a mirror question.
+false_statement: Opening a client call, the client asks a consultant, "How's your quarter been?" She answers briefly, then replies, "And how's yours been?" In Huang and colleagues' terms, that is a follow-up question.
+explanation: A mirror question bounces back the question just asked. A follow-up would build on something the client actually said, such as asking about a detail of their answer, which is the kind most tied to liking.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/follow-up-questions.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: e96bb549ecf6ea75c0dfcc30c6ddf9f8f6f7f9dd
+concepts:
+- cm:follow-up-questions
+- cm:huang-et-al-2017
+difficulty: 2
+created: '2026-11-23'
+status: active

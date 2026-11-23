@@ -1,0 +1,18 @@
+id: cm-000512
+area: questioning-and-conversation
+kind: scenario
+topic: Job interview
+topic_type: Context
+true_statement: An interviewer asks a candidate, "A key client threatens to leave over a missed deadline. What do you do in the first 24 hours?" That is a situational question.
+false_statement: An interviewer asks a candidate, "A key client threatens to leave over a missed deadline. What do you do in the first 24 hours?" That is a behavioural question.
+explanation: A situational question poses a job-like scenario to respond to; a behavioural one asks about a real past event, as in "Tell me about a time a client threatened to leave." Both work in structured interviews.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/questioning-and-conversation/job-interview.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: cefcf462dd3473b863af01094dde3830d2ecc3a9
+concepts:
+- cm:job-interview
+difficulty: 2
+created: '2026-11-23'
+status: active

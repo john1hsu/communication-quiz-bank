@@ -1,0 +1,18 @@
+id: cm-000539
+area: writing
+kind: scenario
+topic: Informative headings
+topic_type: Technique
+true_statement: 'A product manager''s eight-page vendor review goes to a director who will skim it, with headings "Overview", "Findings", "Discussion" and "Next steps". These are label headings: each could sit on any document, so the director must open every section to learn its point.'
+false_statement: 'A product manager''s eight-page vendor review goes to a director who will skim it, with headings "Overview", "Findings", "Discussion" and "Next steps". These are informative headings: each tells the director what kind of content sits below it.'
+explanation: Saying what kind of content a section holds is exactly what a label does. An informative heading states the section's point, such as the finding or the decision needed, so the headings alone tell the story.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/writing/informative-headings.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 56b23cfc82f88ab97a1f5013a986fa67c093ade9
+concepts:
+- cm:informative-headings
+difficulty: 1
+created: '2026-11-23'
+status: active

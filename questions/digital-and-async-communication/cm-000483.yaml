@@ -1,0 +1,18 @@
+id: cm-000483
+area: digital-and-async-communication
+kind: practice
+topic: Chat etiquette
+topic_type: Technique
+true_statement: When a chat thread about a release date has gone several rounds without agreement, move to a short call, then post the outcome back in the same thread.
+false_statement: When a chat thread about a release date has gone several rounds without agreement, add an @channel alert so the whole team weighs in, then post the outcome back in the same thread.
+explanation: Chat etiquette treats a few unresolved back-and-forths, or a topic turning sensitive, as the cue to talk live. Channel-wide alerts are for urgent items the team has agreed qualify, and widening an argument adds noise rather than agreement.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/chat-etiquette.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 1b033a849879d8eedf7f47a2b5cd648c7f11831d
+concepts:
+- cm:chat-etiquette
+difficulty: 2
+created: '2026-11-23'
+status: active

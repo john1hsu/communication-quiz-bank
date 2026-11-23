@@ -1,0 +1,18 @@
+id: cm-000484
+area: digital-and-async-communication
+kind: mechanism
+topic: Chat etiquette
+topic_type: Technique
+true_statement: In Gloria Mark's lab experiment, people interrupted every few minutes while answering email finished faster but reported more stress and effort, because they compensated by working harder.
+false_statement: In Gloria Mark's lab experiment, people interrupted every few minutes while answering email finished more slowly and reported more stress, because each interruption made them start the task over.
+explanation: Interrupted participants sped up, not down; the cost showed up as stress, frustration, time pressure and effort. That hidden cost is why chat etiquette tries to cut needless alerts. The study had 48 mostly student participants, so it is indirect support.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/digital-and-async-communication/chat-etiquette.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 1b033a849879d8eedf7f47a2b5cd648c7f11831d
+concepts:
+- cm:chat-etiquette
+difficulty: 3
+created: '2026-11-23'
+status: active

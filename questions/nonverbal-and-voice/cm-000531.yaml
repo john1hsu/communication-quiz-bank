@@ -1,0 +1,19 @@
+id: cm-000531
+area: nonverbal-and-voice
+kind: practice
+topic: Facial expressions
+topic_type: Phenomenon
+true_statement: On a video call, make your nods, smiles and raised eyebrows a little larger than you would in person, so colleagues can see on a small tile that you are following.
+false_statement: On a video call, make your nods, smiles and raised eyebrows a little smaller than you would in person, since the camera exaggerates every reaction on a small tile.
+explanation: A resting face on a small video tile is easily read as disengaged, so deliberate, slightly enlarged reactions help others see you are listening. Shrinking them makes the misreading more likely, not less.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/facial-expressions.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 48cde41c4392e8116635993447fe1c410a8a7695
+concepts:
+- cm:facial-expressions
+- cm:video-call-communication
+difficulty: 1
+created: '2026-11-23'
+status: active

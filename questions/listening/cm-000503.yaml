@@ -1,0 +1,19 @@
+id: cm-000503
+area: listening
+kind: scenario
+topic: Support response
+topic_type: Technique
+true_statement: A designer says the client rejected her mock-ups twice this week, and her lead replies, "Twice? Last year a client rejected mine six times." That is a shift response.
+false_statement: A designer says the client rejected her mock-ups twice this week, and her lead replies, "Twice? Last year a client rejected mine six times." That is a support response.
+explanation: The reply turns her news into an opening for his own story, moving attention to him. A support response would keep the topic hers, for example "Twice - what did they push back on?"
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/support-response.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 05439440c8bc05e5a67b7f9f88672d407d45671b
+concepts:
+- cm:support-response
+- cm:conversational-narcissism
+difficulty: 1
+created: '2026-11-23'
+status: active

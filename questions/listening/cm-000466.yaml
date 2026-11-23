@@ -1,0 +1,19 @@
+id: cm-000466
+area: listening
+kind: practice
+topic: Conversational narcissism
+topic_type: AntiPattern
+true_statement: If you notice you asked a colleague a question only to give your own answer, next time just share your news directly, since people prefer plain self-disclosure to a question used as a launch pad.
+false_statement: If you notice you asked a colleague a question only to give your own answer, next time ask two warm-up questions before sharing, so your news feels less self-focused.
+explanation: 'The fix for boomerasking is to drop the pretext: say what you want to share plainly, or ask questions you can''t answer yourself and listen to the reply. More warm-up questions only extend the disguise.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/listening/conversational-narcissism.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 5c143fb7ae786a965003c7bd5ac61a9658f969d3
+concepts:
+- cm:conversational-narcissism
+- cm:boomerasking
+difficulty: 2
+created: '2026-11-23'
+status: active

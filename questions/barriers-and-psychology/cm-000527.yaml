@@ -1,0 +1,19 @@
+id: cm-000527
+area: barriers-and-psychology
+kind: scenario
+topic: Communication apprehension
+topic_type: Barrier
+true_statement: A developer leaves sharp comments in design docs and talks freely in one-on-ones, but says nothing in the 12-person planning meeting, especially when directors attend. That pattern points to communication apprehension about group settings.
+false_statement: A developer leaves sharp comments in design docs and talks freely in one-on-ones, but says nothing in the 12-person planning meeting, especially when directors attend. That pattern points to him having little to contribute on planning.
+explanation: 'The tell is a split across settings: strong input in writing and one-to-one, silence where the audience is larger and higher status, both of which raise apprehension. His written comments show he has plenty to add.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/barriers-and-psychology/communication-apprehension.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 05d6334304022d2fa006177e293c7388fc877522
+concepts:
+- cm:communication-apprehension
+- cm:workplace-meetings
+difficulty: 2
+created: '2026-11-23'
+status: active

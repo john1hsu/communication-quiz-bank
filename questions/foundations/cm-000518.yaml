@@ -1,0 +1,19 @@
+id: cm-000518
+area: foundations
+kind: scenario
+topic: Communication competence
+topic_type: Skill
+true_statement: A project manager ends her request to another team with "No rush at all, whenever you get a chance, only if it's no trouble," and the fix she needs never arrives. In Spitzberg's grid of outcomes, that is sufficing.
+false_statement: A project manager ends her request to another team with "No rush at all, whenever you get a chance, only if it's no trouble," and the fix she needs never arrives. In Spitzberg's grid of outcomes, that is maximizing.
+explanation: 'Sufficing is polite and appropriate but not effective: nobody was offended, and nothing happened. Maximizing is the opposite corner, where you get your way but break norms or bruise the relationship.'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/foundations/communication-competence.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: f6feea74292a703bfd095cc3fac102f4af285e02
+concepts:
+- cm:communication-competence
+- cm:brian-spitzberg
+difficulty: 2
+created: '2026-11-23'
+status: active

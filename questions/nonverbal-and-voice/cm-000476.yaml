@@ -1,0 +1,19 @@
+id: cm-000476
+area: nonverbal-and-voice
+kind: scenario
+topic: Thought groups
+topic_type: Technique
+true_statement: Rehearsing a roadmap update, a manager says, "We'll launch in the [pause] third quarter, once legal [pause] signs off." Her pauses fall inside phrases, splitting words listeners need to hear as one unit.
+false_statement: Rehearsing a roadmap update, a manager says, "We'll launch in the [pause] third quarter, once legal [pause] signs off." Her pauses fall at the ends of thought groups, showing listeners which words belong together.
+explanation: '"In the third quarter" and "legal signs off" are each one chunk, so a silence in the middle breaks the unit. Thought-group pauses go after the chunk: "We''ll launch in the third quarter / once legal signs off."'
+source:
+  repo: john1hsu/communication-graph
+  path: articles/nonverbal-and-voice/thought-groups.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: d64d7bc3582b3d021c190a09e381f8f26bfb91d5
+concepts:
+- cm:thought-groups
+- cm:silence-and-pauses
+difficulty: 2
+created: '2026-11-23'
+status: active

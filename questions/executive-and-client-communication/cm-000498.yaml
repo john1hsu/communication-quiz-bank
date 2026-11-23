@@ -1,0 +1,18 @@
+id: cm-000498
+area: executive-and-client-communication
+kind: practice
+topic: Executive summary
+topic_type: Genre
+true_statement: Draft the executive summary after the full report is finished, then try it on someone from the target audience to see what they find useful.
+false_statement: Draft the executive summary before writing the full report, so it can steer the analysis, then try it on someone from the target audience to see what they find useful.
+explanation: Until the analysis is done you can't name the findings or the recommendation the summary must lead with, so guides tell you to write it last. Testing it on a real reader then shows whether it stands alone.
+source:
+  repo: john1hsu/communication-graph
+  path: articles/executive-and-client-communication/executive-summary.md
+  commit: e1f7015a94276606905e699b3bb3d28be33f4b0b
+  blob: 82a2753ade9b1509bba7fd5bfcdff6c738ac7950
+concepts:
+- cm:executive-summary
+difficulty: 1
+created: '2026-11-23'
+status: active
